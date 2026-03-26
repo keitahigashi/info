@@ -107,6 +107,11 @@ claude
 | reference_claude_code_mcp_guide.md | Claude Code × MCP実践活用 | AQUA |
 | reference_anthropic_marketing_claude_code.md | Anthropic社内マーケティング運用事例 | izanami |
 | reference_claude_code_2_1_81.md | Claude Code v2.1.81アップデート | ClaudeNote |
+| reference_claude_code_9_features.md | Claude Code 9つの新機能（v2.1.49〜v2.1.75） | note |
+| reference_claude_code_updates_2026.md | Claude Code 2026年アップデート総まとめ | AI総合研究所 |
+| reference_claude_computer_use.md | Claude Computer Use（PC操作）新機能 | Impress Watch |
+| reference_claude_interactive_diagrams.md | インタラクティブチャート・ダイアグラム機能 | 窓の杜 |
+| reference_claude_desktop_filesystem_mcp.md | Claude Desktop filesystem MCP設定 | DevelopersIO |
 
 ## 参照記事一覧
 
