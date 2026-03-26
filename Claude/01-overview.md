@@ -64,4 +64,10 @@ Claude Code
 
 ## 実践メモ
 
+### Computer Use・Dispatch（自動収集 2026-03-26）
+
+ClaudeがPC操作（アプリ起動・ブラウザ操作・スプレッドシート入力）を行う新機能。Mac版から研究プレビュー提供（Pro/Maxプラン）。スマート接続でSlack・Gmail・Googleカレンダー等のコネクターを優先使用し、必要に応じて画面を直接操作する。Dispatch機能でスマホからPC操作を指示可能。対応アプリはClaude CodeとClaude Cowork。
+
+> 詳細: メモリ内 `reference_claude_computer_use.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->

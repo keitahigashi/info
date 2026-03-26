@@ -252,4 +252,10 @@ cd agency-agents
 - 出典: [Claude Code 知らないと損するコマンド・時短術 20選](https://qiita.com/miruky/items/48ede59ebe33b4b774ac) (@miruky, 2026-03-16)
 - 出典: [ClaudeCodeの中級者になりたい人は集合してください](https://qiita.com/K5K/items/72cc4282819ace823524) (@K5K, 2026-03-13)
 - 出典: [agency-agentsでClaude Codeに144種類のエージェントチーム作成](https://qiita.com/nogataka/items/5b5747f619e6eb745436) (@nogataka)
+### 非技術者のClaude Code運用事例 — Anthropic社内（自動収集 2026-03-26）
+
+Anthropicグロースマーケティングチーム（非技術者1人）がエンジニアなしでGoogle Ads自動生成・Figmaプラグイン開発・Meta Ads MCP構築を実現。**3つのコツ**: (1) API保有ツールの反復作業を狙う（広告PF・デザインツール・分析基盤）、(2) タスク分割で専門サブエージェントを配置し品質確保、(3) 即座にコーディングせず段階的に設計。成果: 広告コピー作成2時間→15分、クリエイティブ生産量10倍。
+
+> 詳細: メモリ内 `reference_anthropic_marketing_claude_code.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->

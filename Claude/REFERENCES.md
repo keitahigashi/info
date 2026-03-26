@@ -30,18 +30,18 @@
 
 Web検索による自動収集で取得した記事。詳細はClaude メモリ内の各 `reference_*.md` に保存されている。
 
-| メモリファイル | 内容 | ソース | 収集日 |
-|--------------|------|--------|--------|
-| reference_claude_code_skills_guide.md | Skills 20選ガイド | Qiita | 2026-03-25 |
-| reference_claude_peers_mcp.md | claude-peers-mcp セットアップ | Zenn | 2026-03-25 |
-| reference_agents_md_guide.md | AGENTS.md完全入門 | Qiita | 2026-03-26 |
-| reference_claude_code_auto_mode.md | Claude Code autoモード | 窓の杜 | 2026-03-26 |
-| reference_claude_agent_sdk_guide.md | Claude Agent SDK完全ガイド | AQUA | 2026-03-26 |
-| reference_claude_code_mcp_guide.md | Claude Code × MCP実践活用 | AQUA | 2026-03-26 |
-| reference_anthropic_marketing_claude_code.md | Anthropic社内マーケティング運用事例 | izanami | 2026-03-26 |
-| reference_claude_code_2_1_81.md | Claude Code v2.1.81アップデート | ClaudeNote | 2026-03-26 |
-| reference_claude_code_9_features.md | Claude Code 9つの新機能（v2.1.49〜v2.1.75） | note | 2026-03-26 |
-| reference_claude_code_updates_2026.md | Claude Code 2026年アップデート総まとめ | AI総合研究所 | 2026-03-26 |
-| reference_claude_computer_use.md | Claude Computer Use（PC操作）新機能 | Impress Watch | 2026-03-26 |
-| reference_claude_interactive_diagrams.md | インタラクティブチャート・ダイアグラム機能 | 窓の杜 | 2026-03-26 |
-| reference_claude_desktop_filesystem_mcp.md | Claude Desktop filesystem MCP設定 | DevelopersIO | 2026-03-26 |
+| メモリファイル | 内容 | ソース | 収集日 | 反映先 |
+|--------------|------|--------|--------|--------|
+| reference_claude_code_skills_guide.md | Skills 20選ガイド | Qiita | 2026-03-25 | 07-skills |
+| reference_claude_peers_mcp.md | claude-peers-mcp セットアップ | Zenn | 2026-03-25 | 06-extensions |
+| reference_agents_md_guide.md | AGENTS.md完全入門 | Qiita | 2026-03-26 | 02-setup |
+| reference_claude_code_auto_mode.md | Claude Code autoモード | 窓の杜 | 2026-03-26 | 04-workflow |
+| reference_claude_agent_sdk_guide.md | Claude Agent SDK完全ガイド | AQUA | 2026-03-26 | 06-extensions |
+| reference_claude_code_mcp_guide.md | Claude Code × MCP実践活用 | AQUA | 2026-03-26 | 06-extensions |
+| reference_anthropic_marketing_claude_code.md | Anthropic社内マーケティング運用事例 | izanami | 2026-03-26 | 08-tips |
+| reference_claude_code_2_1_81.md | Claude Code v2.1.81アップデート | ClaudeNote | 2026-03-26 | 03-commands |
+| reference_claude_code_9_features.md | Claude Code 9つの新機能（v2.1.49〜v2.1.75） | note | 2026-03-26 | 04-workflow |
+| reference_claude_code_updates_2026.md | Claude Code 2026年アップデート総まとめ | AI総合研究所 | 2026-03-26 | 04-workflow |
+| reference_claude_computer_use.md | Claude Computer Use（PC操作）新機能 | Impress Watch | 2026-03-26 | 01-overview |
+| reference_claude_interactive_diagrams.md | インタラクティブチャート・ダイアグラム機能 | 窓の杜 | 2026-03-26 | 05-tools |
+| reference_claude_desktop_filesystem_mcp.md | Claude Desktop filesystem MCP設定 | DevelopersIO | 2026-03-26 | 06-extensions |

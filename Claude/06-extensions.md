@@ -181,4 +181,28 @@ my-plugin/
 
 ## 実践メモ
 
+### claude-peers-mcp — マルチセッション連携（自動収集 2026-03-26）
+
+複数Claude Codeセッション間でリアルタイムメッセージ交換するMCPサーバー。Bun + localhost:7899のSQLiteブローカーで動作。list_peers/send_message/set_summary/check_messagesの4ツール。スコープ別（machine/repo/directory）にピアを検出。セキュリティ: 認証なし・localhost限定のため個人開発マシン向け。
+
+> 詳細: メモリ内 `reference_claude_peers_mcp.md` を参照
+
+### Claude Agent SDK（自動収集 2026-03-26）
+
+Claude Code CLIと同一のエージェントループをPython（`claude-agent-sdk`）/TypeScript（`@anthropic-ai/claude-agent-sdk`）ライブラリで提供。ビルトイン9ツール（Read/Write/Edit/Bash/Glob/Grep/WebSearch/WebFetch/AskUserQuestion）、4つの権限モード、18種類以上のHooks。サブエージェント（AgentDefinition）でマルチエージェント構成が可能。Bedrock/Vertex AI/Azure対応。
+
+> 詳細: メモリ内 `reference_claude_agent_sdk_guide.md` を参照
+
+### MCP必須サーバー10選・Tool Search（自動収集 2026-03-26）
+
+推奨MCPサーバー: GitHub MCP、DBHub（PostgreSQL等）、Docker MCP Toolkit、Playwright MCP、Sentry MCP、Vitest MCP、Context7（最新ドキュメント注入）、Notion MCP、Slack MCP、Rube。**Tool Search**（`ENABLE_MCP_TOOL_SEARCH=auto`）でトークンオーバーヘッド最大95%削減。セキュリティ注意: CVE-2025-6514（mcp-remote, Critical 9.6）等の既知脆弱性あり。`managed-mcp.json`で組織レベルの許可/拒否リスト管理が可能。
+
+> 詳細: メモリ内 `reference_claude_code_mcp_guide.md` を参照
+
+### filesystem MCP — Claude Desktop（自動収集 2026-03-26）
+
+Claude Desktopでfilesystem MCPを設定し、指定フォルダ内のファイルを直接読み書き可能にする。`@modelcontextprotocol/server-filesystem` をnpxで起動。Windows（パス `\\` エスケープ必要）/Mac対応、無料版でも利用可能。複数フォルダ・Googleドライブ指定も可。
+
+> 詳細: メモリ内 `reference_claude_desktop_filesystem_mcp.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->

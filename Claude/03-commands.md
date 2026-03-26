@@ -170,4 +170,12 @@ claude -p --max-budget-usd 5.00 --max-turns 3 --fallback-model sonnet "分析し
 
 - 出典: [Claude Code 知らないと損するコマンド・時短術 20選](https://qiita.com/miruky/items/48ede59ebe33b4b774ac) (@miruky, 2026-03-16)
 - 出典: [ClaudeCodeの中級者になりたい人は集合してください](https://qiita.com/K5K/items/72cc4282819ace823524) (@K5K, 2026-03-13)
+### v2.1.81 新フラグ（自動収集 2026-03-26）
+
+- `--bare`: スクリプト実行時のオーバーヘッドを軽量化。CI/CDや自動化スクリプトでの起動が高速に
+- `--channels`: モバイルデバイス経由での権限承認を可能にする。多様なデバイスからのアクセスに対応
+- OAuth関連の安定性も向上し、外部サービス連携の信頼性が強化
+
+> 詳細: メモリ内 `reference_claude_code_2_1_81.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->

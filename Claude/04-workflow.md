@@ -207,4 +207,29 @@ wt-dev() {
 
 ## 実践メモ
 
+### Autoモード（自動収集 2026-03-26）
+
+リスク評価に基づく選別自動実行モード。安全な操作は自動実行し、リスクのある操作はブロック/代替/確認を行う。`--enable-auto-mode` で起動、`Shift+Tab` でモード切替。Team/Enterprise/APIプラン対応（リサーチプレビュー）。本番環境での使用は非推奨、サンドボックス環境推奨。
+
+> 詳細: メモリ内 `reference_claude_code_auto_mode.md` を参照
+
+### /loop・Voice mode（自動収集 2026-03-26）
+
+- **/loop**: `/loop 5m <prompt>` で指定間隔の定期実行。デプロイ監視やPRチェックに活用
+- **Voice mode**: スペースキー長押しで音声入力（Push-to-Talk方式）。STT 20言語対応
+- **Cronスケジューリング**: CronCreateツールで柔軟なスケジュール設定
+
+> 詳細: メモリ内 `reference_claude_code_9_features.md` を参照
+
+### 2026年3月 主要変更点（自動収集 2026-03-26）
+
+- Opus 4.6 デフォルトeffort設定が medium に変更
+- プロンプトキャッシュ効率化（セッション再開時 約600トークン削減）
+- VS Code内ネイティブMCP管理ダイアログ追加
+- スキル自己参照変数 `${CLAUDE_SKILL_DIR}` 対応
+- サブエージェントレポートの簡潔化
+- REPLメモリリーク修正（約35MB蓄積問題解消）
+
+> 詳細: メモリ内 `reference_claude_code_updates_2026.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->
