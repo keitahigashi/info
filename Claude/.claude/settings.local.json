@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp \"C:/Users/keita/.claude/projects/D--020-Work-05-environment-01_active-Info/memory/reference_claude_interactive_diagrams.md\" \"C:/Users/keita/.claude/projects/D--020-Work-05-environment-01-active-Info/memory/reference_claude_interactive_diagrams.md\" && rm \"C:/Users/keita/.claude/projects/D--020-Work-05-environment-01_active-Info/memory/reference_claude_interactive_diagrams.md\")"
+    ]
+  }
+}
