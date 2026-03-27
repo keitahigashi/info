@@ -178,4 +178,14 @@ claude -p --max-budget-usd 5.00 --max-turns 3 --fallback-model sonnet "分析し
 
 > 詳細: メモリ内 `reference_claude_code_2_1_81.md` を参照
 
+### v2.1.74〜v2.1.84 コマンド・機能追加（自動収集 2026-03-27）
+
+- `/remote-control`: セッションをブリッジ化しclaude.ai/codeやiOSアプリから遠隔操作。Permission Relayでスマホからツール承認
+- `Ctrl+O`→`/`: Transcript Search（会話ログ検索）。`n/N`でマッチ箇所前後移動
+- `--bare`: フック・LSP・プラグイン同期スキップ。CI/CD・スクリプト実行時の起動高速化
+- 出力トークン: デフォルト64k、上限128k。トークン表示は1M以上「1.5m」形式に変更
+- Hooks新規イベント: PostCompact, TaskCreated, StopFailure, CwdChanged, FileChanged, Elicitation/ElicitationResult
+
+> 詳細: メモリ内 `reference_claude_code_v2174_v2184.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->
