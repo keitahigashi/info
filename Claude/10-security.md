@@ -228,4 +228,8 @@ OS別配置パス:
 
 - 出典: [Claude Code Skills 完全活用ガイド 2026](https://qiita.com/nogataka/items/ad9995fb1b3db7055740) (@nogataka, 2026-03-12)
 - 出典: [Claude Codeで行うべきセキュリティ設定 10選](https://qiita.com/miruky/items/51db293a7a7d0d277a5d) (@miruky, 2026-03-14)
+### AI Guardianによるチーム導入セキュリティ対策（自動収集 2026-03-29）
+AIエージェント（Claude Code/Cursor）のチーム導入時に必ず聞かれる3質問への技術的回答。AI Guardian（`pip install aig-guardian`）で全操作の自動ログ記録（リスクスコア0-100付き）、YAMLポリシーによる危険操作制御（rm -rf, .env*, SSH鍵をブロック）、監査証跡エクスポート（Excel/JSON）を実現。PII自動検知・墨消し機能（マイナンバー・電話番号等→`[REDACTED]`）も搭載。日本の規制（AI推進法・個人情報保護法）の技術要件に対応可能。
+> 詳細: メモリ内 `reference_ai_agent_security_guardian.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->
