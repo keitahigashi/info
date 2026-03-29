@@ -241,4 +241,8 @@ wt-dev() {
 
 > 詳細: メモリ内 `reference_claude_code_v2174_v2184.md` を参照
 
+### 2026年3月アップデート総括（自動収集 2026-03-29）
+2026年3月はClaude Codeの転換期的アップデート月。音声モード（/voice）、Channels（Telegram/Discord連携で外出先から指示）、/loop（自律ループ）、Opus 4.6対応が同時に実現。「声で指示」「スマホから操作」「放置で自律実行」の3軸が揃った。
+> 詳細: メモリ内 `reference_claude_code_march_2026_updates_arashiyama.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->
