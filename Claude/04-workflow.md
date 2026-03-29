@@ -241,6 +241,10 @@ wt-dev() {
 
 > 詳細: メモリ内 `reference_claude_code_v2174_v2184.md` を参照
 
+### 公式推奨ワークフロー: 探索→計画→実装→コミット（自動収集 2026-03-29）
+公式ベストプラクティスの4フェーズワークフロー。(1) Plan Modeで探索（変更なし）、(2) 計画作成→Ctrl+Gでエディタ直接編集、(3) Normal Modeで実装・テスト実行、(4) コミット＆PR。小さなタスク（1文で差分を説明できる場合）は計画スキップ可。2回修正失敗したら`/clear`して学んだことを組み込んだ新プロンプトで再開。スケール手法: Writer/Reviewerパターン（セッション分離）、ファンアウト（`claude -p`×ファイルリスト）。
+> 詳細: メモリ内 `reference_claude_code_best_practices_official.md` を参照
+
 ### 2026年3月アップデート総括（自動収集 2026-03-29）
 2026年3月はClaude Codeの転換期的アップデート月。音声モード（/voice）、Channels（Telegram/Discord連携で外出先から指示）、/loop（自律ループ）、Opus 4.6対応が同時に実現。「声で指示」「スマホから操作」「放置で自律実行」の3軸が揃った。
 > 詳細: メモリ内 `reference_claude_code_march_2026_updates_arashiyama.md` を参照
