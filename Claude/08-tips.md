@@ -282,4 +282,8 @@ AI Native社が105+Skillsを4カテゴリ（開発40/コンテンツ37/SEO15/基
 長いチャットセッションの切り替え時に「要約」ではなく「作業引き継ぎメモ」を作成する手法。8項目（目的・移行理由・背景・経緯・決定事項・未解決事項・次の依頼文・完成形文章）を構造化して整理する。「短くすること優先ではなく、次のチャットで困らないこと優先」がポイント。Claude Codeのauto-compactionの補完として、ユーザー主導の引き継ぎポイント明示にも応用可能。
 > 詳細: メモリ内 `reference_chatgpt_handover_prompt.md` を参照
 
+### 思考拡張キーワードとSerena LSP（自動収集 2026-03-30）
+思考拡張で推論リソースを制御: `think`(4,000トークン)→`think hard`(10,000)→`think harder/ultrathink`(31,999)。Serena MCP（LSPベースコード解析）でシンボルベース解析、トークン消費削減・精度向上。ccmanager（`npm install -g ccmanager`）でGit Worktree並列作業を効率管理。CLAUDE.mdに「英語思考、日本語応答」設定が有効との報告。
+> 詳細: メモリ内 `reference_claude_code_project_tips_10.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->

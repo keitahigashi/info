@@ -97,4 +97,8 @@ Claude Codeはエージェント型（ゴール提示→計画→自律実行）
 
 > 詳細: メモリ内 reference_claude_latest_features_march_2026.md を参照
 
+### Claude 4.6モデル比較とBedrock活用（自動収集 2026-03-30）
+API料金(Bedrock経由、100万トークンあたり): Opus 4.6 入力$5/出力$25、Sonnet 4.6 $3/$15、Haiku 4.5 $1/$5。コンテキスト: Opus/Sonnet 100万トークン、Haiku 20万トークン。Bedrock利点: VPCエンドポイント（ネット非経由）、IAM制御、マネージド高可用性。ハルシネーション対策にRAG（社内データ参照）と忠実性・応答関連性での継続評価が推奨。
+> 詳細: メモリ内 `reference_claude_46_bedrock_guide.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->

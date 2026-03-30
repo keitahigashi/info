@@ -188,4 +188,8 @@ claude -p --max-budget-usd 5.00 --max-turns 3 --fallback-model sonnet "分析し
 
 > 詳細: メモリ内 `reference_claude_code_v2174_v2184.md` を参照
 
+### Claude Code追加機能タイムライン 2025/07〜2026/03（自動収集 2026-03-30）
+半年間の全機能追加を月別に網羅。主要マイルストーン: 2025/07 Subagents・Plan Mode、2025/10 Background Tasks (Ctrl+B)・PermissionRequest Hook、2025/12 /loop・/voice・Remote Control、2026/01 v2.1.0 (1096コミット)・/doctor・Instant Compact・/branch、2026/02 Agent Teams・Auto Memory・/batch・HTTP Hooks・Opus 4.6デフォルト化(ultrathink)、2026/03 /btw(トークン最大50%削減)・Native Plugins・/effort・MCP Elicitation・Channels・--bare。
+> 詳細: メモリ内 `reference_claude_code_feature_timeline.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->
