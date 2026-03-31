@@ -1,7 +1,136 @@
 {
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
   "permissions": {
     "allow": [
-      "Bash(cd * && git *)"
+      "Read",
+      "Edit",
+      "Write",
+      "Glob",
+      "Grep",
+      "LS",
+      "Task",
+      "WebFetch",
+      "WebSearch",
+      "Bash(git status)",
+      "Bash(git diff *)",
+      "Bash(git log *)",
+      "Bash(git branch *)",
+      "Bash(git checkout *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git stash *)",
+      "Bash(git fetch *)",
+      "Bash(git pull *)",
+      "Bash(git merge *)",
+      "Bash(git rebase *)",
+      "Bash(git tag *)",
+      "Bash(git show *)",
+      "Bash(git blame *)",
+      "Bash(git cherry-pick *)",
+      "Bash(dotnet build *)",
+      "Bash(dotnet test *)",
+      "Bash(dotnet run *)",
+      "Bash(dotnet restore *)",
+      "Bash(dotnet clean *)",
+      "Bash(dotnet format *)",
+      "Bash(npm run *)",
+      "Bash(npm install *)",
+      "Bash(npm test *)",
+      "Bash(npx *)",
+      "Bash(node *)",
+      "Bash(cat *)",
+      "Bash(ls *)",
+      "Bash(dir *)",
+      "Bash(find *)",
+      "Bash(head *)",
+      "Bash(tail *)",
+      "Bash(wc *)",
+      "Bash(sort *)",
+      "Bash(uniq *)",
+      "Bash(grep *)",
+      "Bash(awk *)",
+      "Bash(sed *)",
+      "Bash(echo *)",
+      "Bash(pwd)",
+      "Bash(which *)",
+      "Bash(where *)",
+      "Bash(type *)",
+      "Bash(mkdir *)",
+      "Bash(cp *)",
+      "Bash(mv *)",
+      "Bash(touch *)",
+      "Bash(tree *)",
+      "Bash(python *)",
+      "Bash(pip install *)",
+      "Bash(pip list *)",
+      "mcp__UnityMCP__*"
+    ],
+    "deny": [
+      "Read(**/.env)",
+      "Read(**/.env.*)",
+      "Read(**/.env.local)",
+      "Read(**/secrets/**)",
+      "Read(**/*.key)",
+      "Read(**/*.pem)",
+      "Read(**/*.pfx)",
+      "Bash(rm -rf *)",
+      "Bash(del /s *)",
+      "Bash(format *)",
+      "Bash(sudo *)",
+      "Bash(su *)",
+      "Bash(shutdown *)",
+      "Bash(reboot *)",
+      "Bash(curl *)",
+      "Bash(wget *)",
+      "Bash(ssh *)",
+      "Bash(scp *)",
+      "Bash(powershell -enc *)",
+      "Bash(cmd /c *)",
+      "Bash(git push --force *)",
+      "Bash(git push -f *)"
+    ],
+    "ask": [
+      "Bash(git push *)",
+      "Bash(git reset *)",
+      "Bash(dotnet publish *)"
+    ]
+  },
+  "autoUpdatesChannel": "stable",
+  "enabledPlugins": {
+    "tsumiki@tsumiki": true
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write|Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell -c \"Write-Host '========================================' -ForegroundColor Cyan; Write-Host '[CLAUDE CHECKLIST]' -ForegroundColor Yellow; Write-Host '1. CLAUDE.md の絶対ルールを確認したか？' -ForegroundColor White; Write-Host '2. 該当するSKILL.mdを読み込んだか？' -ForegroundColor White; Write-Host '   記事収集 -> skills/article-collector/SKILL.md' -ForegroundColor Gray; Write-Host '3. メモリファイルはコミット対象外にしているか？' -ForegroundColor White; Write-Host '========================================'  -ForegroundColor Cyan\""
+          }
+        ]
+      }
+    ],
+    "PermissionRequest": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell -c \"(New-Object Media.SoundPlayer 'D:\\020_Work\\05_environment\\03_shared_assets\\Sounds\\g\\0A55.wav').PlaySync()\""
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell -c \"(New-Object Media.SoundPlayer 'D:\\020_Work\\05_environment\\03_shared_assets\\Sounds\\g\\003B_0008_newtype.wav').PlaySync()\""
+          }
+        ]
+      }
     ]
   }
 }
