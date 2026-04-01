@@ -294,4 +294,8 @@ AI Native社が105+Skillsを4カテゴリ（開発40/コンテンツ37/SEO15/基
 9パート構成の網羅的ガイド。会話管理6機能（Rewindが最頻出）、MCP 3層構造（AIアプリ→プロトコル→Transport）、Plan Mode 4権限モード、Worktree並列作業、`/effort low|medium|high|max`の推論レベル制御、ヘッドレスモード（`claude -p`+JSON出力+セッション引き継ぎ）、CLAUDE.md 3階層配置+`/init`自動生成。場面別逆引きリファレンス付き。
 > 詳細: メモリ内 `reference_claude_code_developer_complete_guide.md` を参照
 
+### 実践Claude Code入門 — 3つの構造的課題と解決策（自動収集 2026-04-01）
+コーディングエージェントの3課題を体系化: (1) コンテキスト忘却→構造化ノート(`.steering/`)＋サブエージェント分離 (2) 意図不一致→Skills(3切り口: 成果物・タスク・ドメイン)＋Hooks(絶対ルール強制) (3) 外部連携不能→MCP＋CLIツール。段階的導入順: CLAUDE.md→Skills→Hooks→MCP。機能選択の判断基準表付き。
+> 詳細: メモリ内 `reference_practical_claude_code_introduction.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->
