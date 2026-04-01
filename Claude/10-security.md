@@ -232,4 +232,8 @@ OS別配置パス:
 AIエージェント（Claude Code/Cursor）のチーム導入時に必ず聞かれる3質問への技術的回答。AI Guardian（`pip install aig-guardian`）で全操作の自動ログ記録（リスクスコア0-100付き）、YAMLポリシーによる危険操作制御（rm -rf, .env*, SSH鍵をブロック）、監査証跡エクスポート（Excel/JSON）を実現。PII自動検知・墨消し機能（マイナンバー・電話番号等→`[REDACTED]`）も搭載。日本の規制（AI推進法・個人情報保護法）の技術要件に対応可能。
 > 詳細: メモリ内 `reference_ai_agent_security_guardian.md` を参照
 
+### Claude Codeソースコード流出事件（自動収集 2026-04-01）
+v2.1.88のnpmパッケージにソースマップ（.mapファイル）が混入し、1,902個のTSファイル・51万行が流出。原因: `.npmignore`のブラックリスト方式で.mapが漏れた。**開発者向け対策**: (1) `npm pack --dry-run | grep -i ".map"`でパブリッシュ前確認 (2) `"files": ["dist/"]`のホワイトリスト方式に変更 (3) CI/CDでソースマップ検出ステップ追加。**使用者向けリスク**: 不正リポジトリで`claude -p`実行→.mcp.json等に見せかけたコマンド実行の危険性。信頼できないリポジトリでのClaude Code実行に注意。
+> 詳細: メモリ内 `reference_claude_code_source_leak_npm.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->

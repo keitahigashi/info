@@ -249,4 +249,8 @@ wt-dev() {
 2026年3月はClaude Codeの転換期的アップデート月。音声モード（/voice）、Channels（Telegram/Discord連携で外出先から指示）、/loop（自律ループ）、Opus 4.6対応が同時に実現。「声で指示」「スマホから操作」「放置で自律実行」の3軸が揃った。
 > 詳細: メモリ内 `reference_claude_code_march_2026_updates_arashiyama.md` を参照
 
+### Claude Code全CHANGELOG追跡 — 2025年176リリースの総括（自動収集 2026-04-01）
+2025年の全176リリース（v0.2.x:37、v1.0.x:82、v2.0.x:57）を追跡。「AIモデル=馬、Claude Code=馬具」の比喩でハーネス完成度が差別化要因と結論。仕様駆動開発（SDD）がPlanモード+Interactive Question Toolで実現。課題: コンテキストウィンドウサイズ（Opus 4.5は200k、GPT-5.2は400k、Gemini 3 Proは1M）、コンパクション品質。サードパーティツールの慎重利用を推奨（「ハーネスの外側に追加ハーネス」リスク）。
+> 詳細: メモリ内 `reference_claude_code_all_changelog_2025.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->

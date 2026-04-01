@@ -286,4 +286,12 @@ AI Native社が105+Skillsを4カテゴリ（開発40/コンテンツ37/SEO15/基
 思考拡張で推論リソースを制御: `think`(4,000トークン)→`think hard`(10,000)→`think harder/ultrathink`(31,999)。Serena MCP（LSPベースコード解析）でシンボルベース解析、トークン消費削減・精度向上。ccmanager（`npm install -g ccmanager`）でGit Worktree並列作業を効率管理。CLAUDE.mdに「英語思考、日本語応答」設定が有効との報告。
 > 詳細: メモリ内 `reference_claude_code_project_tips_10.md` を参照
 
+### ライトユーザー向け万人受け便利設定6選（自動収集 2026-04-01）
+(1) ユーザーメモリで全プロジェクト共通ルール (2) 音声フィードバック（PermissionRequest/Stop時にafplay） (3) statusline.shでコンテキスト使用率%表示 (4) MCP活用（Context7・Playwright・Chrome DevTools） (5) サブエージェント分離（技術調査・テスト用）でコンテキスト圧縮防止 (6) 参照系操作のみ自動承認。`claude-code-guide`ビルトインサブエージェントが設定支援可能。
+> 詳細: メモリ内 `reference_claude_code_light_user_settings.md` を参照
+
+### Claude Code開発者のための完全ガイド（自動収集 2026-04-01）
+9パート構成の網羅的ガイド。会話管理6機能（Rewindが最頻出）、MCP 3層構造（AIアプリ→プロトコル→Transport）、Plan Mode 4権限モード、Worktree並列作業、`/effort low|medium|high|max`の推論レベル制御、ヘッドレスモード（`claude -p`+JSON出力+セッション引き継ぎ）、CLAUDE.md 3階層配置+`/init`自動生成。場面別逆引きリファレンス付き。
+> 詳細: メモリ内 `reference_claude_code_developer_complete_guide.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->
