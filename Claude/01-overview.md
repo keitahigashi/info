@@ -105,4 +105,8 @@ API料金(Bedrock経由、100万トークンあたり): Opus 4.6 入力$5/出力
 全プラン: Free(無料)→Pro($20)→Max 5x($100)/20x($200)→Team Standard($25/人)/Premium($125/人)→Enterprise(個別)。API従量課金(100万トークン): Opus $5/$25、Sonnet $3/$15、Haiku $1/$5。コスト試算例: サポートBot(Haiku)月1万件→$20、文書分析(Sonnet)日50件→月$33、開発10名(Opus)日100回→月$1,045。最適化: Batch APIで50%OFF、プロンプトキャッシュで入力90%OFF。Freeプランはデータが学習に使用される可能性、TeamプランはデフォルトでOFF。
 > 詳細: メモリ内 `reference_claude_pricing_guide_2026.md` を参照
 
+### Claude Cowork実践ガイド Windows 11（自動収集 2026-04-01）
+ファイルシステムに直接アクセスして自律的に業務実行するエージェント型AI。サンドボックス（仮想マシン）で安全に動作。要件: Windows 11 + Intel VT-x/AMD-V + 5GB以上（ARM64未サポート）。画像リサイズ等のファイル操作を自律実行。グローバル指示設定、スケジュール実行（Googleカレンダー連携）対応。有料プラン（Pro/Max/Team/Enterprise）必須。
+> 詳細: メモリ内 `reference_claude_cowork_windows_guide.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->
