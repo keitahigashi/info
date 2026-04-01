@@ -192,4 +192,8 @@ claude -p --max-budget-usd 5.00 --max-turns 3 --fallback-model sonnet "分析し
 半年間の全機能追加を月別に網羅。主要マイルストーン: 2025/07 Subagents・Plan Mode、2025/10 Background Tasks (Ctrl+B)・PermissionRequest Hook、2025/12 /loop・/voice・Remote Control、2026/01 v2.1.0 (1096コミット)・/doctor・Instant Compact・/branch、2026/02 Agent Teams・Auto Memory・/batch・HTTP Hooks・Opus 4.6デフォルト化(ultrathink)、2026/03 /btw(トークン最大50%削減)・Native Plugins・/effort・MCP Elicitation・Channels・--bare。
 > 詳細: メモリ内 `reference_claude_code_feature_timeline.md` を参照
 
+### Claude Code Cheat Sheet — 毎日自動更新リファレンス（自動収集 2026-04-01）
+全機能を1ページにまとめた包括的チートシート（https://cc.storyfox.cz/）。毎日CHANGELOGをチェックし新機能に「NEW」バッジ付与。ショートカット・スラッシュコマンド・CLIフラグ・MCP・Skills・Agents・環境変数をカバー。単一HTML・軽量・印刷可能（A4横向き）。Hacker Newsで高評価。
+> 詳細: メモリ内 `reference_claude_code_cheatsheet_storyfox.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->
