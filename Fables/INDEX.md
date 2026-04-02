@@ -5,14 +5,14 @@
 | 出典体系 | 件数 |
 |---------|------|
 | イソップ寓話 | 21 |
-| 日本昔話 | 16 |
+| 日本昔話 | 17 |
 | 中国故事 | 20 |
-| グリム童話 | 18 |
-| アンデルセン童話 | 15 |
+| グリム童話 | 20 |
+| アンデルセン童話 | 16 |
 | インド寓話 | 15 |
 | アフリカ民話 | 14 |
-| その他 | 18 |
-| **合計** | **137** |
+| その他 | 19 |
+| **合計** | **142** |
 
 ## イソップ寓話
 
@@ -61,6 +61,7 @@
 | [japanese-014](fables/japanese-014-the-tale-of-the-bamboo-cutter.md) | かぐや姫 | 権力や財力では人の心を手に入れることはできず、この世の縁には限りがある |
 | [japanese-015](fables/japanese-015-kintaro.md) | 金太郎 | 自然の中で心身を鍛え、勇気と優しさを兼ね備えた者は大きな志を遂げることができる |
 | [japanese-016](fables/japanese-016-sannen-netaro.md) | 三年寝太郎 | 一見怠けているように見えても、深く考え抜いている者がおり、大事を成すには構想の時間が必要である |
+| [japanese-017](fables/japanese-017-the-waterfall-of-yoro.md) | 養老の滝 | 親を思う誠実な心は天に通じ、奇跡を呼ぶ |
 
 ## 中国故事
 
@@ -109,6 +110,8 @@
 | [grimm-016](fables/grimm-016-king-thrushbeard.md) | つぐみの髭の王さま | 傲慢は人を孤立させるが、苦労を通じて謙虚さを学べば真の幸福が得られる |
 | [grimm-017](fables/grimm-017-sweet-porridge.md) | おいしいおかゆ | 恵みには限度を知ることが大切であり、制御を失えば豊かさそのものが災いとなる |
 | [grimm-018](fables/grimm-018-the-seven-ravens.md) | 七羽のカラス | 家族を救うためなら、どんな困難にも立ち向かう勇気と犠牲を厭わない愛が道を切り開く |
+| [grimm-019](fables/grimm-019-the-pied-piper-of-hamelin.md) | ハーメルンの笛吹き男 | 約束を破れば取り返しのつかない報いを受ける |
+| [grimm-020](fables/grimm-020-the-brave-little-tailor.md) | 勇ましいちびの仕立て屋 | 知恵と自信があれば、体の大きさや身分に関係なく巨人にも勝てる |
 
 ## アンデルセン童話
 
@@ -129,6 +132,7 @@
 | [andersen-013](fables/andersen-013-five-peas-in-a-pod.md) | 五つぶのえんどう豆 | 小さな存在でも、誰かの希望となり命を救うことができる |
 | [andersen-014](fables/andersen-014-the-tinderbox.md) | 火打ち箱 | 手持ちの資源を活かす機転が人生を切り開き、身分や境遇は知恵と行動で覆せる |
 | [andersen-015](fables/andersen-015-the-shadow.md) | 影法師 | 自分の暗い面に支配を許すと、本来の自分を失い取り返しのつかない結末を迎える |
+| [andersen-016](fables/andersen-016-the-wild-swans.md) | 野の白鳥 | 愛する者を救うために沈黙と苦痛に耐え抜く自己犠牲こそが、最も強い力となる |
 
 ## インド寓話
 
@@ -191,5 +195,6 @@
 | [other-016](fables/other-016-bluebeard.md) | 青ひげ | フランス（ペロー） | 好奇心は人の本性だが、禁じられたものに手を出せば取り返しのつかない代償を払うことがある |
 | [other-017](fables/other-017-the-enormous-turnip.md) | おおきなかぶ | ロシア民話 | 一人では成し遂げられないことも、みんなで力を合わせれば必ず実現できる |
 | [other-018](fables/other-018-ali-baba-and-the-forty-thieves.md) | アリ・ババと四十人の盗賊 | アラビア（千夜一夜） | 欲深さは身を滅ぼし、忠義と機転こそが主人と家族を救う |
+| [other-019](fables/other-019-king-midas-donkey-ears.md) | 王様の耳はロバの耳 | ギリシャ神話 | 秘密はいつか必ず明るみに出る。真実を永遠に隠し通すことはできない |
 
 <!-- 寓話追加時にここへ行を追加 -->

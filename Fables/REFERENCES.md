@@ -143,3 +143,8 @@
 | chinese-020 | 呉越同舟 | 中国故事 | chugokugo-script.net, ja.wikipedia.org | 2026-04-02 |
 | indian-015 | 鳩の王と猟師の網 | インド寓話 | ja.wikipedia.org, chimesradio.com | 2026-04-02 |
 | other-018 | アリ・ババと四十人の盗賊 | アラビア（千夜一夜物語） | ja.wikipedia.org, honcierge.jp | 2026-04-02 |
+| japanese-017 | 養老の滝 | 日本昔話 | folktalesjpn.com, ja.wikipedia.org | 2026-04-02 |
+| grimm-019 | ハーメルンの笛吹き男 | グリム伝説 | ja.wikipedia.org, grimmstories.com | 2026-04-02 |
+| andersen-016 | 野の白鳥 | アンデルセン童話 | ja.wikipedia.org, aozora.gr.jp | 2026-04-02 |
+| grimm-020 | 勇ましいちびの仕立て屋 | グリム童話 | grimmstories.com, ja.wikipedia.org | 2026-04-02 |
+| other-019 | 王様の耳はロバの耳 | ギリシャ神話 | ja.wikipedia.org, turkish.jp | 2026-04-02 |
