@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd * && git add *)",
+      "Bash(cd * && git commit *)",
+      "Bash(cd * && git push *)",
+      "Bash(cd * && git status*)",
+      "Bash(cd * && git log*)",
+      "Bash(cd * && git diff*)"
+    ]
+  }
+}

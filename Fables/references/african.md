@@ -1,0 +1,33 @@
+# アフリカ民話 — 出典一覧
+
+[< 出典一覧に戻る](../REFERENCES.md)
+
+| id | タイトル | 参照元 | 追加日 |
+|----|---------|--------|--------|
+| african-001 | アナンシと空の神の物語 | en.wikipedia.org, britannica.com | 2026-04-01 |
+| african-002 | ライオンとウサギ | storyarts.org, worldoftales.com | 2026-04-01 |
+| african-003 | 亀の甲羅にひびが入った理由 | anikefoundation.org, worldoftales.com | 2026-04-01 |
+| african-004 | チーターと怠け者の狩人 | worldoftales.com, safaribookings.com | 2026-04-01 |
+| african-005 | カメとゾウとカバの綱引き | folktales.africa, briefly.co.za | 2026-04-01 |
+| african-006 | ヒョウの斑点の由来 | folktales.africa | 2026-04-01 |
+| african-007 | キリンの長い首の由来 | en.wikipedia.org, worldoftales.com | 2026-04-01 |
+| african-008 | 賢いヤギと貪欲なハイエナ | worldoftales.com, folktales.africa | 2026-04-01 |
+| african-009 | 蚊が人の耳元で鳴く理由 | en.wikipedia.org, anikefoundation.org | 2026-04-01 |
+| african-010 | 太陽と月が空に住む理由 | en.wikipedia.org, gutenberg.org | 2026-04-01 |
+| african-011 | 山の上の火 | coreknowledge.org, goodreads.com | 2026-04-01 |
+| african-012 | おしゃべりな頭蓋骨 | en.wikipedia.org, worldoftales.com | 2026-04-01 |
+| african-013 | アナンシと知恵の壺 | anikefoundation.org, culturesofwestafrica.com | 2026-04-01 |
+| african-014 | ジャッカルとライオン | sacred-texts.com, worldoftales.com | 2026-04-01 |
+| african-015 | アナンシとカメの食事 | mocomi.com, layers-of-learning.com | 2026-04-02 |
+| african-016 | イボイノシシが膝で歩く理由 | briefly.co.za, anikefoundation.org | 2026-04-02 |
+| african-017 | 猫とネズミが敵になった理由 | worldoftales.com, anikefoundation.org | 2026-04-02 |
+| african-018 | なぜ蜘蛛の腰が細いのか | anikefoundation.org, worldoftales.com | 2026-04-02 |
+| african-019 | なぜ空は遠いのか | en.wikipedia.org, Mary-Joan Gerson絵本 | 2026-04-02 |
+| african-020 | 蜜導鳥の復讐 | en.wikipedia.org, ボラナ族口承 | 2026-04-02 |
+| african-021 | 賢いウサギと井戸 | en.wikipedia.org, ブレア・ラビット伝承 | 2026-04-02 |
+| african-022 | カメレオンとトカゲの使い | en.wikipedia.org, バントゥー系口承 | 2026-04-02 |
+| african-023 | 嘘をつかなかった男 | anikefoundation.org, worldoftales.com | 2026-04-02 |
+| african-024 | ひょうたんの子供たち | anikefoundation.org, aaronshep.com | 2026-04-02 |
+| african-025 | デマネとデマザナ | sacred-texts.com, G.M.Theal『Xhosa Folk-Lore』(1882) | 2026-04-02 |
+
+<!-- 出典追加時にここへ行を追加 -->

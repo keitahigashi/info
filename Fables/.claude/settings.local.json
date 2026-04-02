@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"D:\\\\020_Work\\\\05_environment\\\\01_active\\\\Info\\\\Fables\" && mkdir -p fables/aesop fables/japanese fables/chinese fables/grimm fables/andersen fables/indian fables/african fables/other)",
+      "Bash(cd \"D:\\\\020_Work\\\\05_environment\\\\01_active\\\\Info\\\\Fables\" && for f in fables/aesop-*.md; do git mv \"$f\" fables/aesop/; done && for f in fables/japanese-*.md; do git mv \"$f\" fables/japanese/; done && for f in fables/chinese-*.md; do git mv \"$f\" fables/chinese/; done && for f in fables/grimm-*.md; do git mv \"$f\" fables/grimm/; done && for f in fables/andersen-*.md; do git mv \"$f\" fables/andersen/; done && for f in fables/indian-*.md; do git mv \"$f\" fables/indian/; done && for f in fables/african-*.md; do git mv \"$f\" fables/african/; done && for f in fables/other-*.md; do git mv \"$f\" fables/other/; done)",
+      "Bash(cd \"D:\\\\020_Work\\\\05_environment\\\\01_active\\\\Info\\\\Fables\" && mkdir -p index references)"
+    ]
+  }
+}

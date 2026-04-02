@@ -1,0 +1,36 @@
+# その他（28話）
+
+[< 寓話一覧に戻る](../INDEX.md)
+
+| id | タイトル | 出典 | 教訓 |
+|----|---------|------|------|
+| [other-001](../fables/other/other-001-kalila-and-dimna-the-lion-and-the-bull.md) | カリーラとディムナ — ライオンと牛 | アラビア寓話 | 讒言と陰謀は友情を壊し策略者自身をも滅ぼす |
+| [other-002](../fables/other/other-002-the-monkey-and-the-spectacles.md) | 猿とメガネ | ロシア寓話 | 道具の価値はそれを正しく使う知識があってこそ発揮される |
+| [other-003](../fables/other/other-003-the-blind-men-and-the-elephant.md) | 六人の盲人と象 | インド発・世界共通 | 一つの視点だけでは真実の全体像は把握できない |
+| [other-004](../fables/other/other-004-tale-of-two-wolves.md) | 二匹の狼 | ネイティブアメリカン | 心の中の善と悪、どちらが勝つかは自分が何を育てるかで決まる |
+| [other-005](../fables/other/other-005-moses-and-the-shepherd.md) | モーセと羊飼い | ペルシア寓話 | 神が見るのは言葉の正しさではなく心の誠実さである |
+| [other-006](../fables/other/other-006-the-frog-who-went-to-heaven.md) | 天に行った蛙 | ベトナム民話 | 小さくとも知恵と仲間の協力があれば天をも動かせる |
+| [other-007](../fables/other/other-007-oisin-and-tir-na-nog.md) | オイシンとティル・ナ・ノーグ | ケルト民話 | 永遠の楽園を求めても人は故郷と時の流れから逃れることはできない |
+| [other-008](../fables/other/other-008-heungbu-and-nolbu.md) | フンブとノルブ | 韓国民話 | 善良で慈悲深い者は報われ、貪欲で冷酷な者は身を滅ぼす |
+| [other-009](../fables/other/other-009-the-lions-whisker.md) | ライオンのひげ | エチオピア民話 | 信頼は力では勝ち取れず、忍耐と誠実さだけが人の心を開く |
+| [other-010](../fables/other/other-010-nasreddins-key.md) | ナスレッディンの鍵 | トルコ寓話 | 問題の本質から目を逸らし、都合の良い場所だけを探しても答えは見つからない |
+| [other-011](../fables/other/other-011-the-three-billy-goats-gruff.md) | 三匹のやぎのがらがらどん | ノルウェー民話 | 欲張りは自らを滅ぼし、知恵と勇気があれば恐ろしい敵にも打ち勝てる |
+| [other-012](../fables/other/other-012-the-monkey-and-the-turtle.md) | 猿と亀 | フィリピン民話 | ずるい者は一時的に得をしても、最後には忍耐強い者に報いを受ける |
+| [other-013](../fables/other/other-013-stone-soup.md) | 石のスープ | 汎ヨーロッパ | 一人では何もできなくても、皆が少しずつ出し合えば豊かなものが生まれる |
+| [other-014](../fables/other/other-014-sang-kancil-and-the-crocodiles.md) | サン・カンチルとワニ | マレーシア／インドネシア | 体の大きさや力ではなく、知恵と機転によって困難を切り抜けることができる |
+| [other-015](../fables/other/other-015-puss-in-boots.md) | 長靴をはいた猫 | フランス（ペロー） | 財産や家柄よりも知恵と機転を活かす力のほうが人生を切り開く武器となる |
+| [other-016](../fables/other/other-016-bluebeard.md) | 青ひげ | フランス（ペロー） | 好奇心は人の本性だが、禁じられたものに手を出せば取り返しのつかない代償を払うことがある |
+| [other-017](../fables/other/other-017-the-enormous-turnip.md) | おおきなかぶ | ロシア民話 | 一人では成し遂げられないことも、みんなで力を合わせれば必ず実現できる |
+| [other-018](../fables/other/other-018-ali-baba-and-the-forty-thieves.md) | アリ・ババと四十人の盗賊 | アラビア（千夜一夜） | 欲深さは身を滅ぼし、忠義と機転こそが主人と家族を救う |
+| [other-019](../fables/other/other-019-king-midas-donkey-ears.md) | 王様の耳はロバの耳 | ギリシャ神話 | 秘密はいつか必ず明るみに出る。真実を永遠に隠し通すことはできない |
+| [other-020](../fables/other/other-020-hop-o-my-thumb.md) | 親指小僧 | フランス（ペロー） | 体が小さく軽んじられる者でも、知恵と勇気があれば家族を救い英雄となれる |
+| [other-021](../fables/other/other-021-ivan-the-fool.md) | イワンのばか | ロシア（トルストイ） | ずる賢さではなく、純朴で誠実に額に汗して働く者こそが真の幸福を得る |
+| [other-022](../fables/other/other-022-coyote-steals-fire.md) | コヨーテと火の起源 | ネイティブアメリカン | 共同体のために危険を冒して知恵を使う者は、たとえ狡猾であっても英雄となる |
+| [other-023](../fables/other/other-023-the-hummingbirds-drop.md) | ハチドリのひとしずく | 南米（ケチュア族） | たとえ小さな力でも「自分にできること」をする者こそが世界を変える第一歩となる |
+| [other-024](../fables/other/other-024-the-wings-of-icarus.md) | イカロスの翼 | ギリシャ神話 | 忠告を無視して身の程を超えた高みを目指す者は、自らの傲慢さによって墜落する |
+| [other-025](../fables/other/other-025-the-fisherman-and-the-jinni.md) | 漁師と魔神 | アラビア（千夜一夜） | 力で勝てない相手にも知恵で立ち向かうことができる |
+| [other-026](../fables/other/other-026-the-happy-prince.md) | 幸福の王子 | オスカー・ワイルド | 真の幸福は自らを犠牲にして他者の苦しみを和らげることにある |
+| [other-027](../fables/other/other-027-the-lad-who-went-to-the-north-wind.md) | 北風のくれたテーブルクロス | ノルウェー民話 | 奪われたものは知恵と勇気で取り返すことができ、盗人は必ず報いを受ける |
+| [other-028](../fables/other/other-028-the-empty-pot.md) | 空の鉢 | 中国民話（世界共通） | 失敗を正直に認める勇気こそが、最も価値ある資質である |
+
+<!-- 寓話追加時にここへ行を追加 -->

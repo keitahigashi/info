@@ -8,7 +8,7 @@
 
 - エンコードは必ず UTF-8
 - 重複チェックは必ず実施してから追記（REFERENCES.md で出典を確認）
-- 寓話ファイルは `fables/` ディレクトリ内に配置
+- 寓話ファイルは `fables/{origin}/` ディレクトリ内に配置
 - ファイル命名規則: `{origin}-{3桁連番}-{english-slug}.md`
   - origin例: `aesop`, `japanese`, `grimm`, `andersen`, `chinese`, `indian`, `african`, `other`
 - フロントマター（YAML）は必須。テンプレートに従うこと
@@ -26,9 +26,11 @@
 | パス | 役割 |
 |------|------|
 | `README.md` | プロジェクト概要・収録状況 |
-| `INDEX.md` | 寓話一覧（カテゴリ別） |
-| `REFERENCES.md` | 出典一覧（重複チェックの単一ソース） |
-| `fables/` | 寓話本体（1話1ファイル） |
+| `INDEX.md` | 寓話一覧ハブ（収録状況テーブル + 各カテゴリへのリンク） |
+| `index/` | カテゴリ別の寓話一覧（8ファイル） |
+| `REFERENCES.md` | 出典一覧ハブ（重複チェックの単一ソース + 各カテゴリへのリンク） |
+| `references/` | カテゴリ別の出典一覧（8ファイル） |
+| `fables/{origin}/` | 寓話本体（1話1ファイル、カテゴリ別サブディレクトリ） |
 | `_template.md` | 新規追加用テンプレート |
 | `.claude/skills/fable-collector/SKILL.md` | 自動収集ワークフロー |
 | `log/` | デイリー収集ログ |
