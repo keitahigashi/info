@@ -108,3 +108,8 @@
 | grimm-013 | 白雪姫 | グリム童話 | ja.wikipedia.org, grimmstories.com | 2026-04-01 |
 | andersen-013 | 五つぶのえんどう豆 | アンデルセン童話 | ja.wikipedia.org, aozora.gr.jp | 2026-04-01 |
 | other-013 | 石のスープ | 汎ヨーロッパ民話 | en.wikipedia.org, ATU分類1548 | 2026-04-01 |
+| indian-013 | 猿とくさび | インド寓話 | talesofpanchatantra.com, yousigma.com | 2026-04-01 |
+| indian-014 | 猫の裁判 | インド寓話 | talesofpanchatantra.com, en.wikisource.org | 2026-04-01 |
+| african-013 | アナンシと知恵の壺 | アフリカ民話 | anikefoundation.org, culturesofwestafrica.com | 2026-04-01 |
+| african-014 | ジャッカルとライオン | アフリカ民話 | sacred-texts.com, worldoftales.com | 2026-04-01 |
+| other-014 | サン・カンチルとワニ | マレーシア／インドネシア民話 | aaronshep.com, en.wikipedia.org | 2026-04-01 |

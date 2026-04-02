@@ -1,6 +1,18 @@
 # 寓話一覧
 
-全102話（イソップ13, 日本昔話13, 中国故事13, グリム童話13, アンデルセン童話13, インド寓話12, アフリカ民話12, その他13）
+## 収録状況
+
+| 出典体系 | 件数 |
+|---------|------|
+| イソップ寓話 | 13 |
+| 日本昔話 | 13 |
+| 中国故事 | 13 |
+| グリム童話 | 13 |
+| アンデルセン童話 | 13 |
+| インド寓話 | 14 |
+| アフリカ民話 | 14 |
+| その他 | 14 |
+| **合計** | **107** |
 
 ## イソップ寓話
 
@@ -109,6 +121,8 @@
 | [indian-010](fables/indian-010-the-brahmin-and-the-mongoose.md) | バラモンとマングース | 事実を確認せずに早合点で行動すれば、取り返しのつかない過ちを犯す |
 | [indian-011](fables/indian-011-the-quail-king.md) | ウズラの王 | 団結している限り敵には勝てるが、仲間割れすれば滅びる |
 | [indian-012](fables/indian-012-the-crane-and-the-crab.md) | 鶴と蟹 | 欺く者はいつか観察眼の鋭い者に見破られ、自らの策略で滅びる |
+| [indian-013](fables/indian-013-the-monkey-and-the-wedge.md) | 猿とくさび | 自分に関係のないことに余計な手出しをする者は、必ず災いを招く |
+| [indian-014](fables/indian-014-the-cats-judgement.md) | 猫の裁判 | 争う二者の間に立つ偽善的な仲裁者こそ最も危険であり、外見の敬虔さに騙されてはならない |
 
 ## アフリカ民話
 
@@ -126,6 +140,8 @@
 | [african-010](fables/african-010-why-sun-and-moon-live-in-the-sky.md) | 太陽と月が空に住む理由 | 相手の本質を理解せずに招き入れれば、自分の居場所を失うことになる |
 | [african-011](fables/african-011-fire-on-the-mountain.md) | 山の上の火 | 不正な論理は同じ論理で覆すことができ、知恵は権力に勝る |
 | [african-012](fables/african-012-the-talking-skull.md) | おしゃべりな頭蓋骨 | 口は災いの元であり、語るべきでないことを語れば身を滅ぼす |
+| [african-013](fables/african-013-anansi-and-the-pot-of-wisdom.md) | アナンシと知恵の壺 | 知恵は独占するものではなく分かち合ってこそ価値がある。どんなに賢い者でも他者から学ぶ謙虚さが必要である |
+| [african-014](fables/african-014-the-lion-and-the-jackal.md) | ジャッカルとライオン | 力の強い者が必ずしも勝つとは限らず、知恵と機転は暴力に対する最大の武器である |
 
 ## その他
 
@@ -144,5 +160,6 @@
 | [other-011](fables/other-011-the-three-billy-goats-gruff.md) | 三匹のやぎのがらがらどん | ノルウェー民話 | 欲張りは自らを滅ぼし、知恵と勇気があれば恐ろしい敵にも打ち勝てる |
 | [other-012](fables/other-012-the-monkey-and-the-turtle.md) | 猿と亀 | フィリピン民話 | ずるい者は一時的に得をしても、最後には忍耐強い者に報いを受ける |
 | [other-013](fables/other-013-stone-soup.md) | 石のスープ | 汎ヨーロッパ | 一人では何もできなくても、皆が少しずつ出し合えば豊かなものが生まれる |
+| [other-014](fables/other-014-sang-kancil-and-the-crocodiles.md) | サン・カンチルとワニ | マレーシア／インドネシア | 体の大きさや力ではなく、知恵と機転によって困難を切り抜けることができる |
 
 <!-- 寓話追加時にここへ行を追加 -->
