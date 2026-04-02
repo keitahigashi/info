@@ -4,15 +4,15 @@
 
 | 出典体系 | 件数 |
 |---------|------|
-| イソップ寓話 | 24 |
-| 日本昔話 | 20 |
-| 中国故事 | 21 |
-| グリム童話 | 24 |
-| アンデルセン童話 | 19 |
-| インド寓話 | 18 |
-| アフリカ民話 | 18 |
-| その他 | 23 |
-| **合計** | **167** |
+| イソップ寓話 | 26 |
+| 日本昔話 | 21 |
+| 中国故事 | 24 |
+| グリム童話 | 26 |
+| アンデルセン童話 | 21 |
+| インド寓話 | 19 |
+| アフリカ民話 | 20 |
+| その他 | 25 |
+| **合計** | **182** |
 
 ## イソップ寓話
 
@@ -42,6 +42,8 @@
 | [aesop-022](fables/aesop-022-the-lion-and-the-gnat.md) | ライオンと蚊 | 強敵に勝っても油断すれば、取るに足りない相手に足元をすくわれる |
 | [aesop-023](fables/aesop-023-the-eagle-and-the-crow.md) | ワシとカラス | 強者の真似をしても実力が伴わなければ、かえって惨めな結果を招く |
 | [aesop-024](fables/aesop-024-the-bear-and-the-two-travelers.md) | 熊と旅人 | 危機の時にこそ本当の友が分かる |
+| [aesop-025](fables/aesop-025-the-peacock-and-the-crane.md) | 孔雀と鶴 | 美しい外見よりも実用的な能力のほうが真の価値がある |
+| [aesop-026](fables/aesop-026-the-ass-in-the-lions-skin.md) | ライオンの皮を着たロバ | 他者のふりをしても本性は隠せず、いずれ馬脚を現す |
 
 ## 日本昔話
 
@@ -68,6 +70,7 @@
 | [japanese-018](fables/japanese-018-chikara-taro.md) | 力太郎 | どんな卑しい出自でも、勇気と仲間の力があれば人を救う英雄になれる |
 | [japanese-019](fables/japanese-019-hoichi-the-earless.md) | 耳なし芳一 | 中途半端な備えは思わぬ落とし穴となり、細部の見落としが命取りになる |
 | [japanese-020](fables/japanese-020-the-robe-of-feathers.md) | 天女の羽衣 | 他者の大切なものを奪って引き留めても、真の絆は生まれない |
+| [japanese-021](fables/japanese-021-the-mouses-wedding.md) | ねずみの嫁入り | 世界で一番強い者を探し求めても、本当の幸せは身近なところにある |
 
 ## 中国故事
 
@@ -94,6 +97,9 @@
 | [chinese-019](fables/chinese-019-songs-of-chu-on-all-sides.md) | 四面楚歌 | どれほど強い者でも、味方を失い孤立すれば滅びる |
 | [chinese-020](fables/chinese-020-enemies-in-the-same-boat.md) | 呉越同舟 | 敵同士であっても、共通の危機に直面すれば力を合わせることができる |
 | [chinese-021](fables/chinese-021-three-moves-of-mencius-mother.md) | 孟母三遷 | 人は環境に大きく左右されるため、成長にふさわしい環境を選ぶことが極めて重要である |
+| [chinese-022](fables/chinese-022-covering-ears-to-steal-a-bell.md) | 掩耳盗鈴 | 自分の耳を塞いでも鐘の音は消えない。自己欺瞞で現実は変えられない |
+| [chinese-023](fables/chinese-023-pulling-up-seedlings.md) | 揠苗助長 | 成長には時間が必要であり、焦って無理に促せばかえって台無しになる |
+| [chinese-024](fables/chinese-024-the-man-of-zheng-buys-shoes.md) | 鄭人が靴を買う | 形式にこだわりすぎて臨機応変な対応ができない者は、目の前の問題も解決できない |
 
 ## グリム童話
 
@@ -123,6 +129,8 @@
 | [grimm-022](fables/grimm-022-the-twelve-dancing-princesses.md) | 踊ってすり切れた靴 | 華やかな表面の裏にある真実は、忍耐強い観察と誠実さによってのみ見抜くことができる |
 | [grimm-023](fables/grimm-023-the-hare-and-the-hedgehog.md) | ウサギとハリネズミ | 他者を見下す傲慢さは敗北を招き、知恵と協力は力や速さに勝る |
 | [grimm-024](fables/grimm-024-the-three-feathers.md) | 三枚の鳥の羽 | 愚か者と見なされた者の中にこそ、誠実さと真の価値が隠れていることがある |
+| [grimm-025](fables/grimm-025-the-wolf-and-the-man.md) | 狼と人間 | 自分の強さを過信して未知の相手に挑めば、手痛い敗北を喫する |
+| [grimm-026](fables/grimm-026-jorinde-and-joringel.md) | ヨリンデとヨリンゲル | 愛する者を救うためには、諦めず希望を持ち続け、正しい時を待つ勇気が必要である |
 
 ## アンデルセン童話
 
@@ -147,6 +155,8 @@
 | [andersen-017](fables/andersen-017-the-flying-trunk.md) | 空飛ぶトランク | 虚栄と嘘で得た地位は長続きせず、調子に乗れば全てを失う |
 | [andersen-018](fables/andersen-018-the-daisy.md) | ヒナギク | 小さく目立たない存在にも固有の美しさと価値があり、自由こそが最も大切な宝である |
 | [andersen-019](fables/andersen-019-what-the-old-man-does-is-always-right.md) | お父さんのすることはいつもよい | 互いを信頼し合う絆があれば、世間の価値基準に惑わされず幸福でいられる |
+| [andersen-020](fables/andersen-020-the-snowman.md) | 雪だるま | 自分を滅ぼすものに憧れる危うさを知らねば、望みそのものが命取りとなる |
+| [andersen-021](fables/andersen-021-the-darning-needle.md) | 繕い針 | 身の程を知らない自惚れは、落ちぶれてなお本人だけが気づかない最も滑稽な愚かさである |
 
 ## インド寓話
 
@@ -170,6 +180,7 @@
 | [indian-016](fables/indian-016-the-brahmins-dream.md) | バラモンの夢 | まだ手に入れていないものを当てにして計画を立てれば、すべてを失う |
 | [indian-017](fables/indian-017-the-three-fishes.md) | 三匹の魚 | 危機を予見して先手を打つ者が生き残り、問題を先送りにする者は滅びる |
 | [indian-018](fables/indian-018-the-bird-with-two-heads.md) | 二つの頭を持つ鳥 | 一つの体に属する者同士が争えば、共に滅びる |
+| [indian-019](fables/indian-019-the-four-learned-fools.md) | 四人の学者と獅子 | 知識がどれほど豊富でも、常識と判断力がなければ自らを滅ぼす |
 
 ## アフリカ民話
 
@@ -193,6 +204,8 @@
 | [african-016](fables/african-016-why-the-warthog-goes-on-his-knees.md) | イボイノシシが膝で歩く理由 | 他者のものを奪えば、その報いは永遠に残る |
 | [african-017](fables/african-017-why-cat-and-rat-are-enemies.md) | 猫とネズミが敵になった理由 | 信頼を裏切った者は永遠に許されず、その報いから逃れ続けなければならない |
 | [african-018](fables/african-018-why-spider-has-a-thin-waist.md) | なぜ蜘蛛の腰が細いのか | あれもこれも手に入れようとする貪欲さは、結局すべてを逃し自分を苦しめるだけである |
+| [african-019](fables/african-019-why-the-sky-is-far-away.md) | なぜ空は遠いのか | 自然の恵みを浪費し感謝を忘れれば、やがてその恵みは遠ざかる |
+| [african-020](fables/african-020-the-honeyguides-revenge.md) | 蜜導鳥の復讐 | 助けてくれた者に感謝を忘れれば、次は助けではなく災いに導かれる |
 
 ## その他
 
@@ -221,5 +234,7 @@
 | [other-021](fables/other-021-ivan-the-fool.md) | イワンのばか | ロシア（トルストイ） | ずる賢さではなく、純朴で誠実に額に汗して働く者こそが真の幸福を得る |
 | [other-022](fables/other-022-coyote-steals-fire.md) | コヨーテと火の起源 | ネイティブアメリカン | 共同体のために危険を冒して知恵を使う者は、たとえ狡猾であっても英雄となる |
 | [other-023](fables/other-023-the-hummingbirds-drop.md) | ハチドリのひとしずく | 南米（ケチュア族） | たとえ小さな力でも「自分にできること」をする者こそが世界を変える第一歩となる |
+| [other-024](fables/other-024-the-wings-of-icarus.md) | イカロスの翼 | ギリシャ神話 | 忠告を無視して身の程を超えた高みを目指す者は、自らの傲慢さによって墜落する |
+| [other-025](fables/other-025-the-fisherman-and-the-jinni.md) | 漁師と魔神 | アラビア（千夜一夜） | 力で勝てない相手にも知恵で立ち向かうことができる |
 
 <!-- 寓話追加時にここへ行を追加 -->

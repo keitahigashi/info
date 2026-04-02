@@ -173,3 +173,18 @@
 | chinese-021 | 孟母三遷 | 中国故事 | ja.wikipedia.org, 劉向『列女伝』 | 2026-04-02 |
 | african-018 | なぜ蜘蛛の腰が細いのか | アフリカ民話 | anikefoundation.org, worldoftales.com | 2026-04-02 |
 | grimm-024 | 三枚の鳥の羽 | グリム童話 | grimmstories.com, ja.wikipedia.org | 2026-04-02 |
+| aesop-025 | 孔雀と鶴 | イソップ寓話 | en.wikipedia.org, Perry Index #294 | 2026-04-02 |
+| chinese-022 | 掩耳盗鈴 | 中国故事 | ja.wikipedia.org, 『呂氏春秋』自知篇 | 2026-04-02 |
+| african-019 | なぜ空は遠いのか | アフリカ民話 | en.wikipedia.org, Mary-Joan Gerson絵本 | 2026-04-02 |
+| other-024 | イカロスの翼 | ギリシャ神話 | ja.wikipedia.org, オウィディウス『変身物語』 | 2026-04-02 |
+| andersen-020 | 雪だるま | アンデルセン童話 | ja.wikipedia.org, aozora.gr.jp | 2026-04-02 |
+| chinese-023 | 揠苗助長 | 中国故事 | ja.wikipedia.org, 『孟子』公孫丑篇 | 2026-04-02 |
+| grimm-025 | 狼と人間 | グリム童話 | grimmstories.com, ja.wikipedia.org | 2026-04-02 |
+| indian-019 | 四人の学者と獅子 | インド寓話 | talesofpanchatantra.com, en.wikipedia.org | 2026-04-02 |
+| japanese-021 | ねずみの嫁入り | 日本昔話 | ja.wikipedia.org, 『沙石集』 | 2026-04-02 |
+| other-025 | 漁師と魔神 | アラビア（千夜一夜物語） | ja.wikipedia.org, en.wikipedia.org | 2026-04-02 |
+| aesop-026 | ライオンの皮を着たロバ | イソップ寓話 | en.wikipedia.org, Perry Index #188 | 2026-04-02 |
+| chinese-024 | 鄭人が靴を買う | 中国故事 | ja.wikipedia.org, 『韓非子』外儲説 | 2026-04-02 |
+| andersen-021 | 繕い針 | アンデルセン童話 | ja.wikipedia.org, aozora.gr.jp | 2026-04-02 |
+| african-020 | 蜜導鳥の復讐 | アフリカ民話 | en.wikipedia.org, ボラナ族口承 | 2026-04-02 |
+| grimm-026 | ヨリンデとヨリンゲル | グリム童話 | grimmstories.com, ja.wikipedia.org | 2026-04-02 |
