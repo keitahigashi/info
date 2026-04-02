@@ -32,4 +32,7 @@
 | chinese-026 | 愚公移山 | ja.wikipedia.org, 『列子』湯問篇 | 2026-04-02 |
 | chinese-027 | 亡羊補牢 | ja.wiktionary.org, 『戦国策』楚策四 | 2026-04-02 |
 
+| chinese-028 | 指鹿為馬 | ja.wikipedia.org, 『史記』秦始皇本紀 | 2026-04-02 |
+| chinese-029 | 推敲 | ja.wikipedia.org, 『唐詩紀事』巻40 | 2026-04-02 |
+
 <!-- 出典追加時にここへ行を追加 -->

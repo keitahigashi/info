@@ -1,4 +1,4 @@
-# 日本昔話（25話）
+# 日本昔話（29話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -29,5 +29,11 @@
 | [japanese-023](../fables/japanese/japanese-023-three-paper-charms.md) | 三枚のお札 | 危機に備えて与えられた知恵を正しく使い、最後は経験豊かな師の助けが勝る |
 | [japanese-024](../fables/japanese/japanese-024-the-salt-grinding-mill.md) | 塩ふきうす | 欲張りは身を滅ぼし、正直で分かち合う心が幸福をもたらす |
 | [japanese-025](../fables/japanese/japanese-025-the-listening-hood.md) | 聞き耳頭巾 | 見返りを求めない親切は思いがけない幸運をもたらす |
+
+| [japanese-026](../fables/japanese/japanese-026-the-old-woman-abandoned-in-the-mountains.md) | 姥捨山 | 年長者の経験と知恵は社会にとって不可欠であり、効率や若さだけで人の価値を測ってはならない |
+| [japanese-027](../fables/japanese/japanese-027-the-white-hare-of-inaba.md) | 因幡の白兎 | 嘘やずるい手段は必ず報いを受けるが、困っている者への誠実な思いやりはやがて大きな幸福をもたらす |
+
+| [japanese-028](../fables/japanese/japanese-028-yuki-onna.md) | 雪女 | 約束を破れば大切なものを失い、幸福の中にあっても秘密を守り通す誠実さが求められる |
+| [japanese-029](../fables/japanese/japanese-029-the-red-oni-who-cried.md) | 泣いた赤鬼 | 真の友情とは相手の幸せのために自らを犠牲にすることであり、その尊さに気づいた時にはもう遅いことがある |
 
 <!-- 寓話追加時にここへ行を追加 -->

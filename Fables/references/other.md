@@ -33,4 +33,8 @@
 | other-027 | 北風のくれたテーブルクロス | ノルウェー民話 | en.wikipedia.org, ATU分類563型 | 2026-04-02 |
 | other-028 | 空の鉢 | 中国民話（世界共通） | worldstoriesbank.org, デミ『The Empty Pot』(1990) | 2026-04-02 |
 
+| other-029 | パンドラの箱 | ギリシャ神話 | ja.wikipedia.org, ヘシオドス『仕事と日』 | 2026-04-02 |
+
+| other-030 | 三匹の子ぶた | 英国民話 | en.wikipedia.org, Joseph Jacobs『English Fairy Tales』(1890) | 2026-04-02 |
+
 <!-- 出典追加時にここへ行を追加 -->

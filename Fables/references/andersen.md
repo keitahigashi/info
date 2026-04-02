@@ -30,4 +30,14 @@
 | andersen-024 | 旅の道連れ | ja.wikipedia.org, aozora.gr.jp | 2026-04-02 |
 | andersen-025 | 鐘 | andersen.sdu.dk, アンデルセン(1845) | 2026-04-02 |
 
+| andersen-026 | 小さなクラウスと大きなクラウス | en.wikipedia.org, アンデルセン(1835) | 2026-04-02 |
+
+| andersen-027 | ある母親の物語 | ja.wikipedia.org, アンデルセン(1847) | 2026-04-02 |
+| andersen-028 | コウノトリ | andersenstories.com, アンデルセン(1839) | 2026-04-02 |
+| andersen-029 | 雪の女王 | ja.wikipedia.org, hugkum.sho.jp | 2026-04-02 |
+| andersen-030 | 眠りの精 | hca.gilead.org.il, アンデルセン(1841) | 2026-04-02 |
+| andersen-031 | そばの花 | gutenberg.org, アンデルセン(1841) | 2026-04-02 |
+| andersen-032 | 天国の園 | en.wikisource.org, アンデルセン(1839) | 2026-04-02 |
+| andersen-033 | イーダちゃんの花 | hca.gilead.org.il, アンデルセン(1835) | 2026-04-02 |
+
 <!-- 出典追加時にここへ行を追加 -->

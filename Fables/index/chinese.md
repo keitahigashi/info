@@ -1,4 +1,4 @@
-# 中国故事（27話）
+# 中国故事（29話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -31,5 +31,8 @@
 | [chinese-025](../fables/chinese/chinese-025-crowing-like-a-rooster-stealing-like-a-dog.md) | 鶏鳴狗盗 | 卑しいと見なされる才能でも、いざという時に主人の命を救うことがある |
 | [chinese-026](../fables/chinese/chinese-026-the-foolish-old-man-removes-the-mountains.md) | 愚公移山 | どんなに困難な事業でも、揺るがぬ決意と世代を超えた努力で必ず成し遂げられる |
 | [chinese-027](../fables/chinese/chinese-027-mending-the-fold-after-losing-sheep.md) | 亡羊補牢 | 失敗した後でも対策を講じることは決して遅くない |
+
+| [chinese-028](../fables/chinese/chinese-028-calling-a-deer-a-horse.md) | 指鹿為馬 | 権力者が黒を白と言い張れば周囲は真実を曲げて追従するが、事実を事実と言えない組織は必ず滅びる |
+| [chinese-029](../fables/chinese/chinese-029-deliberation.md) | 推敲 | 優れた表現は何度も練り直してこそ生まれ、身分を超えて良いものを認め合う姿勢が互いを高める |
 
 <!-- 寓話追加時にここへ行を追加 -->

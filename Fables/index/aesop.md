@@ -1,4 +1,4 @@
-# イソップ寓話（29話）
+# イソップ寓話（35話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -33,5 +33,12 @@
 | [aesop-027](../fables/aesop/aesop-027-the-horse-and-the-stag.md) | 馬と鹿 | 復讐のために他者の力を借りれば、自らの自由を失うことになる |
 | [aesop-028](../fables/aesop/aesop-028-the-two-frogs.md) | 二匹のカエル | 行動する前に結果を考えなければ、逃げ場のない窮地に陥る |
 | [aesop-029](../fables/aesop/aesop-029-the-bundle-of-sticks.md) | 束ねた棒 | 団結していれば折れないが、バラバラになれば簡単に折られる |
+
+| [aesop-030](../fables/aesop/aesop-030-the-dog-and-the-wolf.md) | 犬とオオカミ | どんなに豊かな暮らしでも、自由を失っては真の幸福とは言えない |
+| [aesop-031](../fables/aesop/aesop-031-the-man-and-the-satyr.md) | 人間とサテュロス | 同じ口から都合に応じて正反対のことを言う者は信用されない |
+| [aesop-032](../fables/aesop/aesop-032-the-tortoise-and-the-eagle.md) | カメとワシ | 身の程をわきまえない野望は破滅を招く |
+| [aesop-033](../fables/aesop/aesop-033-the-two-crabs.md) | 二匹のカニ | 人に教えたいなら、まず自分が手本を示さなければ説得力はない |
+| [aesop-034](../fables/aesop/aesop-034-the-milkmaid-and-her-pail.md) | 牛乳売りの娘 | まだ手に入っていないものを当てにして夢想すれば、今あるものさえ失う |
+| [aesop-035](../fables/aesop/aesop-035-the-wolf-and-the-crane.md) | オオカミとサギ | 悪者に恩を売っても感謝は返らず、無事に済んだだけで幸運と思え |
 
 <!-- 寓話追加時にここへ行を追加 -->

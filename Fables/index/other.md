@@ -1,4 +1,4 @@
-# その他（28話）
+# その他（30話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -32,5 +32,9 @@
 | [other-026](../fables/other/other-026-the-happy-prince.md) | 幸福の王子 | オスカー・ワイルド | 真の幸福は自らを犠牲にして他者の苦しみを和らげることにある |
 | [other-027](../fables/other/other-027-the-lad-who-went-to-the-north-wind.md) | 北風のくれたテーブルクロス | ノルウェー民話 | 奪われたものは知恵と勇気で取り返すことができ、盗人は必ず報いを受ける |
 | [other-028](../fables/other/other-028-the-empty-pot.md) | 空の鉢 | 中国民話（世界共通） | 失敗を正直に認める勇気こそが、最も価値ある資質である |
+
+| [other-029](../fables/other/other-029-pandoras-box.md) | パンドラの箱 | ギリシャ神話 | 禁じられたものへの好奇心は災いを招くが、どんな絶望の中にも希望は残されている |
+
+| [other-030](../fables/other/other-030-the-three-little-pigs.md) | 三匹の子ぶた | 英国民話 | 手間を惜しまず堅実に努力した者だけが、いざという時に身を守ることができる |
 
 <!-- 寓話追加時にここへ行を追加 -->

@@ -1,4 +1,4 @@
-# アンデルセン童話（25話）
+# アンデルセン童話（33話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -29,5 +29,15 @@
 | [andersen-023](../fables/andersen/andersen-023-the-teapot.md) | 茶びん | 傲慢さは没落を招くが、逆境の中で他者に尽くすことで真の充実を見出せる |
 | [andersen-024](../fables/andersen/andersen-024-the-travelling-companion.md) | 旅の道連れ | 見返りを求めない善行は思いもよらない形で報われる |
 | [andersen-025](../fables/andersen/andersen-025-the-bell.md) | 鐘 | 安易に妥協せず最後まで求め続ける者だけが真理にたどり着ける |
+
+| [andersen-026](../fables/andersen/andersen-026-little-claus-and-big-claus.md) | 小さなクラウスと大きなクラウス | 知恵と機転は力や財力に勝り、強欲に駆られて他者を真似る者は身を滅ぼす |
+
+| [andersen-027](../fables/andersen/andersen-027-the-story-of-a-mother.md) | ある母親の物語 | 愛する者を守りたいという想いがどれほど強くても、運命を変えることはできず、手放す勇気もまた愛の一つの形である |
+| [andersen-028](../fables/andersen/andersen-028-the-storks.md) | コウノトリ | 他者を嘲り傷つける者には相応の報いが訪れ、優しさと思いやりは確かな恵みをもたらす |
+| [andersen-029](../fables/andersen/andersen-029-the-snow-queen.md) | 雪の女王 | 純粋な愛と勇気は、どんな冷たい魔法をも打ち破る力を持つ |
+| [andersen-030](../fables/andersen/andersen-030-ole-luk-oie.md) | 眠りの精 | 善良に生きる者には美しい夢が与えられ、怠惰や不誠実には何も与えられない |
+| [andersen-031](../fables/andersen/andersen-031-the-buckwheat.md) | そばの花 | 傲慢に天を仰ぐ者は雷に打たれ、謙虚に頭を垂れる者は嵐を無事にやり過ごす |
+| [andersen-032](../fables/andersen/andersen-032-the-garden-of-paradise.md) | 天国の園 | 禁じられた誘惑に負ければ楽園を失い、真の楽園は正しく生きた先にしか開かれない |
+| [andersen-033](../fables/andersen/andersen-033-little-idas-flowers.md) | イーダちゃんの花 | 子どもの純粋な感受性は、大人が見過ごすものの中にも命と美しさを見出す |
 
 <!-- 寓話追加時にここへ行を追加 -->

@@ -1,4 +1,4 @@
-# アフリカ民話（25話）
+# アフリカ民話（28話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -29,5 +29,10 @@
 | [african-023](../fables/african/african-023-the-man-who-never-lied.md) | 嘘をつかなかった男 | 正直とは自分が見ていないことまで断言しない知恵のことである |
 | [african-024](../fables/african/african-024-the-calabash-kids.md) | ひょうたんの子供たち | 怒りに任せた言葉は取り返しのつかない結果を招く |
 | [african-025](../fables/african/african-025-demane-and-demazana.md) | デマネとデマザナ | 忠告を守ることが身を守り、家族の絆と機転が困難を乗り越える |
+
+| [african-026](../fables/african/african-026-the-name-of-the-tree.md) | 木の名前 | 速さや力よりも注意深さと忍耐が物事を成し遂げる |
+
+| [african-027](../fables/african/african-027-the-kings-magic-drum.md) | 王の魔法のドラム | 恵みには守るべき条件が伴い、貪欲に駆られてそれを破れば恵みそのものを失う |
+| [african-028](../fables/african/african-028-why-the-dog-lives-with-man.md) | なぜ犬は人と暮らすのか | 困難の中で互いを必要とした経験が、かつての敵同士をも固い絆で結びつける |
 
 <!-- 寓話追加時にここへ行を追加 -->

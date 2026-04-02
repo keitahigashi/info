@@ -1,4 +1,4 @@
-# インド寓話（25話）
+# インド寓話（28話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -29,5 +29,10 @@
 | [indian-023](../fables/indian/indian-023-the-mice-that-ate-iron.md) | 鉄の秤を食べたネズミ | 嘘をつけば同じ手口で報いを受ける |
 | [indian-024](../fables/indian/indian-024-king-shibi-and-the-dove.md) | シビ王の鳩と鷹 | 真の慈悲とは自らの身をもって命の等しさを示すことである |
 | [indian-025](../fables/indian/indian-025-the-elephant-and-the-sparrow.md) | 雀と象 | 小さな者でも団結し知恵を使えば巨大な敵に打ち勝てる |
+
+| [indian-026](../fables/indian/indian-026-the-cap-seller-and-the-monkeys.md) | 猿と帽子売り | 力ずくでは解決できない問題も、相手の性質をよく観察すれば知恵で解決できる |
+
+| [indian-027](../fables/indian/indian-027-the-old-blind-vulture.md) | 盲目の禿鷲 | 素性をよく知らない者を口先の巧みさだけで信用すれば、無実の者に罪を着せられ身を滅ぼす |
+| [indian-028](../fables/indian/indian-028-the-elephant-and-the-tailor.md) | 象と仕立屋 | 友好的な関係を裏切って危害を加える者は、同じ形で報いを受ける |
 
 <!-- 寓話追加時にここへ行を追加 -->

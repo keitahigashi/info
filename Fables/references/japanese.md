@@ -30,4 +30,10 @@
 | japanese-024 | 塩ふきうす | folktalesjpn.com, ja.wikipedia.org | 2026-04-02 |
 | japanese-025 | 聞き耳頭巾 | ja.wikipedia.org, folktalesjpn.com | 2026-04-02 |
 
+| japanese-026 | 姥捨山 | ja.wikipedia.org, 『大和物語』姨捨段 | 2026-04-02 |
+| japanese-027 | 因幡の白兎 | ja.wikipedia.org, 『古事記』上巻 | 2026-04-02 |
+
+| japanese-028 | 雪女 | ja.wikipedia.org, 小泉八雲『怪談』(1904) | 2026-04-02 |
+| japanese-029 | 泣いた赤鬼 | ja.wikipedia.org, 浜田廣介(1933) | 2026-04-02 |
+
 <!-- 出典追加時にここへ行を追加 -->

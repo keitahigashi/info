@@ -33,4 +33,8 @@
 | grimm-027 | 狐と猫 | grimmstories.com, KHM 75 | 2026-04-02 |
 | grimm-028 | 命の水 | grimmstories.com, KHM 97 | 2026-04-02 |
 
+| grimm-029 | 忠実なヨハネス | grimmstories.com, KHM 6 | 2026-04-02 |
+
+| grimm-030 | おいぼれスルタン | grimmstories.com, KHM 48 | 2026-04-02 |
+
 <!-- 出典追加時にここへ行を追加 -->

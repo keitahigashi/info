@@ -30,4 +30,9 @@
 | indian-024 | シビ王の鳩と鷹 | ja.wikipedia.org, ジャータカ第499話 | 2026-04-02 |
 | indian-025 | 雀と象 | talesofpanchatantra.com, culturalindia.net | 2026-04-02 |
 
+| indian-026 | 猿と帽子売り | en.wikipedia.org, Slobodkina『Caps for Sale』(1938) | 2026-04-02 |
+
+| indian-027 | 盲目の禿鷲 | culturalindia.net, 『ヒトーパデーシャ』 | 2026-04-02 |
+| indian-028 | 象と仕立屋 | firstcry.com, kathakids.com | 2026-04-02 |
+
 <!-- 出典追加時にここへ行を追加 -->

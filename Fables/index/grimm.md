@@ -1,4 +1,4 @@
-# グリム童話（28話）
+# グリム童話（30話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -32,5 +32,9 @@
 | [grimm-026](../fables/grimm/grimm-026-jorinde-and-joringel.md) | ヨリンデとヨリンゲル | 愛する者を救うためには、諦めず希望を持ち続け、正しい時を待つ勇気が必要である |
 | [grimm-027](../fables/grimm/grimm-027-the-fox-and-the-cat.md) | 狐と猫 | 百の策略を知っていても実行できなければ、たった一つの確実な技に劣る |
 | [grimm-028](../fables/grimm/grimm-028-the-water-of-life.md) | 命の水 | 誠実さと思いやりは試練を乗り越える鍵であり、裏切る者はいずれ報いを受ける |
+
+| [grimm-029](../fables/grimm/grimm-029-faithful-johannes.md) | 忠実なヨハネス | 真の忠誠は自らの身を犠牲にしてでも主を守ることであり、その犠牲は信頼と愛によって報われる |
+
+| [grimm-030](../fables/grimm/grimm-030-old-sultan.md) | おいぼれスルタン | 長年忠実に仕えた者を年老いたからといって切り捨ててはならず、知恵と友情があれば老いてなお価値を示せる |
 
 <!-- 寓話追加時にここへ行を追加 -->

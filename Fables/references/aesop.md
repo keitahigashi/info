@@ -34,4 +34,11 @@
 | aesop-028 | 二匹のカエル | en.wikipedia.org, Perry Index #43 | 2026-04-02 |
 | aesop-029 | 束ねた棒 | en.wikipedia.org, Perry Index #53 | 2026-04-02 |
 
+| aesop-030 | 犬とオオカミ | en.wikipedia.org, Perry Index #346 | 2026-04-02 |
+| aesop-031 | 人間とサテュロス | fablesofaesop.com, Perry Index #35 | 2026-04-02 |
+| aesop-032 | カメとワシ | fablesofaesop.com, Perry Index #230 | 2026-04-02 |
+| aesop-033 | 二匹のカニ | americanliterature.com, Perry Index #322 | 2026-04-02 |
+| aesop-034 | 牛乳売りの娘 | La Fontaine『Fables』VII-10, Perry Index | 2026-04-02 |
+| aesop-035 | オオカミとサギ | fablesofaesop.com, Perry Index #156 | 2026-04-02 |
+
 <!-- 出典追加時にここへ行を追加 -->

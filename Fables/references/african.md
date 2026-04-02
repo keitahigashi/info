@@ -30,4 +30,9 @@
 | african-024 | ひょうたんの子供たち | anikefoundation.org, aaronshep.com | 2026-04-02 |
 | african-025 | デマネとデマザナ | sacred-texts.com, G.M.Theal『Xhosa Folk-Lore』(1882) | 2026-04-02 |
 
+| african-026 | 木の名前 | en.wikipedia.org, バントゥー系口承 | 2026-04-02 |
+
+| african-027 | 王の魔法のドラム | worldoftales.com, Dayrell『Folk Stories from Southern Nigeria』(1910) | 2026-04-02 |
+| african-028 | なぜ犬は人と暮らすのか | Woodson『African Myths and Proverbs』, アフリカ各地の口承 | 2026-04-02 |
+
 <!-- 出典追加時にここへ行を追加 -->
