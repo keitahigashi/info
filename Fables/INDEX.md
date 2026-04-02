@@ -6,13 +6,13 @@
 |---------|------|
 | イソップ寓話 | 21 |
 | 日本昔話 | 16 |
-| 中国故事 | 17 |
+| 中国故事 | 20 |
 | グリム童話 | 18 |
 | アンデルセン童話 | 15 |
-| インド寓話 | 14 |
+| インド寓話 | 15 |
 | アフリカ民話 | 14 |
-| その他 | 17 |
-| **合計** | **132** |
+| その他 | 18 |
+| **合計** | **137** |
 
 ## イソップ寓話
 
@@ -83,6 +83,9 @@
 | [chinese-015](fables/chinese-015-sleeping-on-firewood-and-tasting-gall.md) | 臥薪嘗胆 | 目的を達するためには長期間の苦労と忍耐を厭わない覚悟が必要である |
 | [chinese-016](fables/chinese-016-better-a-roosters-head.md) | 鶏口牛後 | 大きな組織の末端で埋もれるよりも、小さな組織の長として自らの力を発揮すべきである |
 | [chinese-017](fables/chinese-017-the-mantis-stalks-the-cicada.md) | 蟷螂の斧 | 自分の力を過信して強大な相手に無謀に立ち向かえば、身を滅ぼすだけである |
+| [chinese-018](fables/chinese-018-fight-with-back-to-the-river.md) | 背水の陣 | 退路を断つ覚悟が全力を引き出し、不可能を可能にする |
+| [chinese-019](fables/chinese-019-songs-of-chu-on-all-sides.md) | 四面楚歌 | どれほど強い者でも、味方を失い孤立すれば滅びる |
+| [chinese-020](fables/chinese-020-enemies-in-the-same-boat.md) | 呉越同舟 | 敵同士であっても、共通の危機に直面すれば力を合わせることができる |
 
 ## グリム童話
 
@@ -145,6 +148,7 @@
 | [indian-012](fables/indian-012-the-crane-and-the-crab.md) | 鶴と蟹 | 欺く者はいつか観察眼の鋭い者に見破られ、自らの策略で滅びる |
 | [indian-013](fables/indian-013-the-monkey-and-the-wedge.md) | 猿とくさび | 自分に関係のないことに余計な手出しをする者は、必ず災いを招く |
 | [indian-014](fables/indian-014-the-cats-judgement.md) | 猫の裁判 | 争う二者の間に立つ偽善的な仲裁者こそ最も危険であり、外見の敬虔さに騙されてはならない |
+| [indian-015](fables/indian-015-the-doves-and-the-hunter.md) | 鳩の王と猟師の網 | 団結すれば罠からも逃れられるが、バラバラでは一匹ずつ捕らわれる |
 
 ## アフリカ民話
 
@@ -186,5 +190,6 @@
 | [other-015](fables/other-015-puss-in-boots.md) | 長靴をはいた猫 | フランス（ペロー） | 財産や家柄よりも知恵と機転を活かす力のほうが人生を切り開く武器となる |
 | [other-016](fables/other-016-bluebeard.md) | 青ひげ | フランス（ペロー） | 好奇心は人の本性だが、禁じられたものに手を出せば取り返しのつかない代償を払うことがある |
 | [other-017](fables/other-017-the-enormous-turnip.md) | おおきなかぶ | ロシア民話 | 一人では成し遂げられないことも、みんなで力を合わせれば必ず実現できる |
+| [other-018](fables/other-018-ali-baba-and-the-forty-thieves.md) | アリ・ババと四十人の盗賊 | アラビア（千夜一夜） | 欲深さは身を滅ぼし、忠義と機転こそが主人と家族を救う |
 
 <!-- 寓話追加時にここへ行を追加 -->

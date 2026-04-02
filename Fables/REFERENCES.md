@@ -138,3 +138,8 @@
 | other-017 | おおきなかぶ | ロシア民話 | ja.wikipedia.org, fukuinkan.co.jp | 2026-04-02 |
 | japanese-016 | 三年寝太郎 | 日本昔話 | ja.wikipedia.org, kotonohaweb.net | 2026-04-02 |
 | grimm-018 | 七羽のカラス | グリム童話 | ja.wikipedia.org, grimmstories.com | 2026-04-02 |
+| chinese-018 | 背水の陣 | 中国故事 | chugokugo-script.net, ja.wikipedia.org | 2026-04-02 |
+| chinese-019 | 四面楚歌 | 中国故事 | chugokugo-script.net, ja.wikipedia.org | 2026-04-02 |
+| chinese-020 | 呉越同舟 | 中国故事 | chugokugo-script.net, ja.wikipedia.org | 2026-04-02 |
+| indian-015 | 鳩の王と猟師の網 | インド寓話 | ja.wikipedia.org, chimesradio.com | 2026-04-02 |
+| other-018 | アリ・ババと四十人の盗賊 | アラビア（千夜一夜物語） | ja.wikipedia.org, honcierge.jp | 2026-04-02 |
