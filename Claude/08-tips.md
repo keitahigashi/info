@@ -298,4 +298,16 @@ AI Native社が105+Skillsを4カテゴリ（開発40/コンテンツ37/SEO15/基
 コーディングエージェントの3課題を体系化: (1) コンテキスト忘却→構造化ノート(`.steering/`)＋サブエージェント分離 (2) 意図不一致→Skills(3切り口: 成果物・タスク・ドメイン)＋Hooks(絶対ルール強制) (3) 外部連携不能→MCP＋CLIツール。段階的導入順: CLAUDE.md→Skills→Hooks→MCP。機能選択の判断基準表付き。
 > 詳細: メモリ内 `reference_practical_claude_code_introduction.md` を参照
 
+### Claude Code全社導入の意思決定（自動収集 2026-04-02）
+Web受託開発Gemcookの導入史: Copilot(2023/02, 効果限定的)→Devin(2025/01, 期待より限定的)→Claude Code実験(2025/02, 「6-7割をAIに任せられる」)→全社導入(2026/02)。選定理由: 実装品質と速度のバランス・普及度・Teamプラン運用性。教訓: 「1-2ヶ月で導入是非を判断」「完璧な決定を待たない」。
+> 詳細: メモリ内 `reference_claude_code_company_wide_gemcook.md` を参照
+
+### Claude Codeでできること20選（自動収集 2026-04-02）
+4カテゴリ20機能: 開発7(コード生成・リファクタ・テスト・デバッグ・Git・APIドキュメント・レビュー)、ビジネス6(データ分析・レポート・営業メール・議事録・企画書・契約書)、クリエイティブ4(ブログ・画像分析・翻訳・プレゼン)、運用3(デプロイ・セキュリティチェック・バッチ処理)。各機能にコピペ可能なプロンプト例付き。「Codeはあらゆる構造化された作業の自動化を意味する」。
+> 詳細: メモリ内 `reference_claude_code_features_20_uravation.md` を参照
+
+### Claude Code完全入門ガイド 2.7万文字（自動収集 2026-04-02）
+バイブコーディング5ステップ: (1)目的整理 (2)GPT-5 deep Researchで要件明確化 (3)Best practicesをシステムプロンプトに (4)Maxプランで開発 (5)CodeXでエラー対応。月額400円活用術（API従量課金最適化）。おすすめSkills・SubAgents情報。SaaSの未来展望。
+> 詳細: メモリ内 `reference_claude_code_complete_guide_chaen.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->

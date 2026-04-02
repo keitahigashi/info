@@ -109,4 +109,12 @@ API料金(Bedrock経由、100万トークンあたり): Opus 4.6 入力$5/出力
 ファイルシステムに直接アクセスして自律的に業務実行するエージェント型AI。サンドボックス（仮想マシン）で安全に動作。要件: Windows 11 + Intel VT-x/AMD-V + 5GB以上（ARM64未サポート）。画像リサイズ等のファイル操作を自律実行。グローバル指示設定、スケジュール実行（Googleカレンダー連携）対応。有料プラン（Pro/Max/Team/Enterprise）必須。
 > 詳細: メモリ内 `reference_claude_cowork_windows_guide.md` を参照
 
+### Claude最新情報 2026年4月1日速報（自動収集 2026-04-02）
+API大型アップデート: (1) Compaction API（Opus 4.6 Beta）でサーバーサイド自動コンテキスト要約→事実上無制限の会話継続 (2) 1Mトークンベータが4/30終了→Sonnet 4.6/Opus 4.6への移行必要 (3) inference_geoパラメータでUS限定推論（1.1倍価格）のデータレジデンシー対応 (4) Web Fetchツール（Beta）でページ/PDF直接取得。Claude Code改善: 最大出力128kトークン、allowRead設定、/copy N拡張。
+> 詳細: メモリ内 `reference_claude_news_20260401_elni.md` を参照
+
+### Claude Codeを知る 2026年版（自動収集 2026-04-02）
+Claude（会話型AI・参照のみ）とClaude Code（実行型AI・ファイル編集/コマンド実行/Git操作可能）の明確な比較。基本機能5つ（コード作成・バグ修正・Git自動化・テスト・リファクタリング）と上級機能9つ（CLAUDE.md・MCP・Hooks・Skills・サブエージェント・エージェントチーム・CI/CD・Cowork・セキュリティ）を体系整理。利用環境: CLI/VS Code/JetBrains/Web/iOS/デスクトップ。
+> 詳細: メモリ内 `reference_claude_code_know_developersio.md` を参照
+
 <!-- 日常で得た知見をここに追記 -->
