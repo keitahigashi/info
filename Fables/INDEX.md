@@ -4,15 +4,15 @@
 
 | 出典体系 | 件数 |
 |---------|------|
-| イソップ寓話 | 23 |
-| 日本昔話 | 19 |
-| 中国故事 | 20 |
-| グリム童話 | 22 |
-| アンデルセン童話 | 18 |
-| インド寓話 | 17 |
-| アフリカ民話 | 16 |
-| その他 | 22 |
-| **合計** | **157** |
+| イソップ寓話 | 24 |
+| 日本昔話 | 20 |
+| 中国故事 | 21 |
+| グリム童話 | 24 |
+| アンデルセン童話 | 19 |
+| インド寓話 | 18 |
+| アフリカ民話 | 18 |
+| その他 | 23 |
+| **合計** | **167** |
 
 ## イソップ寓話
 
@@ -41,6 +41,7 @@
 | [aesop-021](fables/aesop-021-the-ant-and-the-dove.md) | アリとハト | どんなに小さな親切でも、巡り巡って大きな恩返しとなって返ってくる |
 | [aesop-022](fables/aesop-022-the-lion-and-the-gnat.md) | ライオンと蚊 | 強敵に勝っても油断すれば、取るに足りない相手に足元をすくわれる |
 | [aesop-023](fables/aesop-023-the-eagle-and-the-crow.md) | ワシとカラス | 強者の真似をしても実力が伴わなければ、かえって惨めな結果を招く |
+| [aesop-024](fables/aesop-024-the-bear-and-the-two-travelers.md) | 熊と旅人 | 危機の時にこそ本当の友が分かる |
 
 ## 日本昔話
 
@@ -66,6 +67,7 @@
 | [japanese-017](fables/japanese-017-the-waterfall-of-yoro.md) | 養老の滝 | 親を思う誠実な心は天に通じ、奇跡を呼ぶ |
 | [japanese-018](fables/japanese-018-chikara-taro.md) | 力太郎 | どんな卑しい出自でも、勇気と仲間の力があれば人を救う英雄になれる |
 | [japanese-019](fables/japanese-019-hoichi-the-earless.md) | 耳なし芳一 | 中途半端な備えは思わぬ落とし穴となり、細部の見落としが命取りになる |
+| [japanese-020](fables/japanese-020-the-robe-of-feathers.md) | 天女の羽衣 | 他者の大切なものを奪って引き留めても、真の絆は生まれない |
 
 ## 中国故事
 
@@ -91,6 +93,7 @@
 | [chinese-018](fables/chinese-018-fight-with-back-to-the-river.md) | 背水の陣 | 退路を断つ覚悟が全力を引き出し、不可能を可能にする |
 | [chinese-019](fables/chinese-019-songs-of-chu-on-all-sides.md) | 四面楚歌 | どれほど強い者でも、味方を失い孤立すれば滅びる |
 | [chinese-020](fables/chinese-020-enemies-in-the-same-boat.md) | 呉越同舟 | 敵同士であっても、共通の危機に直面すれば力を合わせることができる |
+| [chinese-021](fables/chinese-021-three-moves-of-mencius-mother.md) | 孟母三遷 | 人は環境に大きく左右されるため、成長にふさわしい環境を選ぶことが極めて重要である |
 
 ## グリム童話
 
@@ -118,6 +121,8 @@
 | [grimm-020](fables/grimm-020-the-brave-little-tailor.md) | 勇ましいちびの仕立て屋 | 知恵と自信があれば、体の大きさや身分に関係なく巨人にも勝てる |
 | [grimm-021](fables/grimm-021-godfather-death.md) | 死神の名付け親 | 定められた約束やルールを破れば、どんな力も地位も自分を守ってくれない |
 | [grimm-022](fables/grimm-022-the-twelve-dancing-princesses.md) | 踊ってすり切れた靴 | 華やかな表面の裏にある真実は、忍耐強い観察と誠実さによってのみ見抜くことができる |
+| [grimm-023](fables/grimm-023-the-hare-and-the-hedgehog.md) | ウサギとハリネズミ | 他者を見下す傲慢さは敗北を招き、知恵と協力は力や速さに勝る |
+| [grimm-024](fables/grimm-024-the-three-feathers.md) | 三枚の鳥の羽 | 愚か者と見なされた者の中にこそ、誠実さと真の価値が隠れていることがある |
 
 ## アンデルセン童話
 
@@ -141,6 +146,7 @@
 | [andersen-016](fables/andersen-016-the-wild-swans.md) | 野の白鳥 | 愛する者を救うために沈黙と苦痛に耐え抜く自己犠牲こそが、最も強い力となる |
 | [andersen-017](fables/andersen-017-the-flying-trunk.md) | 空飛ぶトランク | 虚栄と嘘で得た地位は長続きせず、調子に乗れば全てを失う |
 | [andersen-018](fables/andersen-018-the-daisy.md) | ヒナギク | 小さく目立たない存在にも固有の美しさと価値があり、自由こそが最も大切な宝である |
+| [andersen-019](fables/andersen-019-what-the-old-man-does-is-always-right.md) | お父さんのすることはいつもよい | 互いを信頼し合う絆があれば、世間の価値基準に惑わされず幸福でいられる |
 
 ## インド寓話
 
@@ -163,6 +169,7 @@
 | [indian-015](fables/indian-015-the-doves-and-the-hunter.md) | 鳩の王と猟師の網 | 団結すれば罠からも逃れられるが、バラバラでは一匹ずつ捕らわれる |
 | [indian-016](fables/indian-016-the-brahmins-dream.md) | バラモンの夢 | まだ手に入れていないものを当てにして計画を立てれば、すべてを失う |
 | [indian-017](fables/indian-017-the-three-fishes.md) | 三匹の魚 | 危機を予見して先手を打つ者が生き残り、問題を先送りにする者は滅びる |
+| [indian-018](fables/indian-018-the-bird-with-two-heads.md) | 二つの頭を持つ鳥 | 一つの体に属する者同士が争えば、共に滅びる |
 
 ## アフリカ民話
 
@@ -184,6 +191,8 @@
 | [african-014](fables/african-014-the-lion-and-the-jackal.md) | ジャッカルとライオン | 力の強い者が必ずしも勝つとは限らず、知恵と機転は暴力に対する最大の武器である |
 | [african-015](fables/african-015-anansi-and-the-turtle.md) | アナンシとカメの食事 | 他人を騙して出し抜こうとする者は、やがて同じ手口で仕返しされる |
 | [african-016](fables/african-016-why-the-warthog-goes-on-his-knees.md) | イボイノシシが膝で歩く理由 | 他者のものを奪えば、その報いは永遠に残る |
+| [african-017](fables/african-017-why-cat-and-rat-are-enemies.md) | 猫とネズミが敵になった理由 | 信頼を裏切った者は永遠に許されず、その報いから逃れ続けなければならない |
+| [african-018](fables/african-018-why-spider-has-a-thin-waist.md) | なぜ蜘蛛の腰が細いのか | あれもこれも手に入れようとする貪欲さは、結局すべてを逃し自分を苦しめるだけである |
 
 ## その他
 
@@ -211,5 +220,6 @@
 | [other-020](fables/other-020-hop-o-my-thumb.md) | 親指小僧 | フランス（ペロー） | 体が小さく軽んじられる者でも、知恵と勇気があれば家族を救い英雄となれる |
 | [other-021](fables/other-021-ivan-the-fool.md) | イワンのばか | ロシア（トルストイ） | ずる賢さではなく、純朴で誠実に額に汗して働く者こそが真の幸福を得る |
 | [other-022](fables/other-022-coyote-steals-fire.md) | コヨーテと火の起源 | ネイティブアメリカン | 共同体のために危険を冒して知恵を使う者は、たとえ狡猾であっても英雄となる |
+| [other-023](fables/other-023-the-hummingbirds-drop.md) | ハチドリのひとしずく | 南米（ケチュア族） | たとえ小さな力でも「自分にできること」をする者こそが世界を変える第一歩となる |
 
 <!-- 寓話追加時にここへ行を追加 -->

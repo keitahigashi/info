@@ -163,3 +163,13 @@
 | grimm-022 | 踊ってすり切れた靴 | グリム童話 | grimmstories.com, ja.wikipedia.org | 2026-04-02 |
 | andersen-018 | ヒナギク | アンデルセン童話 | ja.wikipedia.org, aozora.gr.jp | 2026-04-02 |
 | other-022 | コヨーテと火の起源 | ネイティブアメリカン | en.wikipedia.org, firstpeople.us | 2026-04-02 |
+| aesop-024 | 熊と旅人 | イソップ寓話 | ja.wikipedia.org, en.wikipedia.org | 2026-04-02 |
+| grimm-023 | ウサギとハリネズミ | グリム童話 | en.wikipedia.org, grimmstories.com | 2026-04-02 |
+| andersen-019 | お父さんのすることはいつもよい | アンデルセン童話 | ja.wikipedia.org, aozora.gr.jp | 2026-04-02 |
+| other-023 | ハチドリのひとしずく | 南米（ケチュア族） | amazon.co.jp, ワンガリ・マータイ紹介 | 2026-04-02 |
+| african-017 | 猫とネズミが敵になった理由 | アフリカ民話 | worldoftales.com, anikefoundation.org | 2026-04-02 |
+| indian-018 | 二つの頭を持つ鳥 | インド寓話 | talesofpanchatantra.com, en.wikipedia.org | 2026-04-02 |
+| japanese-020 | 天女の羽衣 | 日本昔話 | ja.wikipedia.org, 謡曲『羽衣』 | 2026-04-02 |
+| chinese-021 | 孟母三遷 | 中国故事 | ja.wikipedia.org, 劉向『列女伝』 | 2026-04-02 |
+| african-018 | なぜ蜘蛛の腰が細いのか | アフリカ民話 | anikefoundation.org, worldoftales.com | 2026-04-02 |
+| grimm-024 | 三枚の鳥の羽 | グリム童話 | grimmstories.com, ja.wikipedia.org | 2026-04-02 |
