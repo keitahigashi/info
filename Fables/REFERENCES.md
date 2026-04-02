@@ -133,3 +133,8 @@
 | andersen-015 | 影法師 | アンデルセン童話 | aozora.gr.jp, ja.wikipedia.org | 2026-04-02 |
 | japanese-015 | 金太郎 | 日本昔話 | ja.wikipedia.org, kotonohaweb.net | 2026-04-02 |
 | grimm-017 | おいしいおかゆ | グリム童話 | grimmstories.com, ja.wikipedia.org | 2026-04-02 |
+| aesop-020 | キツネとコウノトリ | イソップ寓話 | omcha.jp, en.wikipedia.org | 2026-04-02 |
+| aesop-021 | アリとハト | イソップ寓話 | satonavi.com, en.wikipedia.org | 2026-04-02 |
+| other-017 | おおきなかぶ | ロシア民話 | ja.wikipedia.org, fukuinkan.co.jp | 2026-04-02 |
+| japanese-016 | 三年寝太郎 | 日本昔話 | ja.wikipedia.org, kotonohaweb.net | 2026-04-02 |
+| grimm-018 | 七羽のカラス | グリム童話 | ja.wikipedia.org, grimmstories.com | 2026-04-02 |
