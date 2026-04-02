@@ -118,3 +118,8 @@
 | chinese-014 | 完璧 | 中国故事 | chugokugo-script.net, kotobank.jp | 2026-04-02 |
 | chinese-015 | 臥薪嘗胆 | 中国故事 | imidas.jp, ja.wikipedia.org | 2026-04-02 |
 | japanese-014 | かぐや姫 | 日本昔話 | ja.wikipedia.org, fun-japan.jp | 2026-04-02 |
+| aesop-016 | ロバを売りに行く親子 | イソップ寓話 | omcha.jp, satonavi.com | 2026-04-02 |
+| aesop-017 | 樫の木と葦 | イソップ寓話 | read.gov, gutenberg.org | 2026-04-02 |
+| grimm-014 | いばら姫 | グリム童話 | ja.wikipedia.org, honcierge.jp | 2026-04-02 |
+| andersen-014 | 火打ち箱 | アンデルセン童話 | ja.wikipedia.org, greenelement.xsrv.jp | 2026-04-02 |
+| other-015 | 長靴をはいた猫 | フランス（ペロー童話） | en.wikipedia.org, hugkum.sho.jp | 2026-04-02 |

@@ -4,15 +4,15 @@
 
 | 出典体系 | 件数 |
 |---------|------|
-| イソップ寓話 | 15 |
+| イソップ寓話 | 17 |
 | 日本昔話 | 14 |
 | 中国故事 | 15 |
-| グリム童話 | 13 |
-| アンデルセン童話 | 13 |
+| グリム童話 | 14 |
+| アンデルセン童話 | 14 |
 | インド寓話 | 14 |
 | アフリカ民話 | 14 |
-| その他 | 14 |
-| **合計** | **112** |
+| その他 | 15 |
+| **合計** | **117** |
 
 ## イソップ寓話
 
@@ -33,6 +33,8 @@
 | [aesop-013](fables/aesop-013-the-lions-share.md) | ライオンの分け前 | 力の不均衡な相手と組めば、成果は全て強者に奪われる |
 | [aesop-014](fables/aesop-014-belling-the-cat.md) | 猫の首に鈴 | 計画を立てることと実行することは全く別のことであり、実現不可能な提案には意味がない |
 | [aesop-015](fables/aesop-015-the-wolf-in-sheeps-clothing.md) | 羊の皮をかぶった狼 | 偽りの姿で他者を欺く者はいずれ正体を暴かれ、その報いを受ける |
+| [aesop-016](fables/aesop-016-the-miller-his-son-and-the-donkey.md) | ロバを売りに行く親子 | 全ての人を満足させることは不可能であり、他人の意見に振り回されず自分の判断を持つことが大切である |
+| [aesop-017](fables/aesop-017-the-oak-and-the-reeds.md) | 樫の木と葦 | 剛直さは時に身を滅ぼし、柔軟に適応する者こそが困難を乗り越えられる |
 
 ## 日本昔話
 
@@ -91,6 +93,7 @@
 | [grimm-011](fables/grimm-011-little-red-riding-hood.md) | 赤ずきん | 親の言いつけを守らず見知らぬ者を信じれば危険に陥る |
 | [grimm-012](fables/grimm-012-rumpelstiltskin.md) | ルンペルシュティルツヒェン | 窮地を脱するために安易な約束をすれば、後に恐ろしい代償を求められる |
 | [grimm-013](fables/grimm-013-snow-white.md) | 白雪姫 | 嫉妬と虚栄に囚われた者は自らを滅ぼし、内面の美しさを持つ者は最後に救われる |
+| [grimm-014](fables/grimm-014-sleeping-beauty.md) | いばら姫 | 困難や試練が訪れても、いつか必ず救いの時が来る。希望を失わないことの大切さ |
 
 ## アンデルセン童話
 
@@ -109,6 +112,7 @@
 | [andersen-011](fables/andersen-011-the-princess-and-the-pea.md) | エンドウ豆の上のお姫さま | 本物の価値は外見ではなく内なる繊細さによって証明される |
 | [andersen-012](fables/andersen-012-the-swineherd.md) | 豚飼い王子 | 本物の価値を軽んじて偽物を追い求める者は、全てを失って当然である |
 | [andersen-013](fables/andersen-013-five-peas-in-a-pod.md) | 五つぶのえんどう豆 | 小さな存在でも、誰かの希望となり命を救うことができる |
+| [andersen-014](fables/andersen-014-the-tinderbox.md) | 火打ち箱 | 手持ちの資源を活かす機転が人生を切り開き、身分や境遇は知恵と行動で覆せる |
 
 ## インド寓話
 
@@ -166,5 +170,6 @@
 | [other-012](fables/other-012-the-monkey-and-the-turtle.md) | 猿と亀 | フィリピン民話 | ずるい者は一時的に得をしても、最後には忍耐強い者に報いを受ける |
 | [other-013](fables/other-013-stone-soup.md) | 石のスープ | 汎ヨーロッパ | 一人では何もできなくても、皆が少しずつ出し合えば豊かなものが生まれる |
 | [other-014](fables/other-014-sang-kancil-and-the-crocodiles.md) | サン・カンチルとワニ | マレーシア／インドネシア | 体の大きさや力ではなく、知恵と機転によって困難を切り抜けることができる |
+| [other-015](fables/other-015-puss-in-boots.md) | 長靴をはいた猫 | フランス（ペロー） | 財産や家柄よりも知恵と機転を活かす力のほうが人生を切り開く武器となる |
 
 <!-- 寓話追加時にここへ行を追加 -->
