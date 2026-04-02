@@ -4,15 +4,15 @@
 
 | 出典体系 | 件数 |
 |---------|------|
-| イソップ寓話 | 22 |
-| 日本昔話 | 18 |
+| イソップ寓話 | 23 |
+| 日本昔話 | 19 |
 | 中国故事 | 20 |
-| グリム童話 | 21 |
-| アンデルセン童話 | 17 |
+| グリム童話 | 22 |
+| アンデルセン童話 | 18 |
 | インド寓話 | 17 |
 | アフリカ民話 | 16 |
-| その他 | 21 |
-| **合計** | **152** |
+| その他 | 22 |
+| **合計** | **157** |
 
 ## イソップ寓話
 
@@ -40,6 +40,7 @@
 | [aesop-020](fables/aesop-020-the-fox-and-the-stork.md) | キツネとコウノトリ | 人にした仕打ちはそのまま自分に返ってくる |
 | [aesop-021](fables/aesop-021-the-ant-and-the-dove.md) | アリとハト | どんなに小さな親切でも、巡り巡って大きな恩返しとなって返ってくる |
 | [aesop-022](fables/aesop-022-the-lion-and-the-gnat.md) | ライオンと蚊 | 強敵に勝っても油断すれば、取るに足りない相手に足元をすくわれる |
+| [aesop-023](fables/aesop-023-the-eagle-and-the-crow.md) | ワシとカラス | 強者の真似をしても実力が伴わなければ、かえって惨めな結果を招く |
 
 ## 日本昔話
 
@@ -64,6 +65,7 @@
 | [japanese-016](fables/japanese-016-sannen-netaro.md) | 三年寝太郎 | 一見怠けているように見えても、深く考え抜いている者がおり、大事を成すには構想の時間が必要である |
 | [japanese-017](fables/japanese-017-the-waterfall-of-yoro.md) | 養老の滝 | 親を思う誠実な心は天に通じ、奇跡を呼ぶ |
 | [japanese-018](fables/japanese-018-chikara-taro.md) | 力太郎 | どんな卑しい出自でも、勇気と仲間の力があれば人を救う英雄になれる |
+| [japanese-019](fables/japanese-019-hoichi-the-earless.md) | 耳なし芳一 | 中途半端な備えは思わぬ落とし穴となり、細部の見落としが命取りになる |
 
 ## 中国故事
 
@@ -115,6 +117,7 @@
 | [grimm-019](fables/grimm-019-the-pied-piper-of-hamelin.md) | ハーメルンの笛吹き男 | 約束を破れば取り返しのつかない報いを受ける |
 | [grimm-020](fables/grimm-020-the-brave-little-tailor.md) | 勇ましいちびの仕立て屋 | 知恵と自信があれば、体の大きさや身分に関係なく巨人にも勝てる |
 | [grimm-021](fables/grimm-021-godfather-death.md) | 死神の名付け親 | 定められた約束やルールを破れば、どんな力も地位も自分を守ってくれない |
+| [grimm-022](fables/grimm-022-the-twelve-dancing-princesses.md) | 踊ってすり切れた靴 | 華やかな表面の裏にある真実は、忍耐強い観察と誠実さによってのみ見抜くことができる |
 
 ## アンデルセン童話
 
@@ -137,6 +140,7 @@
 | [andersen-015](fables/andersen-015-the-shadow.md) | 影法師 | 自分の暗い面に支配を許すと、本来の自分を失い取り返しのつかない結末を迎える |
 | [andersen-016](fables/andersen-016-the-wild-swans.md) | 野の白鳥 | 愛する者を救うために沈黙と苦痛に耐え抜く自己犠牲こそが、最も強い力となる |
 | [andersen-017](fables/andersen-017-the-flying-trunk.md) | 空飛ぶトランク | 虚栄と嘘で得た地位は長続きせず、調子に乗れば全てを失う |
+| [andersen-018](fables/andersen-018-the-daisy.md) | ヒナギク | 小さく目立たない存在にも固有の美しさと価値があり、自由こそが最も大切な宝である |
 
 ## インド寓話
 
@@ -206,5 +210,6 @@
 | [other-019](fables/other-019-king-midas-donkey-ears.md) | 王様の耳はロバの耳 | ギリシャ神話 | 秘密はいつか必ず明るみに出る。真実を永遠に隠し通すことはできない |
 | [other-020](fables/other-020-hop-o-my-thumb.md) | 親指小僧 | フランス（ペロー） | 体が小さく軽んじられる者でも、知恵と勇気があれば家族を救い英雄となれる |
 | [other-021](fables/other-021-ivan-the-fool.md) | イワンのばか | ロシア（トルストイ） | ずる賢さではなく、純朴で誠実に額に汗して働く者こそが真の幸福を得る |
+| [other-022](fables/other-022-coyote-steals-fire.md) | コヨーテと火の起源 | ネイティブアメリカン | 共同体のために危険を冒して知恵を使う者は、たとえ狡猾であっても英雄となる |
 
 <!-- 寓話追加時にここへ行を追加 -->

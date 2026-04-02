@@ -158,3 +158,8 @@
 | japanese-018 | 力太郎 | 日本昔話 | ja.wikipedia.org, kotonohaweb.net | 2026-04-02 |
 | grimm-021 | 死神の名付け親 | グリム童話 | grimmstories.com, ja.wikipedia.org | 2026-04-02 |
 | other-021 | イワンのばか | ロシア（トルストイ） | hugkum.sho.jp, ja.wikipedia.org | 2026-04-02 |
+| aesop-023 | ワシとカラス | イソップ寓話 | en.wikipedia.org, Perry Index #2 | 2026-04-02 |
+| japanese-019 | 耳なし芳一 | 日本昔話 | ja.wikipedia.org, 小泉八雲『怪談』 | 2026-04-02 |
+| grimm-022 | 踊ってすり切れた靴 | グリム童話 | grimmstories.com, ja.wikipedia.org | 2026-04-02 |
+| andersen-018 | ヒナギク | アンデルセン童話 | ja.wikipedia.org, aozora.gr.jp | 2026-04-02 |
+| other-022 | コヨーテと火の起源 | ネイティブアメリカン | en.wikipedia.org, firstpeople.us | 2026-04-02 |
