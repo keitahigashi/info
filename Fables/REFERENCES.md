@@ -148,3 +148,8 @@
 | andersen-016 | 野の白鳥 | アンデルセン童話 | ja.wikipedia.org, aozora.gr.jp | 2026-04-02 |
 | grimm-020 | 勇ましいちびの仕立て屋 | グリム童話 | grimmstories.com, ja.wikipedia.org | 2026-04-02 |
 | other-019 | 王様の耳はロバの耳 | ギリシャ神話 | ja.wikipedia.org, turkish.jp | 2026-04-02 |
+| indian-016 | バラモンの夢 | インド寓話 | talesofpanchatantra.com, culturalindia.net | 2026-04-02 |
+| indian-017 | 三匹の魚 | インド寓話 | tell-a-tale.com, vedantu.com | 2026-04-02 |
+| african-015 | アナンシとカメの食事 | アフリカ民話 | mocomi.com, layers-of-learning.com | 2026-04-02 |
+| other-020 | 親指小僧 | フランス（ペロー童話） | ja.wikipedia.org, iwanami.co.jp | 2026-04-02 |
+| african-016 | イボイノシシが膝で歩く理由 | アフリカ民話 | briefly.co.za, anikefoundation.org | 2026-04-02 |

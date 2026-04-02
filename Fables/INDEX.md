@@ -9,10 +9,10 @@
 | 中国故事 | 20 |
 | グリム童話 | 20 |
 | アンデルセン童話 | 16 |
-| インド寓話 | 15 |
-| アフリカ民話 | 14 |
-| その他 | 19 |
-| **合計** | **142** |
+| インド寓話 | 17 |
+| アフリカ民話 | 16 |
+| その他 | 20 |
+| **合計** | **147** |
 
 ## イソップ寓話
 
@@ -153,6 +153,8 @@
 | [indian-013](fables/indian-013-the-monkey-and-the-wedge.md) | 猿とくさび | 自分に関係のないことに余計な手出しをする者は、必ず災いを招く |
 | [indian-014](fables/indian-014-the-cats-judgement.md) | 猫の裁判 | 争う二者の間に立つ偽善的な仲裁者こそ最も危険であり、外見の敬虔さに騙されてはならない |
 | [indian-015](fables/indian-015-the-doves-and-the-hunter.md) | 鳩の王と猟師の網 | 団結すれば罠からも逃れられるが、バラバラでは一匹ずつ捕らわれる |
+| [indian-016](fables/indian-016-the-brahmins-dream.md) | バラモンの夢 | まだ手に入れていないものを当てにして計画を立てれば、すべてを失う |
+| [indian-017](fables/indian-017-the-three-fishes.md) | 三匹の魚 | 危機を予見して先手を打つ者が生き残り、問題を先送りにする者は滅びる |
 
 ## アフリカ民話
 
@@ -172,6 +174,8 @@
 | [african-012](fables/african-012-the-talking-skull.md) | おしゃべりな頭蓋骨 | 口は災いの元であり、語るべきでないことを語れば身を滅ぼす |
 | [african-013](fables/african-013-anansi-and-the-pot-of-wisdom.md) | アナンシと知恵の壺 | 知恵は独占するものではなく分かち合ってこそ価値がある。どんなに賢い者でも他者から学ぶ謙虚さが必要である |
 | [african-014](fables/african-014-the-lion-and-the-jackal.md) | ジャッカルとライオン | 力の強い者が必ずしも勝つとは限らず、知恵と機転は暴力に対する最大の武器である |
+| [african-015](fables/african-015-anansi-and-the-turtle.md) | アナンシとカメの食事 | 他人を騙して出し抜こうとする者は、やがて同じ手口で仕返しされる |
+| [african-016](fables/african-016-why-the-warthog-goes-on-his-knees.md) | イボイノシシが膝で歩く理由 | 他者のものを奪えば、その報いは永遠に残る |
 
 ## その他
 
@@ -196,5 +200,6 @@
 | [other-017](fables/other-017-the-enormous-turnip.md) | おおきなかぶ | ロシア民話 | 一人では成し遂げられないことも、みんなで力を合わせれば必ず実現できる |
 | [other-018](fables/other-018-ali-baba-and-the-forty-thieves.md) | アリ・ババと四十人の盗賊 | アラビア（千夜一夜） | 欲深さは身を滅ぼし、忠義と機転こそが主人と家族を救う |
 | [other-019](fables/other-019-king-midas-donkey-ears.md) | 王様の耳はロバの耳 | ギリシャ神話 | 秘密はいつか必ず明るみに出る。真実を永遠に隠し通すことはできない |
+| [other-020](fables/other-020-hop-o-my-thumb.md) | 親指小僧 | フランス（ペロー） | 体が小さく軽んじられる者でも、知恵と勇気があれば家族を救い英雄となれる |
 
 <!-- 寓話追加時にここへ行を追加 -->
