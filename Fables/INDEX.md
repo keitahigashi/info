@@ -4,15 +4,15 @@
 
 | 出典体系 | 件数 |
 |---------|------|
-| イソップ寓話 | 21 |
-| 日本昔話 | 17 |
+| イソップ寓話 | 22 |
+| 日本昔話 | 18 |
 | 中国故事 | 20 |
-| グリム童話 | 20 |
-| アンデルセン童話 | 16 |
+| グリム童話 | 21 |
+| アンデルセン童話 | 17 |
 | インド寓話 | 17 |
 | アフリカ民話 | 16 |
-| その他 | 20 |
-| **合計** | **147** |
+| その他 | 21 |
+| **合計** | **152** |
 
 ## イソップ寓話
 
@@ -39,6 +39,7 @@
 | [aesop-019](fables/aesop-019-the-frog-and-the-ox.md) | カエルと牛 | 身の程を知らず他者と張り合えば、自らを滅ぼすことになる |
 | [aesop-020](fables/aesop-020-the-fox-and-the-stork.md) | キツネとコウノトリ | 人にした仕打ちはそのまま自分に返ってくる |
 | [aesop-021](fables/aesop-021-the-ant-and-the-dove.md) | アリとハト | どんなに小さな親切でも、巡り巡って大きな恩返しとなって返ってくる |
+| [aesop-022](fables/aesop-022-the-lion-and-the-gnat.md) | ライオンと蚊 | 強敵に勝っても油断すれば、取るに足りない相手に足元をすくわれる |
 
 ## 日本昔話
 
@@ -62,6 +63,7 @@
 | [japanese-015](fables/japanese-015-kintaro.md) | 金太郎 | 自然の中で心身を鍛え、勇気と優しさを兼ね備えた者は大きな志を遂げることができる |
 | [japanese-016](fables/japanese-016-sannen-netaro.md) | 三年寝太郎 | 一見怠けているように見えても、深く考え抜いている者がおり、大事を成すには構想の時間が必要である |
 | [japanese-017](fables/japanese-017-the-waterfall-of-yoro.md) | 養老の滝 | 親を思う誠実な心は天に通じ、奇跡を呼ぶ |
+| [japanese-018](fables/japanese-018-chikara-taro.md) | 力太郎 | どんな卑しい出自でも、勇気と仲間の力があれば人を救う英雄になれる |
 
 ## 中国故事
 
@@ -112,6 +114,7 @@
 | [grimm-018](fables/grimm-018-the-seven-ravens.md) | 七羽のカラス | 家族を救うためなら、どんな困難にも立ち向かう勇気と犠牲を厭わない愛が道を切り開く |
 | [grimm-019](fables/grimm-019-the-pied-piper-of-hamelin.md) | ハーメルンの笛吹き男 | 約束を破れば取り返しのつかない報いを受ける |
 | [grimm-020](fables/grimm-020-the-brave-little-tailor.md) | 勇ましいちびの仕立て屋 | 知恵と自信があれば、体の大きさや身分に関係なく巨人にも勝てる |
+| [grimm-021](fables/grimm-021-godfather-death.md) | 死神の名付け親 | 定められた約束やルールを破れば、どんな力も地位も自分を守ってくれない |
 
 ## アンデルセン童話
 
@@ -133,6 +136,7 @@
 | [andersen-014](fables/andersen-014-the-tinderbox.md) | 火打ち箱 | 手持ちの資源を活かす機転が人生を切り開き、身分や境遇は知恵と行動で覆せる |
 | [andersen-015](fables/andersen-015-the-shadow.md) | 影法師 | 自分の暗い面に支配を許すと、本来の自分を失い取り返しのつかない結末を迎える |
 | [andersen-016](fables/andersen-016-the-wild-swans.md) | 野の白鳥 | 愛する者を救うために沈黙と苦痛に耐え抜く自己犠牲こそが、最も強い力となる |
+| [andersen-017](fables/andersen-017-the-flying-trunk.md) | 空飛ぶトランク | 虚栄と嘘で得た地位は長続きせず、調子に乗れば全てを失う |
 
 ## インド寓話
 
@@ -201,5 +205,6 @@
 | [other-018](fables/other-018-ali-baba-and-the-forty-thieves.md) | アリ・ババと四十人の盗賊 | アラビア（千夜一夜） | 欲深さは身を滅ぼし、忠義と機転こそが主人と家族を救う |
 | [other-019](fables/other-019-king-midas-donkey-ears.md) | 王様の耳はロバの耳 | ギリシャ神話 | 秘密はいつか必ず明るみに出る。真実を永遠に隠し通すことはできない |
 | [other-020](fables/other-020-hop-o-my-thumb.md) | 親指小僧 | フランス（ペロー） | 体が小さく軽んじられる者でも、知恵と勇気があれば家族を救い英雄となれる |
+| [other-021](fables/other-021-ivan-the-fool.md) | イワンのばか | ロシア（トルストイ） | ずる賢さではなく、純朴で誠実に額に汗して働く者こそが真の幸福を得る |
 
 <!-- 寓話追加時にここへ行を追加 -->

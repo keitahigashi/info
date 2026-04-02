@@ -153,3 +153,8 @@
 | african-015 | アナンシとカメの食事 | アフリカ民話 | mocomi.com, layers-of-learning.com | 2026-04-02 |
 | other-020 | 親指小僧 | フランス（ペロー童話） | ja.wikipedia.org, iwanami.co.jp | 2026-04-02 |
 | african-016 | イボイノシシが膝で歩く理由 | アフリカ民話 | briefly.co.za, anikefoundation.org | 2026-04-02 |
+| aesop-022 | ライオンと蚊 | イソップ寓話 | satonavi.com, en.wikipedia.org | 2026-04-02 |
+| andersen-017 | 空飛ぶトランク | アンデルセン童話 | aozora.gr.jp, ja.wikipedia.org | 2026-04-02 |
+| japanese-018 | 力太郎 | 日本昔話 | ja.wikipedia.org, kotonohaweb.net | 2026-04-02 |
+| grimm-021 | 死神の名付け親 | グリム童話 | grimmstories.com, ja.wikipedia.org | 2026-04-02 |
+| other-021 | イワンのばか | ロシア（トルストイ） | hugkum.sho.jp, ja.wikipedia.org | 2026-04-02 |
