@@ -113,3 +113,8 @@
 | african-013 | アナンシと知恵の壺 | アフリカ民話 | anikefoundation.org, culturesofwestafrica.com | 2026-04-01 |
 | african-014 | ジャッカルとライオン | アフリカ民話 | sacred-texts.com, worldoftales.com | 2026-04-01 |
 | other-014 | サン・カンチルとワニ | マレーシア／インドネシア民話 | aaronshep.com, en.wikipedia.org | 2026-04-01 |
+| aesop-014 | 猫の首に鈴 | イソップ寓話 | americanliterature.com, ja.wikipedia.org | 2026-04-02 |
+| aesop-015 | 羊の皮をかぶった狼 | イソップ寓話 | fablesofaesop.com, read.gov | 2026-04-02 |
+| chinese-014 | 完璧 | 中国故事 | chugokugo-script.net, kotobank.jp | 2026-04-02 |
+| chinese-015 | 臥薪嘗胆 | 中国故事 | imidas.jp, ja.wikipedia.org | 2026-04-02 |
+| japanese-014 | かぐや姫 | 日本昔話 | ja.wikipedia.org, fun-japan.jp | 2026-04-02 |

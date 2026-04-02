@@ -4,15 +4,15 @@
 
 | 出典体系 | 件数 |
 |---------|------|
-| イソップ寓話 | 13 |
-| 日本昔話 | 13 |
-| 中国故事 | 13 |
+| イソップ寓話 | 15 |
+| 日本昔話 | 14 |
+| 中国故事 | 15 |
 | グリム童話 | 13 |
 | アンデルセン童話 | 13 |
 | インド寓話 | 14 |
 | アフリカ民話 | 14 |
 | その他 | 14 |
-| **合計** | **107** |
+| **合計** | **112** |
 
 ## イソップ寓話
 
@@ -31,6 +31,8 @@
 | [aesop-011](fables/aesop-011-the-farmer-and-the-viper.md) | 農夫と蛇 | 悪しき本性を持つ者に情けをかけても、恩を仇で返されるだけである |
 | [aesop-012](fables/aesop-012-the-dog-and-its-reflection.md) | 犬と自分の影 | 手にしているものに満足せず、もっと欲しがる者は全てを失う |
 | [aesop-013](fables/aesop-013-the-lions-share.md) | ライオンの分け前 | 力の不均衡な相手と組めば、成果は全て強者に奪われる |
+| [aesop-014](fables/aesop-014-belling-the-cat.md) | 猫の首に鈴 | 計画を立てることと実行することは全く別のことであり、実現不可能な提案には意味がない |
+| [aesop-015](fables/aesop-015-the-wolf-in-sheeps-clothing.md) | 羊の皮をかぶった狼 | 偽りの姿で他者を欺く者はいずれ正体を暴かれ、その報いを受ける |
 
 ## 日本昔話
 
@@ -50,6 +52,7 @@
 | [japanese-011](fables/japanese-011-momotaro.md) | 桃太郎 | 勇気と仲間の力を合わせれば、どんな強大な敵にも立ち向かえる |
 | [japanese-012](fables/japanese-012-kasa-jizo.md) | 笠地蔵 | 見返りを求めない無償の善意は、思いがけない形で報われる |
 | [japanese-013](fables/japanese-013-bunbuku-chagama.md) | 分福茶釜 | 助けてくれた者への恩は必ず返すべきであり、善意の連鎖は皆を幸せにする |
+| [japanese-014](fables/japanese-014-the-tale-of-the-bamboo-cutter.md) | かぐや姫 | 権力や財力では人の心を手に入れることはできず、この世の縁には限りがある |
 
 ## 中国故事
 
@@ -68,6 +71,8 @@
 | [chinese-011](fables/chinese-011-fifty-steps-hundred-steps.md) | 五十歩百歩 | わずかな違いを根拠に他者を笑う者は、自分も同じ本質を持つことに気づいていない |
 | [chinese-012](fables/chinese-012-adding-eyes-to-the-painted-dragon.md) | 画竜点睛 | 物事の仕上げにおける最後の一手こそが全体に命を吹き込む |
 | [chinese-013](fables/chinese-013-the-frog-in-the-well.md) | 井の中の蛙 | 狭い世界しか知らない者は自分の無知に気づけず、広い世界を知る謙虚さが必要である |
+| [chinese-014](fables/chinese-014-returning-the-jade-intact.md) | 完璧 | 知恵と勇気があれば、強大な相手にも屈することなく大切なものを守り抜ける |
+| [chinese-015](fables/chinese-015-sleeping-on-firewood-and-tasting-gall.md) | 臥薪嘗胆 | 目的を達するためには長期間の苦労と忍耐を厭わない覚悟が必要である |
 
 ## グリム童話
 
