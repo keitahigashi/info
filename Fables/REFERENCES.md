@@ -128,3 +128,8 @@
 | grimm-015 | 灰かぶり | グリム童話 | grimmdowaclub.net, ja.wikipedia.org | 2026-04-02 |
 | grimm-016 | つぐみの髭の王さま | グリム童話 | grimmstories.com, ja.wikipedia.org | 2026-04-02 |
 | other-016 | 青ひげ | フランス（ペロー童話） | honcierge.jp, ja.wikipedia.org | 2026-04-02 |
+| chinese-016 | 鶏口牛後 | 中国故事 | proverb-encyclopedia.com, ja.wikipedia.org | 2026-04-02 |
+| chinese-017 | 蟷螂の斧 | 中国故事 | ja.wikipedia.org, kotobank.jp | 2026-04-02 |
+| andersen-015 | 影法師 | アンデルセン童話 | aozora.gr.jp, ja.wikipedia.org | 2026-04-02 |
+| japanese-015 | 金太郎 | 日本昔話 | ja.wikipedia.org, kotonohaweb.net | 2026-04-02 |
+| grimm-017 | おいしいおかゆ | グリム童話 | grimmstories.com, ja.wikipedia.org | 2026-04-02 |

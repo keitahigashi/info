@@ -5,14 +5,14 @@
 | 出典体系 | 件数 |
 |---------|------|
 | イソップ寓話 | 19 |
-| 日本昔話 | 14 |
-| 中国故事 | 15 |
-| グリム童話 | 16 |
-| アンデルセン童話 | 14 |
+| 日本昔話 | 15 |
+| 中国故事 | 17 |
+| グリム童話 | 17 |
+| アンデルセン童話 | 15 |
 | インド寓話 | 14 |
 | アフリカ民話 | 14 |
 | その他 | 16 |
-| **合計** | **122** |
+| **合計** | **127** |
 
 ## イソップ寓話
 
@@ -57,6 +57,7 @@
 | [japanese-012](fables/japanese-012-kasa-jizo.md) | 笠地蔵 | 見返りを求めない無償の善意は、思いがけない形で報われる |
 | [japanese-013](fables/japanese-013-bunbuku-chagama.md) | 分福茶釜 | 助けてくれた者への恩は必ず返すべきであり、善意の連鎖は皆を幸せにする |
 | [japanese-014](fables/japanese-014-the-tale-of-the-bamboo-cutter.md) | かぐや姫 | 権力や財力では人の心を手に入れることはできず、この世の縁には限りがある |
+| [japanese-015](fables/japanese-015-kintaro.md) | 金太郎 | 自然の中で心身を鍛え、勇気と優しさを兼ね備えた者は大きな志を遂げることができる |
 
 ## 中国故事
 
@@ -77,6 +78,8 @@
 | [chinese-013](fables/chinese-013-the-frog-in-the-well.md) | 井の中の蛙 | 狭い世界しか知らない者は自分の無知に気づけず、広い世界を知る謙虚さが必要である |
 | [chinese-014](fables/chinese-014-returning-the-jade-intact.md) | 完璧 | 知恵と勇気があれば、強大な相手にも屈することなく大切なものを守り抜ける |
 | [chinese-015](fables/chinese-015-sleeping-on-firewood-and-tasting-gall.md) | 臥薪嘗胆 | 目的を達するためには長期間の苦労と忍耐を厭わない覚悟が必要である |
+| [chinese-016](fables/chinese-016-better-a-roosters-head.md) | 鶏口牛後 | 大きな組織の末端で埋もれるよりも、小さな組織の長として自らの力を発揮すべきである |
+| [chinese-017](fables/chinese-017-the-mantis-stalks-the-cicada.md) | 蟷螂の斧 | 自分の力を過信して強大な相手に無謀に立ち向かえば、身を滅ぼすだけである |
 
 ## グリム童話
 
@@ -98,6 +101,7 @@
 | [grimm-014](fables/grimm-014-sleeping-beauty.md) | いばら姫 | 困難や試練が訪れても、いつか必ず救いの時が来る。希望を失わないことの大切さ |
 | [grimm-015](fables/grimm-015-cinderella.md) | 灰かぶり | どんな境遇でも善良さと忍耐を失わない者は、やがて報われる |
 | [grimm-016](fables/grimm-016-king-thrushbeard.md) | つぐみの髭の王さま | 傲慢は人を孤立させるが、苦労を通じて謙虚さを学べば真の幸福が得られる |
+| [grimm-017](fables/grimm-017-sweet-porridge.md) | おいしいおかゆ | 恵みには限度を知ることが大切であり、制御を失えば豊かさそのものが災いとなる |
 
 ## アンデルセン童話
 
@@ -117,6 +121,7 @@
 | [andersen-012](fables/andersen-012-the-swineherd.md) | 豚飼い王子 | 本物の価値を軽んじて偽物を追い求める者は、全てを失って当然である |
 | [andersen-013](fables/andersen-013-five-peas-in-a-pod.md) | 五つぶのえんどう豆 | 小さな存在でも、誰かの希望となり命を救うことができる |
 | [andersen-014](fables/andersen-014-the-tinderbox.md) | 火打ち箱 | 手持ちの資源を活かす機転が人生を切り開き、身分や境遇は知恵と行動で覆せる |
+| [andersen-015](fables/andersen-015-the-shadow.md) | 影法師 | 自分の暗い面に支配を許すと、本来の自分を失い取り返しのつかない結末を迎える |
 
 ## インド寓話
 
