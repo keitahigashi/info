@@ -123,3 +123,8 @@
 | grimm-014 | いばら姫 | グリム童話 | ja.wikipedia.org, honcierge.jp | 2026-04-02 |
 | andersen-014 | 火打ち箱 | アンデルセン童話 | ja.wikipedia.org, greenelement.xsrv.jp | 2026-04-02 |
 | other-015 | 長靴をはいた猫 | フランス（ペロー童話） | en.wikipedia.org, hugkum.sho.jp | 2026-04-02 |
+| aesop-018 | 卑怯なコウモリ | イソップ寓話 | arasuji-m.com, ja.wikipedia.org | 2026-04-02 |
+| aesop-019 | カエルと牛 | イソップ寓話 | miyattisyokudou.com, en.wikipedia.org | 2026-04-02 |
+| grimm-015 | 灰かぶり | グリム童話 | grimmdowaclub.net, ja.wikipedia.org | 2026-04-02 |
+| grimm-016 | つぐみの髭の王さま | グリム童話 | grimmstories.com, ja.wikipedia.org | 2026-04-02 |
+| other-016 | 青ひげ | フランス（ペロー童話） | honcierge.jp, ja.wikipedia.org | 2026-04-02 |
