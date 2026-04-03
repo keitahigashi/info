@@ -1,4 +1,4 @@
-# グリム童話（30話）
+# グリム童話（40話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -36,5 +36,15 @@
 | [grimm-029](../fables/grimm/grimm-029-faithful-johannes.md) | 忠実なヨハネス | 真の忠誠は自らの身を犠牲にしてでも主を守ることであり、その犠牲は信頼と愛によって報われる |
 
 | [grimm-030](../fables/grimm/grimm-030-old-sultan.md) | おいぼれスルタン | 長年忠実に仕えた者を年老いたからといって切り捨ててはならず、知恵と友情があれば老いてなお価値を示せる |
+| [grimm-031](../fables/grimm/grimm-031-cat-and-mouse-in-partnership.md) | ネコとネズミのともぐらし | 本性の異なる者を信じて暮らしを共にすれば、裏切られて命を落とすのは弱い方である |
+| [grimm-032](../fables/grimm/grimm-032-the-goose-girl.md) | がちょう番の娘 | 真実は必ず明るみに出て、偽りの地位を奪った者は相応の報いを受ける |
+| [grimm-033](../fables/grimm/grimm-033-the-twelve-brothers.md) | 十二人の兄弟 | 家族を救うための沈黙と自己犠牲は、最も過酷な試練であると同時に最も強い力となる |
+| [grimm-034](../fables/grimm/grimm-034-rapunzel.md) | ラプンツェル | 他者を閉じ込めて独占しようとしても、自由への渇望と愛の力は塔の壁さえ越えてゆく |
+| [grimm-035](../fables/grimm/grimm-035-clever-elsie.md) | 賢いエルゼ | まだ起きていない災難を心配して泣き暮らす者は、今すべきことを何一つ成し遂げられない |
+| [grimm-036](../fables/grimm/grimm-036-the-mouse-the-bird-and-the-sausage.md) | ねずみと鳥とソーセージ | うまく機能している仕組みを安易に変えれば全員が不幸になる |
+| [grimm-037](../fables/grimm/grimm-037-bearskin.md) | くまの皮を着た男 | 外見ではなく内面の善良さや忍耐こそが真の価値であり、困難の中でも善行を続ける者は報われる |
+| [grimm-038](../fables/grimm/grimm-038-the-ear-of-corn.md) | 穀物の穂 | 神の恵みや自然の恩恵を粗末にすれば、豊かさを失う罰を受ける |
+| [grimm-039](../fables/grimm/grimm-039-the-ungrateful-son.md) | 恩知らずの息子 | 親への恩知らずと利己心は、逃れられない苦しみとなって自分に返ってくる |
+| [grimm-040](../fables/grimm/grimm-040-the-willow-wren-and-the-bear.md) | ミソサザイと熊 | 小さな者を見くびってはならず、知恵と団結があれば力の差は覆せる |
 
 <!-- 寓話追加時にここへ行を追加 -->

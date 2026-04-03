@@ -39,5 +39,10 @@
 | andersen-031 | そばの花 | gutenberg.org, アンデルセン(1841) | 2026-04-02 |
 | andersen-032 | 天国の園 | en.wikisource.org, アンデルセン(1839) | 2026-04-02 |
 | andersen-033 | イーダちゃんの花 | hca.gilead.org.il, アンデルセン(1835) | 2026-04-02 |
+| andersen-034 | 蝶 | andersen.sdu.dk, アンデルセン(1861) | 2026-04-03 |
+| andersen-035 | 幸運のガロッシュ | andersen.sdu.dk, アンデルセン(1838) | 2026-04-03 |
+| andersen-036 | 邪悪な王子 | andersen.sdu.dk, アンデルセン(1840) | 2026-04-03 |
+| andersen-037 | カタツムリとバラの木 | andersen.sdu.dk, アンデルセン(1861) | 2026-04-03 |
+| andersen-038 | 最も信じがたいこと | andersen.sdu.dk, アンデルセン(1870) | 2026-04-03 |
 
 <!-- 出典追加時にここへ行を追加 -->

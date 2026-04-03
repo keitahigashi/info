@@ -1,4 +1,4 @@
-# 日本昔話（29話）
+# 日本昔話（34話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -35,5 +35,10 @@
 
 | [japanese-028](../fables/japanese/japanese-028-yuki-onna.md) | 雪女 | 約束を破れば大切なものを失い、幸福の中にあっても秘密を守り通す誠実さが求められる |
 | [japanese-029](../fables/japanese/japanese-029-the-red-oni-who-cried.md) | 泣いた赤鬼 | 真の友情とは相手の幸せのために自らを犠牲にすることであり、その尊さに気づいた時にはもう遅いことがある |
+| [japanese-030](../fables/japanese/japanese-030-the-carpenter-and-oniroku.md) | 大工と鬼六 | 安易に約束してはならないが、相手の本質（名前）を知ることで窮地を脱することができる |
+| [japanese-031](../fables/japanese/japanese-031-the-tengus-cloak-of-invisibility.md) | 天狗の隠れ蓑 | 不正な手段で得たものは長続きせず、調子に乗ると必ず自滅する |
+| [japanese-032](../fables/japanese/japanese-032-the-snail-millionaire.md) | たにし長者 | 外見で人を判断してはならず、無条件の愛と受容にこそ真の幸福が訪れる |
+| [japanese-033](../fables/japanese/japanese-033-the-child-raising-ghost.md) | 子育て幽霊 | 母の愛は死をも超え、我が子のためなら幽霊となっても守り続ける |
+| [japanese-034](../fables/japanese/japanese-034-the-ox-driver-and-the-mountain-hag.md) | 牛方と山姥 | 力では敵わない相手にも、知恵と機転で勝つことができる |
 
 <!-- 寓話追加時にここへ行を追加 -->

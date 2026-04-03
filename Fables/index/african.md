@@ -1,4 +1,4 @@
-# アフリカ民話（28話）
+# アフリカ民話（33話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -34,5 +34,10 @@
 
 | [african-027](../fables/african/african-027-the-kings-magic-drum.md) | 王の魔法のドラム | 恵みには守るべき条件が伴い、貪欲に駆られてそれを破れば恵みそのものを失う |
 | [african-028](../fables/african/african-028-why-the-dog-lives-with-man.md) | なぜ犬は人と暮らすのか | 困難の中で互いを必要とした経験が、かつての敵同士をも固い絆で結びつける |
+| [african-029](../fables/african/african-029-afiong-the-proud-princess.md) | 高慢な王女アフィオン | 虚栄心と高慢は身を滅ぼすが、苦境にあっても謙虚さを忘れなければ救いの道は開かれる |
+| [african-030](../fables/african/african-030-the-baby-mouse-and-the-baby-snake.md) | 赤ちゃんネズミと赤ちゃんヘビ | 天敵同士の本質は友情では変えられず、年長者の苦い忠告にこそ知恵が宿る |
+| [african-031](../fables/african/african-031-why-hawks-kill-chicks.md) | タカがヒヨコを狩る理由 | 不誠実な行いの報いは長く続き、約束を破れば代償を払い続けることになる |
+| [african-032](../fables/african/african-032-why-the-eagle-flies-highest.md) | ワシが最も高く飛ぶ理由 | 成功は生まれつきの才能ではなく、たゆまぬ努力と練習から生まれる |
+| [african-033](../fables/african/african-033-the-ears-never-get-past-the-head.md) | 耳は頭を越えられない | どれほど力や技を身につけても、年長者の知恵と経験には及ばない |
 
 <!-- 寓話追加時にここへ行を追加 -->

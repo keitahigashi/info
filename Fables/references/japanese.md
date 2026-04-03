@@ -35,5 +35,10 @@
 
 | japanese-028 | 雪女 | ja.wikipedia.org, 小泉八雲『怪談』(1904) | 2026-04-02 |
 | japanese-029 | 泣いた赤鬼 | ja.wikipedia.org, 浜田廣介(1933) | 2026-04-02 |
+| japanese-030 | 大工と鬼六 | folktalesjpn.com, minwa.fujipan.co.jp | 2026-04-03 |
+| japanese-031 | 天狗の隠れ蓑 | folktalesjpn.com, minwa.fujipan.co.jp | 2026-04-03 |
+| japanese-032 | たにし長者 | folktalesjpn.com, hukumusume.com | 2026-04-03 |
+| japanese-033 | 子育て幽霊 | folktalesjpn.com, minwanoheya.jp | 2026-04-03 |
+| japanese-034 | 牛方と山姥 | folktalesjpn.com, minwanoheya.jp | 2026-04-03 |
 
 <!-- 出典追加時にここへ行を追加 -->

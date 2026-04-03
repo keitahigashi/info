@@ -1,4 +1,4 @@
-# 中国故事（29話）
+# 中国故事（39話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -34,5 +34,15 @@
 
 | [chinese-028](../fables/chinese/chinese-028-calling-a-deer-a-horse.md) | 指鹿為馬 | 権力者が黒を白と言い張れば周囲は真実を曲げて追従するが、事実を事実と言えない組織は必ず滅びる |
 | [chinese-029](../fables/chinese/chinese-029-deliberation.md) | 推敲 | 優れた表現は何度も練り直してこそ生まれ、身分を超えて良いものを認め合う姿勢が互いを高める |
+| [chinese-030](../fables/chinese/chinese-030-one-cry-startles-all.md) | 一鳴驚人 | 力を蓄えて沈黙を守る者は、ひとたび動き出した時に天下を驚かす |
+| [chinese-031](../fables/chinese/chinese-031-the-cunning-rabbits-three-burrows.md) | 狡兎三窟 | 賢い者は一つの逃げ道に頼らず、複数の備えを用意して身の安全を確保する |
+| [chinese-032](../fables/chinese/chinese-032-when-the-lips-are-gone.md) | 唇亡歯寒 | 密接に支え合う関係の一方が滅びれば、もう一方も必ず危うくなる |
+| [chinese-033](../fables/chinese/chinese-033-the-friendship-of-guan-and-bao.md) | 管鮑の交わり | 真の友情とは相手の事情を深く理解し、利害を超えて信じ続けることである |
+| [chinese-034](../fables/chinese/chinese-034-spilt-water.md) | 覆水盆に返らず | 一度取った行動や発した言葉は元には戻せず、後悔しても覆水は盆に返らない |
+| [chinese-035](../fables/chinese/chinese-035-the-snake-shadow-in-the-cup.md) | 杯弓蛇影 | 根拠のない疑念や思い込みが現実の苦しみを生むが、真相を冷静に調べれば無用な恐れは消える |
+| [chinese-036](../fables/chinese/chinese-036-the-donkey-of-qian.md) | 黔驢之技 | 見かけの大きさや声の立派さは真の実力を意味せず、虚勢は正体を見破られれば身を滅ぼす |
+| [chinese-037](../fables/chinese/chinese-037-walking-like-the-people-of-handan.md) | 邯鄲の歩み | むやみに他人を真似れば新しいものは身につかず、自分本来の持ち味まで失ってしまう |
+| [chinese-038](../fables/chinese/chinese-038-war-on-the-snails-horns.md) | 蝸牛角上の争い | 無限の宇宙から見れば、人間の領土争いや権力闘争は蝸牛の角の上の小競り合いに過ぎない |
+| [chinese-039](../fables/chinese/chinese-039-buying-the-box-returning-the-pearl.md) | 買櫝還珠 | 外見の華麗さに惑わされ、本当に価値あるものを見失う本末転倒の愚かさを戒める |
 
 <!-- 寓話追加時にここへ行を追加 -->

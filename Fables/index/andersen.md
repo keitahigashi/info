@@ -1,4 +1,4 @@
-# アンデルセン童話（33話）
+# アンデルセン童話（38話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -39,5 +39,10 @@
 | [andersen-031](../fables/andersen/andersen-031-the-buckwheat.md) | そばの花 | 傲慢に天を仰ぐ者は雷に打たれ、謙虚に頭を垂れる者は嵐を無事にやり過ごす |
 | [andersen-032](../fables/andersen/andersen-032-the-garden-of-paradise.md) | 天国の園 | 禁じられた誘惑に負ければ楽園を失い、真の楽園は正しく生きた先にしか開かれない |
 | [andersen-033](../fables/andersen/andersen-033-little-idas-flowers.md) | イーダちゃんの花 | 子どもの純粋な感受性は、大人が見過ごすものの中にも命と美しさを見出す |
+| [andersen-034](../fables/andersen/andersen-034-the-butterfly.md) | 蝶 | 完璧を求めすぎて何も選べないまま人生が終われば、幸福は永遠に手に入らない |
+| [andersen-035](../fables/andersen/andersen-035-the-goloshes-of-fortune.md) | 幸運のガロッシュ | 他人の人生を羨んでも、実際に体験すれば今の自分の境遇の良さに気づく |
+| [andersen-036](../fables/andersen/andersen-036-the-wicked-prince.md) | 邪悪な王子 | どれほど強大な権力を持とうとも、傲慢に天に挑めば最も小さきものに打ち倒される |
+| [andersen-037](../fables/andersen/andersen-037-the-snail-and-the-rosebush.md) | カタツムリとバラの木 | 批評ばかりして何も生み出さない者より、黙々と自分の役割を果たし世界に貢献する者の方が尊い |
+| [andersen-038](../fables/andersen/andersen-038-the-most-incredible-thing.md) | 最も信じがたいこと | 破壊は一時的に創造を凌ぐように見えるが、真の芸術と善は最終的に必ず勝利する |
 
 <!-- 寓話追加時にここへ行を追加 -->

@@ -1,4 +1,4 @@
-# インド寓話（28話）
+# インド寓話（33話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -34,5 +34,10 @@
 
 | [indian-027](../fables/indian/indian-027-the-old-blind-vulture.md) | 盲目の禿鷲 | 素性をよく知らない者を口先の巧みさだけで信用すれば、無実の者に罪を着せられ身を滅ぼす |
 | [indian-028](../fables/indian/indian-028-the-elephant-and-the-tailor.md) | 象と仕立屋 | 友好的な関係を裏切って危害を加える者は、同じ形で報いを受ける |
+| [indian-029](../fables/indian/indian-029-the-timid-hare.md) | 臆病なウサギ | 根拠のない恐怖は群衆をパニックに陥れるが、冷静な指導者が事実を確かめれば混乱は収まる |
+| [indian-030](../fables/indian/indian-030-the-banyan-deer.md) | バニヤンの鹿王 | 真の指導者は弱き者を守るため自らの命を差し出す覚悟を持ち、その慈悲が敵の心をも変える |
+| [indian-031](../fables/indian/indian-031-the-crows-and-the-cobra.md) | カラスとコブラ | 力では敵わない相手も、知恵と策略で間接的に打ち倒すことができる |
+| [indian-032](../fables/indian/indian-032-the-washerman-and-his-donkey.md) | 洗濯屋のロバ | 他者の成功を安易に真似ても、状況が違えば同じ結果にはならず、かえって災いを招く |
+| [indian-033](../fables/indian/indian-033-the-elephants-and-the-mice.md) | 象とネズミの恩返し | どんなに小さな者への親切も無駄にはならず、弱者の恩返しが強者を救う日が来る |
 
 <!-- 寓話追加時にここへ行を追加 -->

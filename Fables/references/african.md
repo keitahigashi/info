@@ -34,5 +34,10 @@
 
 | african-027 | 王の魔法のドラム | worldoftales.com, Dayrell『Folk Stories from Southern Nigeria』(1910) | 2026-04-02 |
 | african-028 | なぜ犬は人と暮らすのか | Woodson『African Myths and Proverbs』, アフリカ各地の口承 | 2026-04-02 |
+| african-029 | 高慢な王女アフィオン | anikefoundation.org, gutenberg.org (Dayrell 1910) | 2026-04-03 |
+| african-030 | 赤ちゃんネズミと赤ちゃんヘビ | anikefoundation.org, mysasun.com | 2026-04-03 |
+| african-031 | タカがヒヨコを狩る理由 | gutenberg.org (Dayrell 1910), worldoftales.com | 2026-04-03 |
+| african-032 | ワシが最も高く飛ぶ理由 | anikefoundation.org | 2026-04-03 |
+| african-033 | 耳は頭を越えられない | anikefoundation.org | 2026-04-03 |
 
 <!-- 出典追加時にここへ行を追加 -->

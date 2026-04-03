@@ -36,5 +36,15 @@
 | grimm-029 | 忠実なヨハネス | grimmstories.com, KHM 6 | 2026-04-02 |
 
 | grimm-030 | おいぼれスルタン | grimmstories.com, KHM 48 | 2026-04-02 |
+| grimm-031 | ネコとネズミのともぐらし | grimmstories.com, KHM 2 | 2026-04-02 |
+| grimm-032 | がちょう番の娘 | grimmstories.com, KHM 89 | 2026-04-02 |
+| grimm-033 | 十二人の兄弟 | grimmstories.com, KHM 9 | 2026-04-02 |
+| grimm-034 | ラプンツェル | grimmstories.com, KHM 12 | 2026-04-02 |
+| grimm-035 | 賢いエルゼ | grimmstories.com, KHM 34 | 2026-04-02 |
+| grimm-036 | ねずみと鳥とソーセージ | grimmstories.com, KHM 23 | 2026-04-03 |
+| grimm-037 | くまの皮を着た男 | sites.pitt.edu, KHM 101 | 2026-04-03 |
+| grimm-038 | 穀物の穂 | sites.pitt.edu, KHM 194 | 2026-04-03 |
+| grimm-039 | 恩知らずの息子 | sites.pitt.edu, KHM 145 | 2026-04-03 |
+| grimm-040 | ミソサザイと熊 | grimmstories.com, KHM 102 | 2026-04-03 |
 
 <!-- 出典追加時にここへ行を追加 -->

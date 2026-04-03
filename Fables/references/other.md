@@ -36,5 +36,10 @@
 | other-029 | パンドラの箱 | ギリシャ神話 | ja.wikipedia.org, ヘシオドス『仕事と日』 | 2026-04-02 |
 
 | other-030 | 三匹の子ぶた | 英国民話 | en.wikipedia.org, Joseph Jacobs『English Fairy Tales』(1890) | 2026-04-02 |
+| other-031 | コロボーク | ロシア民話 | en.wikipedia.org, アファナーシェフ『ロシア民話集』 | 2026-04-02 |
+| other-032 | モロズコ | ロシア民話 | en.wikipedia.org, アファナーシェフ『ロシア民話集』 | 2026-04-02 |
+| other-033 | フンブとノルブ | 朝鮮民話 | en.wikipedia.org, パンソリ『興夫歌』 | 2026-04-02 |
+| other-034 | 商人と魔神 | アラビアンナイト | en.wikipedia.org, 『千夜一夜物語』第1-3夜 | 2026-04-02 |
+| other-035 | 言うことを聞かない青カエル | 朝鮮民話 | 韓国口承民話, 90daykorean.com | 2026-04-02 |
 
 <!-- 出典追加時にここへ行を追加 -->

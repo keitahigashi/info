@@ -34,5 +34,10 @@
 
 | indian-027 | 盲目の禿鷲 | culturalindia.net, 『ヒトーパデーシャ』 | 2026-04-02 |
 | indian-028 | 象と仕立屋 | firstcry.com, kathakids.com | 2026-04-02 |
+| indian-029 | 臆病なウサギ | sacred-texts.com, gutenberg.org（Jataka Tales） | 2026-04-03 |
+| indian-030 | バニヤンの鹿王 | sacred-texts.com, ジャータカ第12話 | 2026-04-03 |
+| indian-031 | カラスとコブラ | culturalindia.net, india-a2z.com | 2026-04-03 |
+| indian-032 | 洗濯屋のロバ | india-a2z.com, culturalindia.net | 2026-04-03 |
+| indian-033 | 象とネズミの恩返し | talesofpanchatantra.com, culturalindia.net | 2026-04-03 |
 
 <!-- 出典追加時にここへ行を追加 -->

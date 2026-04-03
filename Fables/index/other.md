@@ -1,4 +1,4 @@
-# その他（30話）
+# その他（35話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -36,5 +36,10 @@
 | [other-029](../fables/other/other-029-pandoras-box.md) | パンドラの箱 | ギリシャ神話 | 禁じられたものへの好奇心は災いを招くが、どんな絶望の中にも希望は残されている |
 
 | [other-030](../fables/other/other-030-the-three-little-pigs.md) | 三匹の子ぶた | 英国民話 | 手間を惜しまず堅実に努力した者だけが、いざという時に身を守ることができる |
+| [other-031](../fables/other/other-031-kolobok.md) | コロボーク | ロシア民話 | 自分の賢さを過信し油断する者は、最も狡猾な相手に足元をすくわれる |
+| [other-032](../fables/other/other-032-father-frost.md) | モロズコ | ロシア民話 | 謙虚さと忍耐は報われ、傲慢と怠惰は厳しい罰を受ける |
+| [other-033](../fables/other/other-033-heungbu-and-nolbu.md) | フンブとノルブ | 朝鮮民話 | 善良な心で弱い者を助ける者は福を得、欲深さから真似をする者は災いを招く |
+| [other-034](../fables/other/other-034-the-merchant-and-the-genie.md) | 商人と魔神 | アラビアンナイト | 約束を守る誠実さと、物語を語る知恵が、死の宣告をも覆す力を持つ |
+| [other-035](../fables/other/other-035-the-disobedient-frog.md) | 言うことを聞かない青カエル | 朝鮮民話 | 親の言葉に逆らい続けた者は、親を失って初めて取り返しのつかない後悔に苛まれる |
 
 <!-- 寓話追加時にここへ行を追加 -->
