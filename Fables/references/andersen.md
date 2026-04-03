@@ -45,4 +45,7 @@
 | andersen-037 | カタツムリとバラの木 | andersen.sdu.dk, アンデルセン(1861) | 2026-04-03 |
 | andersen-038 | 最も信じがたいこと | andersen.sdu.dk, アンデルセン(1870) | 2026-04-03 |
 
+| andersen-039 | 羊飼いの娘と煙突掃除人 | fairytalez.com, greenelement.xsrv.jp, andersen.sdu.dk | 2026-04-03 |
+| andersen-040 | おろかなハンス | kids.kiddle.co, andersenstories.com, andersen.sdu.dk | 2026-04-03 |
+
 <!-- 出典追加時にここへ行を追加 -->

@@ -1,4 +1,4 @@
-# イソップ寓話（36話）
+# イソップ寓話（40話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -42,5 +42,11 @@
 | [aesop-035](../fables/aesop/aesop-035-the-wolf-and-the-crane.md) | オオカミとサギ | 悪者に恩を売っても感謝は返らず、無事に済んだだけで幸運と思え |
 
 | [aesop-036](../fables/aesop/aesop-036-the-monkey-and-the-dolphin.md) | 猿とイルカ | 嘘は嘘を呼び、やがて破綻して身を滅ぼす |
+
+| [aesop-037](../fables/aesop/aesop-037-the-eagle-and-the-beetle.md) | ワシとカブトムシ | どんなに弱い存在でも侮ってはならない |
+| [aesop-038](../fables/aesop/aesop-038-the-fox-and-the-woodcutter.md) | キツネと木こり | 口先だけの善意には価値がない |
+
+| [aesop-039](../fables/aesop/aesop-039-the-travellers-and-the-plane-tree.md) | 旅人とプラタナスの木 | 恩恵を受けている最中にその恩を忘れてはならない |
+| [aesop-040](../fables/aesop/aesop-040-the-fisherman-and-the-little-fish.md) | 漁師と小さな魚 | 手の中にある確実なものは不確実な将来の大物より価値がある |
 
 <!-- 寓話追加時にここへ行を追加 -->

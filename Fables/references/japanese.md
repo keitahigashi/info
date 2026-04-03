@@ -45,4 +45,9 @@
 | japanese-036 | キジも鳴かずば | folktalesjpn.com, ja.wikipedia.org | 2026-04-03 |
 | japanese-037 | 安寿と厨子王 | ja.wikipedia.org, 青空文庫『山椒大夫』 | 2026-04-03 |
 
+| japanese-038 | へっこき嫁 | folktalesjpn.com, hukumusume.com | 2026-04-03 |
+| japanese-039 | かもとりごんべえ | folktalesjpn.com, まんが日本昔ばなしDB | 2026-04-03 |
+
+| japanese-040 | 瓜子姫 | ja.wikipedia.org, 青空文庫（楠山正雄） | 2026-04-03 |
+
 <!-- 出典追加時にここへ行を追加 -->

@@ -1,4 +1,4 @@
-# アンデルセン童話（38話）
+# アンデルセン童話（40話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -44,5 +44,8 @@
 | [andersen-036](../fables/andersen/andersen-036-the-wicked-prince.md) | 邪悪な王子 | どれほど強大な権力を持とうとも、傲慢に天に挑めば最も小さきものに打ち倒される |
 | [andersen-037](../fables/andersen/andersen-037-the-snail-and-the-rosebush.md) | カタツムリとバラの木 | 批評ばかりして何も生み出さない者より、黙々と自分の役割を果たし世界に貢献する者の方が尊い |
 | [andersen-038](../fables/andersen/andersen-038-the-most-incredible-thing.md) | 最も信じがたいこと | 破壊は一時的に創造を凌ぐように見えるが、真の芸術と善は最終的に必ず勝利する |
+
+| [andersen-039](../fables/andersen/andersen-039-the-shepherdess-and-the-chimney-sweep.md) | 羊飼いの娘と煙突掃除人 | 広い世界への憧れよりも、愛する人のそばにいる安心こそが真の幸福である |
+| [andersen-040](../fables/andersen/andersen-040-blockhead-hans.md) | おろかなハンス | 型にはまった知識より、機転と自分らしさで勝負する者が最後に勝つ |
 
 <!-- 寓話追加時にここへ行を追加 -->

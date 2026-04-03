@@ -43,4 +43,11 @@
 | african-034 | オルロンビとイロコの精霊の木 | oldnaija.com, morethan-stories.com | 2026-04-03 |
 | african-035 | コウモリが夜に飛ぶ理由 | worldoftales.com, oldnaija.com | 2026-04-03 |
 
+| african-036 | 物語の起源 | canteach.ca, ズールー族口承 | 2026-04-03 |
+| african-037 | 木に宿る精霊 | gateway-africa.com, ズールー族口承 | 2026-04-03 |
+
+| african-038 | 月とウサギ（死の起源） | sacred-texts.com, Bleek & Lloyd (1911) | 2026-04-03 |
+| african-039 | ライオンのひげ | ethiopianenglishreaders.com, archive.org | 2026-04-03 |
+| african-040 | 力自慢の男（雷の起源） | aaronshep.com, sacred-texts.com | 2026-04-03 |
+
 <!-- 出典追加時にここへ行を追加 -->

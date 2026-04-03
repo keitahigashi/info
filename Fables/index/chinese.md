@@ -1,4 +1,4 @@
-# 中国故事（39話）
+# 中国故事（41話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -44,5 +44,8 @@
 | [chinese-037](../fables/chinese/chinese-037-walking-like-the-people-of-handan.md) | 邯鄲の歩み | むやみに他人を真似れば新しいものは身につかず、自分本来の持ち味まで失ってしまう |
 | [chinese-038](../fables/chinese/chinese-038-war-on-the-snails-horns.md) | 蝸牛角上の争い | 無限の宇宙から見れば、人間の領土争いや権力闘争は蝸牛の角の上の小競り合いに過ぎない |
 | [chinese-039](../fables/chinese/chinese-039-buying-the-box-returning-the-pearl.md) | 買櫝還珠 | 外見の華麗さに惑わされ、本当に価値あるものを見失う本末転倒の愚かさを戒める |
+
+| [chinese-040](../fables/chinese/chinese-040-morning-orders-evening-changes.md) | 朝令暮改 | 方針を頻繁に変えると信用を失い、人はついてこなくなる |
+| [chinese-041](../fables/chinese/chinese-041-armchair-strategist.md) | 紙上談兵 | 理論や知識だけでは実践に通用しない |
 
 <!-- 寓話追加時にここへ行を追加 -->

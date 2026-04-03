@@ -1,4 +1,4 @@
-# 日本昔話（37話）
+# 日本昔話（40話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -44,5 +44,10 @@
 | [japanese-035](../fables/japanese/japanese-035-kissaku-otoshi.md) | 吉作落とし | ほんのわずかな油断が命取りになる |
 | [japanese-036](../fables/japanese/japanese-036-if-the-pheasant-had-not-cried.md) | キジも鳴かずば | 不用意な一言が取り返しのつかない災いを招く |
 | [japanese-037](../fables/japanese/japanese-037-anju-and-zushio.md) | 安寿と厨子王 | 家族の絆と自己犠牲が苦境を切り拓く |
+
+| [japanese-038](../fables/japanese/japanese-038-the-farting-wife.md) | へっこき嫁 | 一見欠点に見える個性も使い方次第で大きな力になる |
+| [japanese-039](../fables/japanese/japanese-039-gonbei-the-duck-hunter.md) | かもとりごんべえ | 欲張りすぎると災難を招くが、転んでもただでは起きないたくましさが大切 |
+
+| [japanese-040](../fables/japanese/japanese-040-uriko-hime-and-the-amanojaku.md) | 瓜子姫 | 見知らぬ者を安易に信用してはならない |
 
 <!-- 寓話追加時にここへ行を追加 -->

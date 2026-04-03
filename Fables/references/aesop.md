@@ -43,4 +43,10 @@
 
 | aesop-036 | 猿とイルカ | en.wikipedia.org, fablesofaesop.com, Perry Index #73 | 2026-04-03 |
 
+| aesop-037 | ワシとカブトムシ | en.wikipedia.org, fablesofaesop.com, Perry Index #3 | 2026-04-03 |
+| aesop-038 | キツネと木こり | fablesofaesop.com, en.wikipedia.org, Perry Index #22 | 2026-04-03 |
+
+| aesop-039 | 旅人とプラタナスの木 | fablesofaesop.com, en.wikipedia.org, Perry Index #175 | 2026-04-03 |
+| aesop-040 | 漁師と小さな魚 | fablesofaesop.com, en.wikipedia.org, Perry Index #18 | 2026-04-03 |
+
 <!-- 出典追加時にここへ行を追加 -->

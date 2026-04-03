@@ -1,4 +1,4 @@
-# アフリカ民話（35話）
+# アフリカ民話（40話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -42,5 +42,12 @@
 
 | [african-034](../fables/african/african-034-oluronbi-and-the-iroko-tree.md) | オルロンビとイロコの精霊の木 | 守れない約束をしてはならない |
 | [african-035](../fables/african/african-035-why-the-bat-flies-at-night.md) | コウモリが夜に飛ぶ理由 | 嫉妬と欺瞞は友情を破壊し、自分自身をも孤独に追い込む |
+
+| [african-036](../fables/african/african-036-where-stories-come-from.md) | 物語の起源 | 価値あるものを得るには自らも何かを差し出す覚悟が必要である |
+| [african-037](../fables/african/african-037-the-spirit-in-the-tree.md) | 木に宿る精霊 | どんなに辛い日々も必ず過ぎ去り、先祖の導きと忍耐が苦難を乗り越える力となる |
+
+| [african-038](../fables/african/african-038-the-moon-and-the-hare.md) | 月とウサギ（死の起源） | 大切な使命を託された者がそれを歪めれば、取り返しのつかない結果を招く |
+| [african-039](../fables/african/african-039-the-lions-whiskers.md) | ライオンのひげ | 信頼は忍耐と一貫した優しさによってのみ築かれる |
+| [african-040](../fables/african/african-040-master-man.md) | 力自慢の男（雷の起源） | 自惚れと虚勢は身を滅ぼし、どれほど優れていても上には上がいる |
 
 <!-- 寓話追加時にここへ行を追加 -->
