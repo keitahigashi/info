@@ -41,5 +41,10 @@
 | other-033 | フンブとノルブ | 朝鮮民話 | en.wikipedia.org, パンソリ『興夫歌』 | 2026-04-02 |
 | other-034 | 商人と魔神 | アラビアンナイト | en.wikipedia.org, 『千夜一夜物語』第1-3夜 | 2026-04-02 |
 | other-035 | 言うことを聞かない青カエル | 朝鮮民話 | 韓国口承民話, 90daykorean.com | 2026-04-02 |
+| other-036 | 青い鳥 | ベルギー（メーテルリンク） | ja.wikipedia.org, gutenberg.org | 2026-04-03 |
+| other-037 | ジャックと豆の木 | 英国民話 | en.wikipedia.org, sites.pitt.edu | 2026-04-03 |
+| other-038 | 漁師と金の魚 | ロシア（プーシキン） | jp.rbth.com, ja.wikipedia.org | 2026-04-03 |
+| other-039 | ピノッキオの冒険 | イタリア（コッローディ） | ja.wikipedia.org, en.wikipedia.org | 2026-04-03 |
+| other-040 | ミダス王の黄金の手 | ギリシャ神話 | ja.wikipedia.org, turkish.jp | 2026-04-03 |
 
 <!-- 出典追加時にここへ行を追加 -->

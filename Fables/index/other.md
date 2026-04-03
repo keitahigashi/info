@@ -1,4 +1,4 @@
-# その他（35話）
+# その他（40話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -41,5 +41,10 @@
 | [other-033](../fables/other/other-033-heungbu-and-nolbu.md) | フンブとノルブ | 朝鮮民話 | 善良な心で弱い者を助ける者は福を得、欲深さから真似をする者は災いを招く |
 | [other-034](../fables/other/other-034-the-merchant-and-the-genie.md) | 商人と魔神 | アラビアンナイト | 約束を守る誠実さと、物語を語る知恵が、死の宣告をも覆す力を持つ |
 | [other-035](../fables/other/other-035-the-disobedient-frog.md) | 言うことを聞かない青カエル | 朝鮮民話 | 親の言葉に逆らい続けた者は、親を失って初めて取り返しのつかない後悔に苛まれる |
+| [other-036](../fables/other/other-036-the-blue-bird.md) | 青い鳥 | ベルギー（メーテルリンク） | 本当の幸福は遠くにあるのではなく、身近な日常の中にこそある |
+| [other-037](../fables/other/other-037-jack-and-the-beanstalk.md) | ジャックと豆の木 | 英国民話 | 勇気と機転は道を切り開くが、欲を出しすぎれば命を危うくする |
+| [other-038](../fables/other/other-038-the-fisherman-and-the-golden-fish.md) | 漁師と金の魚 | ロシア（プーシキン） | 際限のない欲望は全てを失わせ、感謝を忘れた強欲は身を滅ぼす |
+| [other-039](../fables/other/other-039-pinocchio.md) | ピノッキオの冒険 | イタリア（コッローディ） | 嘘をつかず誠実に生き、怠惰を避けて努力することで、人は本当の人間になれる |
+| [other-040](../fables/other/other-040-king-midas-and-the-golden-touch.md) | ミダス王の黄金の手 | ギリシャ神話 | 際限のない富への欲望は、本当に大切なものを全て奪い去る |
 
 <!-- 寓話追加時にここへ行を追加 -->
