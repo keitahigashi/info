@@ -40,4 +40,7 @@
 | african-032 | ワシが最も高く飛ぶ理由 | anikefoundation.org | 2026-04-03 |
 | african-033 | 耳は頭を越えられない | anikefoundation.org | 2026-04-03 |
 
+| african-034 | オルロンビとイロコの精霊の木 | oldnaija.com, morethan-stories.com | 2026-04-03 |
+| african-035 | コウモリが夜に飛ぶ理由 | worldoftales.com, oldnaija.com | 2026-04-03 |
+
 <!-- 出典追加時にここへ行を追加 -->

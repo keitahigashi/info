@@ -1,4 +1,4 @@
-# アフリカ民話（33話）
+# アフリカ民話（35話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -39,5 +39,8 @@
 | [african-031](../fables/african/african-031-why-hawks-kill-chicks.md) | タカがヒヨコを狩る理由 | 不誠実な行いの報いは長く続き、約束を破れば代償を払い続けることになる |
 | [african-032](../fables/african/african-032-why-the-eagle-flies-highest.md) | ワシが最も高く飛ぶ理由 | 成功は生まれつきの才能ではなく、たゆまぬ努力と練習から生まれる |
 | [african-033](../fables/african/african-033-the-ears-never-get-past-the-head.md) | 耳は頭を越えられない | どれほど力や技を身につけても、年長者の知恵と経験には及ばない |
+
+| [african-034](../fables/african/african-034-oluronbi-and-the-iroko-tree.md) | オルロンビとイロコの精霊の木 | 守れない約束をしてはならない |
+| [african-035](../fables/african/african-035-why-the-bat-flies-at-night.md) | コウモリが夜に飛ぶ理由 | 嫉妬と欺瞞は友情を破壊し、自分自身をも孤独に追い込む |
 
 <!-- 寓話追加時にここへ行を追加 -->

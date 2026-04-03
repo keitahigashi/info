@@ -1,4 +1,4 @@
-# インド寓話（33話）
+# インド寓話（36話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -39,5 +39,9 @@
 | [indian-031](../fables/indian/indian-031-the-crows-and-the-cobra.md) | カラスとコブラ | 力では敵わない相手も、知恵と策略で間接的に打ち倒すことができる |
 | [indian-032](../fables/indian/indian-032-the-washerman-and-his-donkey.md) | 洗濯屋のロバ | 他者の成功を安易に真似ても、状況が違えば同じ結果にはならず、かえって災いを招く |
 | [indian-033](../fables/indian/indian-033-the-elephants-and-the-mice.md) | 象とネズミの恩返し | どんなに小さな者への親切も無駄にはならず、弱者の恩返しが強者を救う日が来る |
+
+| [indian-034](../fables/indian/indian-034-the-weaver-and-the-princess.md) | 機織りと王女 | 知恵と友情があれば身分の壁も超えられる |
+| [indian-035](../fables/indian/indian-035-the-old-tiger-and-the-greedy-traveller.md) | 老虎と欲深い旅人 | 欲深さは身を滅ぼす |
+| [indian-036](../fables/indian/indian-036-the-goat-that-laughed-and-wept.md) | 笑い泣いた山羊 | いかなる理由があろうと殺生は悪い結果を招く |
 
 <!-- 寓話追加時にここへ行を追加 -->

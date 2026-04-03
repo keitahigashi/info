@@ -40,4 +40,8 @@
 | indian-032 | 洗濯屋のロバ | india-a2z.com, culturalindia.net | 2026-04-03 |
 | indian-033 | 象とネズミの恩返し | talesofpanchatantra.com, culturalindia.net | 2026-04-03 |
 
+| indian-034 | 機織りと王女 | en.wikisource.org, kathakids.com | 2026-04-03 |
+| indian-035 | 老虎と欲深い旅人 | culturalindia.net, wisdomlib.org | 2026-04-03 |
+| indian-036 | 笑い泣いた山羊 | sacred-texts.com, thejatakatales.com | 2026-04-03 |
+
 <!-- 出典追加時にここへ行を追加 -->

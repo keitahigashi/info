@@ -11,7 +11,7 @@
 | 中国故事 | 39 | [出典を見る](references/chinese.md) |
 | グリム童話 | 40 | [出典を見る](references/grimm.md) |
 | アンデルセン童話 | 38 | [出典を見る](references/andersen.md) |
-| インド寓話 | 33 | [出典を見る](references/indian.md) |
-| アフリカ民話 | 33 | [出典を見る](references/african.md) |
+| インド寓話 | 36 | [出典を見る](references/indian.md) |
+| アフリカ民話 | 35 | [出典を見る](references/african.md) |
 | その他 | 40 | [出典を見る](references/other.md) |
-| **合計** | **292** | |
+| **合計** | **297** | |
