@@ -1,4 +1,4 @@
-# イソップ寓話（35話）
+# イソップ寓話（36話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -40,5 +40,7 @@
 | [aesop-033](../fables/aesop/aesop-033-the-two-crabs.md) | 二匹のカニ | 人に教えたいなら、まず自分が手本を示さなければ説得力はない |
 | [aesop-034](../fables/aesop/aesop-034-the-milkmaid-and-her-pail.md) | 牛乳売りの娘 | まだ手に入っていないものを当てにして夢想すれば、今あるものさえ失う |
 | [aesop-035](../fables/aesop/aesop-035-the-wolf-and-the-crane.md) | オオカミとサギ | 悪者に恩を売っても感謝は返らず、無事に済んだだけで幸運と思え |
+
+| [aesop-036](../fables/aesop/aesop-036-the-monkey-and-the-dolphin.md) | 猿とイルカ | 嘘は嘘を呼び、やがて破綻して身を滅ぼす |
 
 <!-- 寓話追加時にここへ行を追加 -->

@@ -1,4 +1,4 @@
-# 日本昔話（34話）
+# 日本昔話（37話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -40,5 +40,9 @@
 | [japanese-032](../fables/japanese/japanese-032-the-snail-millionaire.md) | たにし長者 | 外見で人を判断してはならず、無条件の愛と受容にこそ真の幸福が訪れる |
 | [japanese-033](../fables/japanese/japanese-033-the-child-raising-ghost.md) | 子育て幽霊 | 母の愛は死をも超え、我が子のためなら幽霊となっても守り続ける |
 | [japanese-034](../fables/japanese/japanese-034-the-ox-driver-and-the-mountain-hag.md) | 牛方と山姥 | 力では敵わない相手にも、知恵と機転で勝つことができる |
+
+| [japanese-035](../fables/japanese/japanese-035-kissaku-otoshi.md) | 吉作落とし | ほんのわずかな油断が命取りになる |
+| [japanese-036](../fables/japanese/japanese-036-if-the-pheasant-had-not-cried.md) | キジも鳴かずば | 不用意な一言が取り返しのつかない災いを招く |
+| [japanese-037](../fables/japanese/japanese-037-anju-and-zushio.md) | 安寿と厨子王 | 家族の絆と自己犠牲が苦境を切り拓く |
 
 <!-- 寓話追加時にここへ行を追加 -->

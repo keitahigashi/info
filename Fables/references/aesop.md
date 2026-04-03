@@ -41,4 +41,6 @@
 | aesop-034 | 牛乳売りの娘 | La Fontaine『Fables』VII-10, Perry Index | 2026-04-02 |
 | aesop-035 | オオカミとサギ | fablesofaesop.com, Perry Index #156 | 2026-04-02 |
 
+| aesop-036 | 猿とイルカ | en.wikipedia.org, fablesofaesop.com, Perry Index #73 | 2026-04-03 |
+
 <!-- 出典追加時にここへ行を追加 -->

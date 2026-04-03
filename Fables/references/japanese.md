@@ -41,4 +41,8 @@
 | japanese-033 | 子育て幽霊 | folktalesjpn.com, minwanoheya.jp | 2026-04-03 |
 | japanese-034 | 牛方と山姥 | folktalesjpn.com, minwanoheya.jp | 2026-04-03 |
 
+| japanese-035 | 吉作落とし | arasuji-m.com, まんが日本昔ばなしDB | 2026-04-03 |
+| japanese-036 | キジも鳴かずば | folktalesjpn.com, ja.wikipedia.org | 2026-04-03 |
+| japanese-037 | 安寿と厨子王 | ja.wikipedia.org, 青空文庫『山椒大夫』 | 2026-04-03 |
+
 <!-- 出典追加時にここへ行を追加 -->
