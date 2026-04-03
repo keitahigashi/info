@@ -43,5 +43,8 @@
 | indian-034 | 機織りと王女 | en.wikisource.org, kathakids.com | 2026-04-03 |
 | indian-035 | 老虎と欲深い旅人 | culturalindia.net, wisdomlib.org | 2026-04-03 |
 | indian-036 | 笑い泣いた山羊 | sacred-texts.com, thejatakatales.com | 2026-04-03 |
+| indian-037 | ジャッカルと太鼓 | talesofpanchatantra.com, firstcry.com | 2026-04-03 |
+| indian-038 | 隠者とネズミ | talesofpanchatantra.com, vedantu.com | 2026-04-03 |
+| indian-039 | 喋る洞穴 | talesofpanchatantra.com, babychapter.com | 2026-04-03 |
 
 <!-- 出典追加時にここへ行を追加 -->

@@ -1,4 +1,4 @@
-# インド寓話（36話）
+# インド寓話（39話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -43,5 +43,8 @@
 | [indian-034](../fables/indian/indian-034-the-weaver-and-the-princess.md) | 機織りと王女 | 知恵と友情があれば身分の壁も超えられる |
 | [indian-035](../fables/indian/indian-035-the-old-tiger-and-the-greedy-traveller.md) | 老虎と欲深い旅人 | 欲深さは身を滅ぼす |
 | [indian-036](../fables/indian/indian-036-the-goat-that-laughed-and-wept.md) | 笑い泣いた山羊 | いかなる理由があろうと殺生は悪い結果を招く |
+| [indian-037](../fables/indian/indian-037-the-jackal-and-the-drum.md) | ジャッカルと太鼓 | 勇気をもって未知のものを調べる者だけが成功を手にする |
+| [indian-038](../fables/indian/indian-038-the-hermit-and-the-mouse.md) | 隠者とネズミ | 敵の力の源を断てば、敵そのものを打ち倒せる |
+| [indian-039](../fables/indian/indian-039-the-cave-that-talked.md) | 喋る洞穴 | 機転と冷静な観察力があれば、強大な敵の罠からも逃れられる |
 
 <!-- 寓話追加時にここへ行を追加 -->
