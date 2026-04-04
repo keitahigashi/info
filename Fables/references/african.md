@@ -50,4 +50,10 @@
 | african-039 | ライオンのひげ | ethiopianenglishreaders.com, archive.org | 2026-04-03 |
 | african-040 | 力自慢の男（雷の起源） | aaronshep.com, sacred-texts.com | 2026-04-03 |
 
+| african-041 | サルのバイオリン | mythfolklore.blogspot.com, gutenberg.org | 2026-04-04 |
+| african-042 | ティンクティンキェ（鳥の王選び） | afrolegends.com, gutenberg.org | 2026-04-04 |
+| african-043 | レイヨウが野に住む理由 | anikefoundation.org, gutenberg.org | 2026-04-04 |
+| african-044 | 恩知らずのヘビ | mythfolklore.blogspot.com, sites.pitt.edu | 2026-04-04 |
+| african-045 | オンドリとジャッカル | fairytalenight.com, gutenberg.org | 2026-04-04 |
+
 <!-- 出典追加時にここへ行を追加 -->

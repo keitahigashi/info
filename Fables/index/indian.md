@@ -1,4 +1,4 @@
-# インド寓話（39話）
+# インド寓話（44話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -46,5 +46,11 @@
 | [indian-037](../fables/indian/indian-037-the-jackal-and-the-drum.md) | ジャッカルと太鼓 | 勇気をもって未知のものを調べる者だけが成功を手にする |
 | [indian-038](../fables/indian/indian-038-the-hermit-and-the-mouse.md) | 隠者とネズミ | 敵の力の源を断てば、敵そのものを打ち倒せる |
 | [indian-039](../fables/indian/indian-039-the-cave-that-talked.md) | 喋る洞穴 | 機転と冷静な観察力があれば、強大な敵の罠からも逃れられる |
+
+| [indian-040](../fables/indian/indian-040-the-foolish-barber.md) | 愚かな床屋 | 物事の本質を理解せずに表面だけを模倣すると災いを招く |
+| [indian-041](../fables/indian/indian-041-frogs-that-rode-a-snake.md) | 蛙の王と蛇 | 同胞を罰するために天敵と手を組むことは自らの破滅を招く |
+| [indian-042](../fables/indian/indian-042-the-story-of-the-potter.md) | 陶工の傷跡 | 外見だけで人を判断することは危険であり、自分が何者であるかに正直であることが大切である |
+| [indian-043](../fables/indian/indian-043-the-dog-king.md) | 犬の王 | 権力者は偏見に基づいて裁きを下してはならず、真実を確かめることが正義である |
+| [indian-044](../fables/indian/indian-044-the-man-who-grew-wealthy-from-a-dead-mouse.md) | 死んだネズミから財を成した男 | どんなに小さな機会でも、知恵と勤勉さがあれば大きな成功につながる |
 
 <!-- 寓話追加時にここへ行を追加 -->

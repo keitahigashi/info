@@ -1,4 +1,4 @@
-# アンデルセン童話（40話）
+# アンデルセン童話（45話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -47,5 +47,11 @@
 
 | [andersen-039](../fables/andersen/andersen-039-the-shepherdess-and-the-chimney-sweep.md) | 羊飼いの娘と煙突掃除人 | 広い世界への憧れよりも、愛する人のそばにいる安心こそが真の幸福である |
 | [andersen-040](../fables/andersen/andersen-040-blockhead-hans.md) | おろかなハンス | 型にはまった知識より、機転と自分らしさで勝負する者が最後に勝つ |
+
+| [andersen-041](../fables/andersen/andersen-041-the-angel.md) | 天使 | どんなに惨めで取るに足らないものにも尊い意味があり、神が見るのは心の美しさである |
+| [andersen-042](../fables/andersen/andersen-042-the-flax.md) | 亜麻 | 苦難や変化を受け入れることで、より高い次元の存在へと変容できる |
+| [andersen-043](../fables/andersen/andersen-043-the-goblin-and-the-grocer.md) | 小妖精と食料品屋 | 人は芸術の崇高さを理解しながらも日々の実利を手放せない、その矛盾こそが人間らしさである |
+| [andersen-044](../fables/andersen/andersen-044-the-last-dream-of-the-old-oak-tree.md) | 老樫の木の最後の夢 | 命の長さではなく、その中でどれだけ豊かに生きたかが重要である |
+| [andersen-045](../fables/andersen/andersen-045-the-pen-and-the-inkstand.md) | ペンとインク壺 | 道具がいくら優れていても真の創造力はそれを使いこなす精神にある |
 
 <!-- 寓話追加時にここへ行を追加 -->

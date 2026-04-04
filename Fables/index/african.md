@@ -1,4 +1,4 @@
-# アフリカ民話（40話）
+# アフリカ民話（45話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -49,5 +49,11 @@
 | [african-038](../fables/african/african-038-the-moon-and-the-hare.md) | 月とウサギ（死の起源） | 大切な使命を託された者がそれを歪めれば、取り返しのつかない結果を招く |
 | [african-039](../fables/african/african-039-the-lions-whiskers.md) | ライオンのひげ | 信頼は忍耐と一貫した優しさによってのみ築かれる |
 | [african-040](../fables/african/african-040-master-man.md) | 力自慢の男（雷の起源） | 自惚れと虚勢は身を滅ぼし、どれほど優れていても上には上がいる |
+
+| [african-041](../fables/african/african-041-the-monkeys-fiddle.md) | サルのバイオリン | 真の才能と知恵は暴力や権力に勝る |
+| [african-042](../fables/african/african-042-tink-tinkje.md) | ティンクティンキェ（鳥の王選び） | 体の大きさや力だけが勝利の条件ではなく、小さな者でも知恵と機転で大きな者を出し抜ける |
+| [african-043](../fables/african/african-043-why-antelope-lives-in-the-bush.md) | レイヨウが野に住む理由 | 自分の能力を信じる者は自由を手に入れ、自信のない者は不自由な環境に留まり続ける |
+| [african-044](../fables/african/african-044-the-ungrateful-snake.md) | 恩知らずのヘビ | 恩を仇で返す者に対しては二度と同じ過ちを繰り返す必要はない |
+| [african-045](../fables/african/african-045-cock-and-jackal.md) | オンドリとジャッカル | 絶体絶命の危機でも冷静さと機転があれば活路は開ける |
 
 <!-- 寓話追加時にここへ行を追加 -->

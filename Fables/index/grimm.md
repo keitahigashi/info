@@ -1,4 +1,4 @@
-# グリム童話（40話）
+# グリム童話（45話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -46,5 +46,11 @@
 | [grimm-038](../fables/grimm/grimm-038-the-ear-of-corn.md) | 穀物の穂 | 神の恵みや自然の恩恵を粗末にすれば、豊かさを失う罰を受ける |
 | [grimm-039](../fables/grimm/grimm-039-the-ungrateful-son.md) | 恩知らずの息子 | 親への恩知らずと利己心は、逃れられない苦しみとなって自分に返ってくる |
 | [grimm-040](../fables/grimm/grimm-040-the-willow-wren-and-the-bear.md) | ミソサザイと熊 | 小さな者を見くびってはならず、知恵と団結があれば力の差は覆せる |
+
+| [grimm-041](../fables/grimm/grimm-041-the-duration-of-life.md) | 寿命 | 欲張って他者の分まで求めると、その代償も引き受けることになる |
+| [grimm-042](../fables/grimm/grimm-042-the-three-spinners.md) | 糸くり三人女 | 勤勉さだけが美徳ではなく、機転や人との繋がりも人生を切り開く力になる |
+| [grimm-043](../fables/grimm/grimm-043-the-white-snake.md) | 白蛇 | 小さな生き物への親切は必ず報われる |
+| [grimm-044](../fables/grimm/grimm-044-the-queen-bee.md) | 蜜蜂の女王 | 弱く小さな存在への思いやりは巡り巡って自分を救う |
+| [grimm-045](../fables/grimm/grimm-045-the-three-snake-leaves.md) | 三枚の蛇の葉 | 恩を仇で返す者には必ず報いがある |
 
 <!-- 寓話追加時にここへ行を追加 -->

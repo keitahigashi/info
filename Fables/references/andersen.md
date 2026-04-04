@@ -48,4 +48,10 @@
 | andersen-039 | 羊飼いの娘と煙突掃除人 | fairytalez.com, greenelement.xsrv.jp, andersen.sdu.dk | 2026-04-03 |
 | andersen-040 | おろかなハンス | kids.kiddle.co, andersenstories.com, andersen.sdu.dk | 2026-04-03 |
 
+| andersen-041 | 天使 | greenelement.xsrv.jp, en.wikipedia.org | 2026-04-04 |
+| andersen-042 | 亜麻 | fairytalez.com, andersenstories.com | 2026-04-04 |
+| andersen-043 | 小妖精と食料品屋 | en.wikipedia.org, kids.kiddle.co | 2026-04-04 |
+| andersen-044 | 老樫の木の最後の夢 | fairytalez.com, andersenstories.com | 2026-04-04 |
+| andersen-045 | ペンとインク壺 | fairytalez.com, aozora.gr.jp | 2026-04-04 |
+
 <!-- 出典追加時にここへ行を追加 -->

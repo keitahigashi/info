@@ -1,4 +1,4 @@
-# 中国故事（41話）
+# 中国故事（46話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -47,5 +47,11 @@
 
 | [chinese-040](../fables/chinese/chinese-040-morning-orders-evening-changes.md) | 朝令暮改 | 方針を頻繁に変えると信用を失い、人はついてこなくなる |
 | [chinese-041](../fables/chinese/chinese-041-armchair-strategist.md) | 紙上談兵 | 理論や知識だけでは実践に通用しない |
+
+| [chinese-042](../fables/chinese/chinese-042-the-incompetent-musician.md) | 濫竽充数 | 実力のない者が集団に紛れても、個人の力量が問われる場面では必ず化けの皮が剥がれる |
+| [chinese-043](../fables/chinese/chinese-043-lord-yes-love-of-dragons.md) | 葉公好龍 | 口先では好きだと言いながら本物が現れると逃げ出す、見せかけだけの愛好を戒める |
+| [chinese-044](../fables/chinese/chinese-044-going-south-by-driving-north.md) | 南轅北轍 | 目的と手段の方向性が合っていなければ、努力すればするほど目標から遠ざかる |
+| [chinese-045](../fables/chinese/chinese-045-gazing-at-the-ocean-and-sighing.md) | 望洋興嘆 | 自分の知識や力が大きいと思い込んでも、より広い世界を知れば自らの小ささに気づかされる |
+| [chinese-046](../fables/chinese/chinese-046-a-cup-of-water-on-a-burning-cartload.md) | 杯水車薪 | わずかな努力で失敗したからといって、努力そのものに意味がないと結論づけてはならない |
 
 <!-- 寓話追加時にここへ行を追加 -->

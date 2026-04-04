@@ -47,4 +47,10 @@
 | grimm-039 | 恩知らずの息子 | sites.pitt.edu, KHM 145 | 2026-04-03 |
 | grimm-040 | ミソサザイと熊 | grimmstories.com, KHM 102 | 2026-04-03 |
 
+| grimm-041 | 寿命 | grimmdowaclub.net, en.wikipedia.org | 2026-04-04 |
+| grimm-042 | 糸くり三人女 | ja.wikipedia.org, fudemogura.com | 2026-04-04 |
+| grimm-043 | 白蛇 | grimmdowaclub.net, grimmstories.com | 2026-04-04 |
+| grimm-044 | 蜜蜂の女王 | greenelement.xsrv.jp, grimmdowaclub.net | 2026-04-04 |
+| grimm-045 | 三枚の蛇の葉 | grimmdowaclub.net, greenelement.xsrv.jp | 2026-04-04 |
+
 <!-- 出典追加時にここへ行を追加 -->

@@ -48,4 +48,10 @@
 | chinese-040 | 朝令暮改 | ja.wikipedia.org, 『漢書』食貨志 | 2026-04-03 |
 | chinese-041 | 紙上談兵 | ja.wikipedia.org, 『史記』廉頗藺相如列伝 | 2026-04-03 |
 
+| chinese-042 | 濫竽充数 | nihongo-gururitto.com, idiom-encyclopedia.com | 2026-04-04 |
+| chinese-043 | 葉公好龍 | epochtimes.com, en.wiktionary.org | 2026-04-04 |
+| chinese-044 | 南轅北轍 | spc.jst.go.jp, en.wiktionary.org | 2026-04-04 |
+| chinese-045 | 望洋興嘆 | note.com, epochtimes.com | 2026-04-04 |
+| chinese-046 | 杯水車薪 | baike.baidu.com, ctext.org | 2026-04-04 |
+
 <!-- 出典追加時にここへ行を追加 -->
