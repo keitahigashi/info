@@ -52,5 +52,16 @@
 | grimm-043 | 白蛇 | grimmdowaclub.net, grimmstories.com | 2026-04-04 |
 | grimm-044 | 蜜蜂の女王 | greenelement.xsrv.jp, grimmdowaclub.net | 2026-04-04 |
 | grimm-045 | 三枚の蛇の葉 | grimmdowaclub.net, greenelement.xsrv.jp | 2026-04-04 |
+| grimm-046 | トゥルーデおばさん | grimmstories.com, grimmdowaclub.net | 2026-04-04 |
+| grimm-047 | としよりのおじいさんと孫 | grimmstories.com, en.wikipedia.org | 2026-04-04 |
+| grimm-048 | 貧乏人と金持ち | grimmstories.com, grimmdowaclub.net | 2026-04-04 |
+| grimm-049 | 釘 | grimmstories.com, sites.pitt.edu | 2026-04-04 |
+| grimm-050 | 金の毛が3本生えた鬼 | grimmstories.com, grimmdowaclub.net | 2026-04-04 |
+
+| grimm-051 | 森の中の三人のこびと | furansugonosekai.com, grimmdowaclub.net | 2026-04-04 |
+| grimm-052 | 歌う骨 | grimmdowaclub.net, grimmstories.com | 2026-04-04 |
+| grimm-053 | 手なしむすめ | furansugonosekai.com, grimmdowaclub.net | 2026-04-04 |
+| grimm-054 | わらと炭とそら豆 | hugkum.sho.jp, grimmstories.com | 2026-04-04 |
+| grimm-055 | 兄と妹 | grimmdowaclub.net, grimmstories.com | 2026-04-04 |
 
 <!-- 出典追加時にここへ行を追加 -->

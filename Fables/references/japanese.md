@@ -50,4 +50,16 @@
 
 | japanese-040 | 瓜子姫 | ja.wikipedia.org, 青空文庫（楠山正雄） | 2026-04-03 |
 
+| japanese-041 | 十二支のはじまり | folktalesjpn.com, arasuji-m.com | 2026-04-04 |
+| japanese-042 | はなたれ小僧さま | folktalesjpn.com, minwanoheya.jp | 2026-04-04 |
+| japanese-043 | 鉢かづき姫 | ja.wikipedia.org, folktalesjpn.com | 2026-04-04 |
+| japanese-044 | 天福地福 | folktalesjpn.com, 岩倉市郎『南蒲原郡昔話集』 | 2026-04-04 |
+| japanese-045 | ものぐさ太郎 | ja.wikipedia.org, 『御伽草子』 | 2026-04-04 |
+
+| japanese-046 | ふるやのもり | folktalesjpn.com, arasuji-m.com | 2026-04-04 |
+| japanese-047 | 夢を買う | folktalesjpn.com, 『宇治拾遺物語』第165話 | 2026-04-04 |
+| japanese-048 | 座敷わらし | folktalesjpn.com, 柳田國男『遠野物語』(1910) | 2026-04-04 |
+| japanese-049 | さだ六とシロ | folktalesjpn.com, arasuji-m.com | 2026-04-04 |
+| japanese-050 | 海幸彦と山幸彦 | 『古事記』(712), ja.wikipedia.org | 2026-04-04 |
+
 <!-- 出典追加時にここへ行を追加 -->

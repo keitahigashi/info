@@ -1,4 +1,4 @@
-# 日本昔話（40話）
+# 日本昔話（50話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -49,5 +49,17 @@
 | [japanese-039](../fables/japanese/japanese-039-gonbei-the-duck-hunter.md) | かもとりごんべえ | 欲張りすぎると災難を招くが、転んでもただでは起きないたくましさが大切 |
 
 | [japanese-040](../fables/japanese/japanese-040-uriko-hime-and-the-amanojaku.md) | 瓜子姫 | 見知らぬ者を安易に信用してはならない |
+
+| [japanese-041](../fables/japanese/japanese-041-the-origin-of-the-twelve-zodiac-animals.md) | 十二支のはじまり | 愚直でも早くから準備する者は報われ、ずる賢さは一時の成功と引き換えに恨みを買う |
+| [japanese-042](../fables/japanese/japanese-042-the-snot-nosed-boy.md) | はなたれ小僧さま | 恩を忘れて傲慢になれば、授かった幸運もすべて失われる |
+| [japanese-043](../fables/japanese/japanese-043-the-bowl-wearing-princess.md) | 鉢かづき姫 | 外見に惑わされず内面を見抜く目こそが大切であり、苦難の中でも誠実に生きる者はやがて報われる |
+| [japanese-044](../fables/japanese/japanese-044-fortune-from-heaven-fortune-from-earth.md) | 天福地福 | 正直に生きる者は福に恵まれ、見栄と欲で嘘をつく者は自ら福を逃す |
+| [japanese-045](../fables/japanese/japanese-045-monogusa-taro-the-lazy-boy.md) | ものぐさ太郎 | 外見や普段の振る舞いだけで人を判断してはならず、人にはそれぞれ隠れた才能がある |
+
+| [japanese-046](../fables/japanese/japanese-046-the-leaky-old-house.md) | ふるやのもり | 知らないものへの恐怖は想像によって実態以上に膨らみ、自らを混乱に陥れる |
+| [japanese-047](../fables/japanese/japanese-047-the-man-who-bought-a-dream.md) | 夢を買う | 諦めずに努力を続ける者には道が開け、大事な好機は軽々しく他人に漏らすものではない |
+| [japanese-048](../fables/japanese/japanese-048-the-zashiki-warashi.md) | 座敷わらし | 家の繁栄は財産ではなく住む人の心がけ次第であり、目に見えない恩恵への感謝を忘れてはならない |
+| [japanese-049](../fables/japanese/japanese-049-sadaroku-and-shiro.md) | さだ六とシロ | 油断や不注意は取り返しのつかない事態を招き、見返りを求めない忠誠心こそが最も尊い |
+| [japanese-050](../fables/japanese/japanese-050-umisachihiko-and-yamasachihiko.md) | 海幸彦と山幸彦 | 借りたものは必ず返すべきであり、困難に直面しても諦めず誠実に向き合えば助けの手が差し伸べられる |
 
 <!-- 寓話追加時にここへ行を追加 -->

@@ -1,4 +1,4 @@
-# イソップ寓話（40話）
+# イソップ寓話（50話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -48,5 +48,17 @@
 
 | [aesop-039](../fables/aesop/aesop-039-the-travellers-and-the-plane-tree.md) | 旅人とプラタナスの木 | 恩恵を受けている最中にその恩を忘れてはならない |
 | [aesop-040](../fables/aesop/aesop-040-the-fisherman-and-the-little-fish.md) | 漁師と小さな魚 | 手の中にある確実なものは不確実な将来の大物より価値がある |
+
+| [aesop-041](../fables/aesop/aesop-041-the-lion-and-the-mouse.md) | ライオンとネズミ | どんなに小さな者でも恩を返す力を持っており、慈悲は巡り巡って自分を救う |
+| [aesop-042](../fables/aesop/aesop-042-the-belly-and-the-members.md) | 胃袋と足 | 共同体の各部分は互いに依存しており、一つが機能しなければ全体が滅びる |
+| [aesop-043](../fables/aesop/aesop-043-the-miser-and-his-gold.md) | 守銭奴 | 使わない富は持っていないのと同じである |
+| [aesop-044](../fables/aesop/aesop-044-the-frogs-who-desired-a-king.md) | 王様を求めるカエルたち | 現状への不満から安易に変化を求めると、より悪い結果を招くことがある |
+| [aesop-045](../fables/aesop/aesop-045-the-goatherd-and-the-wild-goats.md) | 山羊飼いと野生の山羊 | 古い友を捨てて新しい友を追う者は、結局どちらも失う |
+
+| [aesop-046](../fables/aesop/aesop-046-the-stag-at-the-pool.md) | 鹿と池 | 美しいが役に立たないものより、醜くても実際に役立つもののほうが価値がある |
+| [aesop-047](../fables/aesop/aesop-047-the-viper-and-the-file.md) | マムシとヤスリ | 自分より強固な相手に噛みついても、傷つくのは自分だけである |
+| [aesop-048](../fables/aesop/aesop-048-the-wild-boar-and-the-fox.md) | 猪とキツネ | 危機が迫ってからでは遅い。平時にこそ備えをしておくべきである |
+| [aesop-049](../fables/aesop/aesop-049-the-fox-and-the-leopard.md) | キツネとヒョウ | 外見の華やかさより内面の知恵のほうが真の価値がある |
+| [aesop-050](../fables/aesop/aesop-050-the-camel-and-jupiter.md) | ラクダとゼウス | すでに十分なものを持ちながらさらに求める者は、持っているものさえ失いかねない |
 
 <!-- 寓話追加時にここへ行を追加 -->

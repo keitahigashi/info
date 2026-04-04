@@ -1,4 +1,4 @@
-# アンデルセン童話（45話）
+# アンデルセン童話（50話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -53,5 +53,11 @@
 | [andersen-043](../fables/andersen/andersen-043-the-goblin-and-the-grocer.md) | 小妖精と食料品屋 | 人は芸術の崇高さを理解しながらも日々の実利を手放せない、その矛盾こそが人間らしさである |
 | [andersen-044](../fables/andersen/andersen-044-the-last-dream-of-the-old-oak-tree.md) | 老樫の木の最後の夢 | 命の長さではなく、その中でどれだけ豊かに生きたかが重要である |
 | [andersen-045](../fables/andersen/andersen-045-the-pen-and-the-inkstand.md) | ペンとインク壺 | 道具がいくら優れていても真の創造力はそれを使いこなす精神にある |
+
+| [andersen-046](../fables/andersen/andersen-046-the-elf-of-the-rose.md) | バラの精 | どんなに巧妙に隠しても悪行は必ず露見し、自然の摂理によって報いを受ける |
+| [andersen-047](../fables/andersen/andersen-047-the-old-street-lamp.md) | 古い街灯 | 長年誠実に役目を果たしたものには必ずその価値を認めてくれる人がおり、積み重ねた時間と絆こそが本当の財産である |
+| [andersen-048](../fables/andersen/andersen-048-the-happy-family.md) | しあわせな一家 | 狭い世界で自己満足に浸り境遇を過大評価する虚栄心の滑稽さを風刺する |
+| [andersen-049](../fables/andersen/andersen-049-the-shirt-collar.md) | ワイシャツの襟 | 虚栄心と嘘の武勇伝は最終的に白日の下にさらされ、見栄を張り続けることの愚かさを思い知る |
+| [andersen-050](../fables/andersen/andersen-050-everything-in-the-right-place.md) | すべてあるべき所に | 人の価値は生まれや家柄ではなく、その人自身の徳と品性によって決まる |
 
 <!-- 寓話追加時にここへ行を追加 -->

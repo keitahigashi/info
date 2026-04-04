@@ -54,4 +54,10 @@
 | andersen-044 | 老樫の木の最後の夢 | fairytalez.com, andersenstories.com | 2026-04-04 |
 | andersen-045 | ペンとインク壺 | fairytalez.com, aozora.gr.jp | 2026-04-04 |
 
+| andersen-046 | バラの精 | andersen.sdu.dk, andersenstories.com | 2026-04-04 |
+| andersen-047 | 古い街灯 | andersen.sdu.dk, andersenstories.com | 2026-04-04 |
+| andersen-048 | しあわせな一家 | andersen.sdu.dk, andersenstories.com | 2026-04-04 |
+| andersen-049 | ワイシャツの襟 | andersen.sdu.dk, andersenstories.com | 2026-04-04 |
+| andersen-050 | すべてあるべき所に | hca.gilead.org.il, sittingbee.com | 2026-04-04 |
+
 <!-- 出典追加時にここへ行を追加 -->

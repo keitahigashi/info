@@ -1,4 +1,4 @@
-# 中国故事（46話）
+# 中国故事（56話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -53,5 +53,17 @@
 | [chinese-044](../fables/chinese/chinese-044-going-south-by-driving-north.md) | 南轅北轍 | 目的と手段の方向性が合っていなければ、努力すればするほど目標から遠ざかる |
 | [chinese-045](../fables/chinese/chinese-045-gazing-at-the-ocean-and-sighing.md) | 望洋興嘆 | 自分の知識や力が大きいと思い込んでも、より広い世界を知れば自らの小ささに気づかされる |
 | [chinese-046](../fables/chinese/chinese-046-a-cup-of-water-on-a-burning-cartload.md) | 杯水車薪 | わずかな努力で失敗したからといって、努力そのものに意味がないと結論づけてはならない |
+
+| [chinese-047](../fables/chinese/chinese-047-the-snipe-and-the-clam.md) | 鷸蚌の争い | 互いに意地を張り合って争い続ければ、第三者に利益を奪われる |
+| [chinese-048](../fables/chinese/chinese-048-the-friendship-worth-dying-for.md) | 刎頸の交わり | 真に大きな人物は個人の面子よりも大義を優先し、非を認める勇気が深い信頼を生む |
+| [chinese-049](../fables/chinese/chinese-049-suspicion-creates-imaginary-fears.md) | 疑心暗鬼 | 疑いの心を持つとありもしないものが見え、先入観は事実を歪める |
+| [chinese-050](../fables/chinese/chinese-050-the-mantis-stalks-the-cicada.md) | 螳螂蝉を捕らう | 目先の利益に心を奪われると、背後に迫る危険に気づけなくなる |
+| [chinese-051](../fables/chinese/chinese-051-chicken-ribs.md) | 鶏肋 | 中途半端なものへの執着は判断を鈍らせ、損切りの決断は早いほうがよい |
+
+| [chinese-052](../fables/chinese/chinese-052-grinding-an-iron-pestle-into-a-needle.md) | 鉄杵を磨く | どんなに途方もないことでも根気よく努力を続ければ必ず成し遂げられる |
+| [chinese-053](../fables/chinese/chinese-053-high-mountains-and-flowing-water.md) | 高山流水 | 真に心を理解してくれる友（知音）はかけがえのない存在である |
+| [chinese-054](../fables/chinese/chinese-054-three-men-make-a-tiger.md) | 市に虎あり | 根拠のない噂も多くの人が繰り返せば真実として信じられてしまう |
+| [chinese-055](../fables/chinese/chinese-055-the-disease-has-entered-the-vital-organs.md) | 病膏肓に入る | 悪い状態を放置すれば取り返しのつかない段階に至る |
+| [chinese-056](../fables/chinese/chinese-056-hanging-a-sheeps-head-selling-dog-meat.md) | 羊頭狗肉 | 見せかけだけ立派にしても実態が伴わなければ人は見抜く |
 
 <!-- 寓話追加時にここへ行を追加 -->

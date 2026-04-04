@@ -53,4 +53,10 @@
 | indian-043 | 犬の王 | thejatakatales.com, jatakastories.com | 2026-04-04 |
 | indian-044 | 死んだネズミから財を成した男 | thejatakatales.com, suttacentral.net | 2026-04-04 |
 
+| indian-045 | 南京虫とノミ | talesofpanchatantra.com, mokshamelodies.in | 2026-04-04 |
+| indian-046 | 正直者と不正直者 | talesofpanchatantra.com, en.wikisource.org | 2026-04-04 |
+| indian-047 | 雌ライオンと子ジャッカル | fablereads.com, babychapter.com | 2026-04-04 |
+| indian-048 | バラモンと泥棒と鬼 | talesofpanchatantra.com, stories.muthu.co | 2026-04-04 |
+| indian-049 | おせっかいな鳥と猿 | talesofpanchatantra.com, fablereads.com | 2026-04-04 |
+
 <!-- 出典追加時にここへ行を追加 -->

@@ -1,4 +1,4 @@
-# アフリカ民話（45話）
+# アフリカ民話（50話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -55,5 +55,11 @@
 | [african-043](../fables/african/african-043-why-antelope-lives-in-the-bush.md) | レイヨウが野に住む理由 | 自分の能力を信じる者は自由を手に入れ、自信のない者は不自由な環境に留まり続ける |
 | [african-044](../fables/african/african-044-the-ungrateful-snake.md) | 恩知らずのヘビ | 恩を仇で返す者に対しては二度と同じ過ちを繰り返す必要はない |
 | [african-045](../fables/african/african-045-cock-and-jackal.md) | オンドリとジャッカル | 絶体絶命の危機でも冷静さと機転があれば活路は開ける |
+
+| [african-046](../fables/african/african-046-the-grasshopper-and-the-toad.md) | バッタとヒキガエル | 真の友情を望むなら、相手の本質的な性質を変えようとせず、欠点も含めて受け入れなければならない |
+| [african-047](../fables/african/african-047-the-red-and-blue-coat.md) | 赤と青の上着 | 同じ物事でも見る角度が違えば異なる真実が見え、自分の視点だけが正しいと決めつけると大切な関係を壊す |
+| [african-048](../fables/african/african-048-king-chameleon-and-the-animals.md) | カメレオン王と動物たち | 策略で地位を得ても周囲の信頼と支持がなければ意味がない |
+| [african-049](../fables/african/african-049-anansi-and-the-moss-covered-rock.md) | アナンシと苔むした岩 | 他者を騙す手段はいずれ自分自身に跳ね返り、ずる賢さで得た利益は長続きしない |
+| [african-050](../fables/african/african-050-the-monkey-and-the-hare.md) | サルとウサギの賭け | 虚栄心は不必要な争いを生み、自分の限界を素直に認めることは嘘で体面を保つより尊い |
 
 <!-- 寓話追加時にここへ行を追加 -->

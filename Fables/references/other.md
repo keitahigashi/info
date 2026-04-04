@@ -47,4 +47,16 @@
 | other-039 | ピノッキオの冒険 | イタリア（コッローディ） | ja.wikipedia.org, en.wikipedia.org | 2026-04-03 |
 | other-040 | ミダス王の黄金の手 | ギリシャ神話 | ja.wikipedia.org, turkish.jp | 2026-04-03 |
 
+| other-041 | 白鳥とカワカマスとザリガニ | ロシア寓話 | jp.rbth.com, ruverses.com | 2026-04-04 |
+| other-042 | マウイと太陽 | ポリネシア神話 | oceanianfolktales.com, polynesian.mythologyworldwide.com | 2026-04-04 |
+| other-043 | リアの子供たち | アイルランド神話 | en.wikipedia.org, wildernessireland.com | 2026-04-04 |
+| other-044 | クルピラ ── 森の守護者 | ブラジル民話 | fabulahub.com, altb.org.br | 2026-04-04 |
+| other-045 | 人間は一つの体 | ペルシア文学 | en.wikipedia.org, サアディー『薔薇園』(1258) | 2026-04-04 |
+
+| other-046 | 塩のように愛している | ルーマニア民話 | folklorethursday.com, en.wikipedia.org | 2026-04-04 |
+| other-047 | アラン・ゴアの五本の矢 | モンゴル伝承 | ja.wikipedia.org, 『元朝秘史』 | 2026-04-04 |
+| other-048 | アナンシと知恵の瓢箪 | ガーナ／カリブ海 | en.wikipedia.org, kidworldcitizen.org | 2026-04-04 |
+| other-049 | 虎と蛙 | チベット民話 | sacred-texts.com, Shelton『Tibetan Folk Tales』(1925) | 2026-04-04 |
+| other-050 | 雄弁な農夫 | 古代エジプト文学 | en.wikipedia.org, worldhistory.org | 2026-04-04 |
+
 <!-- 出典追加時にここへ行を追加 -->

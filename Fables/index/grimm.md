@@ -1,4 +1,4 @@
-# グリム童話（45話）
+# グリム童話（55話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -52,5 +52,16 @@
 | [grimm-043](../fables/grimm/grimm-043-the-white-snake.md) | 白蛇 | 小さな生き物への親切は必ず報われる |
 | [grimm-044](../fables/grimm/grimm-044-the-queen-bee.md) | 蜜蜂の女王 | 弱く小さな存在への思いやりは巡り巡って自分を救う |
 | [grimm-045](../fables/grimm/grimm-045-the-three-snake-leaves.md) | 三枚の蛇の葉 | 恩を仇で返す者には必ず報いがある |
+| [grimm-046](../fables/grimm/grimm-046-frau-trude.md) | トゥルーデおばさん | 親の忠告を無視して危険に近づく者は、取り返しのつかない災いを招く |
+| [grimm-047](../fables/grimm/grimm-047-the-old-man-and-his-grandson.md) | としよりのおじいさんと孫 | 老いた親への仕打ちは、やがて自分に同じ形で返ってくる |
+| [grimm-048](../fables/grimm/grimm-048-the-poor-man-and-the-rich-man.md) | 貧乏人と金持ち | 真の豊かさは財産ではなく心の寛大さにあり、強欲は身を滅ぼす |
+| [grimm-049](../fables/grimm/grimm-049-the-nail.md) | 釘 | 小さな問題を軽視すれば、やがて取り返しのつかない大損害を招く |
+| [grimm-050](../fables/grimm/grimm-050-the-devil-with-the-three-golden-hairs.md) | 金の毛が3本生えた鬼 | 運命に逆らって他者を陥れようとする者は、かえって自らの没落を招く |
+
+| [grimm-051](../fables/grimm/grimm-051-the-three-little-men-in-the-wood.md) | 森の中の三人のこびと | 善良さと親切は必ず報われ、傲慢と意地悪は相応の罰を受ける |
+| [grimm-052](../fables/grimm/grimm-052-the-singing-bone.md) | 歌う骨 | 隠された罪は必ず明るみに出て、嫉妬に駆られた悪行は逃れられない裁きを受ける |
+| [grimm-053](../fables/grimm/grimm-053-the-girl-without-hands.md) | 手なしむすめ | 信仰と忍耐を失わなければ、どんな苦難も乗り越えられ、失ったものも取り戻せる |
+| [grimm-054](../fables/grimm/grimm-054-the-straw-the-coal-and-the-bean.md) | わらと炭とそら豆 | 他人の不幸を笑う者は、やがて自分も同じ災いに見舞われる |
+| [grimm-055](../fables/grimm/grimm-055-brother-and-sister.md) | 兄と妹 | 家族の絆と互いを守る愛があれば、どんな魔法や陰謀にも打ち勝てる |
 
 <!-- 寓話追加時にここへ行を追加 -->

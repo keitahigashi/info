@@ -56,4 +56,10 @@
 | african-044 | 恩知らずのヘビ | mythfolklore.blogspot.com, sites.pitt.edu | 2026-04-04 |
 | african-045 | オンドリとジャッカル | fairytalenight.com, gutenberg.org | 2026-04-04 |
 
+| african-046 | バッタとヒキガエル | worldoftales.com, storiesafrica.blogspot.com | 2026-04-04 |
+| african-047 | 赤と青の上着 | worldoftales.com, Insaidoo『Moral Lessons in African Folktales』 | 2026-04-04 |
+| african-048 | カメレオン王と動物たち | mythfolklore.blogspot.com, gutenberg.org | 2026-04-04 |
+| african-049 | アナンシと苔むした岩 | prindleinstitute.org, Kimmel再話(1988) | 2026-04-04 |
+| african-050 | サルとウサギの賭け | folktales.africa, マンディンカ族口承 | 2026-04-04 |
+
 <!-- 出典追加時にここへ行を追加 -->

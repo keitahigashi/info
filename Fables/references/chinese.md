@@ -54,4 +54,16 @@
 | chinese-045 | 望洋興嘆 | note.com, epochtimes.com | 2026-04-04 |
 | chinese-046 | 杯水車薪 | baike.baidu.com, ctext.org | 2026-04-04 |
 
+| chinese-047 | 鷸蚌の争い | ja.wikipedia.org, 『戦国策』燕策二 | 2026-04-04 |
+| chinese-048 | 刎頸の交わり | ja.wikipedia.org, 『史記』廉頗藺相如列伝 | 2026-04-04 |
+| chinese-049 | 疑心暗鬼 | ja.wikipedia.org, 『列子』説符篇 | 2026-04-04 |
+| chinese-050 | 螳螂蝉を捕らう | ja.wikipedia.org, 『荘子』山木篇 | 2026-04-04 |
+| chinese-051 | 鶏肋 | ja.wikipedia.org, 『三国志』魏書・武帝紀 | 2026-04-04 |
+
+| chinese-052 | 鉄杵を磨く | 『方輿勝覧』, proverb-encyclopedia.com | 2026-04-04 |
+| chinese-053 | 高山流水 | 『列子』湯問篇, 『呂氏春秋』本味篇 | 2026-04-04 |
+| chinese-054 | 市に虎あり | 『韓非子』内儲説上, 『戦国策』魏策二 | 2026-04-04 |
+| chinese-055 | 病膏肓に入る | 『春秋左氏伝』成公十年, kanbun.info | 2026-04-04 |
+| chinese-056 | 羊頭狗肉 | 『晏子春秋』内篇雑下, 『無門関』第六則 | 2026-04-04 |
+
 <!-- 出典追加時にここへ行を追加 -->

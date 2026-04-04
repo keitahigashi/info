@@ -49,4 +49,16 @@
 | aesop-039 | 旅人とプラタナスの木 | fablesofaesop.com, en.wikipedia.org, Perry Index #175 | 2026-04-03 |
 | aesop-040 | 漁師と小さな魚 | fablesofaesop.com, en.wikipedia.org, Perry Index #18 | 2026-04-03 |
 
+| aesop-041 | ライオンとネズミ | Perry Index #150, en.wikipedia.org | 2026-04-04 |
+| aesop-042 | 胃袋と足 | Perry Index #130, en.wikipedia.org | 2026-04-04 |
+| aesop-043 | 守銭奴 | Perry Index #225, fablesofaesop.com | 2026-04-04 |
+| aesop-044 | 王様を求めるカエルたち | Perry Index #044, en.wikipedia.org | 2026-04-04 |
+| aesop-045 | 山羊飼いと野生の山羊 | Perry Index #006, fablesofaesop.com | 2026-04-04 |
+
+| aesop-046 | 鹿と池 | Perry Index #074, en.wikipedia.org, fablesofaesop.com | 2026-04-04 |
+| aesop-047 | マムシとヤスリ | Perry Index #093, en.wikipedia.org, fablesofaesop.com | 2026-04-04 |
+| aesop-048 | 猪とキツネ | Perry Index #224, en.wikipedia.org, fablesofaesop.com | 2026-04-04 |
+| aesop-049 | キツネとヒョウ | Perry Index #012, en.wikipedia.org, fablesofaesop.com | 2026-04-04 |
+| aesop-050 | ラクダとゼウス | Perry Index #117, en.wikipedia.org, fablesofaesop.com | 2026-04-04 |
+
 <!-- 出典追加時にここへ行を追加 -->

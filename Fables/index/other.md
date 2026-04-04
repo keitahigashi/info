@@ -1,4 +1,4 @@
-# その他（40話）
+# その他（50話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -46,5 +46,17 @@
 | [other-038](../fables/other/other-038-the-fisherman-and-the-golden-fish.md) | 漁師と金の魚 | ロシア（プーシキン） | 際限のない欲望は全てを失わせ、感謝を忘れた強欲は身を滅ぼす |
 | [other-039](../fables/other/other-039-pinocchio.md) | ピノッキオの冒険 | イタリア（コッローディ） | 嘘をつかず誠実に生き、怠惰を避けて努力することで、人は本当の人間になれる |
 | [other-040](../fables/other/other-040-king-midas-and-the-golden-touch.md) | ミダス王の黄金の手 | ギリシャ神話 | 際限のない富への欲望は、本当に大切なものを全て奪い去る |
+
+| [other-041](../fables/other/other-041-the-swan-the-pike-and-the-crayfish.md) | 白鳥とカワカマスとザリガニ | 方向性の一致しない集団はいくら個々が力を尽くしても成果を生まない |
+| [other-042](../fables/other/other-042-maui-and-the-sun.md) | マウイと太陽 | 勇気と知恵と仲間との協力があれば、自然の脅威にさえ立ち向かうことができる |
+| [other-043](../fables/other/other-043-the-children-of-lir.md) | リアの子供たち | 嫉妬は取り返しのつかない苦しみを生むが、家族の愛と絆があれば人はどんな試練にも耐え抜ける |
+| [other-044](../fables/other/other-044-curupira-guardian-of-the-forest.md) | クルピラ ── 森の守護者 | 自然は敬意を持って共生すべき存在であり、際限のない搾取はやがて報いを受ける |
+| [other-045](../fables/other/other-045-human-beings-are-members-of-a-whole.md) | 人間は一つの体 | 他者の苦しみに無関心でいるならば人間の名に値しない |
+
+| [other-046](../fables/other/other-046-the-salt-in-your-food.md) | 塩のように愛している | 華やかな言葉より地味でも実質的な愛情こそが本物であり、大切なものは失って初めてその価値に気づく |
+| [other-047](../fables/other/other-047-alan-goa-and-the-five-arrows.md) | アラン・ゴアの五本の矢 | 個人は脆くとも団結すれば何者にも折られない強さを持ち、内輪の争いは自らを弱体化させる |
+| [other-048](../fables/other/other-048-anansi-and-the-pot-of-wisdom.md) | アナンシと知恵の瓢箪 | 知恵は一人で独占できるものではなく、分かち合ってこそ価値がある |
+| [other-049](../fables/other/other-049-the-tiger-and-the-frog.md) | 虎と蛙 | 身体の大きさや力だけが強さではなく、機転と知恵があれば弱者でも強者を出し抜ける |
+| [other-050](../fables/other/other-050-the-eloquent-peasant.md) | 雄弁な農夫 | 正義は社会的地位に関係なくすべての人に等しく与えられるべきであり、声を上げ続ける勇気が正義を勝ち取る |
 
 <!-- 寓話追加時にここへ行を追加 -->

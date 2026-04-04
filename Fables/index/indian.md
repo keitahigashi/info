@@ -1,4 +1,4 @@
-# インド寓話（44話）
+# インド寓話（49話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -52,5 +52,11 @@
 | [indian-042](../fables/indian/indian-042-the-story-of-the-potter.md) | 陶工の傷跡 | 外見だけで人を判断することは危険であり、自分が何者であるかに正直であることが大切である |
 | [indian-043](../fables/indian/indian-043-the-dog-king.md) | 犬の王 | 権力者は偏見に基づいて裁きを下してはならず、真実を確かめることが正義である |
 | [indian-044](../fables/indian/indian-044-the-man-who-grew-wealthy-from-a-dead-mouse.md) | 死んだネズミから財を成した男 | どんなに小さな機会でも、知恵と勤勉さがあれば大きな成功につながる |
+
+| [indian-045](../fables/indian/indian-045-the-bug-and-the-poor-flea.md) | 南京虫とノミ | 見知らぬ者の約束を安易に信じれば、相手の無分別の巻き添えで自分が罰を受ける |
+| [indian-046](../fables/indian/indian-046-right-mind-and-wrong-mind.md) | 正直者と不正直者 | 不正は一時的に成功するように見えても最後には必ず露見し、正直さが報われる |
+| [indian-047](../fables/indian/indian-047-the-lioness-and-the-young-jackal.md) | 雌ライオンと子ジャッカル | 生まれ持った本性は変えられず、自分の本質を受け入れてふさわしい場所で生きることが大切である |
+| [indian-048](../fables/indian/indian-048-the-brahmin-the-thief-and-the-demon.md) | バラモンと泥棒と鬼 | 悪人同士が争えば善人が利益を得る。仲間割れは悪事を崩壊させる最大の原因である |
+| [indian-049](../fables/indian/indian-049-the-bird-and-the-monkey.md) | おせっかいな鳥と猿 | 聞く耳を持たない相手への忠告は無駄であり、おせっかいは時に身を滅ぼす |
 
 <!-- 寓話追加時にここへ行を追加 -->
