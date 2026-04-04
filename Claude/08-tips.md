@@ -310,4 +310,10 @@ Web受託開発Gemcookの導入史: Copilot(2023/02, 効果限定的)→Devin(20
 バイブコーディング5ステップ: (1)目的整理 (2)GPT-5 deep Researchで要件明確化 (3)Best practicesをシステムプロンプトに (4)Maxプランで開発 (5)CodeXでエラー対応。月額400円活用術（API従量課金最適化）。おすすめSkills・SubAgents情報。SaaSの未来展望。
 > 詳細: メモリ内 `reference_claude_code_complete_guide_chaen.md` を参照
 
+### Claude Code完全リファレンス — PR品質ゲート（自動収集 2026-04-04）
+PR作成前の品質ゲートチェーン: /simplify→/security-review→/diff→/commit-push-pr。
+便利機能: Ctrl+S（下書き保存でセッション中断に備える）、#テキスト（auto-memoryへの即時記録）、スパースworktree（大規模モノレポでの並列作業効率化）。
+「!コマンド」でClaude経由せずシェル直接実行し、出力を会話コンテキストに追加可能。
+> 詳細: references/reference_claude_code_complete_reference_nogataka.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

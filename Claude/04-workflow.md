@@ -253,4 +253,12 @@ wt-dev() {
 2025年の全176リリース（v0.2.x:37、v1.0.x:82、v2.0.x:57）を追跡。「AIモデル=馬、Claude Code=馬具」の比喩でハーネス完成度が差別化要因と結論。仕様駆動開発（SDD）がPlanモード+Interactive Question Toolで実現。課題: コンテキストウィンドウサイズ（Opus 4.5は200k、GPT-5.2は400k、Gemini 3 Proは1M）、コンパクション品質。サードパーティツールの慎重利用を推奨（「ハーネスの外側に追加ハーネス」リスク）。
 > 詳細: メモリ内 `reference_claude_code_all_changelog_2025.md` を参照
 
+### Agent Teams — 複数エージェント協働（自動収集 2026-04-04）
+双方向コラボレーションで複数エージェントが協働する実験的機能。
+有効化: 環境変数 `CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1`。
+teammateMode: auto（自動判断）/ in-process（同一プロセス）/ tmux（ターミナル分離）の3種。
+トークン消費は通常の約7倍。TeammatesにSonnet/Haiku使用でコスト管理が必須。
+/rewind・/resume非対応（プレビュー段階の制限事項）。
+> 詳細: references/reference_agent_teams_gihyo.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

@@ -461,4 +461,23 @@ Prompt→Context→Harnessの次に来る方法論。設計書間の依存グラ
 CLAUDE.mdの次に来る制御パラダイムとして、5要素（ルール・スキル・フック・メモリ・フィードバックループ）の統合制御を提唱。everything-claude-code（100K+ Stars）では28エージェント定義・125+スキル・25+フック。段階的導入: Day1にCLAUDE.md→Week1-2にスキル化→Week2-4にフック設定。エスカレーションラダー（3回ルール）で違反3回ごとに強度を上げる（L1:ドキュメント→L2:AI検証→L3:ツール検証→L4:構造テスト）。
 > 詳細: メモリ内 `reference_harness_engineering_intro.md` を参照
 
+### 「狩りから稲作へ」— 4層ハーネス体系（自動収集 2026-04-04）
+4層ハーネス体系: 第1層hooks（AI行動リアルタイム制御）、第2層Lefthook（git操作ゲート、Clippy pedantic+ast-grep）、第3層skills（/pre-push-reviewで4エージェント並列レビュー）、第4層GitHub Actions+CodeRabbit（最終防衛）。
+人間の判断領域: 設計承認・指摘対応判断・最終確認は自動化しない。
+> 詳細: references/reference_harness_hunting_to_farming.md を参照
+
+### ハーネスエンジニアリング10トピック網羅 — 実践ガイド（自動収集 2026-04-04）
+コンテキスト4戦略: Write（書き込み）/ Select（選択）/ Compress（圧縮）/ Isolate（分離）。
+Spotify Honkは3ツール構成で1500+PR本番マージの実績。Explore→Plan→Implementパターン。
+LangChainはハーネス最適化だけでTerminal Bench 30位→5位に躍進。
+モデル改善より先にハーネス最適化が効果的という実証データ。
+> 詳細: references/reference_harness_engineering_practice_guide.md を参照
+
+### ハーネス設計差22点 vs モデル差1点（自動収集 2026-04-04）
+Claude Code=工房型（ローカル直接作用）、Codex=密閉型（クラウドサンドボックス）の設計思想の違い。
+SWE-benchではほぼ同等だが、Terminal-BenchではClaude Code優位（59.3% vs 47.6%）。
+ハーネス設計差が22点の性能差を生む一方、モデル差はわずか1点。
+4ステップ導入: 現状分析→設計方針→実装テスト→運用改善。
+> 詳細: references/reference_harness_design_claude_vs_codex.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

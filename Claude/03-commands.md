@@ -196,4 +196,9 @@ claude -p --max-budget-usd 5.00 --max-turns 3 --fallback-model sonnet "分析し
 全機能を1ページにまとめた包括的チートシート（https://cc.storyfox.cz/）。毎日CHANGELOGをチェックし新機能に「NEW」バッジ付与。ショートカット・スラッシュコマンド・CLIフラグ・MCP・Skills・Agents・環境変数をカバー。単一HTML・軽量・印刷可能（A4横向き）。Hacker Newsで高評価。
 > 詳細: メモリ内 `reference_claude_code_cheatsheet_storyfox.md` を参照
 
+### Claude Code完全リファレンス — 便利機能トップ10（自動収集 2026-04-04）
+便利機能トップ10: /btw（サイドクエスチョン）、Ctrl+S（下書き保存）、#テキスト（auto-memory）、/loop（定期実行）、!コマンド（シェル直接）、Ctrl+B（バックグラウンド）、--bare（軽量起動）、/rewind（巻き戻し）、Ctrl+G（エディタ編集）、スパースworktree。
+PR作成前品質ゲート: /simplify→/security-review→/diff→/commit-push-pr。
+> 詳細: references/reference_claude_code_complete_reference_nogataka.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
