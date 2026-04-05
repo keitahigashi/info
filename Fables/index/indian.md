@@ -69,4 +69,10 @@
 | [indian-063](../fables/indian/indian-063-the-head-and-tail-of-the-snake.md) | 蛇の頭と尻尾 | 能力のない者がリーダーになれば全員が滅びる |
 | [indian-064](../fables/indian/indian-064-the-two-parrots.md) | 二羽のオウム | 人の性格は生まれより育つ環境によって決まる |
 
+| [indian-065](../fables/indian/indian-065-the-swan-and-the-owl.md) | 白鳥とフクロウ | 生き方や習慣が根本的に異なる者同士の友情は、互いに災いをもたらす。 |
+| [indian-066](../fables/indian/indian-066-dantila-and-gorambha.md) | 商人ダンティラと掃除夫ゴーラムバ | 身分の低い者を侮れば、思わぬ形で報いを受ける。 |
+| [indian-067](../fables/indian/indian-067-the-monkey-gardeners.md) | 庭師になった猿たち | 物事を理解しない者に大事を任せれば、助けるつもりが破壊につながる。 |
+| [indian-068](../fables/indian/indian-068-birbal-and-the-emperors-crows.md) | ビルバルとカラスの数 | 答えられない問いには、反論しようのない論理で切り返すのが真の知恵である。 |
+| [indian-069](../fables/indian/indian-069-the-bird-with-three-counsels.md) | 三つの忠告をくれた鳥 | 賢者の忠告を聞いても、欲に駆られれば即座に忘れてしまう。 |
+
 <!-- 寓話追加時にここへ行を追加 -->

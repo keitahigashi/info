@@ -9,7 +9,7 @@
 | 中国故事 | 71 | [一覧を見る](index/chinese.md) |
 | グリム童話 | 70 | [一覧を見る](index/grimm.md) |
 | アンデルセン童話 | 65 | [一覧を見る](index/andersen.md) |
-| インド寓話 | 64 | [一覧を見る](index/indian.md) |
+| インド寓話 | 69 | [一覧を見る](index/indian.md) |
 | アフリカ民話 | 65 | [一覧を見る](index/african.md) |
 | その他 | 65 | [一覧を見る](index/other.md) |
-| **合計** | **781** | |
+| **合計** | **786** | |
