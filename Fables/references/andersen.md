@@ -29,9 +29,7 @@
 | andersen-023 | 茶びん | andersen.sdu.dk, アンデルセン(1863) | 2026-04-02 |
 | andersen-024 | 旅の道連れ | ja.wikipedia.org, aozora.gr.jp | 2026-04-02 |
 | andersen-025 | 鐘 | andersen.sdu.dk, アンデルセン(1845) | 2026-04-02 |
-
 | andersen-026 | 小さなクラウスと大きなクラウス | en.wikipedia.org, アンデルセン(1835) | 2026-04-02 |
-
 | andersen-027 | ある母親の物語 | ja.wikipedia.org, アンデルセン(1847) | 2026-04-02 |
 | andersen-028 | コウノトリ | andersenstories.com, アンデルセン(1839) | 2026-04-02 |
 | andersen-029 | 雪の女王 | ja.wikipedia.org, hugkum.sho.jp | 2026-04-02 |
@@ -44,34 +42,28 @@
 | andersen-036 | 邪悪な王子 | andersen.sdu.dk, アンデルセン(1840) | 2026-04-03 |
 | andersen-037 | カタツムリとバラの木 | andersen.sdu.dk, アンデルセン(1861) | 2026-04-03 |
 | andersen-038 | 最も信じがたいこと | andersen.sdu.dk, アンデルセン(1870) | 2026-04-03 |
-
 | andersen-039 | 羊飼いの娘と煙突掃除人 | fairytalez.com, greenelement.xsrv.jp, andersen.sdu.dk | 2026-04-03 |
 | andersen-040 | おろかなハンス | kids.kiddle.co, andersenstories.com, andersen.sdu.dk | 2026-04-03 |
-
 | andersen-041 | 天使 | greenelement.xsrv.jp, en.wikipedia.org | 2026-04-04 |
 | andersen-042 | 亜麻 | fairytalez.com, andersenstories.com | 2026-04-04 |
 | andersen-043 | 小妖精と食料品屋 | en.wikipedia.org, kids.kiddle.co | 2026-04-04 |
 | andersen-044 | 老樫の木の最後の夢 | fairytalez.com, andersenstories.com | 2026-04-04 |
 | andersen-045 | ペンとインク壺 | fairytalez.com, aozora.gr.jp | 2026-04-04 |
-
 | andersen-046 | バラの精 | andersen.sdu.dk, andersenstories.com | 2026-04-04 |
 | andersen-047 | 古い街灯 | andersen.sdu.dk, andersenstories.com | 2026-04-04 |
 | andersen-048 | しあわせな一家 | andersen.sdu.dk, andersenstories.com | 2026-04-04 |
 | andersen-049 | ワイシャツの襟 | andersen.sdu.dk, andersenstories.com | 2026-04-04 |
 | andersen-050 | すべてあるべき所に | hca.gilead.org.il, sittingbee.com | 2026-04-04 |
-
 | andersen-051 | 古い家 | andersen.sdu.dk, アンデルセン(1848) | 2026-04-05 |
 | andersen-052 | 一滴の水 | andersen.sdu.dk, fairytalez.com, アンデルセン(1848) | 2026-04-05 |
 | andersen-053 | 跳びはね連中 | andersen.sdu.dk, アンデルセン(1845) | 2026-04-05 |
 | andersen-054 | ソーセージの串からできたスープ | andersen.sdu.dk, アンデルセン(1858) | 2026-04-05 |
 | andersen-055 | ふんころがし | andersen.sdu.dk, gutenberg.ca, アンデルセン(1861) | 2026-04-05 |
-
 | andersen-056 | ひきがえる | andersen.sdu.dk, アンデルセン(1866) | 2026-04-05 |
 | andersen-057 | びんの首 | andersen.sdu.dk, fairytalez.com, アンデルセン(1857) | 2026-04-05 |
 | andersen-058 | あの女はろくでなし | andersen.sdu.dk, andersenstories.com, アンデルセン(1852) | 2026-04-05 |
 | andersen-059 | 足の不自由な子 | andersen.sdu.dk, andersenstories.com, アンデルセン(1872) | 2026-04-05 |
 | andersen-060 | 庭師と領主一家 | andersen.sdu.dk, andersenstories.com, アンデルセン(1872) | 2026-04-05 |
-
 | andersen-061 | スノードロップ | andersen.sdu.dk, アンデルセン(1863) | 2026-04-05 |
 | andersen-062 | 千年後 | andersen.sdu.dk, アンデルセン(1853) | 2026-04-05 |
 | andersen-063 | 銀の貨幣 | andersen.sdu.dk, アンデルセン(1862) | 2026-04-05 |

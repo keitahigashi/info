@@ -33,58 +33,47 @@
 | [aesop-027](../fables/aesop/aesop-027-the-horse-and-the-stag.md) | 馬と鹿 | 復讐のために他者の力を借りれば、自らの自由を失うことになる |
 | [aesop-028](../fables/aesop/aesop-028-the-two-frogs.md) | 二匹のカエル | 行動する前に結果を考えなければ、逃げ場のない窮地に陥る |
 | [aesop-029](../fables/aesop/aesop-029-the-bundle-of-sticks.md) | 束ねた棒 | 団結していれば折れないが、バラバラになれば簡単に折られる |
-
 | [aesop-030](../fables/aesop/aesop-030-the-dog-and-the-wolf.md) | 犬とオオカミ | どんなに豊かな暮らしでも、自由を失っては真の幸福とは言えない |
 | [aesop-031](../fables/aesop/aesop-031-the-man-and-the-satyr.md) | 人間とサテュロス | 同じ口から都合に応じて正反対のことを言う者は信用されない |
 | [aesop-032](../fables/aesop/aesop-032-the-tortoise-and-the-eagle.md) | カメとワシ | 身の程をわきまえない野望は破滅を招く |
 | [aesop-033](../fables/aesop/aesop-033-the-two-crabs.md) | 二匹のカニ | 人に教えたいなら、まず自分が手本を示さなければ説得力はない |
 | [aesop-034](../fables/aesop/aesop-034-the-milkmaid-and-her-pail.md) | 牛乳売りの娘 | まだ手に入っていないものを当てにして夢想すれば、今あるものさえ失う |
 | [aesop-035](../fables/aesop/aesop-035-the-wolf-and-the-crane.md) | オオカミとサギ | 悪者に恩を売っても感謝は返らず、無事に済んだだけで幸運と思え |
-
 | [aesop-036](../fables/aesop/aesop-036-the-monkey-and-the-dolphin.md) | 猿とイルカ | 嘘は嘘を呼び、やがて破綻して身を滅ぼす |
-
 | [aesop-037](../fables/aesop/aesop-037-the-eagle-and-the-beetle.md) | ワシとカブトムシ | どんなに弱い存在でも侮ってはならない |
 | [aesop-038](../fables/aesop/aesop-038-the-fox-and-the-woodcutter.md) | キツネと木こり | 口先だけの善意には価値がない |
-
 | [aesop-039](../fables/aesop/aesop-039-the-travellers-and-the-plane-tree.md) | 旅人とプラタナスの木 | 恩恵を受けている最中にその恩を忘れてはならない |
 | [aesop-040](../fables/aesop/aesop-040-the-fisherman-and-the-little-fish.md) | 漁師と小さな魚 | 手の中にある確実なものは不確実な将来の大物より価値がある |
-
 | [aesop-041](../fables/aesop/aesop-041-the-lion-and-the-mouse.md) | ライオンとネズミ | どんなに小さな者でも恩を返す力を持っており、慈悲は巡り巡って自分を救う |
 | [aesop-042](../fables/aesop/aesop-042-the-belly-and-the-members.md) | 胃袋と足 | 共同体の各部分は互いに依存しており、一つが機能しなければ全体が滅びる |
 | [aesop-043](../fables/aesop/aesop-043-the-miser-and-his-gold.md) | 守銭奴 | 使わない富は持っていないのと同じである |
 | [aesop-044](../fables/aesop/aesop-044-the-frogs-who-desired-a-king.md) | 王様を求めるカエルたち | 現状への不満から安易に変化を求めると、より悪い結果を招くことがある |
 | [aesop-045](../fables/aesop/aesop-045-the-goatherd-and-the-wild-goats.md) | 山羊飼いと野生の山羊 | 古い友を捨てて新しい友を追う者は、結局どちらも失う |
-
 | [aesop-046](../fables/aesop/aesop-046-the-stag-at-the-pool.md) | 鹿と池 | 美しいが役に立たないものより、醜くても実際に役立つもののほうが価値がある |
 | [aesop-047](../fables/aesop/aesop-047-the-viper-and-the-file.md) | マムシとヤスリ | 自分より強固な相手に噛みついても、傷つくのは自分だけである |
 | [aesop-048](../fables/aesop/aesop-048-the-wild-boar-and-the-fox.md) | 猪とキツネ | 危機が迫ってからでは遅い。平時にこそ備えをしておくべきである |
 | [aesop-049](../fables/aesop/aesop-049-the-fox-and-the-leopard.md) | キツネとヒョウ | 外見の華やかさより内面の知恵のほうが真の価値がある |
 | [aesop-050](../fables/aesop/aesop-050-the-camel-and-jupiter.md) | ラクダとゼウス | すでに十分なものを持ちながらさらに求める者は、持っているものさえ失いかねない |
-
 | [aesop-051](../fables/aesop/aesop-051-the-fox-and-the-goat.md) | キツネとヤギ | 結果を考えずに行動すれば、他者の口車に乗せられて窮地に陥る |
 | [aesop-052](../fables/aesop/aesop-052-the-man-and-his-two-wives.md) | 二人の妻を持つ男 | 相反する要求をすべて受け入れようとすると、自分自身を失ってしまう |
 | [aesop-053](../fables/aesop/aesop-053-the-old-man-and-death.md) | 老人と死神 | どんなに辛い人生でも、いざ死を目の前にすれば生きていたいと願うものである |
 | [aesop-054](../fables/aesop/aesop-054-the-beaver.md) | ビーバーの自己犠牲 | 命を守るためには、価値あるものでも手放す決断が必要である |
 | [aesop-055](../fables/aesop/aesop-055-the-fox-and-the-sick-lion.md) | 病気のライオンとキツネ | 他者の経験から学び、危険の兆候を見逃さない者こそ賢者である |
-
 | [aesop-056](../fables/aesop/aesop-056-the-weasel-and-aphrodite.md) | イタチとアフロディーテ | 外見を変えても本性は変わらない |
 | [aesop-057](../fables/aesop/aesop-057-the-kid-and-the-wolf.md) | 子ヤギと笛吹きのオオカミ | 本来の目的から逸れてはならない |
 | [aesop-058](../fables/aesop/aesop-058-the-spendthrift-and-the-swallow.md) | 放蕩息子とツバメ | 一つの兆候で早合点してはならない |
 | [aesop-059](../fables/aesop/aesop-059-the-camel-seen-for-the-first-time.md) | 初めて見たラクダ | 慣れは恐怖を克服する |
 | [aesop-060](../fables/aesop/aesop-060-the-swan-and-his-owner.md) | 白鳥とその飼い主 | あるものは強制して引き出せるものではない |
-
 | [aesop-061](../fables/aesop/aesop-061-the-fisherman-and-his-flute.md) | 笛を吹く漁師 | 物事にはそれぞれふさわしいやり方がある |
 | [aesop-062](../fables/aesop/aesop-062-the-boy-and-the-hazelnuts.md) | 少年とハシバミの実 | 一度に欲張ると何も得られない |
 | [aesop-063](../fables/aesop/aesop-063-the-salt-merchant-and-the-donkey.md) | 塩商人とロバ | 小賢しい策略はいつか裏目に出る |
 | [aesop-064](../fables/aesop/aesop-064-the-donkey-carrying-the-statue.md) | 神像を運ぶロバ | 他人の名声を自分のものと勘違いしてはならない |
 | [aesop-065](../fables/aesop/aesop-065-the-gnat-and-the-ox.md) | 蚊と牡ウシ | 自分の影響力を過大評価してはならない |
-
 | [aesop-066](../fables/aesop/aesop-066-the-donkey-and-the-grasshoppers.md) | ロバとキリギリス | 他者の真似をして自分に合わないことをすれば身を滅ぼす |
 | [aesop-067](../fables/aesop/aesop-067-the-fox-who-lost-his-tail.md) | 尻尾をなくしたキツネ | 自分の不幸を他人にも勧める者の言葉を信じてはならない |
 | [aesop-068](../fables/aesop/aesop-068-the-widow-and-her-maids.md) | 後家と小間使い | 災いの原因を取り除いても事態が好転するとは限らない |
 | [aesop-069](../fables/aesop/aesop-069-the-dog-in-the-manger.md) | かいば桶の中のイヌ | 自分が使わないものを他人にも使わせないのは最も醜い心である |
 | [aesop-070](../fables/aesop/aesop-070-the-rose-and-the-amaranth.md) | バラとアマランス | 華やかさは儚いが地味でも永く続くものにこそ真の価値がある |
-
 | [aesop-071](../fables/aesop/aesop-071-the-cock-and-the-jewel.md) | オンドリと宝石 | どんなに貴重なものでも必要としない者には無価値である |
 | [aesop-072](../fables/aesop/aesop-072-the-mole-and-his-mother.md) | モグラと彼の母親 | ないものをあると言い張れば別の欠点まで露呈する |
 | [aesop-073](../fables/aesop/aesop-073-the-mountain-in-labor.md) | 山のお産 | 大げさな前触れの後に出てくるものは拍子抜けするほど小さい |
@@ -95,7 +84,6 @@
 | [aesop-078](../fables/aesop/aesop-078-the-oak-and-the-woodcutter.md) | カシの木と樵 | 自ら与えたものが自分を滅ぼす武器となることがある |
 | [aesop-079](../fables/aesop/aesop-079-the-lark-and-her-young-ones.md) | ヒバリとその雛 | 他人を頼りにしているうちは本気ではない |
 | [aesop-080](../fables/aesop/aesop-080-the-thieves-and-the-cock.md) | 盗賊とオンドリ | 悪人は美徳を守る者を嫌悪する |
-
 | [aesop-081](../fables/aesop/aesop-081-the-farmer-and-the-stork.md) | 農夫とコウノトリ | 悪い仲間と一緒にいれば同罪とみなされる |
 | [aesop-082](../fables/aesop/aesop-082-the-oxen-and-the-axle.md) | 牡ウシと車軸 | 本当に苦労している者は不平を言わない |
 | [aesop-083](../fables/aesop/aesop-083-the-boys-and-the-frogs.md) | 少年たちとカエルたち | 一方の遊びが他方には命に関わる |
@@ -331,7 +319,6 @@
 | [aesop-311](../fables/aesop/aesop-311-the-ass-and-the-ass-driver.md) | ロバとロバ追い | （教訓は物語の中に示されている） |
 | [aesop-312](../fables/aesop/aesop-312-the-thrush-and-the-fowler.md) | ツグミと鳥刺し | （教訓は物語の中に示されている） |
 | [aesop-313](../fables/aesop/aesop-313-the-frogs-complaining-about-the-sun.md) | 太陽に文句を言うカエル | 著作権はhanamaにありますが、制限は致しませんので、ご自由にお使い下さい。 |
-
 | [aesop-314](../fables/aesop/aesop-314-belling-the-cat.md) | 猫に鈴をつける | どんなに優れた計画も、実行する者がいなければ絵に描いた餅にすぎない |
 | [aesop-315](../fables/aesop/aesop-315-the-miller-his-son-and-the-donkey.md) | ロバを連れた親子 | 万人を喜ばせようとすれば、結局は誰も喜ばせられない |
 | [aesop-316](../fables/aesop/aesop-316-jupiter-and-the-tortoise.md) | ゼウスとカメ | 社交を拒み自分の殻に閉じこもる者は、その殻を一生背負う羽目になる |

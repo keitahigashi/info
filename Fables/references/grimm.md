@@ -32,9 +32,7 @@
 | grimm-026 | ヨリンデとヨリンゲル | grimmstories.com, ja.wikipedia.org | 2026-04-02 |
 | grimm-027 | 狐と猫 | grimmstories.com, KHM 75 | 2026-04-02 |
 | grimm-028 | 命の水 | grimmstories.com, KHM 97 | 2026-04-02 |
-
 | grimm-029 | 忠実なヨハネス | grimmstories.com, KHM 6 | 2026-04-02 |
-
 | grimm-030 | おいぼれスルタン | grimmstories.com, KHM 48 | 2026-04-02 |
 | grimm-031 | ネコとネズミのともぐらし | grimmstories.com, KHM 2 | 2026-04-02 |
 | grimm-032 | がちょう番の娘 | grimmstories.com, KHM 89 | 2026-04-02 |
@@ -46,7 +44,6 @@
 | grimm-038 | 穀物の穂 | sites.pitt.edu, KHM 194 | 2026-04-03 |
 | grimm-039 | 恩知らずの息子 | sites.pitt.edu, KHM 145 | 2026-04-03 |
 | grimm-040 | ミソサザイと熊 | grimmstories.com, KHM 102 | 2026-04-03 |
-
 | grimm-041 | 寿命 | grimmdowaclub.net, en.wikipedia.org | 2026-04-04 |
 | grimm-042 | 糸くり三人女 | ja.wikipedia.org, fudemogura.com | 2026-04-04 |
 | grimm-043 | 白蛇 | grimmdowaclub.net, grimmstories.com | 2026-04-04 |
@@ -57,23 +54,26 @@
 | grimm-048 | 貧乏人と金持ち | grimmstories.com, grimmdowaclub.net | 2026-04-04 |
 | grimm-049 | 釘 | grimmstories.com, sites.pitt.edu | 2026-04-04 |
 | grimm-050 | 金の毛が3本生えた鬼 | grimmstories.com, grimmdowaclub.net | 2026-04-04 |
-
 | grimm-051 | 森の中の三人のこびと | furansugonosekai.com, grimmdowaclub.net | 2026-04-04 |
 | grimm-052 | 歌う骨 | grimmdowaclub.net, grimmstories.com | 2026-04-04 |
 | grimm-053 | 手なしむすめ | furansugonosekai.com, grimmdowaclub.net | 2026-04-04 |
 | grimm-054 | わらと炭とそら豆 | hugkum.sho.jp, grimmstories.com | 2026-04-04 |
 | grimm-055 | 兄と妹 | grimmdowaclub.net, grimmstories.com | 2026-04-04 |
-
 | grimm-056 | 六羽の白鳥 | sites.pitt.edu, greenelement.xsrv.jp | 2026-04-05 |
 | grimm-057 | ガラス瓶の中の化け物 | sites.pitt.edu, grimmdowaclub.net | 2026-04-05 |
 | grimm-058 | 森のなかのばあさん | sites.pitt.edu, en.wikipedia.org | 2026-04-05 |
 | grimm-059 | 腕利き四人兄弟 | en.wikipedia.org, childstories.org | 2026-04-05 |
 | grimm-060 | ロバの王子 | sites.pitt.edu, greenelement.xsrv.jp | 2026-04-05 |
-
 | grimm-061 | こわがることをおぼえるために旅にでかけた男 | grimmstories.com, grimmdowaclub.net, KHM4 | 2026-04-05 |
 | grimm-062 | 三つの言葉 | grimmstories.com, childstories.org, KHM33 | 2026-04-05 |
 | grimm-063 | おやゆびこぞう | grimmstories.com, grimmdowaclub.net, KHM37 | 2026-04-05 |
 | grimm-064 | 黄金の鳥 | grimmstories.com, grimmdowaclub.net, KHM57 | 2026-04-05 |
 | grimm-065 | 賢い百姓娘 | grimmstories.com, nanatoshi.com, KHM94 | 2026-04-05 |
+
+| grimm-066 | 白雪姫と紅バラ | grimmstories.com, KHM161 | 2026-04-05 |
+| grimm-067 | 一つ目、二つ目、三つ目 | grimmstories.com, KHM130 | 2026-04-05 |
+| grimm-068 | テーブルよ食事の支度をしろ | grimmstories.com, KHM36 | 2026-04-05 |
+| grimm-069 | 金の子どもたち | grimmstories.com, KHM85 | 2026-04-05 |
+| grimm-070 | 糸紡ぎとシャトルと針 | grimmstories.com, KHM188 | 2026-04-05 |
 
 <!-- 出典追加時にここへ行を追加 -->

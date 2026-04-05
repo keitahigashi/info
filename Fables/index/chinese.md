@@ -31,7 +31,6 @@
 | [chinese-025](../fables/chinese/chinese-025-crowing-like-a-rooster-stealing-like-a-dog.md) | 鶏鳴狗盗 | 卑しいと見なされる才能でも、いざという時に主人の命を救うことがある |
 | [chinese-026](../fables/chinese/chinese-026-the-foolish-old-man-removes-the-mountains.md) | 愚公移山 | どんなに困難な事業でも、揺るがぬ決意と世代を超えた努力で必ず成し遂げられる |
 | [chinese-027](../fables/chinese/chinese-027-mending-the-fold-after-losing-sheep.md) | 亡羊補牢 | 失敗した後でも対策を講じることは決して遅くない |
-
 | [chinese-028](../fables/chinese/chinese-028-calling-a-deer-a-horse.md) | 指鹿為馬 | 権力者が黒を白と言い張れば周囲は真実を曲げて追従するが、事実を事実と言えない組織は必ず滅びる |
 | [chinese-029](../fables/chinese/chinese-029-deliberation.md) | 推敲 | 優れた表現は何度も練り直してこそ生まれ、身分を超えて良いものを認め合う姿勢が互いを高める |
 | [chinese-030](../fables/chinese/chinese-030-one-cry-startles-all.md) | 一鳴驚人 | 力を蓄えて沈黙を守る者は、ひとたび動き出した時に天下を驚かす |
@@ -44,34 +43,28 @@
 | [chinese-037](../fables/chinese/chinese-037-walking-like-the-people-of-handan.md) | 邯鄲の歩み | むやみに他人を真似れば新しいものは身につかず、自分本来の持ち味まで失ってしまう |
 | [chinese-038](../fables/chinese/chinese-038-war-on-the-snails-horns.md) | 蝸牛角上の争い | 無限の宇宙から見れば、人間の領土争いや権力闘争は蝸牛の角の上の小競り合いに過ぎない |
 | [chinese-039](../fables/chinese/chinese-039-buying-the-box-returning-the-pearl.md) | 買櫝還珠 | 外見の華麗さに惑わされ、本当に価値あるものを見失う本末転倒の愚かさを戒める |
-
 | [chinese-040](../fables/chinese/chinese-040-morning-orders-evening-changes.md) | 朝令暮改 | 方針を頻繁に変えると信用を失い、人はついてこなくなる |
 | [chinese-041](../fables/chinese/chinese-041-armchair-strategist.md) | 紙上談兵 | 理論や知識だけでは実践に通用しない |
-
 | [chinese-042](../fables/chinese/chinese-042-the-incompetent-musician.md) | 濫竽充数 | 実力のない者が集団に紛れても、個人の力量が問われる場面では必ず化けの皮が剥がれる |
 | [chinese-043](../fables/chinese/chinese-043-lord-yes-love-of-dragons.md) | 葉公好龍 | 口先では好きだと言いながら本物が現れると逃げ出す、見せかけだけの愛好を戒める |
 | [chinese-044](../fables/chinese/chinese-044-going-south-by-driving-north.md) | 南轅北轍 | 目的と手段の方向性が合っていなければ、努力すればするほど目標から遠ざかる |
 | [chinese-045](../fables/chinese/chinese-045-gazing-at-the-ocean-and-sighing.md) | 望洋興嘆 | 自分の知識や力が大きいと思い込んでも、より広い世界を知れば自らの小ささに気づかされる |
 | [chinese-046](../fables/chinese/chinese-046-a-cup-of-water-on-a-burning-cartload.md) | 杯水車薪 | わずかな努力で失敗したからといって、努力そのものに意味がないと結論づけてはならない |
-
 | [chinese-047](../fables/chinese/chinese-047-the-snipe-and-the-clam.md) | 鷸蚌の争い | 互いに意地を張り合って争い続ければ、第三者に利益を奪われる |
 | [chinese-048](../fables/chinese/chinese-048-the-friendship-worth-dying-for.md) | 刎頸の交わり | 真に大きな人物は個人の面子よりも大義を優先し、非を認める勇気が深い信頼を生む |
 | [chinese-049](../fables/chinese/chinese-049-suspicion-creates-imaginary-fears.md) | 疑心暗鬼 | 疑いの心を持つとありもしないものが見え、先入観は事実を歪める |
 | [chinese-050](../fables/chinese/chinese-050-the-mantis-stalks-the-cicada.md) | 螳螂蝉を捕らう | 目先の利益に心を奪われると、背後に迫る危険に気づけなくなる |
 | [chinese-051](../fables/chinese/chinese-051-chicken-ribs.md) | 鶏肋 | 中途半端なものへの執着は判断を鈍らせ、損切りの決断は早いほうがよい |
-
 | [chinese-052](../fables/chinese/chinese-052-grinding-an-iron-pestle-into-a-needle.md) | 鉄杵を磨く | どんなに途方もないことでも根気よく努力を続ければ必ず成し遂げられる |
 | [chinese-053](../fables/chinese/chinese-053-high-mountains-and-flowing-water.md) | 高山流水 | 真に心を理解してくれる友（知音）はかけがえのない存在である |
 | [chinese-054](../fables/chinese/chinese-054-three-men-make-a-tiger.md) | 市に虎あり | 根拠のない噂も多くの人が繰り返せば真実として信じられてしまう |
 | [chinese-055](../fables/chinese/chinese-055-the-disease-has-entered-the-vital-organs.md) | 病膏肓に入る | 悪い状態を放置すれば取り返しのつかない段階に至る |
 | [chinese-056](../fables/chinese/chinese-056-hanging-a-sheeps-head-selling-dog-meat.md) | 羊頭狗肉 | 見せかけだけ立派にしても実態が伴わなければ人は見抜く |
-
 | [chinese-057](../fables/chinese/chinese-057-the-merit-of-fireflies-and-snow.md) | 蛍雪の功 | 貧しさや困難な環境にあっても工夫と忍耐で努力を続ければ必ず成果を得られる |
 | [chinese-058](../fables/chinese/chinese-058-start-with-kai.md) | 隗より始めよ | 大事業を始めるにはまず身近なところから手をつけることが重要である |
 | [chinese-059](../fables/chinese/chinese-059-tyranny-is-fiercer-than-a-tiger.md) | 苛政は虎よりも猛し | 人民を苦しめる過酷な政治は猛獣の害よりもなお恐ろしい |
 | [chinese-060](../fables/chinese/chinese-060-heart-rending-grief.md) | 断腸 | 親子の情愛は命がけのものであり、他者の悲しみに無頓着であってはならない |
 | [chinese-061](../fables/chinese/chinese-061-lamenting-the-flesh-on-ones-thighs.md) | 髀肉の嘆 | いたずらに時を過ごし志を果たせないまま老いることほど悔しいことはない |
-
 | [chinese-062](../fables/chinese/chinese-062-the-old-man-under-the-moon.md) | 月下老人 | 人の縁は目に見えない運命の糸で結ばれている |
 | [chinese-063](../fables/chinese/chinese-063-wrapped-in-horsehide.md) | 馬革裹屍 | 大義のために命を惜しまぬ覚悟こそ真の勇気である |
 | [chinese-064](../fables/chinese/chinese-064-great-similarity-small-differences.md) | 大同小異 | 物事の本質を見極めれば細部の違いに惑わされない |

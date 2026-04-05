@@ -32,9 +32,7 @@
 | [other-026](../fables/other/other-026-the-happy-prince.md) | 幸福の王子 | オスカー・ワイルド | 真の幸福は自らを犠牲にして他者の苦しみを和らげることにある |
 | [other-027](../fables/other/other-027-the-lad-who-went-to-the-north-wind.md) | 北風のくれたテーブルクロス | ノルウェー民話 | 奪われたものは知恵と勇気で取り返すことができ、盗人は必ず報いを受ける |
 | [other-028](../fables/other/other-028-the-empty-pot.md) | 空の鉢 | 中国民話（世界共通） | 失敗を正直に認める勇気こそが、最も価値ある資質である |
-
 | [other-029](../fables/other/other-029-pandoras-box.md) | パンドラの箱 | ギリシャ神話 | 禁じられたものへの好奇心は災いを招くが、どんな絶望の中にも希望は残されている |
-
 | [other-030](../fables/other/other-030-the-three-little-pigs.md) | 三匹の子ぶた | 英国民話 | 手間を惜しまず堅実に努力した者だけが、いざという時に身を守ることができる |
 | [other-031](../fables/other/other-031-kolobok.md) | コロボーク | ロシア民話 | 自分の賢さを過信し油断する者は、最も狡猾な相手に足元をすくわれる |
 | [other-032](../fables/other/other-032-father-frost.md) | モロズコ | ロシア民話 | 謙虚さと忍耐は報われ、傲慢と怠惰は厳しい罰を受ける |
@@ -46,31 +44,26 @@
 | [other-038](../fables/other/other-038-the-fisherman-and-the-golden-fish.md) | 漁師と金の魚 | ロシア（プーシキン） | 際限のない欲望は全てを失わせ、感謝を忘れた強欲は身を滅ぼす |
 | [other-039](../fables/other/other-039-pinocchio.md) | ピノッキオの冒険 | イタリア（コッローディ） | 嘘をつかず誠実に生き、怠惰を避けて努力することで、人は本当の人間になれる |
 | [other-040](../fables/other/other-040-king-midas-and-the-golden-touch.md) | ミダス王の黄金の手 | ギリシャ神話 | 際限のない富への欲望は、本当に大切なものを全て奪い去る |
-
 | [other-041](../fables/other/other-041-the-swan-the-pike-and-the-crayfish.md) | 白鳥とカワカマスとザリガニ | 方向性の一致しない集団はいくら個々が力を尽くしても成果を生まない |
 | [other-042](../fables/other/other-042-maui-and-the-sun.md) | マウイと太陽 | 勇気と知恵と仲間との協力があれば、自然の脅威にさえ立ち向かうことができる |
 | [other-043](../fables/other/other-043-the-children-of-lir.md) | リアの子供たち | 嫉妬は取り返しのつかない苦しみを生むが、家族の愛と絆があれば人はどんな試練にも耐え抜ける |
 | [other-044](../fables/other/other-044-curupira-guardian-of-the-forest.md) | クルピラ ── 森の守護者 | 自然は敬意を持って共生すべき存在であり、際限のない搾取はやがて報いを受ける |
 | [other-045](../fables/other/other-045-human-beings-are-members-of-a-whole.md) | 人間は一つの体 | 他者の苦しみに無関心でいるならば人間の名に値しない |
-
 | [other-046](../fables/other/other-046-the-salt-in-your-food.md) | 塩のように愛している | 華やかな言葉より地味でも実質的な愛情こそが本物であり、大切なものは失って初めてその価値に気づく |
 | [other-047](../fables/other/other-047-alan-goa-and-the-five-arrows.md) | アラン・ゴアの五本の矢 | 個人は脆くとも団結すれば何者にも折られない強さを持ち、内輪の争いは自らを弱体化させる |
 | [other-048](../fables/other/other-048-anansi-and-the-pot-of-wisdom.md) | アナンシと知恵の瓢箪 | 知恵は一人で独占できるものではなく、分かち合ってこそ価値がある |
 | [other-049](../fables/other/other-049-the-tiger-and-the-frog.md) | 虎と蛙 | 身体の大きさや力だけが強さではなく、機転と知恵があれば弱者でも強者を出し抜ける |
 | [other-050](../fables/other/other-050-the-eloquent-peasant.md) | 雄弁な農夫 | 正義は社会的地位に関係なくすべての人に等しく与えられるべきであり、声を上げ続ける勇気が正義を勝ち取る |
-
 | [other-051](../fables/other/other-051-two-greedy-bear-cubs.md) | 二匹のよくばり子グマ | 欲張って譲り合えないと第三者に利用されてすべてを失う |
 | [other-052](../fables/other/other-052-the-battle-for-the-sampo.md) | サンポの争奪 | 繁栄を独占しようとする欲望は破滅を招き、真の豊かさは広く分かち合われるところに宿る |
 | [other-053](../fables/other/other-053-the-jade-hummingbird.md) | 翡翠のハチドリ | 小さなものにも大きな使命があり、自然の美しさは所有するものではなく敬い共存するものである |
 | [other-054](../fables/other/other-054-the-talking-fish.md) | おしゃべりな魚 | 親切は決して無駄にならず、たとえ水に投げ込んだ善行であっても必ず報われる |
 | [other-055](../fables/other/other-055-skeleton-woman.md) | 骨の女 | 真の愛や絆を築くには恐れを乗り越えて相手に向き合う勇気が必要である |
-
 | [other-056](../fables/other/other-056-phikul-thong-the-girl-of-golden-flowers.md) | ピクントーン ── 金の花の娘 | 思いやりと誠実さは必ず報われ、強欲と傲慢は身を滅ぼす |
 | [other-057](../fables/other/other-057-tiddalick-the-flood-maker.md) | ティダリックと大洪水 | 資源を独り占めにすれば共同体全体が苦しみ、協力と創意工夫で立ち向かうべきである |
 | [other-058](../fables/other/other-058-paikea-the-whale-rider.md) | パイケア ── 鯨に乗った英雄 | 嫉妬と恨みは破滅をもたらすが、勇気と信仰は自然の力をも味方につける |
 | [other-059](../fables/other/other-059-the-three-pieces-of-advice.md) | 三つの忠告 | 目先の利益よりも知恵を選ぶ者が最後に勝つ |
 | [other-060](../fables/other/other-060-the-cattle-egret-and-the-frog.md) | サギの先生とカエル | 嘘や偽りの告発は無実の人の人生を破壊する |
-
 | [other-061](../fables/other/other-061-nasreddin-and-the-pot-that-died.md) | ナスレッディンと死んだ鍋 | 都合の良い不合理を受け入れる者は、同じ論理で裏切られる |
 | [other-062](../fables/other/other-062-bawang-merah-bawang-putih.md) | バワン・メラとバワン・プティ | 親切と謙虚さは祝福をもたらし、貪欲と傲慢さは破滅を招く |
 | [other-063](../fables/other/other-063-the-wawel-dragon.md) | クラクフの龍 | 力ずくより知恵と工夫で困難を克服する者こそ真の英雄である |

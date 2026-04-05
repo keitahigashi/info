@@ -29,9 +29,7 @@
 | [indian-023](../fables/indian/indian-023-the-mice-that-ate-iron.md) | 鉄の秤を食べたネズミ | 嘘をつけば同じ手口で報いを受ける |
 | [indian-024](../fables/indian/indian-024-king-shibi-and-the-dove.md) | シビ王の鳩と鷹 | 真の慈悲とは自らの身をもって命の等しさを示すことである |
 | [indian-025](../fables/indian/indian-025-the-elephant-and-the-sparrow.md) | 雀と象 | 小さな者でも団結し知恵を使えば巨大な敵に打ち勝てる |
-
 | [indian-026](../fables/indian/indian-026-the-cap-seller-and-the-monkeys.md) | 猿と帽子売り | 力ずくでは解決できない問題も、相手の性質をよく観察すれば知恵で解決できる |
-
 | [indian-027](../fables/indian/indian-027-the-old-blind-vulture.md) | 盲目の禿鷲 | 素性をよく知らない者を口先の巧みさだけで信用すれば、無実の者に罪を着せられ身を滅ぼす |
 | [indian-028](../fables/indian/indian-028-the-elephant-and-the-tailor.md) | 象と仕立屋 | 友好的な関係を裏切って危害を加える者は、同じ形で報いを受ける |
 | [indian-029](../fables/indian/indian-029-the-timid-hare.md) | 臆病なウサギ | 根拠のない恐怖は群衆をパニックに陥れるが、冷静な指導者が事実を確かめれば混乱は収まる |
@@ -39,38 +37,32 @@
 | [indian-031](../fables/indian/indian-031-the-crows-and-the-cobra.md) | カラスとコブラ | 力では敵わない相手も、知恵と策略で間接的に打ち倒すことができる |
 | [indian-032](../fables/indian/indian-032-the-washerman-and-his-donkey.md) | 洗濯屋のロバ | 他者の成功を安易に真似ても、状況が違えば同じ結果にはならず、かえって災いを招く |
 | [indian-033](../fables/indian/indian-033-the-elephants-and-the-mice.md) | 象とネズミの恩返し | どんなに小さな者への親切も無駄にはならず、弱者の恩返しが強者を救う日が来る |
-
 | [indian-034](../fables/indian/indian-034-the-weaver-and-the-princess.md) | 機織りと王女 | 知恵と友情があれば身分の壁も超えられる |
 | [indian-035](../fables/indian/indian-035-the-old-tiger-and-the-greedy-traveller.md) | 老虎と欲深い旅人 | 欲深さは身を滅ぼす |
 | [indian-036](../fables/indian/indian-036-the-goat-that-laughed-and-wept.md) | 笑い泣いた山羊 | いかなる理由があろうと殺生は悪い結果を招く |
 | [indian-037](../fables/indian/indian-037-the-jackal-and-the-drum.md) | ジャッカルと太鼓 | 勇気をもって未知のものを調べる者だけが成功を手にする |
 | [indian-038](../fables/indian/indian-038-the-hermit-and-the-mouse.md) | 隠者とネズミ | 敵の力の源を断てば、敵そのものを打ち倒せる |
 | [indian-039](../fables/indian/indian-039-the-cave-that-talked.md) | 喋る洞穴 | 機転と冷静な観察力があれば、強大な敵の罠からも逃れられる |
-
 | [indian-040](../fables/indian/indian-040-the-foolish-barber.md) | 愚かな床屋 | 物事の本質を理解せずに表面だけを模倣すると災いを招く |
 | [indian-041](../fables/indian/indian-041-frogs-that-rode-a-snake.md) | 蛙の王と蛇 | 同胞を罰するために天敵と手を組むことは自らの破滅を招く |
 | [indian-042](../fables/indian/indian-042-the-story-of-the-potter.md) | 陶工の傷跡 | 外見だけで人を判断することは危険であり、自分が何者であるかに正直であることが大切である |
 | [indian-043](../fables/indian/indian-043-the-dog-king.md) | 犬の王 | 権力者は偏見に基づいて裁きを下してはならず、真実を確かめることが正義である |
 | [indian-044](../fables/indian/indian-044-the-man-who-grew-wealthy-from-a-dead-mouse.md) | 死んだネズミから財を成した男 | どんなに小さな機会でも、知恵と勤勉さがあれば大きな成功につながる |
-
 | [indian-045](../fables/indian/indian-045-the-bug-and-the-poor-flea.md) | 南京虫とノミ | 見知らぬ者の約束を安易に信じれば、相手の無分別の巻き添えで自分が罰を受ける |
 | [indian-046](../fables/indian/indian-046-right-mind-and-wrong-mind.md) | 正直者と不正直者 | 不正は一時的に成功するように見えても最後には必ず露見し、正直さが報われる |
 | [indian-047](../fables/indian/indian-047-the-lioness-and-the-young-jackal.md) | 雌ライオンと子ジャッカル | 生まれ持った本性は変えられず、自分の本質を受け入れてふさわしい場所で生きることが大切である |
 | [indian-048](../fables/indian/indian-048-the-brahmin-the-thief-and-the-demon.md) | バラモンと泥棒と鬼 | 悪人同士が争えば善人が利益を得る。仲間割れは悪事を崩壊させる最大の原因である |
 | [indian-049](../fables/indian/indian-049-the-bird-and-the-monkey.md) | おせっかいな鳥と猿 | 聞く耳を持たない相手への忠告は無駄であり、おせっかいは時に身を滅ぼす |
-
 | [indian-050](../fables/indian/indian-050-the-gold-giving-serpent.md) | 金を与える蛇 | 与えられた恩恵に感謝せず貪欲に走れば、すべてを失う |
 | [indian-051](../fables/indian/indian-051-the-foolish-lion-and-the-clever-rabbit.md) | 愚かな獅子と賢い兎 | 知恵は腕力に勝る。小さく弱い者でも知恵を使えば強大な敵を打ち倒せる |
 | [indian-052](../fables/indian/indian-052-the-old-man-his-young-wife-and-the-thief.md) | 老商人と若妻と泥棒 | 敵からでも思わぬ恩恵を受けることがあり、災いが福に転じることもある |
 | [indian-053](../fables/indian/indian-053-the-otters-and-the-jackal.md) | カワウソとジャッカル | 仲間同士の争いは第三者を利するだけであり、協力して分かち合えば利益を失うことはない |
 | [indian-054](../fables/indian/indian-054-the-woodpecker-the-tortoise-and-the-deer.md) | 鹿とキツツキと亀 | 真の友情とは危機に際して互いに命を懸けて助け合うことである |
-
 | [indian-055](../fables/indian/indian-055-the-lion-the-camel-the-jackal-and-the-crow.md) | 獅子とラクダとジャッカルとカラス | 邪悪な者たちの甘い言葉に騙されてはならず、権力者の取り巻きには常に警戒せよ |
 | [indian-056](../fables/indian/indian-056-the-fall-and-rise-of-a-merchant.md) | 商人の栄枯盛衰 | 身分の低い者であっても侮ってはならず、権力に近い者は誰であれ影響力を持ちうる |
 | [indian-057](../fables/indian/indian-057-the-fighting-goats-and-the-jackal.md) | 喧嘩山羊と欲張りジャッカル | 欲に目がくらむと目前の危険が見えなくなり、自ら災いを招く |
 | [indian-058](../fables/indian/indian-058-the-wedding-of-the-mouse.md) | ネズミの婿選び | 生まれ持った本性はどんなに外見を変えても変わらない |
 | [indian-059](../fables/indian/indian-059-the-dog-who-went-abroad.md) | 外国へ行った犬 | 物質的な豊かさよりも故郷の平和と同胞のつながりの方が価値がある |
-
 | [indian-060](../fables/indian/indian-060-the-blind-men-and-the-elephant.md) | 盲人と象 | 部分だけを見て全体を知った気になってはならない |
 | [indian-061](../fables/indian/indian-061-the-tiger-the-brahmin-and-the-jackal.md) | 虎とバラモンとジャッカル | 知恵は力よりも強く、善意につけ込む者には機転で対抗せよ |
 | [indian-062](../fables/indian/indian-062-the-monkey-and-the-bell.md) | 猿と鈴 | 未知のものへの恐怖は知恵と冷静な観察で克服できる |

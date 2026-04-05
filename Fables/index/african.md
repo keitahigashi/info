@@ -29,9 +29,7 @@
 | [african-023](../fables/african/african-023-the-man-who-never-lied.md) | 嘘をつかなかった男 | 正直とは自分が見ていないことまで断言しない知恵のことである |
 | [african-024](../fables/african/african-024-the-calabash-kids.md) | ひょうたんの子供たち | 怒りに任せた言葉は取り返しのつかない結果を招く |
 | [african-025](../fables/african/african-025-demane-and-demazana.md) | デマネとデマザナ | 忠告を守ることが身を守り、家族の絆と機転が困難を乗り越える |
-
 | [african-026](../fables/african/african-026-the-name-of-the-tree.md) | 木の名前 | 速さや力よりも注意深さと忍耐が物事を成し遂げる |
-
 | [african-027](../fables/african/african-027-the-kings-magic-drum.md) | 王の魔法のドラム | 恵みには守るべき条件が伴い、貪欲に駆られてそれを破れば恵みそのものを失う |
 | [african-028](../fables/african/african-028-why-the-dog-lives-with-man.md) | なぜ犬は人と暮らすのか | 困難の中で互いを必要とした経験が、かつての敵同士をも固い絆で結びつける |
 | [african-029](../fables/african/african-029-afiong-the-proud-princess.md) | 高慢な王女アフィオン | 虚栄心と高慢は身を滅ぼすが、苦境にあっても謙虚さを忘れなければ救いの道は開かれる |
@@ -39,41 +37,33 @@
 | [african-031](../fables/african/african-031-why-hawks-kill-chicks.md) | タカがヒヨコを狩る理由 | 不誠実な行いの報いは長く続き、約束を破れば代償を払い続けることになる |
 | [african-032](../fables/african/african-032-why-the-eagle-flies-highest.md) | ワシが最も高く飛ぶ理由 | 成功は生まれつきの才能ではなく、たゆまぬ努力と練習から生まれる |
 | [african-033](../fables/african/african-033-the-ears-never-get-past-the-head.md) | 耳は頭を越えられない | どれほど力や技を身につけても、年長者の知恵と経験には及ばない |
-
 | [african-034](../fables/african/african-034-oluronbi-and-the-iroko-tree.md) | オルロンビとイロコの精霊の木 | 守れない約束をしてはならない |
 | [african-035](../fables/african/african-035-why-the-bat-flies-at-night.md) | コウモリが夜に飛ぶ理由 | 嫉妬と欺瞞は友情を破壊し、自分自身をも孤独に追い込む |
-
 | [african-036](../fables/african/african-036-where-stories-come-from.md) | 物語の起源 | 価値あるものを得るには自らも何かを差し出す覚悟が必要である |
 | [african-037](../fables/african/african-037-the-spirit-in-the-tree.md) | 木に宿る精霊 | どんなに辛い日々も必ず過ぎ去り、先祖の導きと忍耐が苦難を乗り越える力となる |
-
 | [african-038](../fables/african/african-038-the-moon-and-the-hare.md) | 月とウサギ（死の起源） | 大切な使命を託された者がそれを歪めれば、取り返しのつかない結果を招く |
 | [african-039](../fables/african/african-039-the-lions-whiskers.md) | ライオンのひげ | 信頼は忍耐と一貫した優しさによってのみ築かれる |
 | [african-040](../fables/african/african-040-master-man.md) | 力自慢の男（雷の起源） | 自惚れと虚勢は身を滅ぼし、どれほど優れていても上には上がいる |
-
 | [african-041](../fables/african/african-041-the-monkeys-fiddle.md) | サルのバイオリン | 真の才能と知恵は暴力や権力に勝る |
 | [african-042](../fables/african/african-042-tink-tinkje.md) | ティンクティンキェ（鳥の王選び） | 体の大きさや力だけが勝利の条件ではなく、小さな者でも知恵と機転で大きな者を出し抜ける |
 | [african-043](../fables/african/african-043-why-antelope-lives-in-the-bush.md) | レイヨウが野に住む理由 | 自分の能力を信じる者は自由を手に入れ、自信のない者は不自由な環境に留まり続ける |
 | [african-044](../fables/african/african-044-the-ungrateful-snake.md) | 恩知らずのヘビ | 恩を仇で返す者に対しては二度と同じ過ちを繰り返す必要はない |
 | [african-045](../fables/african/african-045-cock-and-jackal.md) | オンドリとジャッカル | 絶体絶命の危機でも冷静さと機転があれば活路は開ける |
-
 | [african-046](../fables/african/african-046-the-grasshopper-and-the-toad.md) | バッタとヒキガエル | 真の友情を望むなら、相手の本質的な性質を変えようとせず、欠点も含めて受け入れなければならない |
 | [african-047](../fables/african/african-047-the-red-and-blue-coat.md) | 赤と青の上着 | 同じ物事でも見る角度が違えば異なる真実が見え、自分の視点だけが正しいと決めつけると大切な関係を壊す |
 | [african-048](../fables/african/african-048-king-chameleon-and-the-animals.md) | カメレオン王と動物たち | 策略で地位を得ても周囲の信頼と支持がなければ意味がない |
 | [african-049](../fables/african/african-049-anansi-and-the-moss-covered-rock.md) | アナンシと苔むした岩 | 他者を騙す手段はいずれ自分自身に跳ね返り、ずる賢さで得た利益は長続きしない |
 | [african-050](../fables/african/african-050-the-monkey-and-the-hare.md) | サルとウサギの賭け | 虚栄心は不必要な争いを生み、自分の限界を素直に認めることは嘘で体面を保つより尊い |
-
 | [african-051](../fables/african/african-051-why-the-hyena-howls-at-night.md) | ハイエナが夜に吠える理由 | 貪欲は身を滅ぼし、分かち合いと節度を忘れれば孤独と苦しみが待っている |
 | [african-052](../fables/african/african-052-why-frog-and-snake-never-play-together.md) | カエルとヘビが一緒に遊ばない理由 | 偏見や先入観は純粋な友情をも壊してしまう |
 | [african-053](../fables/african/african-053-tortoise-and-the-baboon.md) | カメとヒヒの食事 | 人に意地悪をすれば同じやり方で仕返しされる |
 | [african-054](../fables/african/african-054-the-lion-the-hare-and-the-hyena.md) | ライオンとウサギとハイエナ | 知恵と誠実さは嘘と陰謀に勝り、嫉妬から他者を陥れる者は自ら墓穴を掘る |
 | [african-055](../fables/african/african-055-sungura-and-leopard.md) | ウサギとヒョウの家 | 体の大きさや力だけが強さではなく、知恵と機転があれば弱い者でも強い者から身を守れる |
-
 | [african-056](../fables/african/african-056-the-heart-of-a-monkey.md) | サルの心臓 | 危機に際して冷静さと機転を保つことが命を救い、友の信頼を裏切れば永遠にそれを失う |
 | [african-057](../fables/african/african-057-marwe-in-the-underworld.md) | 冥界のマルウェ | 勤勉さと誠実さは必ず報われ、人を外見で判断せず内面の本質を見極めることが大切である |
 | [african-058](../fables/african/african-058-the-one-handed-girl.md) | 片手の少女 | 物質的な富より精神的な祝福の方が真の幸福をもたらす |
 | [african-059](../fables/african/african-059-anansi-and-the-chameleon.md) | アナンシとカメレオン | 傲慢と不正で得た利益は長続きせず、謙虚さと知恵が最後に勝つ |
 | [african-060](../fables/african/african-060-samba-the-coward.md) | 臆病者サンバ | 恐怖に立ち向かった時にこそ真の勇気が生まれる |
-
 | [african-061](../fables/african/african-061-jabu-and-the-lion.md) | ジャブとライオン | 約束を破る者には知恵で対処せよ |
 | [african-062](../fables/african/african-062-why-the-cheetahs-cheeks-are-stained.md) | チーターの頬が汚れている理由 | 他者の努力の成果を盗んで楽をしようとする者は必ず報いを受ける |
 | [african-063](../fables/african/african-063-the-rabbit-and-the-tar-baby.md) | ウサギとタール人形 | 怒りに任せて行動すれば自ら罠にはまる |

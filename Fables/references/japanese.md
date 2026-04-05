@@ -29,10 +29,8 @@
 | japanese-023 | 三枚のお札 | ja.wikipedia.org, ATU分類313型 | 2026-04-02 |
 | japanese-024 | 塩ふきうす | folktalesjpn.com, ja.wikipedia.org | 2026-04-02 |
 | japanese-025 | 聞き耳頭巾 | ja.wikipedia.org, folktalesjpn.com | 2026-04-02 |
-
 | japanese-026 | 姥捨山 | ja.wikipedia.org, 『大和物語』姨捨段 | 2026-04-02 |
 | japanese-027 | 因幡の白兎 | ja.wikipedia.org, 『古事記』上巻 | 2026-04-02 |
-
 | japanese-028 | 雪女 | ja.wikipedia.org, 小泉八雲『怪談』(1904) | 2026-04-02 |
 | japanese-029 | 泣いた赤鬼 | ja.wikipedia.org, 浜田廣介(1933) | 2026-04-02 |
 | japanese-030 | 大工と鬼六 | folktalesjpn.com, minwa.fujipan.co.jp | 2026-04-03 |
@@ -40,38 +38,36 @@
 | japanese-032 | たにし長者 | folktalesjpn.com, hukumusume.com | 2026-04-03 |
 | japanese-033 | 子育て幽霊 | folktalesjpn.com, minwanoheya.jp | 2026-04-03 |
 | japanese-034 | 牛方と山姥 | folktalesjpn.com, minwanoheya.jp | 2026-04-03 |
-
 | japanese-035 | 吉作落とし | arasuji-m.com, まんが日本昔ばなしDB | 2026-04-03 |
 | japanese-036 | キジも鳴かずば | folktalesjpn.com, ja.wikipedia.org | 2026-04-03 |
 | japanese-037 | 安寿と厨子王 | ja.wikipedia.org, 青空文庫『山椒大夫』 | 2026-04-03 |
-
 | japanese-038 | へっこき嫁 | folktalesjpn.com, hukumusume.com | 2026-04-03 |
 | japanese-039 | かもとりごんべえ | folktalesjpn.com, まんが日本昔ばなしDB | 2026-04-03 |
-
 | japanese-040 | 瓜子姫 | ja.wikipedia.org, 青空文庫（楠山正雄） | 2026-04-03 |
-
 | japanese-041 | 十二支のはじまり | folktalesjpn.com, arasuji-m.com | 2026-04-04 |
 | japanese-042 | はなたれ小僧さま | folktalesjpn.com, minwanoheya.jp | 2026-04-04 |
 | japanese-043 | 鉢かづき姫 | ja.wikipedia.org, folktalesjpn.com | 2026-04-04 |
 | japanese-044 | 天福地福 | folktalesjpn.com, 岩倉市郎『南蒲原郡昔話集』 | 2026-04-04 |
 | japanese-045 | ものぐさ太郎 | ja.wikipedia.org, 『御伽草子』 | 2026-04-04 |
-
 | japanese-046 | ふるやのもり | folktalesjpn.com, arasuji-m.com | 2026-04-04 |
 | japanese-047 | 夢を買う | folktalesjpn.com, 『宇治拾遺物語』第165話 | 2026-04-04 |
 | japanese-048 | 座敷わらし | folktalesjpn.com, 柳田國男『遠野物語』(1910) | 2026-04-04 |
 | japanese-049 | さだ六とシロ | folktalesjpn.com, arasuji-m.com | 2026-04-04 |
 | japanese-050 | 海幸彦と山幸彦 | 『古事記』(712), ja.wikipedia.org | 2026-04-04 |
-
 | japanese-051 | 猿地蔵 | folktalesjpn.com, minwanoheya.jp | 2026-04-05 |
 | japanese-052 | しっぺい太郎 | 青空文庫（楠山正雄）, shippei.jp | 2026-04-05 |
 | japanese-053 | 絵姿女房 | folktalesjpn.com, minwa.fujipan.co.jp | 2026-04-05 |
 | japanese-054 | クラゲの骨なし | 『今昔物語集』巻五, yomukiku-mukashi.com | 2026-04-05 |
 | japanese-055 | 天道さんの金の鎖 | minwanoheya.jp, katarinomori13.com | 2026-04-05 |
-
 | japanese-056 | 木仏長者 | folktalesjpn.com, minwanoheya.jp | 2026-04-05 |
 | japanese-057 | 鉢の木 | ja.wikipedia.org, the-noh.com | 2026-04-05 |
 | japanese-058 | 田植地蔵 | folktalesjpn.com, hukumusume.com | 2026-04-05 |
 | japanese-059 | ちょうふく山の山んば | folktalesjpn.com, minwanoheya.jp | 2026-04-05 |
 | japanese-060 | おんちょろちょろ | pictbook.info, 福音館書店(2016) | 2026-04-05 |
+| japanese-061 | 言うなの地蔵 | minwanoheya.jp, 福井県南越前町伝承 | 2026-04-05 |
+| japanese-062 | 蜘蛛の糸 | 芥川龍之介『蜘蛛の糸』(1918), 青空文庫 | 2026-04-05 |
+| japanese-063 | ごんぎつね | 新美南吉『ごん狐』(1932), 青空文庫 | 2026-04-05 |
+| japanese-064 | 頭山 | 古典落語, 山村浩二アニメ(2002) | 2026-04-05 |
+| japanese-065 | 寿命のロウソク | まんが日本昔ばなし, ATU332型 | 2026-04-05 |
 
 <!-- 出典追加時にここへ行を追加 -->

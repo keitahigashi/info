@@ -31,7 +31,6 @@
 | chinese-025 | 鶏鳴狗盗 | ja.wikipedia.org, 『史記』孟嘗君列伝 | 2026-04-02 |
 | chinese-026 | 愚公移山 | ja.wikipedia.org, 『列子』湯問篇 | 2026-04-02 |
 | chinese-027 | 亡羊補牢 | ja.wiktionary.org, 『戦国策』楚策四 | 2026-04-02 |
-
 | chinese-028 | 指鹿為馬 | ja.wikipedia.org, 『史記』秦始皇本紀 | 2026-04-02 |
 | chinese-029 | 推敲 | ja.wikipedia.org, 『唐詩紀事』巻40 | 2026-04-02 |
 | chinese-030 | 一鳴驚人 | 『韓非子』喩老篇, 『史記』滑稽列伝 | 2026-04-02 |
@@ -44,34 +43,28 @@
 | chinese-037 | 邯鄲の歩み | 『荘子』秋水篇 | 2026-04-03 |
 | chinese-038 | 蝸牛角上の争い | 『荘子』則陽篇 | 2026-04-03 |
 | chinese-039 | 買櫝還珠 | 『韓非子』外儲説左上 | 2026-04-03 |
-
 | chinese-040 | 朝令暮改 | ja.wikipedia.org, 『漢書』食貨志 | 2026-04-03 |
 | chinese-041 | 紙上談兵 | ja.wikipedia.org, 『史記』廉頗藺相如列伝 | 2026-04-03 |
-
 | chinese-042 | 濫竽充数 | nihongo-gururitto.com, idiom-encyclopedia.com | 2026-04-04 |
 | chinese-043 | 葉公好龍 | epochtimes.com, en.wiktionary.org | 2026-04-04 |
 | chinese-044 | 南轅北轍 | spc.jst.go.jp, en.wiktionary.org | 2026-04-04 |
 | chinese-045 | 望洋興嘆 | note.com, epochtimes.com | 2026-04-04 |
 | chinese-046 | 杯水車薪 | baike.baidu.com, ctext.org | 2026-04-04 |
-
 | chinese-047 | 鷸蚌の争い | ja.wikipedia.org, 『戦国策』燕策二 | 2026-04-04 |
 | chinese-048 | 刎頸の交わり | ja.wikipedia.org, 『史記』廉頗藺相如列伝 | 2026-04-04 |
 | chinese-049 | 疑心暗鬼 | ja.wikipedia.org, 『列子』説符篇 | 2026-04-04 |
 | chinese-050 | 螳螂蝉を捕らう | ja.wikipedia.org, 『荘子』山木篇 | 2026-04-04 |
 | chinese-051 | 鶏肋 | ja.wikipedia.org, 『三国志』魏書・武帝紀 | 2026-04-04 |
-
 | chinese-052 | 鉄杵を磨く | 『方輿勝覧』, proverb-encyclopedia.com | 2026-04-04 |
 | chinese-053 | 高山流水 | 『列子』湯問篇, 『呂氏春秋』本味篇 | 2026-04-04 |
 | chinese-054 | 市に虎あり | 『韓非子』内儲説上, 『戦国策』魏策二 | 2026-04-04 |
 | chinese-055 | 病膏肓に入る | 『春秋左氏伝』成公十年, kanbun.info | 2026-04-04 |
 | chinese-056 | 羊頭狗肉 | 『晏子春秋』内篇雑下, 『無門関』第六則 | 2026-04-04 |
-
 | chinese-057 | 蛍雪の功 | 『晋書』車胤伝, kanbun.info | 2026-04-05 |
 | chinese-058 | 隗より始めよ | 『戦国策』燕策一, kanbun.info | 2026-04-05 |
 | chinese-059 | 苛政は虎よりも猛し | 『礼記』檀弓下篇, kanbun.info | 2026-04-05 |
 | chinese-060 | 断腸 | 『世説新語』黜免篇, kanbun.info | 2026-04-05 |
 | chinese-061 | 髀肉の嘆 | 『三国志』蜀書・先主伝注, kanbun.info | 2026-04-05 |
-
 | chinese-062 | 月下老人 | 唐・李復言『続玄怪録』定婚店, ja.wikipedia.org | 2026-04-05 |
 | chinese-063 | 馬革裹屍 | 『後漢書』馬援伝, kotobank.jp | 2026-04-05 |
 | chinese-064 | 大同小異 | 『荘子』天下篇, ja.wiktionary.org | 2026-04-05 |
