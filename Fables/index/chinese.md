@@ -1,4 +1,4 @@
-# 中国故事（56話）
+# 中国故事（61話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -65,5 +65,11 @@
 | [chinese-054](../fables/chinese/chinese-054-three-men-make-a-tiger.md) | 市に虎あり | 根拠のない噂も多くの人が繰り返せば真実として信じられてしまう |
 | [chinese-055](../fables/chinese/chinese-055-the-disease-has-entered-the-vital-organs.md) | 病膏肓に入る | 悪い状態を放置すれば取り返しのつかない段階に至る |
 | [chinese-056](../fables/chinese/chinese-056-hanging-a-sheeps-head-selling-dog-meat.md) | 羊頭狗肉 | 見せかけだけ立派にしても実態が伴わなければ人は見抜く |
+
+| [chinese-057](../fables/chinese/chinese-057-the-merit-of-fireflies-and-snow.md) | 蛍雪の功 | 貧しさや困難な環境にあっても工夫と忍耐で努力を続ければ必ず成果を得られる |
+| [chinese-058](../fables/chinese/chinese-058-start-with-kai.md) | 隗より始めよ | 大事業を始めるにはまず身近なところから手をつけることが重要である |
+| [chinese-059](../fables/chinese/chinese-059-tyranny-is-fiercer-than-a-tiger.md) | 苛政は虎よりも猛し | 人民を苦しめる過酷な政治は猛獣の害よりもなお恐ろしい |
+| [chinese-060](../fables/chinese/chinese-060-heart-rending-grief.md) | 断腸 | 親子の情愛は命がけのものであり、他者の悲しみに無頓着であってはならない |
+| [chinese-061](../fables/chinese/chinese-061-lamenting-the-flesh-on-ones-thighs.md) | 髀肉の嘆 | いたずらに時を過ごし志を果たせないまま老いることほど悔しいことはない |
 
 <!-- 寓話追加時にここへ行を追加 -->

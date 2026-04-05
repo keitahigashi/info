@@ -64,4 +64,10 @@
 | grimm-054 | わらと炭とそら豆 | hugkum.sho.jp, grimmstories.com | 2026-04-04 |
 | grimm-055 | 兄と妹 | grimmdowaclub.net, grimmstories.com | 2026-04-04 |
 
+| grimm-056 | 六羽の白鳥 | sites.pitt.edu, greenelement.xsrv.jp | 2026-04-05 |
+| grimm-057 | ガラス瓶の中の化け物 | sites.pitt.edu, grimmdowaclub.net | 2026-04-05 |
+| grimm-058 | 森のなかのばあさん | sites.pitt.edu, en.wikipedia.org | 2026-04-05 |
+| grimm-059 | 腕利き四人兄弟 | en.wikipedia.org, childstories.org | 2026-04-05 |
+| grimm-060 | ロバの王子 | sites.pitt.edu, greenelement.xsrv.jp | 2026-04-05 |
+
 <!-- 出典追加時にここへ行を追加 -->

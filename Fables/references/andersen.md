@@ -60,4 +60,10 @@
 | andersen-049 | ワイシャツの襟 | andersen.sdu.dk, andersenstories.com | 2026-04-04 |
 | andersen-050 | すべてあるべき所に | hca.gilead.org.il, sittingbee.com | 2026-04-04 |
 
+| andersen-051 | 古い家 | andersen.sdu.dk, アンデルセン(1848) | 2026-04-05 |
+| andersen-052 | 一滴の水 | andersen.sdu.dk, fairytalez.com, アンデルセン(1848) | 2026-04-05 |
+| andersen-053 | 跳びはね連中 | andersen.sdu.dk, アンデルセン(1845) | 2026-04-05 |
+| andersen-054 | ソーセージの串からできたスープ | andersen.sdu.dk, アンデルセン(1858) | 2026-04-05 |
+| andersen-055 | ふんころがし | andersen.sdu.dk, gutenberg.ca, アンデルセン(1861) | 2026-04-05 |
+
 <!-- 出典追加時にここへ行を追加 -->

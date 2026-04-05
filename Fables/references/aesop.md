@@ -61,4 +61,10 @@
 | aesop-049 | キツネとヒョウ | Perry Index #012, en.wikipedia.org, fablesofaesop.com | 2026-04-04 |
 | aesop-050 | ラクダとゼウス | Perry Index #117, en.wikipedia.org, fablesofaesop.com | 2026-04-04 |
 
+| aesop-051 | キツネとヤギ | Perry Index #009, en.wikipedia.org, fablesofaesop.com | 2026-04-05 |
+| aesop-052 | 二人の妻を持つ男 | Perry Index #031, en.wikipedia.org, fablesofaesop.com | 2026-04-05 |
+| aesop-053 | 老人と死神 | Perry Index #060, en.wikipedia.org, fablesofaesop.com | 2026-04-05 |
+| aesop-054 | ビーバーの自己犠牲 | Perry Index #118, en.wikipedia.org, fablesofaesop.com | 2026-04-05 |
+| aesop-055 | 病気のライオンとキツネ | Perry Index #142, en.wikipedia.org, fablesofaesop.com | 2026-04-05 |
+
 <!-- 出典追加時にここへ行を追加 -->

@@ -59,4 +59,10 @@
 | other-049 | 虎と蛙 | チベット民話 | sacred-texts.com, Shelton『Tibetan Folk Tales』(1925) | 2026-04-04 |
 | other-050 | 雄弁な農夫 | 古代エジプト文学 | en.wikipedia.org, worldhistory.org | 2026-04-04 |
 
+| other-051 | 二匹のよくばり子グマ | ハンガリー民話 | fairytales.love, Ginsburg『Two Greedy Bears』(1976) | 2026-04-05 |
+| other-052 | サンポの争奪 | フィンランド叙事詩 | en.wikipedia.org, 『カレワラ』(1835/1849) | 2026-04-05 |
+| other-053 | 翡翠のハチドリ | マヤ伝説 | naatikmexico.org, theyucatantimes.com | 2026-04-05 |
+| other-054 | おしゃべりな魚 | アルメニア民話 | worldstoriesbank.org, トゥマニヤン再話(1908) | 2026-04-05 |
+| other-055 | 骨の女 | イヌイット神話 | canadiancor.com, エステス『Women Who Run With the Wolves』(1992) | 2026-04-05 |
+
 <!-- 出典追加時にここへ行を追加 -->

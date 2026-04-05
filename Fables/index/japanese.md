@@ -1,4 +1,4 @@
-# 日本昔話（50話）
+# 日本昔話（55話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -61,5 +61,11 @@
 | [japanese-048](../fables/japanese/japanese-048-the-zashiki-warashi.md) | 座敷わらし | 家の繁栄は財産ではなく住む人の心がけ次第であり、目に見えない恩恵への感謝を忘れてはならない |
 | [japanese-049](../fables/japanese/japanese-049-sadaroku-and-shiro.md) | さだ六とシロ | 油断や不注意は取り返しのつかない事態を招き、見返りを求めない忠誠心こそが最も尊い |
 | [japanese-050](../fables/japanese/japanese-050-umisachihiko-and-yamasachihiko.md) | 海幸彦と山幸彦 | 借りたものは必ず返すべきであり、困難に直面しても諦めず誠実に向き合えば助けの手が差し伸べられる |
+
+| [japanese-051](../fables/japanese/japanese-051-the-monkey-and-the-jizo-statue.md) | 猿地蔵 | 正直で工夫のある者には福が訪れ、欲から他人の真似をする者には災いが降りかかる |
+| [japanese-052](../fables/japanese/japanese-052-shippeitaro.md) | しっぺい太郎 | 勇気と知恵をもって悪しき因習に立ち向かえば、理不尽な犠牲を終わらせることができる |
+| [japanese-053](../fables/japanese/japanese-053-the-portrait-wife.md) | 絵姿女房 | 権力は人の体を奪えても心までは奪えず、真の愛と知恵は権力にも勝る |
+| [japanese-054](../fables/japanese/japanese-054-why-the-jellyfish-has-no-bones.md) | クラゲの骨なし | 欲に目がくらんで友を裏切れば必ず報いを受け、危機にあっても機転が活路を開く |
+| [japanese-055](../fables/japanese/japanese-055-the-golden-chain-from-heaven.md) | 天道さんの金の鎖 | 善良な者は天の助けを得られるが、悪しき者には報いがある |
 
 <!-- 寓話追加時にここへ行を追加 -->

@@ -1,4 +1,4 @@
-# アンデルセン童話（50話）
+# アンデルセン童話（55話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -59,5 +59,11 @@
 | [andersen-048](../fables/andersen/andersen-048-the-happy-family.md) | しあわせな一家 | 狭い世界で自己満足に浸り境遇を過大評価する虚栄心の滑稽さを風刺する |
 | [andersen-049](../fables/andersen/andersen-049-the-shirt-collar.md) | ワイシャツの襟 | 虚栄心と嘘の武勇伝は最終的に白日の下にさらされ、見栄を張り続けることの愚かさを思い知る |
 | [andersen-050](../fables/andersen/andersen-050-everything-in-the-right-place.md) | すべてあるべき所に | 人の価値は生まれや家柄ではなく、その人自身の徳と品性によって決まる |
+
+| [andersen-051](../fables/andersen/andersen-051-the-old-house.md) | 古い家 | 物質的なものは朽ちても心のつながりや記憶は永遠に受け継がれる |
+| [andersen-052](../fables/andersen/andersen-052-the-drop-of-water.md) | 一滴の水 | 人間社会の争いは顕微鏡の微生物と変わらず、文明は自分たちが思うほど高尚ではない |
+| [andersen-053](../fables/andersen/andersen-053-the-jumpers.md) | 跳びはね連中 | 能力を誇示するよりも目的を正しく理解し最も効果的な方法で成果を出す者が勝つ |
+| [andersen-054](../fables/andersen/andersen-054-soup-from-a-sausage-peg.md) | ソーセージの串からできたスープ | 壮大な知識や冒険より実用的で素朴な知恵のほうが問題を解決することがある |
+| [andersen-055](../fables/andersen/andersen-055-the-dung-beetle.md) | ふんころがし | 身の程知らずの虚栄心は滑稽であり、真の幸福は自分の役割を正しく理解し受け入れることから生まれる |
 
 <!-- 寓話追加時にここへ行を追加 -->

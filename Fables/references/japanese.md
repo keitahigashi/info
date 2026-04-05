@@ -62,4 +62,10 @@
 | japanese-049 | さだ六とシロ | folktalesjpn.com, arasuji-m.com | 2026-04-04 |
 | japanese-050 | 海幸彦と山幸彦 | 『古事記』(712), ja.wikipedia.org | 2026-04-04 |
 
+| japanese-051 | 猿地蔵 | folktalesjpn.com, minwanoheya.jp | 2026-04-05 |
+| japanese-052 | しっぺい太郎 | 青空文庫（楠山正雄）, shippei.jp | 2026-04-05 |
+| japanese-053 | 絵姿女房 | folktalesjpn.com, minwa.fujipan.co.jp | 2026-04-05 |
+| japanese-054 | クラゲの骨なし | 『今昔物語集』巻五, yomukiku-mukashi.com | 2026-04-05 |
+| japanese-055 | 天道さんの金の鎖 | minwanoheya.jp, katarinomori13.com | 2026-04-05 |
+
 <!-- 出典追加時にここへ行を追加 -->

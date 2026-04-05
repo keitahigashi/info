@@ -62,4 +62,10 @@
 | african-049 | アナンシと苔むした岩 | prindleinstitute.org, Kimmel再話(1988) | 2026-04-04 |
 | african-050 | サルとウサギの賭け | folktales.africa, マンディンカ族口承 | 2026-04-04 |
 
+| african-051 | ハイエナが夜に吠える理由 | oldfolktales.com, folktales.africa | 2026-04-04 |
+| african-052 | カエルとヘビが一緒に遊ばない理由 | Ashley Bryan再話, worldcat.org | 2026-04-04 |
+| african-053 | カメとヒヒの食事 | gateway-africa.com, Werner『Myths and Legends of the Bantu』(1933) | 2026-04-04 |
+| african-054 | ライオンとウサギとハイエナ | Mandela編『Favorite African Folktales』(2002), carolsnotebook.com | 2026-04-04 |
+| african-055 | ウサギとヒョウの家 | Knutson『Sungura and Leopard』(1993), readingrockets.org | 2026-04-04 |
+
 <!-- 出典追加時にここへ行を追加 -->

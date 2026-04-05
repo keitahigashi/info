@@ -1,4 +1,4 @@
-# グリム童話（55話）
+# グリム童話（60話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -63,5 +63,11 @@
 | [grimm-053](../fables/grimm/grimm-053-the-girl-without-hands.md) | 手なしむすめ | 信仰と忍耐を失わなければ、どんな苦難も乗り越えられ、失ったものも取り戻せる |
 | [grimm-054](../fables/grimm/grimm-054-the-straw-the-coal-and-the-bean.md) | わらと炭とそら豆 | 他人の不幸を笑う者は、やがて自分も同じ災いに見舞われる |
 | [grimm-055](../fables/grimm/grimm-055-brother-and-sister.md) | 兄と妹 | 家族の絆と互いを守る愛があれば、どんな魔法や陰謀にも打ち勝てる |
+
+| [grimm-056](../fables/grimm/grimm-056-the-six-swans.md) | 六羽の白鳥 | 忍耐と自己犠牲の愛は、どんな強力な呪いも打ち破る力を持つ |
+| [grimm-057](../fables/grimm/grimm-057-the-spirit-in-the-bottle.md) | ガラス瓶の中の化け物 | 知恵と機転は力に勝り、教育への投資は必ず実を結ぶ |
+| [grimm-058](../fables/grimm/grimm-058-the-old-woman-in-the-wood.md) | 森のなかのばあさん | 信仰と素朴な善良さは、見えない導きに従う者を必ず救いへと導く |
+| [grimm-059](../fables/grimm/grimm-059-the-four-skillful-brothers.md) | 腕利き四人兄弟 | 個々の優れた技能も、互いに協力してこそ最大の力を発揮する |
+| [grimm-060](../fables/grimm/grimm-060-the-donkey.md) | ロバの王子 | 外見に惑わされず心の本質を見抜く愛だけが、真の姿を解き放つ |
 
 <!-- 寓話追加時にここへ行を追加 -->

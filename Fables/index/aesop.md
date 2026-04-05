@@ -1,4 +1,4 @@
-# イソップ寓話（50話）
+# イソップ寓話（55話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -60,5 +60,11 @@
 | [aesop-048](../fables/aesop/aesop-048-the-wild-boar-and-the-fox.md) | 猪とキツネ | 危機が迫ってからでは遅い。平時にこそ備えをしておくべきである |
 | [aesop-049](../fables/aesop/aesop-049-the-fox-and-the-leopard.md) | キツネとヒョウ | 外見の華やかさより内面の知恵のほうが真の価値がある |
 | [aesop-050](../fables/aesop/aesop-050-the-camel-and-jupiter.md) | ラクダとゼウス | すでに十分なものを持ちながらさらに求める者は、持っているものさえ失いかねない |
+
+| [aesop-051](../fables/aesop/aesop-051-the-fox-and-the-goat.md) | キツネとヤギ | 結果を考えずに行動すれば、他者の口車に乗せられて窮地に陥る |
+| [aesop-052](../fables/aesop/aesop-052-the-man-and-his-two-wives.md) | 二人の妻を持つ男 | 相反する要求をすべて受け入れようとすると、自分自身を失ってしまう |
+| [aesop-053](../fables/aesop/aesop-053-the-old-man-and-death.md) | 老人と死神 | どんなに辛い人生でも、いざ死を目の前にすれば生きていたいと願うものである |
+| [aesop-054](../fables/aesop/aesop-054-the-beaver.md) | ビーバーの自己犠牲 | 命を守るためには、価値あるものでも手放す決断が必要である |
+| [aesop-055](../fables/aesop/aesop-055-the-fox-and-the-sick-lion.md) | 病気のライオンとキツネ | 他者の経験から学び、危険の兆候を見逃さない者こそ賢者である |
 
 <!-- 寓話追加時にここへ行を追加 -->

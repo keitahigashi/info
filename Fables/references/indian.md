@@ -59,4 +59,16 @@
 | indian-048 | バラモンと泥棒と鬼 | talesofpanchatantra.com, stories.muthu.co | 2026-04-04 |
 | indian-049 | おせっかいな鳥と猿 | talesofpanchatantra.com, fablereads.com | 2026-04-04 |
 
+| indian-050 | 金を与える蛇 | culturalindia.net, パンチャタントラ第3巻 | 2026-04-04 |
+| indian-051 | 愚かな獅子と賢い兎 | culturalindia.net, talesofpanchatantra.com | 2026-04-04 |
+| indian-052 | 老商人と若妻と泥棒 | talesofpanchatantra.com, en.wikisource.org | 2026-04-04 |
+| indian-053 | カワウソとジャッカル | ジャータカ第400話, fablereads.com | 2026-04-04 |
+| indian-054 | 鹿とキツツキと亀 | ジャータカ第206話, thejatakatales.com | 2026-04-04 |
+
+| indian-055 | 獅子とラクダとジャッカルとカラス | talesofpanchatantra.com, パンチャタントラ第1巻 | 2026-04-05 |
+| indian-056 | 商人の栄枯盛衰 | tell-a-tale.com, パンチャタントラ第1巻 | 2026-04-05 |
+| indian-057 | 喧嘩山羊と欲張りジャッカル | talesofpanchatantra.com, パンチャタントラ第1巻 | 2026-04-05 |
+| indian-058 | ネズミの婿選び | talesofpanchatantra.com, パンチャタントラ第3巻 | 2026-04-05 |
+| indian-059 | 外国へ行った犬 | talesofpanchatantra.com, パンチャタントラ第4巻 | 2026-04-05 |
+
 <!-- 出典追加時にここへ行を追加 -->

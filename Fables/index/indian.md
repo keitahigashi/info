@@ -1,4 +1,4 @@
-# インド寓話（49話）
+# インド寓話（59話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -58,5 +58,17 @@
 | [indian-047](../fables/indian/indian-047-the-lioness-and-the-young-jackal.md) | 雌ライオンと子ジャッカル | 生まれ持った本性は変えられず、自分の本質を受け入れてふさわしい場所で生きることが大切である |
 | [indian-048](../fables/indian/indian-048-the-brahmin-the-thief-and-the-demon.md) | バラモンと泥棒と鬼 | 悪人同士が争えば善人が利益を得る。仲間割れは悪事を崩壊させる最大の原因である |
 | [indian-049](../fables/indian/indian-049-the-bird-and-the-monkey.md) | おせっかいな鳥と猿 | 聞く耳を持たない相手への忠告は無駄であり、おせっかいは時に身を滅ぼす |
+
+| [indian-050](../fables/indian/indian-050-the-gold-giving-serpent.md) | 金を与える蛇 | 与えられた恩恵に感謝せず貪欲に走れば、すべてを失う |
+| [indian-051](../fables/indian/indian-051-the-foolish-lion-and-the-clever-rabbit.md) | 愚かな獅子と賢い兎 | 知恵は腕力に勝る。小さく弱い者でも知恵を使えば強大な敵を打ち倒せる |
+| [indian-052](../fables/indian/indian-052-the-old-man-his-young-wife-and-the-thief.md) | 老商人と若妻と泥棒 | 敵からでも思わぬ恩恵を受けることがあり、災いが福に転じることもある |
+| [indian-053](../fables/indian/indian-053-the-otters-and-the-jackal.md) | カワウソとジャッカル | 仲間同士の争いは第三者を利するだけであり、協力して分かち合えば利益を失うことはない |
+| [indian-054](../fables/indian/indian-054-the-woodpecker-the-tortoise-and-the-deer.md) | 鹿とキツツキと亀 | 真の友情とは危機に際して互いに命を懸けて助け合うことである |
+
+| [indian-055](../fables/indian/indian-055-the-lion-the-camel-the-jackal-and-the-crow.md) | 獅子とラクダとジャッカルとカラス | 邪悪な者たちの甘い言葉に騙されてはならず、権力者の取り巻きには常に警戒せよ |
+| [indian-056](../fables/indian/indian-056-the-fall-and-rise-of-a-merchant.md) | 商人の栄枯盛衰 | 身分の低い者であっても侮ってはならず、権力に近い者は誰であれ影響力を持ちうる |
+| [indian-057](../fables/indian/indian-057-the-fighting-goats-and-the-jackal.md) | 喧嘩山羊と欲張りジャッカル | 欲に目がくらむと目前の危険が見えなくなり、自ら災いを招く |
+| [indian-058](../fables/indian/indian-058-the-wedding-of-the-mouse.md) | ネズミの婿選び | 生まれ持った本性はどんなに外見を変えても変わらない |
+| [indian-059](../fables/indian/indian-059-the-dog-who-went-abroad.md) | 外国へ行った犬 | 物質的な豊かさよりも故郷の平和と同胞のつながりの方が価値がある |
 
 <!-- 寓話追加時にここへ行を追加 -->

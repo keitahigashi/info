@@ -1,4 +1,4 @@
-# その他（50話）
+# その他（55話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -58,5 +58,11 @@
 | [other-048](../fables/other/other-048-anansi-and-the-pot-of-wisdom.md) | アナンシと知恵の瓢箪 | 知恵は一人で独占できるものではなく、分かち合ってこそ価値がある |
 | [other-049](../fables/other/other-049-the-tiger-and-the-frog.md) | 虎と蛙 | 身体の大きさや力だけが強さではなく、機転と知恵があれば弱者でも強者を出し抜ける |
 | [other-050](../fables/other/other-050-the-eloquent-peasant.md) | 雄弁な農夫 | 正義は社会的地位に関係なくすべての人に等しく与えられるべきであり、声を上げ続ける勇気が正義を勝ち取る |
+
+| [other-051](../fables/other/other-051-two-greedy-bear-cubs.md) | 二匹のよくばり子グマ | 欲張って譲り合えないと第三者に利用されてすべてを失う |
+| [other-052](../fables/other/other-052-the-battle-for-the-sampo.md) | サンポの争奪 | 繁栄を独占しようとする欲望は破滅を招き、真の豊かさは広く分かち合われるところに宿る |
+| [other-053](../fables/other/other-053-the-jade-hummingbird.md) | 翡翠のハチドリ | 小さなものにも大きな使命があり、自然の美しさは所有するものではなく敬い共存するものである |
+| [other-054](../fables/other/other-054-the-talking-fish.md) | おしゃべりな魚 | 親切は決して無駄にならず、たとえ水に投げ込んだ善行であっても必ず報われる |
+| [other-055](../fables/other/other-055-skeleton-woman.md) | 骨の女 | 真の愛や絆を築くには恐れを乗り越えて相手に向き合う勇気が必要である |
 
 <!-- 寓話追加時にここへ行を追加 -->

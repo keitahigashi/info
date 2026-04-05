@@ -1,4 +1,4 @@
-# アフリカ民話（50話）
+# アフリカ民話（55話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -61,5 +61,11 @@
 | [african-048](../fables/african/african-048-king-chameleon-and-the-animals.md) | カメレオン王と動物たち | 策略で地位を得ても周囲の信頼と支持がなければ意味がない |
 | [african-049](../fables/african/african-049-anansi-and-the-moss-covered-rock.md) | アナンシと苔むした岩 | 他者を騙す手段はいずれ自分自身に跳ね返り、ずる賢さで得た利益は長続きしない |
 | [african-050](../fables/african/african-050-the-monkey-and-the-hare.md) | サルとウサギの賭け | 虚栄心は不必要な争いを生み、自分の限界を素直に認めることは嘘で体面を保つより尊い |
+
+| [african-051](../fables/african/african-051-why-the-hyena-howls-at-night.md) | ハイエナが夜に吠える理由 | 貪欲は身を滅ぼし、分かち合いと節度を忘れれば孤独と苦しみが待っている |
+| [african-052](../fables/african/african-052-why-frog-and-snake-never-play-together.md) | カエルとヘビが一緒に遊ばない理由 | 偏見や先入観は純粋な友情をも壊してしまう |
+| [african-053](../fables/african/african-053-tortoise-and-the-baboon.md) | カメとヒヒの食事 | 人に意地悪をすれば同じやり方で仕返しされる |
+| [african-054](../fables/african/african-054-the-lion-the-hare-and-the-hyena.md) | ライオンとウサギとハイエナ | 知恵と誠実さは嘘と陰謀に勝り、嫉妬から他者を陥れる者は自ら墓穴を掘る |
+| [african-055](../fables/african/african-055-sungura-and-leopard.md) | ウサギとヒョウの家 | 体の大きさや力だけが強さではなく、知恵と機転があれば弱い者でも強い者から身を守れる |
 
 <!-- 寓話追加時にここへ行を追加 -->
