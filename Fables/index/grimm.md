@@ -69,7 +69,6 @@
 | [grimm-063](../fables/grimm/grimm-063-thumbling.md) | おやゆびこぞう | 体の大きさではなく知恵と機転こそが困難を乗り越える最大の武器 |
 | [grimm-064](../fables/grimm/grimm-064-the-golden-bird.md) | 黄金の鳥 | 忠実な助言者の言葉に従う謙虚さが幸運を呼ぶ |
 | [grimm-065](../fables/grimm/grimm-065-the-peasants-wise-daughter.md) | 賢い百姓娘 | 知恵と機転はどんな身分の差も超える力を持つ |
-
 | [grimm-066](../fables/grimm/grimm-066-snow-white-and-rose-red.md) | 白雪姫と紅バラ | 見知らぬ者にも親切に接すれば、思いがけない形で報われる |
 | [grimm-067](../fables/grimm/grimm-067-one-eye-two-eyes-three-eyes.md) | 一つ目、二つ目、三つ目 | 普通であることを理由に虐げられても、誠実さと善行はやがて報われる |
 | [grimm-068](../fables/grimm/grimm-068-the-wishing-table.md) | テーブルよ食事の支度をしろ | 盗まれたものは正当な手段で取り返すことができ、悪は必ず裁かれる |

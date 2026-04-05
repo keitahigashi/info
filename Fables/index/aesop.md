@@ -94,8 +94,6 @@
 | [aesop-088](../fables/aesop/aesop-088-the-dancing-monkeys.md) | 踊るサル | どれほど取り繕っても本性は隠せない |
 | [aesop-089](../fables/aesop/aesop-089-the-drowning-boy.md) | 水浴びをする少年 | 助けの伴わない忠告は役に立たない |
 | [aesop-090](../fables/aesop/aesop-090-the-rich-man-and-the-tanner.md) | 金持ちと皮なめし屋 | どんな不快なことも慣れれば気にならなくなる |
-
-
 | [aesop-091](../fables/aesop/aesop-091-the-wolf-and-the-lamb.md) | オオカミと仔ヒツジ | 暴君は、いかなる時にも、自分に都合のよい理由を見つけるものである。 |
 | [aesop-092](../fables/aesop/aesop-092-the-bat-and-the-two-weasels.md) | コウモリと二匹のイタチ | 賢い人は、その場その場でうまく立ち回る。 |
 | [aesop-093](../fables/aesop/aesop-093-the-charcoal-burner-and-the-fuller.md) | 炭屋と洗濯屋 | 水と油は混ざらない。 |
