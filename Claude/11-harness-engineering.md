@@ -480,4 +480,10 @@ SWE-benchではほぼ同等だが、Terminal-BenchではClaude Code優位（59.3
 4ステップ導入: 現状分析→設計方針→実装テスト→運用改善。
 > 詳細: references/reference_harness_design_claude_vs_codex.md を参照
 
+### 5社のハーネスエンジニアリング解釈比較（自動収集 2026-04-05）
+OpenAI（ステアリング/宣言的制約）・Anthropic（馬具/Context anxiety）・LangChain（車体/Agent=M+H）・Martin Fowler（型システム/暗黙の制約）・arXiv（仕様書/委任境界の形式化）の5者を横断比較。
+全員が「ハーネス⊇コンテキスト⊇プロンプト」「制約はお願いでなく強制」で合意する一方、マルチvsシングルエージェント・粒度・パラダイム論で分岐。
+実務者向け3ステップ: CLAUDE.md初期化→品質ゲート自動化→フィードバックループ運用。
+> 詳細: references/reference_harness_interpretations_5_orgs.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
