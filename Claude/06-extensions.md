@@ -258,4 +258,8 @@ Skills/Agents/Hooks/MCPをパッケージ化しGitHubリポジトリで配布。
 3種Hookタイプ: Shell(ローカルコマンド)・HTTP(外部API)・Prompt-based(Claude自身が判断)。主要イベント: SessionStart/End、PreToolUse/PostToolUse、PreCommit/PostCommit、StopHook、SubAgentStart/End等。多層防御設計: PreToolUse(実行前ブロック)→PostToolUse(ファイル検査)→PreCommit(最終チェック)→StopHook(レビュー)。ホワイトリスト方式推奨。
 > 詳細: メモリ内 `reference_claude_code_hooks_23_events_guide.md` を参照
 
+### Claude DesktopリモートMCPサーバー接続（自動収集 2026-04-04）
+ローカルMCP（claude_desktop_config.json）に加えリモートMCPサーバーにカスタムコネクタで接続可能。Pro/Maxは`claude.ai/customize/connectors`から追加、Team/Enterpriseはオーナー承認必要。Anthropicクラウド経由でパブリックインターネット上のMCPサーバーに接続。OpenAI Docs MCP等で動作実証済み。
+> 詳細: references/reference_claude_desktop_remote_mcp.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
