@@ -1,4 +1,4 @@
-# その他（55話）
+# その他（65話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -64,5 +64,17 @@
 | [other-053](../fables/other/other-053-the-jade-hummingbird.md) | 翡翠のハチドリ | 小さなものにも大きな使命があり、自然の美しさは所有するものではなく敬い共存するものである |
 | [other-054](../fables/other/other-054-the-talking-fish.md) | おしゃべりな魚 | 親切は決して無駄にならず、たとえ水に投げ込んだ善行であっても必ず報われる |
 | [other-055](../fables/other/other-055-skeleton-woman.md) | 骨の女 | 真の愛や絆を築くには恐れを乗り越えて相手に向き合う勇気が必要である |
+
+| [other-056](../fables/other/other-056-phikul-thong-the-girl-of-golden-flowers.md) | ピクントーン ── 金の花の娘 | 思いやりと誠実さは必ず報われ、強欲と傲慢は身を滅ぼす |
+| [other-057](../fables/other/other-057-tiddalick-the-flood-maker.md) | ティダリックと大洪水 | 資源を独り占めにすれば共同体全体が苦しみ、協力と創意工夫で立ち向かうべきである |
+| [other-058](../fables/other/other-058-paikea-the-whale-rider.md) | パイケア ── 鯨に乗った英雄 | 嫉妬と恨みは破滅をもたらすが、勇気と信仰は自然の力をも味方につける |
+| [other-059](../fables/other/other-059-the-three-pieces-of-advice.md) | 三つの忠告 | 目先の利益よりも知恵を選ぶ者が最後に勝つ |
+| [other-060](../fables/other/other-060-the-cattle-egret-and-the-frog.md) | サギの先生とカエル | 嘘や偽りの告発は無実の人の人生を破壊する |
+
+| [other-061](../fables/other/other-061-nasreddin-and-the-pot-that-died.md) | ナスレッディンと死んだ鍋 | 都合の良い不合理を受け入れる者は、同じ論理で裏切られる |
+| [other-062](../fables/other/other-062-bawang-merah-bawang-putih.md) | バワン・メラとバワン・プティ | 親切と謙虚さは祝福をもたらし、貪欲と傲慢さは破滅を招く |
+| [other-063](../fables/other/other-063-the-wawel-dragon.md) | クラクフの龍 | 力ずくより知恵と工夫で困難を克服する者こそ真の英雄である |
+| [other-064](../fables/other/other-064-the-selfish-giant.md) | わがままな巨人 | 自分だけのものにしようとすれば喜びは消え、分かち合えば豊かさが戻る |
+| [other-065](../fables/other/other-065-amirani-the-chained-hero.md) | アミラニ —— 鎖に繋がれた英雄 | 人類のために戦う者は代償を払うが、その精神は決して屈しない |
 
 <!-- 寓話追加時にここへ行を追加 -->

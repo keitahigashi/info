@@ -72,4 +72,10 @@
 | chinese-060 | 断腸 | 『世説新語』黜免篇, kanbun.info | 2026-04-05 |
 | chinese-061 | 髀肉の嘆 | 『三国志』蜀書・先主伝注, kanbun.info | 2026-04-05 |
 
+| chinese-062 | 月下老人 | 唐・李復言『続玄怪録』定婚店, ja.wikipedia.org | 2026-04-05 |
+| chinese-063 | 馬革裹屍 | 『後漢書』馬援伝, kotobank.jp | 2026-04-05 |
+| chinese-064 | 大同小異 | 『荘子』天下篇, ja.wiktionary.org | 2026-04-05 |
+| chinese-065 | 渇しても盗泉の水を飲まず | 晋・陸機『猛虎行』, imidas.jp | 2026-04-05 |
+| chinese-066 | 羊質虎皮 | 揚雄『法言』吾子篇, kotobank.jp | 2026-04-05 |
+
 <!-- 出典追加時にここへ行を追加 -->

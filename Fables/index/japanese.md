@@ -1,4 +1,4 @@
-# 日本昔話（55話）
+# 日本昔話（60話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -67,5 +67,11 @@
 | [japanese-053](../fables/japanese/japanese-053-the-portrait-wife.md) | 絵姿女房 | 権力は人の体を奪えても心までは奪えず、真の愛と知恵は権力にも勝る |
 | [japanese-054](../fables/japanese/japanese-054-why-the-jellyfish-has-no-bones.md) | クラゲの骨なし | 欲に目がくらんで友を裏切れば必ず報いを受け、危機にあっても機転が活路を開く |
 | [japanese-055](../fables/japanese/japanese-055-the-golden-chain-from-heaven.md) | 天道さんの金の鎖 | 善良な者は天の助けを得られるが、悪しき者には報いがある |
+
+| [japanese-056](../fables/japanese/japanese-056-the-wooden-buddhas-fortune.md) | 木仏長者 | 物の価値は外見の豪華さではなく心からの誠実さにある |
+| [japanese-057](../fables/japanese/japanese-057-the-potted-trees.md) | 鉢の木 | 貧しくとも誠実にもてなす心と忠義は必ず報われる |
+| [japanese-058](../fables/japanese/japanese-058-the-rice-planting-jizo.md) | 田植地蔵 | 日々の感謝と信仰の心を忘れなければ困った時に助けが得られる |
+| [japanese-059](../fables/japanese/japanese-059-the-mountain-witch-of-chofuku.md) | ちょうふく山の山んば | 偏見を捨て勇気を持って接すれば思いがけない恵みが得られる |
+| [japanese-060](../fables/japanese/japanese-060-the-nonsense-sutra.md) | おんちょろちょろ | 信じる心には不思議な力がある |
 
 <!-- 寓話追加時にここへ行を追加 -->

@@ -1,4 +1,4 @@
-# グリム童話（60話）
+# グリム童話（65話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -69,5 +69,11 @@
 | [grimm-058](../fables/grimm/grimm-058-the-old-woman-in-the-wood.md) | 森のなかのばあさん | 信仰と素朴な善良さは、見えない導きに従う者を必ず救いへと導く |
 | [grimm-059](../fables/grimm/grimm-059-the-four-skillful-brothers.md) | 腕利き四人兄弟 | 個々の優れた技能も、互いに協力してこそ最大の力を発揮する |
 | [grimm-060](../fables/grimm/grimm-060-the-donkey.md) | ロバの王子 | 外見に惑わされず心の本質を見抜く愛だけが、真の姿を解き放つ |
+
+| [grimm-061](../fables/grimm/grimm-061-the-youth-who-learned-what-fear-was.md) | こわがることをおぼえるために旅にでかけた男 | 恐怖を知らないことと真の勇気は別物である |
+| [grimm-062](../fables/grimm/grimm-062-the-three-languages.md) | 三つの言葉 | 一見無駄に見える学びが思いがけず大きな実を結ぶ |
+| [grimm-063](../fables/grimm/grimm-063-thumbling.md) | おやゆびこぞう | 体の大きさではなく知恵と機転こそが困難を乗り越える最大の武器 |
+| [grimm-064](../fables/grimm/grimm-064-the-golden-bird.md) | 黄金の鳥 | 忠実な助言者の言葉に従う謙虚さが幸運を呼ぶ |
+| [grimm-065](../fables/grimm/grimm-065-the-peasants-wise-daughter.md) | 賢い百姓娘 | 知恵と機転はどんな身分の差も超える力を持つ |
 
 <!-- 寓話追加時にここへ行を追加 -->

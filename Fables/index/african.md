@@ -1,4 +1,4 @@
-# アフリカ民話（55話）
+# アフリカ民話（65話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -67,5 +67,17 @@
 | [african-053](../fables/african/african-053-tortoise-and-the-baboon.md) | カメとヒヒの食事 | 人に意地悪をすれば同じやり方で仕返しされる |
 | [african-054](../fables/african/african-054-the-lion-the-hare-and-the-hyena.md) | ライオンとウサギとハイエナ | 知恵と誠実さは嘘と陰謀に勝り、嫉妬から他者を陥れる者は自ら墓穴を掘る |
 | [african-055](../fables/african/african-055-sungura-and-leopard.md) | ウサギとヒョウの家 | 体の大きさや力だけが強さではなく、知恵と機転があれば弱い者でも強い者から身を守れる |
+
+| [african-056](../fables/african/african-056-the-heart-of-a-monkey.md) | サルの心臓 | 危機に際して冷静さと機転を保つことが命を救い、友の信頼を裏切れば永遠にそれを失う |
+| [african-057](../fables/african/african-057-marwe-in-the-underworld.md) | 冥界のマルウェ | 勤勉さと誠実さは必ず報われ、人を外見で判断せず内面の本質を見極めることが大切である |
+| [african-058](../fables/african/african-058-the-one-handed-girl.md) | 片手の少女 | 物質的な富より精神的な祝福の方が真の幸福をもたらす |
+| [african-059](../fables/african/african-059-anansi-and-the-chameleon.md) | アナンシとカメレオン | 傲慢と不正で得た利益は長続きせず、謙虚さと知恵が最後に勝つ |
+| [african-060](../fables/african/african-060-samba-the-coward.md) | 臆病者サンバ | 恐怖に立ち向かった時にこそ真の勇気が生まれる |
+
+| [african-061](../fables/african/african-061-jabu-and-the-lion.md) | ジャブとライオン | 約束を破る者には知恵で対処せよ |
+| [african-062](../fables/african/african-062-why-the-cheetahs-cheeks-are-stained.md) | チーターの頬が汚れている理由 | 他者の努力の成果を盗んで楽をしようとする者は必ず報いを受ける |
+| [african-063](../fables/african/african-063-the-rabbit-and-the-tar-baby.md) | ウサギとタール人形 | 怒りに任せて行動すれば自ら罠にはまる |
+| [african-064](../fables/african/african-064-why-hyena-eats-carrion.md) | なぜハイエナは汚いものを食べるのか | 欲張って二つのものを同時に得ようとすれば両方とも失う |
+| [african-065](../fables/african/african-065-the-tortoise-and-the-kings-daughter.md) | カメと王の娘 | 知恵と忍耐があれば見かけの弱さを補って大きな成果を得られる |
 
 <!-- 寓話追加時にここへ行を追加 -->

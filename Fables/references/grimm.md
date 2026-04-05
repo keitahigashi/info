@@ -70,4 +70,10 @@
 | grimm-059 | 腕利き四人兄弟 | en.wikipedia.org, childstories.org | 2026-04-05 |
 | grimm-060 | ロバの王子 | sites.pitt.edu, greenelement.xsrv.jp | 2026-04-05 |
 
+| grimm-061 | こわがることをおぼえるために旅にでかけた男 | grimmstories.com, grimmdowaclub.net, KHM4 | 2026-04-05 |
+| grimm-062 | 三つの言葉 | grimmstories.com, childstories.org, KHM33 | 2026-04-05 |
+| grimm-063 | おやゆびこぞう | grimmstories.com, grimmdowaclub.net, KHM37 | 2026-04-05 |
+| grimm-064 | 黄金の鳥 | grimmstories.com, grimmdowaclub.net, KHM57 | 2026-04-05 |
+| grimm-065 | 賢い百姓娘 | grimmstories.com, nanatoshi.com, KHM94 | 2026-04-05 |
+
 <!-- 出典追加時にここへ行を追加 -->

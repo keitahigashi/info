@@ -4,12 +4,12 @@
 
 | 出典体系 | 件数 | 一覧 |
 |---------|------|------|
-| イソップ寓話 | 55 | [一覧を見る](index/aesop.md) |
-| 日本昔話 | 55 | [一覧を見る](index/japanese.md) |
-| 中国故事 | 61 | [一覧を見る](index/chinese.md) |
-| グリム童話 | 60 | [一覧を見る](index/grimm.md) |
-| アンデルセン童話 | 55 | [一覧を見る](index/andersen.md) |
-| インド寓話 | 59 | [一覧を見る](index/indian.md) |
-| アフリカ民話 | 55 | [一覧を見る](index/african.md) |
-| その他 | 55 | [一覧を見る](index/other.md) |
-| **合計** | **455** | |
+| イソップ寓話 | 318 | [一覧を見る](index/aesop.md) |
+| 日本昔話 | 60 | [一覧を見る](index/japanese.md) |
+| 中国故事 | 66 | [一覧を見る](index/chinese.md) |
+| グリム童話 | 65 | [一覧を見る](index/grimm.md) |
+| アンデルセン童話 | 65 | [一覧を見る](index/andersen.md) |
+| インド寓話 | 64 | [一覧を見る](index/indian.md) |
+| アフリカ民話 | 65 | [一覧を見る](index/african.md) |
+| その他 | 65 | [一覧を見る](index/other.md) |
+| **合計** | **768** | |

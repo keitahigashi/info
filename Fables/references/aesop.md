@@ -67,4 +67,52 @@
 | aesop-054 | ビーバーの自己犠牲 | Perry Index #118, en.wikipedia.org, fablesofaesop.com | 2026-04-05 |
 | aesop-055 | 病気のライオンとキツネ | Perry Index #142, en.wikipedia.org, fablesofaesop.com | 2026-04-05 |
 
+| aesop-056 | イタチとアフロディーテ | Perry Index #050, en.wikipedia.org, fablesofaesop.com | 2026-04-05 |
+| aesop-057 | 子ヤギと笛吹きのオオカミ | Perry Index #097, en.wikipedia.org, fablesofaesop.com | 2026-04-05 |
+| aesop-058 | 放蕩息子とツバメ | Perry Index #169, en.wikipedia.org, fablesofaesop.com | 2026-04-05 |
+| aesop-059 | 初めて見たラクダ | Perry Index #195, en.wikipedia.org, fablesofaesop.com | 2026-04-05 |
+| aesop-060 | 白鳥とその飼い主 | Perry Index #233, en.wikipedia.org, fablesofaesop.com | 2026-04-05 |
+
+| aesop-061 | 笛を吹く漁師 | Perry Index #011, タウンゼント版No.11, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-062 | 少年とハシバミの実 | Charles版#92, タウンゼント版No.46, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-063 | 塩商人とロバ | Perry Index #180, タウンゼント版No.54, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-064 | 神像を運ぶロバ | Perry Index #182, タウンゼント版No.117, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-065 | 蚊と牡ウシ | Perry Index #137, タウンゼント版No.260, references/dl/Aesop1.txt | 2026-04-05 |
+
+| aesop-066 | ロバとキリギリス | Perry Index #184, タウンゼント版No.3, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-067 | 尻尾をなくしたキツネ | Perry Index #017, タウンゼント版No.60, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-068 | 後家と小間使い | Perry Index #055, タウンゼント版No.73, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-069 | かいば桶の中のイヌ | Perry Index #702, タウンゼント版No.31, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-070 | バラとアマランス | Perry Index #369, タウンゼント版No.311, references/dl/Aesop1.txt | 2026-04-05 |
+
+| aesop-071 | オンドリと宝石 | Perry Index #503, タウンゼント版No.8, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-072 | モグラと彼の母親 | Perry Index #214, タウンゼント版No.16, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-073 | 山のお産 | Perry Index #520, タウンゼント版No.25, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-074 | 盗人と彼の母親 | Perry Index #200, タウンゼント版No.84, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-075 | 虚飾で彩られたカラス | Perry Index #101, タウンゼント版No.57, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-076 | ネコとオンドリ | Perry Index #016, タウンゼント版No.44, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-077 | 牡ウシたちと肉屋 | Perry Index #290, タウンゼント版No.55, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-078 | カシの木と樵 | Perry Index #303, タウンゼント版No.162, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-079 | ヒバリとその雛 | Perry Index #325, タウンゼント版No.202, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-080 | 盗賊とオンドリ | Perry Index #122, タウンゼント版No.291, references/dl/Aesop1.txt | 2026-04-05 |
+
+| aesop-081 | 農夫とコウノトリ | Perry Index #194, タウンゼント版No.20, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-082 | 牡ウシと車軸 | Perry Index #045, タウンゼント版No.34, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-083 | 少年たちとカエルたち | Charles版#42, タウンゼント版No.52, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-084 | 少年とイラクサ | Charles版#84, タウンゼント版No.61, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-085 | モミの木とイバラ | Perry Index #304, タウンゼント版No.86, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-086 | 二人の旅人と斧 | Perry Index #067, タウンゼント版No.118, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-087 | 腹の膨れたキツネ | Perry Index #024, タウンゼント版No.134, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-088 | 踊るサル | Perry Index #463, タウンゼント版No.151, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-089 | 水浴びをする少年 | Perry Index #211, タウンゼント版No.205, references/dl/Aesop1.txt | 2026-04-05 |
+| aesop-090 | 金持ちと皮なめし屋 | Perry Index #204, タウンゼント版No.297, references/dl/Aesop1.txt | 2026-04-05 |
+
+| aesop-091〜313 | （Aesop1.txt一括追加 223話） | タウンゼント版イソップ寓話集（hanama訳）, references/dl/Aesop1.txt | 2026-04-05 |
+
+| aesop-314 | 猫に鈴をつける | Perry Index #613, ラ・フォンテーヌ『寓話』II-2 | 2026-04-05 |
+| aesop-315 | ロバを連れた親子 | Perry Index #721, ラ・フォンテーヌ『寓話』III-1 | 2026-04-05 |
+| aesop-316 | ゼウスとカメ | Perry Index #106, バブリウス『寓話集』 | 2026-04-05 |
+| aesop-317 | プロメテウスと人間の創造 | Perry Index #240, バブリウス『寓話集』 | 2026-04-05 |
+| aesop-318 | 農夫と息子たちの宝 | Perry Index #42, ラ・フォンテーヌ『寓話』V-9 | 2026-04-05 |
+
 <!-- 出典追加時にここへ行を追加 -->

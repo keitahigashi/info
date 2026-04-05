@@ -1,4 +1,4 @@
-# 中国故事（61話）
+# 中国故事（66話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -71,5 +71,11 @@
 | [chinese-059](../fables/chinese/chinese-059-tyranny-is-fiercer-than-a-tiger.md) | 苛政は虎よりも猛し | 人民を苦しめる過酷な政治は猛獣の害よりもなお恐ろしい |
 | [chinese-060](../fables/chinese/chinese-060-heart-rending-grief.md) | 断腸 | 親子の情愛は命がけのものであり、他者の悲しみに無頓着であってはならない |
 | [chinese-061](../fables/chinese/chinese-061-lamenting-the-flesh-on-ones-thighs.md) | 髀肉の嘆 | いたずらに時を過ごし志を果たせないまま老いることほど悔しいことはない |
+
+| [chinese-062](../fables/chinese/chinese-062-the-old-man-under-the-moon.md) | 月下老人 | 人の縁は目に見えない運命の糸で結ばれている |
+| [chinese-063](../fables/chinese/chinese-063-wrapped-in-horsehide.md) | 馬革裹屍 | 大義のために命を惜しまぬ覚悟こそ真の勇気である |
+| [chinese-064](../fables/chinese/chinese-064-great-similarity-small-differences.md) | 大同小異 | 物事の本質を見極めれば細部の違いに惑わされない |
+| [chinese-065](../fables/chinese/chinese-065-the-thiefs-spring.md) | 渇しても盗泉の水を飲まず | いかなる苦境にあっても不義に手を染めてはならない |
+| [chinese-066](../fables/chinese/chinese-066-sheep-in-tigers-skin.md) | 羊質虎皮 | 外見をいくら飾っても本質が伴わなければ化けの皮は剥がれる |
 
 <!-- 寓話追加時にここへ行を追加 -->

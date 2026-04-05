@@ -66,4 +66,16 @@
 | andersen-054 | ソーセージの串からできたスープ | andersen.sdu.dk, アンデルセン(1858) | 2026-04-05 |
 | andersen-055 | ふんころがし | andersen.sdu.dk, gutenberg.ca, アンデルセン(1861) | 2026-04-05 |
 
+| andersen-056 | ひきがえる | andersen.sdu.dk, アンデルセン(1866) | 2026-04-05 |
+| andersen-057 | びんの首 | andersen.sdu.dk, fairytalez.com, アンデルセン(1857) | 2026-04-05 |
+| andersen-058 | あの女はろくでなし | andersen.sdu.dk, andersenstories.com, アンデルセン(1852) | 2026-04-05 |
+| andersen-059 | 足の不自由な子 | andersen.sdu.dk, andersenstories.com, アンデルセン(1872) | 2026-04-05 |
+| andersen-060 | 庭師と領主一家 | andersen.sdu.dk, andersenstories.com, アンデルセン(1872) | 2026-04-05 |
+
+| andersen-061 | スノードロップ | andersen.sdu.dk, アンデルセン(1863) | 2026-04-05 |
+| andersen-062 | 千年後 | andersen.sdu.dk, アンデルセン(1853) | 2026-04-05 |
+| andersen-063 | 銀の貨幣 | andersen.sdu.dk, アンデルセン(1862) | 2026-04-05 |
+| andersen-064 | 絵のない絵本 | andersen.sdu.dk, アンデルセン(1840) | 2026-04-05 |
+| andersen-065 | 氷姫 | andersen.sdu.dk, アンデルセン(1861) | 2026-04-05 |
+
 <!-- 出典追加時にここへ行を追加 -->

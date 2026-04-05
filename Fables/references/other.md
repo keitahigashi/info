@@ -65,4 +65,16 @@
 | other-054 | おしゃべりな魚 | アルメニア民話 | worldstoriesbank.org, トゥマニヤン再話(1908) | 2026-04-05 |
 | other-055 | 骨の女 | イヌイット神話 | canadiancor.com, エステス『Women Who Run With the Wolves』(1992) | 2026-04-05 |
 
+| other-056 | ピクントーン ── 金の花の娘 | タイ民話 | mythologystories.wordpress.com, studocu.com | 2026-04-05 |
+| other-057 | ティダリックと大洪水 | アボリジニ（ドリームタイム） | en.wikipedia.org, dreamtime.net.au | 2026-04-05 |
+| other-058 | パイケア ── 鯨に乗った英雄 | マオリ伝説 | en.wikipedia.org, teara.govt.nz | 2026-04-05 |
+| other-059 | 三つの忠告 | スペイン民話 | spanishfluke-blog.tumblr.com, espanolentrinidad.wordpress.com | 2026-04-05 |
+| other-060 | サギの先生とカエル | マダガスカル民話 | madagascar.co.uk, travelinspires.org | 2026-04-05 |
+
+| other-061 | ナスレッディンと死んだ鍋 | トルコ寓話 | sites.pitt.edu, ATU分類1592B型 | 2026-04-05 |
+| other-062 | バワン・メラとバワン・プティ | インドネシア民話 | en.wikipedia.org, indonesianfolklore.blogspot.com | 2026-04-05 |
+| other-063 | クラクフの龍 | ポーランド民話 | en.wikipedia.org, fabulahub.com | 2026-04-05 |
+| other-064 | わがままな巨人 | オスカー・ワイルド | ja.wikipedia.org, ワイルド『幸福の王子とその他の物語』(1888) | 2026-04-05 |
+| other-065 | アミラニ —— 鎖に繋がれた英雄 | ジョージア神話 | shystoryteller.com, georgianencyclopedia.ge | 2026-04-05 |
+
 <!-- 出典追加時にここへ行を追加 -->

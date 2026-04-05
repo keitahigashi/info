@@ -1,4 +1,4 @@
-# インド寓話（59話）
+# インド寓話（64話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -70,5 +70,11 @@
 | [indian-057](../fables/indian/indian-057-the-fighting-goats-and-the-jackal.md) | 喧嘩山羊と欲張りジャッカル | 欲に目がくらむと目前の危険が見えなくなり、自ら災いを招く |
 | [indian-058](../fables/indian/indian-058-the-wedding-of-the-mouse.md) | ネズミの婿選び | 生まれ持った本性はどんなに外見を変えても変わらない |
 | [indian-059](../fables/indian/indian-059-the-dog-who-went-abroad.md) | 外国へ行った犬 | 物質的な豊かさよりも故郷の平和と同胞のつながりの方が価値がある |
+
+| [indian-060](../fables/indian/indian-060-the-blind-men-and-the-elephant.md) | 盲人と象 | 部分だけを見て全体を知った気になってはならない |
+| [indian-061](../fables/indian/indian-061-the-tiger-the-brahmin-and-the-jackal.md) | 虎とバラモンとジャッカル | 知恵は力よりも強く、善意につけ込む者には機転で対抗せよ |
+| [indian-062](../fables/indian/indian-062-the-monkey-and-the-bell.md) | 猿と鈴 | 未知のものへの恐怖は知恵と冷静な観察で克服できる |
+| [indian-063](../fables/indian/indian-063-the-head-and-tail-of-the-snake.md) | 蛇の頭と尻尾 | 能力のない者がリーダーになれば全員が滅びる |
+| [indian-064](../fables/indian/indian-064-the-two-parrots.md) | 二羽のオウム | 人の性格は生まれより育つ環境によって決まる |
 
 <!-- 寓話追加時にここへ行を追加 -->

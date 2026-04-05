@@ -1,4 +1,4 @@
-# アンデルセン童話（55話）
+# アンデルセン童話（65話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -65,5 +65,17 @@
 | [andersen-053](../fables/andersen/andersen-053-the-jumpers.md) | 跳びはね連中 | 能力を誇示するよりも目的を正しく理解し最も効果的な方法で成果を出す者が勝つ |
 | [andersen-054](../fables/andersen/andersen-054-soup-from-a-sausage-peg.md) | ソーセージの串からできたスープ | 壮大な知識や冒険より実用的で素朴な知恵のほうが問題を解決することがある |
 | [andersen-055](../fables/andersen/andersen-055-the-dung-beetle.md) | ふんころがし | 身の程知らずの虚栄心は滑稽であり、真の幸福は自分の役割を正しく理解し受け入れることから生まれる |
+
+| [andersen-056](../fables/andersen/andersen-056-the-toad.md) | ひきがえる | 真の宝は外見や物質にあるのではなく、より高みを目指し続ける精神的な志の中にある |
+| [andersen-057](../fables/andersen/andersen-057-the-bottle-neck.md) | びんの首 | 人生には本人が気づかない隠された繋がりと意味があり、壊れた後にも果たすべき役割がある |
+| [andersen-058](../fables/andersen/andersen-058-she-was-good-for-nothing.md) | あの女はろくでなし | 他者の苦境を表面だけで裁いてはならない |
+| [andersen-059](../fables/andersen/andersen-059-the-cripple.md) | 足の不自由な子 | 読書と知識は心を豊かにし、困難を乗り越える力を与える |
+| [andersen-060](../fables/andersen/andersen-060-the-gardener-and-the-noble-family.md) | 庭師と領主一家 | 誠実に仕事を続ける者の価値はいつか必ず明らかになる |
+
+| [andersen-061](../fables/andersen/andersen-061-the-snowdrop.md) | スノードロップ | 厳しい環境の中でも希望を持ち続ける者にこそ春は訪れる |
+| [andersen-062](../fables/andersen/andersen-062-in-a-thousand-years.md) | 千年後 | いかに偉大な文明も時の前には塵に帰す |
+| [andersen-063](../fables/andersen/andersen-063-the-silver-shilling.md) | 銀の貨幣 | 他者に偽物と決めつけられても自分の価値を見失ってはならない |
+| [andersen-064](../fables/andersen/andersen-064-picture-book-without-pictures.md) | 絵のない絵本 | 注意深く世界を見つめればどんな場面にも物語と教訓が隠されている |
+| [andersen-065](../fables/andersen/andersen-065-the-ice-maiden.md) | 氷姫 | 人間の幸福は自然の圧倒的な力の前ではいつも脆い |
 
 <!-- 寓話追加時にここへ行を追加 -->

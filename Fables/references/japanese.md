@@ -68,4 +68,10 @@
 | japanese-054 | クラゲの骨なし | 『今昔物語集』巻五, yomukiku-mukashi.com | 2026-04-05 |
 | japanese-055 | 天道さんの金の鎖 | minwanoheya.jp, katarinomori13.com | 2026-04-05 |
 
+| japanese-056 | 木仏長者 | folktalesjpn.com, minwanoheya.jp | 2026-04-05 |
+| japanese-057 | 鉢の木 | ja.wikipedia.org, the-noh.com | 2026-04-05 |
+| japanese-058 | 田植地蔵 | folktalesjpn.com, hukumusume.com | 2026-04-05 |
+| japanese-059 | ちょうふく山の山んば | folktalesjpn.com, minwanoheya.jp | 2026-04-05 |
+| japanese-060 | おんちょろちょろ | pictbook.info, 福音館書店(2016) | 2026-04-05 |
+
 <!-- 出典追加時にここへ行を追加 -->

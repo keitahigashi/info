@@ -68,4 +68,16 @@
 | african-054 | ライオンとウサギとハイエナ | Mandela編『Favorite African Folktales』(2002), carolsnotebook.com | 2026-04-04 |
 | african-055 | ウサギとヒョウの家 | Knutson『Sungura and Leopard』(1993), readingrockets.org | 2026-04-04 |
 
+| african-056 | サルの心臓 | Steere『Swahili Tales』(1870), Lang『Lilac Fairy Book』(1910) | 2026-04-05 |
+| african-057 | 冥界のマルウェ | gateway-africa.com, バントゥー系口承 | 2026-04-05 |
+| african-058 | 片手の少女 | Steere『Swahili Tales』(1870), Lang『Violet Fairy Book』(1901) | 2026-04-05 |
+| african-059 | アナンシとカメレオン | gateway-africa.com, anansestory.africa | 2026-04-05 |
+| african-060 | 臆病者サンバ | Lang『The Crimson Fairy Book』(1903), fairytalez.com | 2026-04-05 |
+
+| african-061 | ジャブとライオン | ズールー族口承, canteach.ca | 2026-04-05 |
+| african-062 | チーターの頬が汚れている理由 | ズールー族口承, canteach.ca | 2026-04-05 |
+| african-063 | ウサギとタール人形 | 西アフリカ口承, ATU175型 | 2026-04-05 |
+| african-064 | なぜハイエナは汚いものを食べるのか | 東アフリカ口承 | 2026-04-05 |
+| african-065 | カメと王の娘 | ヨルバ族口承, Dayrell (1910) | 2026-04-05 |
+
 <!-- 出典追加時にここへ行を追加 -->
