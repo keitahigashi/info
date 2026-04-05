@@ -71,4 +71,10 @@
 | [chinese-065](../fables/chinese/chinese-065-the-thiefs-spring.md) | 渇しても盗泉の水を飲まず | いかなる苦境にあっても不義に手を染めてはならない |
 | [chinese-066](../fables/chinese/chinese-066-sheep-in-tigers-skin.md) | 羊質虎皮 | 外見をいくら飾っても本質が伴わなければ化けの皮は剥がれる |
 
+| [chinese-067](../fables/chinese/chinese-067-blue-surpasses-indigo.md) | 青は藍より出でて藍より青し | 継続的な学びと修養により、弟子は師を超えることができる |
+| [chinese-068](../fables/chinese/chinese-068-great-talents-mature-late.md) | 大器晩成 | 真に大きな才能は完成までに長い時間を要し、早急な評価は誤りを招く |
+| [chinese-069](../fables/chinese/chinese-069-three-visits-to-the-thatched-cottage.md) | 三顧の礼 | 優れた人材を得るには、地位ある者が謙虚に誠意を尽くさなければならない |
+| [chinese-070](../fables/chinese/chinese-070-seamless-heavenly-garment.md) | 天衣無縫 | 真に優れたものは技巧の痕跡を感じさせず、自然でありながら完璧である |
+| [chinese-071](../fables/chinese/chinese-071-fellowship-of-water-and-fish.md) | 水魚の交わり | 互いに欠くべからざるパートナーの存在こそが、大事を成す基盤である |
+
 <!-- 寓話追加時にここへ行を追加 -->

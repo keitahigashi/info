@@ -317,8 +317,6 @@
 | [aesop-311](../fables/aesop/aesop-311-the-ass-and-the-ass-driver.md) | ロバとロバ追い | （教訓は物語の中に示されている） |
 | [aesop-312](../fables/aesop/aesop-312-the-thrush-and-the-fowler.md) | ツグミと鳥刺し | （教訓は物語の中に示されている） |
 | [aesop-313](../fables/aesop/aesop-313-the-frogs-complaining-about-the-sun.md) | 太陽に文句を言うカエル | 著作権はhanamaにありますが、制限は致しませんので、ご自由にお使い下さい。 |
-| [aesop-314](../fables/aesop/aesop-314-belling-the-cat.md) | 猫に鈴をつける | どんなに優れた計画も、実行する者がいなければ絵に描いた餅にすぎない |
-| [aesop-315](../fables/aesop/aesop-315-the-miller-his-son-and-the-donkey.md) | ロバを連れた親子 | 万人を喜ばせようとすれば、結局は誰も喜ばせられない |
 | [aesop-316](../fables/aesop/aesop-316-jupiter-and-the-tortoise.md) | ゼウスとカメ | 社交を拒み自分の殻に閉じこもる者は、その殻を一生背負う羽目になる |
 | [aesop-317](../fables/aesop/aesop-317-prometheus-and-the-making-of-man.md) | プロメテウスと人間の創造 | 外見を変えても内なる本性は変わらない |
 | [aesop-318](../fables/aesop/aesop-318-the-farmers-sons-and-the-treasure.md) | 農夫と息子たちの宝 | 勤勉こそが最大の宝であり、労働そのものが豊かさをもたらす |

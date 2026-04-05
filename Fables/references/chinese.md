@@ -71,4 +71,10 @@
 | chinese-065 | 渇しても盗泉の水を飲まず | 晋・陸機『猛虎行』, imidas.jp | 2026-04-05 |
 | chinese-066 | 羊質虎皮 | 揚雄『法言』吾子篇, kotobank.jp | 2026-04-05 |
 
+| chinese-067 | 青は藍より出でて藍より青し | 『荀子』勧学篇, kotobank.jp | 2026-04-05 |
+| chinese-068 | 大器晩成 | 『老子』第四十一章, idiom-encyclopedia.com | 2026-04-05 |
+| chinese-069 | 三顧の礼 | 『三国志』蜀書・諸葛亮伝, domani.shogakukan.co.jp | 2026-04-05 |
+| chinese-070 | 天衣無縫 | 唐・牛僑『霊怪録』, kotobank.jp | 2026-04-05 |
+| chinese-071 | 水魚の交わり | 『三国志』蜀書・諸葛亮伝, oggi.jp | 2026-04-05 |
+
 <!-- 出典追加時にここへ行を追加 -->

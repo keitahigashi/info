@@ -95,8 +95,6 @@
 | aesop-089 | 水浴びをする少年 | Perry Index #211, タウンゼント版No.205, references/dl/Aesop1.txt | 2026-04-05 |
 | aesop-090 | 金持ちと皮なめし屋 | Perry Index #204, タウンゼント版No.297, references/dl/Aesop1.txt | 2026-04-05 |
 | aesop-091〜313 | （Aesop1.txt一括追加 223話） | タウンゼント版イソップ寓話集（hanama訳）, references/dl/Aesop1.txt | 2026-04-05 |
-| aesop-314 | 猫に鈴をつける | Perry Index #613, ラ・フォンテーヌ『寓話』II-2 | 2026-04-05 |
-| aesop-315 | ロバを連れた親子 | Perry Index #721, ラ・フォンテーヌ『寓話』III-1 | 2026-04-05 |
 | aesop-316 | ゼウスとカメ | Perry Index #106, バブリウス『寓話集』 | 2026-04-05 |
 | aesop-317 | プロメテウスと人間の創造 | Perry Index #240, バブリウス『寓話集』 | 2026-04-05 |
 | aesop-318 | 農夫と息子たちの宝 | Perry Index #42, ラ・フォンテーヌ『寓話』V-9 | 2026-04-05 |
