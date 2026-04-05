@@ -240,4 +240,12 @@ v2.1.88のnpmパッケージにソースマップ（.mapファイル）が混入
 Claude Codeソースコード流出事件を受け、第三者がAIエージェントに「Pythonで再実装」を指示し数時間で完了。著作権法の「表現は保護するがアイデア・機能・アルゴリズムは保護しない」原則により、言語変換（TypeScript→Python）で著作権が回避される問題を提起。**教訓**: ソースコード秘匿だけではプロプライエタリコードの防御に不十分。AI時代のリバースエンジニアリング+言語変換の容易さがビジネスモデルの防御壁を低下させている。
 > 詳細: メモリ内 `reference_claude_code_source_leak_copyright.md` を参照
 
+### Bedrock Guardrailsで機密情報フィルタリング（自動収集 2026-04-04）
+Claude Code×Bedrock経由でPII（EMAIL/PHONE/ADDRESS）をGuardrailsでフィルタリング。設定: `~/.claude/settings.json`の`ANTHROPIC_CUSTOM_HEADERS`にガードレールID・バージョン記載。マスク（`{EMAIL}`に置換）orブロック（入力拒否）を検出タイプ別に選択可能。企業の意図しない個人情報送信リスク低減に有効。
+> 詳細: references/reference_bedrock_guardrails_pii_filtering.md を参照
+
+### 既存コード修正のガードレール7選（自動収集 2026-04-04）
+AIの「盛りすぎ・広げすぎ」防止策: (1)変更範囲をファイル固定 (2)目的を1文に限定 (3)差分上限「最大50行」 (4)既存命名/設計の尊重 (5)壊したくない挙動の明示 (6)テスト後回し禁止 (7)コミットメッセージ先決め。依頼テンプレート: 目的・現象・期待・制約を構造化しAI判断余地を最小化。
+> 詳細: references/reference_guardrails_7_for_existing_code.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
