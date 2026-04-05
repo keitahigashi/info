@@ -486,4 +486,12 @@ OpenAI（ステアリング/宣言的制約）・Anthropic（馬具/Context anxi
 実務者向け3ステップ: CLAUDE.md初期化→品質ゲート自動化→フィードバックループ運用。
 > 詳細: references/reference_harness_interpretations_5_orgs.md を参照
 
+### Harness Engineering 5条件比較実験（自動収集 2026-04-06）
+顧客管理アプリ開発で品質管理機構を段階的に追加した5条件（A〜E）を比較。条件A（promptのみ）→E（Gate TDD）へ進化。PostToolUse hook（`.claude/settings.json`にEdit|MultiEdit|Writeマッチャー登録、`exit 2`でblock）で編集ごとに静的チェック。Stop gate（Red/Green/Refactor 3段階判定）で完了品質を担保。条件EではPostToolUse 19回中10回block・Stop gate 9回中8回blockを返しつつ一貫性確保。
+> 詳細: references/reference_harness_experimental_verification.md を参照
+
+### AIエージェント自律設計のハーネス哲学（自動収集 2026-04-06）
+OpenAI・Anthropic・Stripeの実践例。AGENTS.md約100行の目次＋docs/階層、CLAUDE.md約2,500トークンのコントロールパネル。Stripeの"Blueprintsパターン": リンター・Git操作など「スキップ不可能なゲート」。OpenAI: エラーメッセージに修復手順を埋め込む設計。Stripe自動化フロー: ローカルリント(5秒以下)→CI(300万テスト)→ログ読込自動修正→再実行→失敗時のみ人間対応。
+> 詳細: references/reference_harness_autonomous_agent_design.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

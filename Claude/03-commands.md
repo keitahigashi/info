@@ -201,4 +201,10 @@ claude -p --max-budget-usd 5.00 --max-turns 3 --fallback-model sonnet "分析し
 PR作成前品質ゲート: /simplify→/security-review→/diff→/commit-push-pr。
 > 詳細: references/reference_claude_code_complete_reference_nogataka.md を参照
 
+### 必須コマンド＆スキル完全ガイド2026（自動収集 2026-04-06）
+自動化コマンド群: `/batch`（50ファイル同時変更・5〜30独立タスク並列処理、git worktree上実行）、`/loop`（定期監視、デフォルト10分・3日後自動終了）、`/btw`（会話汚染なし質問、プロンプトキャッシュ再利用でトークン削減）、`/rc`（スマホからリアルタイム操作）。
+コード品質: `/simplify`（v2.1.63追加、3サブエージェント並列で再利用性・可読性・パフォーマンス個別検査）。
+スキル vs コマンド: スラッシュコマンドはハードコード固定処理、スキルはMarkdownベースプロンプト（AI推論で並列エージェント生成可能）。
+> 詳細: references/reference_claude_code_commands_skills_complete.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
