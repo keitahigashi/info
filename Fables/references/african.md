@@ -70,4 +70,10 @@
 | african-064 | なぜハイエナは汚いものを食べるのか | 東アフリカ口承 | 2026-04-05 |
 | african-065 | カメと王の娘 | ヨルバ族口承, Dayrell (1910) | 2026-04-05 |
 
+| african-066 | オヒアと盗泥棒鹿 | Barker『West African Folk-tales』(1917), folktales.africa | 2026-04-06 |
+| african-067 | 少女とライオンの精霊 | ツワナ族口承, McCall Smith再話 | 2026-04-06 |
+| african-068 | カルル兎と象 | Raman『Kalulu the Hare and Other Zambian Folk-Tales』, folktales.africa | 2026-04-06 |
+| african-069 | アキティ・ザ・ハンター | Ogumefu『Yoruba Legends』, sacred-texts.com | 2026-04-06 |
+| african-070 | カメと鳥たちの飛行 | イボ族口承, Achebe『Things Fall Apart』(1958), en.wikipedia.org | 2026-04-06 |
+
 <!-- 出典追加時にここへ行を追加 -->

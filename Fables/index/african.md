@@ -1,4 +1,4 @@
-# アフリカ民話（65話）
+# アフリカ民話（70話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -69,5 +69,11 @@
 | [african-063](../fables/african/african-063-the-rabbit-and-the-tar-baby.md) | ウサギとタール人形 | 怒りに任せて行動すれば自ら罠にはまる |
 | [african-064](../fables/african/african-064-why-hyena-eats-carrion.md) | なぜハイエナは汚いものを食べるのか | 欲張って二つのものを同時に得ようとすれば両方とも失う |
 | [african-065](../fables/african/african-065-the-tortoise-and-the-kings-daughter.md) | カメと王の娘 | 知恵と忍耐があれば見かけの弱さを補って大きな成果を得られる |
+
+| [african-066](../fables/african/african-066-ohia-and-the-thieving-deer.md) | オヒアと盗泥棒鹿 | 逆境への粘り強い忍耐と正義の追求は、最終的に報酬と繁栄をもたらす |
+| [african-067](../fables/african/african-067-the-girl-and-the-lion-spirit.md) | 少女とライオンの精霊 | 本当の強さは力ではなく、思いやりと知恵にある |
+| [african-068](../fables/african/african-068-kalulu-the-hare-and-the-elephant.md) | カルル兎と象 | 知恵と勤勉さは蛮力に勝り、他人の成果を盗む者には報いが訪れる |
+| [african-069](../fables/african/african-069-akiti-the-hunter.md) | アキティ・ザ・ハンター | 過度な自信は危険であり、真の勝利は蛮力ではなく創意工夫によって得られる |
+| [african-070](../fables/african/african-070-the-tortoise-and-the-birds.md) | カメと鳥たちの飛行 | 貪欲さと狡猾さは必ず罰され、仲間を欺く者は孤立と破滅を招く |
 
 <!-- 寓話追加時にここへ行を追加 -->
