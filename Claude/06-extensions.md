@@ -262,4 +262,8 @@ Skills/Agents/Hooks/MCPをパッケージ化しGitHubリポジトリで配布。
 ローカルMCP（claude_desktop_config.json）に加えリモートMCPサーバーにカスタムコネクタで接続可能。Pro/Maxは`claude.ai/customize/connectors`から追加、Team/Enterpriseはオーナー承認必要。Anthropicクラウド経由でパブリックインターネット上のMCPサーバーに接続。OpenAI Docs MCP等で動作実証済み。
 > 詳細: references/reference_claude_desktop_remote_mcp.md を参照
 
+### 国土交通省 地理空間MCPサーバー（自動収集 2026-04-06）
+国交省が「地理空間MCP Server」（α版）を公開。不動産情報ライブラリAPIの25種データ（地価公示・不動産取引価格・防災情報・地形・人口等）に自然言語でアクセス可能。APIキー取得が前提。2025年11月の「MLIT DATA PLATFORM MCP Server」に続く公共MCP事例で、PLATEAUとの連携拡大も焦点。
+> 詳細: references/reference_mlit_geospatial_mcp_server.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
