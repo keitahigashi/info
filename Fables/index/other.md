@@ -1,4 +1,4 @@
-# その他（65話）
+# その他（70話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -69,5 +69,11 @@
 | [other-063](../fables/other/other-063-the-wawel-dragon.md) | クラクフの龍 | 力ずくより知恵と工夫で困難を克服する者こそ真の英雄である |
 | [other-064](../fables/other/other-064-the-selfish-giant.md) | わがままな巨人 | 自分だけのものにしようとすれば喜びは消え、分かち合えば豊かさが戻る |
 | [other-065](../fables/other/other-065-amirani-the-chained-hero.md) | アミラニ —— 鎖に繋がれた英雄 | 人類のために戦う者は代償を払うが、その精神は決して屈しない |
+
+| [other-066](../fables/other/other-066-the-three-princes-of-serendip.md) | セレンディップの三人の王子たち | 偶然の幸運は、豊富な知識と鋭い観察眼を備えた者にのみ訪れる |
+| [other-067](../fables/other/other-067-ivan-the-firebird-and-the-grey-wolf.md) | イワン王子と火の鳥と灰色狼 | 助言に素直に従い失敗から学ぶ者は、たとえ弱くても最後には幸福に到達する |
+| [other-068](../fables/other/other-068-the-ox-and-the-donkey-talmud.md) | 牛とロバ ── タルムードの寓話 | すべての者に同じやり方を強いることは共倒れを招く |
+| [other-069](../fables/other/other-069-prince-ahmed-and-the-fairy-peri-banu.md) | アフメド王子と妖精ペリ・バヌー | 物質的な宝より、真心と誠実さこそが最も価値ある宝である |
+| [other-070](../fables/other/other-070-the-merchant-and-the-parrot.md) | 商人とオウム | 真の自由を得るには、自分が囚われていることにまず気づかなければならない |
 
 <!-- 寓話追加時にここへ行を追加 -->

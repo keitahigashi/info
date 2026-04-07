@@ -70,4 +70,10 @@
 | andersen-064 | 絵のない絵本 | andersen.sdu.dk, アンデルセン(1840) | 2026-04-05 |
 | andersen-065 | 氷姫 | andersen.sdu.dk, アンデルセン(1861) | 2026-04-05 |
 
+| andersen-066 | 大海蛇 | andersen.sdu.dk, andersenstories.com, アンデルセン(1871) | 2026-04-06 |
+| andersen-067 | 教授と蚤 | andersen.sdu.dk, andersenstories.com, アンデルセン(1872) | 2026-04-06 |
+| andersen-068 | 金色の財宝 | andersen.sdu.dk, andersenstories.com, アンデルセン(1865) | 2026-04-06 |
+| andersen-069 | 叔母さんの歯痛 | andersen.sdu.dk, en.wikisource.org, アンデルセン(1872) | 2026-04-06 |
+| andersen-070 | 幸運のペーア | andersen.sdu.dk, fairytalez.com, アンデルセン(1870) | 2026-04-06 |
+
 <!-- 出典追加時にここへ行を追加 -->

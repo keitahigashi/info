@@ -1,4 +1,4 @@
-# イソップ寓話（318話）
+# イソップ寓話（323話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -320,5 +320,11 @@
 | [aesop-316](../fables/aesop/aesop-316-jupiter-and-the-tortoise.md) | ゼウスとカメ | 社交を拒み自分の殻に閉じこもる者は、その殻を一生背負う羽目になる |
 | [aesop-317](../fables/aesop/aesop-317-prometheus-and-the-making-of-man.md) | プロメテウスと人間の創造 | 外見を変えても内なる本性は変わらない |
 | [aesop-318](../fables/aesop/aesop-318-the-farmers-sons-and-the-treasure.md) | 農夫と息子たちの宝 | 勤勉こそが最大の宝であり、労働そのものが豊かさをもたらす |
+
+| [aesop-319](../fables/aesop/aesop-319-the-hunter-and-the-wolf.md) | 狩人と狼 | 他者を害する者は、やがて自らもその害を被ることになる |
+| [aesop-320](../fables/aesop/aesop-320-the-dogs-tearing-a-lions-skin.md) | ライオンの皮を引き裂く犬たち | 倒れた者を踏みつけるのは容易だが、最も軽蔑されるべき行為である |
+| [aesop-321](../fables/aesop/aesop-321-the-caged-lion-and-the-fox.md) | 檻の中のライオンとキツネ | 一時的な不運はその者の本質や価値を損なわない |
+| [aesop-322](../fables/aesop/aesop-322-the-ostrich.md) | ダチョウ | どちらにもいい顔をする者は、どちらからも信頼されない |
+| [aesop-323](../fables/aesop/aesop-323-the-ant-formerly-a-man.md) | もとは人間だったアリ | 姿形が変わっても生まれ持った性分は変わらない |
 
 <!-- 寓話追加時にここへ行を追加 -->

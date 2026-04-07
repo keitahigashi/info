@@ -1,4 +1,4 @@
-# アンデルセン童話（65話）
+# アンデルセン童話（70話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -69,5 +69,11 @@
 | [andersen-063](../fables/andersen/andersen-063-the-silver-shilling.md) | 銀の貨幣 | 他者に偽物と決めつけられても自分の価値を見失ってはならない |
 | [andersen-064](../fables/andersen/andersen-064-picture-book-without-pictures.md) | 絵のない絵本 | 注意深く世界を見つめればどんな場面にも物語と教訓が隠されている |
 | [andersen-065](../fables/andersen/andersen-065-the-ice-maiden.md) | 氷姫 | 人間の幸福は自然の圧倒的な力の前ではいつも脆い |
+
+| [andersen-066](../fables/andersen/andersen-066-the-great-sea-serpent.md) | 大海蛇 | 理解を超えた偉業も、知ろうとしない者の目には奇怪な存在に映るにすぎない |
+| [andersen-067](../fables/andersen/andersen-067-the-flea-and-the-professor.md) | 教授と蚤 | 知恵と巧妙さは不可能な状況をも打ち破ることができる |
+| [andersen-068](../fables/andersen/andersen-068-the-golden-treasure.md) | 金色の財宝 | 真の宝は外にではなく、内なる才能と人格の中にある |
+| [andersen-069](../fables/andersen/andersen-069-auntie-toothache.md) | 叔母さんの歯痛 | 芸術的野心と肉体的苦痛は表裏一体であり、苦悩もまた創造の源泉となりうる |
+| [andersen-070](../fables/andersen/andersen-070-lucky-peer.md) | 幸運のペーア | 真の幸運とは物質的な豊かさではなく、内なる才能と善良さの結合である |
 
 <!-- 寓話追加時にここへ行を追加 -->
