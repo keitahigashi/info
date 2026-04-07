@@ -324,4 +324,8 @@ Hooks設計原則「Block-at-Submit, not Block-at-Write」: AIの思考フロー
 TDDフロー: テスト記述→失敗確認→テストコミット→実装記述→実装コミット。ビジュアルモック開発: デザイン画像→実装指示→スクリーンショット確認→反復修正。コンテキスト管理: `/clear`で全リセット、`/compact`で要約圧縮、`/init`でCLAUDE.md更新。
 > 詳細: references/reference_claude_code_best_practice_beginner.md を参照
 
+### Claude Code実践事例集: 効率の幻想と協働設計（自動収集 2026-04-07）
+METR調査で「体感20%高速化→客観測定19%遅化」が判明。定型業務（テスト生成・ドキュメント）はAI、文脈依存判断（アーキテクチャ・セキュリティ）は人間に分業が処方箋。Rimo社: 3-5時間の広告分析→体感7分（BigQuery+Salesforce CLI統合・70-100項目チェックリスト）。アソビュー CPO: 非エンジニアが11個の自動化構築（毎朝7時自動実行・Slack連携）。Oh-My-ClaudeCode: 32種専門エージェント・5実行モード・自動モデルルーティングで30-50%トークン削減。
+> 詳細: references/reference_claude_code_daily_discoveries_apr02.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

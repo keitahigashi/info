@@ -266,4 +266,12 @@ Skills/Agents/Hooks/MCPをパッケージ化しGitHubリポジトリで配布。
 国交省が「地理空間MCP Server」（α版）を公開。不動産情報ライブラリAPIの25種データ（地価公示・不動産取引価格・防災情報・地形・人口等）に自然言語でアクセス可能。APIキー取得が前提。2025年11月の「MLIT DATA PLATFORM MCP Server」に続く公共MCP事例で、PLATEAUとの連携拡大も焦点。
 > 詳細: references/reference_mlit_geospatial_mcp_server.md を参照
 
+### --mcp-configで作業別MCP構成切り替え（自動収集 2026-04-07）
+MCPサーバー追加しすぎのコンテキスト圧迫対策。`claude --mcp-config=path/to/.mcp.json`で構成ファイルを切り替え。基本構成（filesystemのみ）と開発用（filesystem+context7+linear）をalias化: `alias c='claude --mcp-config=~/.claude/.mcp.json'`。プロジェクトルートの`.mcp.json`と併用可能。`--strict-mcp-config`でプロジェクト固有設定を無視。
+> 詳細: references/reference_claude_code_mcp_config_tips.md を参照
+
+### Hooks全14イベント完全ガイド（自動収集 2026-04-07）
+14フックポイント: SessionStart/UserPromptSubmit/PreToolUse/PermissionRequest/PostToolUse/PostToolUseFailure/Notification/SubagentStart/SubagentStop/Stop/TeammateIdle/TaskCompleted/PreCompact/SessionEnd。3ハンドラータイプ: Command（シェル実行）・Prompt（LLM判断）・Agent（サブエージェント起動）。Exit 2でブロッキングエラー。設定は3層（`~/.claude/settings.json`・`.claude/settings.json`・`.claude/settings.local.json`）。
+> 詳細: references/reference_claude_code_hooks_14_events.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
