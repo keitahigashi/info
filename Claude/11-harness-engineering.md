@@ -494,4 +494,8 @@ OpenAI（ステアリング/宣言的制約）・Anthropic（馬具/Context anxi
 OpenAI・Anthropic・Stripeの実践例。AGENTS.md約100行の目次＋docs/階層、CLAUDE.md約2,500トークンのコントロールパネル。Stripeの"Blueprintsパターン": リンター・Git操作など「スキップ不可能なゲート」。OpenAI: エラーメッセージに修復手順を埋め込む設計。Stripe自動化フロー: ローカルリント(5秒以下)→CI(300万テスト)→ログ読込自動修正→再実行→失敗時のみ人間対応。
 > 詳細: references/reference_harness_autonomous_agent_design.md を参照
 
+### Usecase Design Doc: 設計ドキュメントによるAIハーネス（自動収集 2026-04-08）
+CADDi社のAIエージェント委譲事例。設計書（Usecase Design Doc）がAIへのハーネスとして機能。構成: サマリー・CRUD表・シーケンス図（トランザクション境界）・ドメインIF・API IF・変更箇所一覧・チェックリスト。設計書と照合しながらのレビューで品質確保。残課題: 設計書の軽微エラーが実装で増幅、設計・レビューがボトルネック化。
+> 詳細: references/reference_usecase_design_doc_caddi.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

@@ -277,4 +277,8 @@ twig(worktree CLI)+vscode-startup-runner(自作拡張)+Claude Code(`defaultMode:
 SMS社の体系的ワークフロー設計。5段階移譲レベル: Consult（人間主導相談）→Agree（協業）→Inquire（LLM主導確認）→Delegate（完全移譲）。Progressive Disclosure: CLAUDE.mdは最小限（80%のタスクで必要な情報のみ）、Skills/Commandで段階的供給。マルチエージェント: メインセッションは調整役、サブエージェントが単一責任。否定形レビュー指摘が効果的。トレードオフ: 対話的ブラッシュアップに不向き→部分採用でバランス。
 > 詳細: references/reference_sms_workflow_design.md を参照
 
+### Usecase Design DocによるAI委譲最適化（自動収集 2026-04-08）
+CADDi社の事例。AIエージェントへの実装委譲で「お世話負荷」（詳細プロンプト・監視・並列認知負荷）が課題に。解決策: Usecase Design Doc（サマリー・CRUD表・シーケンス図・IF仕様・チェックリスト）を事前作成し、未実装項目をAIに投入→PR作成→午後レビューの非同期サイクル確立。タスク分割はPR200〜300行でレイヤー/DDD集約/同期非同期単位。結果: マージPR数2倍、認知負荷軽減。教訓: 「プロンプト工夫より設計ドキュメントが効率的」。
+> 詳細: references/reference_usecase_design_doc_caddi.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
