@@ -1,4 +1,4 @@
-# 日本昔話（65話）
+# 日本昔話（70話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -69,5 +69,11 @@
 | [japanese-063](../fables/japanese/japanese-063-gon-the-fox.md) | ごんぎつね | 善意が伝わらぬまま失われることの悲しさと、思い込みで行動する危うさ |
 | [japanese-064](../fables/japanese/japanese-064-atama-yama.md) | 頭山 | 目先の損得に執着する吝嗇は、やがて自分自身を滅ぼす |
 | [japanese-065](../fables/japanese/japanese-065-the-candle-of-life.md) | 寿命のロウソク | 寿命を欲で操ろうとする者は、かえって自らの命を縮める |
+
+| [japanese-066](../fables/japanese/japanese-066-the-miso-buying-bridge.md) | 味噌買い橋 | 夢や直感を信じて辛抱強く行動する者にこそ、幸運は訪れる |
+| [japanese-067](../fables/japanese/japanese-067-the-god-of-poverty-and-the-god-of-fortune.md) | 貧乏神と福の神 | 物質的な豊かさよりも、目の前の存在に誠実に向き合う心の豊かさこそが本当の幸福をもたらす |
+| [japanese-068](../fables/japanese/japanese-068-the-kappas-prayer-for-rain.md) | 河童の雨乞い | 過去の過ちは改心と行動によって償うことができる |
+| [japanese-069](../fables/japanese/japanese-069-nukafuku-and-komefuku.md) | 糠福と米福 | 辛い境遇でも誠実で優しい心を失わなければ、やがて報われる |
+| [japanese-070](../fables/japanese/japanese-070-mount-iburiyama.md) | 飯降山 | 欲望に際限はなく、欲に駆られて他者を害すれば自らも破滅する |
 
 <!-- 寓話追加時にここへ行を追加 -->

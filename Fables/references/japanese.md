@@ -70,4 +70,10 @@
 | japanese-064 | 頭山 | 古典落語, 山村浩二アニメ(2002) | 2026-04-05 |
 | japanese-065 | 寿命のロウソク | まんが日本昔ばなし, ATU332型 | 2026-04-05 |
 
+| japanese-066 | 味噌買い橋 | folktalesjpn.com, minwanoheya.jp | 2026-04-07 |
+| japanese-067 | 貧乏神と福の神 | folktalesjpn.com, nihon.syoukoukai.com | 2026-04-07 |
+| japanese-068 | 河童の雨乞い | folktalesjpn.com, minwanoheya.jp | 2026-04-07 |
+| japanese-069 | 糠福と米福 | kotobank.jp, t-bunkyo.jp | 2026-04-07 |
+| japanese-070 | 飯降山 | arasuji-m.com, fukublo.jp | 2026-04-07 |
+
 <!-- 出典追加時にここへ行を追加 -->
