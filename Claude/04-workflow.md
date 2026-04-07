@@ -269,4 +269,12 @@ v2.1.49で`--worktree (-w)`フラグ追加。Subagentフロントマターに`is
 twig(worktree CLI)+vscode-startup-runner(自作拡張)+Claude Code(`defaultMode: "acceptEdits"`)で計画→worktree作成→自動開発→PR作成を自動実行。Agent Teamsとの使い分け: 協調→Agent Teams、独立並列→worktree。promptファイル`.twig-claude-prompt-<name>.sh`で初期設定・セットアップ・指示を1バンドル。
 > 詳細: references/reference_worktree_parallel_automation.md を参照
 
+### isolation:worktreeエージェント定義（自動収集 2026-04-07）
+エージェント定義のfrontmatterに`isolation: worktree`を1行追加でサブエージェント専用git worktree自動生成。`.claude/worktrees/<ランダム名>/`に作成、ブランチ名`worktree-<名前>`形式。変更なし時は自動削除。活用: 並列フィーチャー開発（フロント/バック同時）、コードレビュー並列化、実験的変更。`.gitignore`に`.claude/worktrees/`追加推奨。
+> 詳細: references/reference_isolation_worktree_agent.md を参照
+
+### ワークフロー設計: 5段階移譲とProgressive Disclosure（自動収集 2026-04-07）
+SMS社の体系的ワークフロー設計。5段階移譲レベル: Consult（人間主導相談）→Agree（協業）→Inquire（LLM主導確認）→Delegate（完全移譲）。Progressive Disclosure: CLAUDE.mdは最小限（80%のタスクで必要な情報のみ）、Skills/Commandで段階的供給。マルチエージェント: メインセッションは調整役、サブエージェントが単一責任。否定形レビュー指摘が効果的。トレードオフ: 対話的ブラッシュアップに不向き→部分採用でバランス。
+> 詳細: references/reference_sms_workflow_design.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
