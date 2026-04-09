@@ -278,4 +278,8 @@ MCPサーバー追加しすぎのコンテキスト圧迫対策。`claude --mcp-
 導入4手順: marketplace add→plugin install→reload-plugins→codex:setup。7コマンド: `/codex:review`（通常）、`/codex:adversarial-review`（厳格）、`/codex:rescue`（委譲）、status/result/cancel/setup。Stopレビューゲート: セッション終了時に自動Codexレビュー、問題検出で停止ブロック。注意: review-gate無限ループ（修正→再レビュー繰り返し）でAPI枠急速消費。人間監視下で使用推奨。
 > 詳細: references/reference_codex_plugin_cc_review.md を参照
 
+### エアークローゼット自社MCPサーバー群17個一挙公開（自動収集 2026-04-09）
+17個のMCPサーバーを5層構成で運用: データ層（DB Graph: 17DB・994テーブル横断検索）、インフラ層（GCloud/AWS読み取り専用）、ドキュメント層（GWS・Git Server）、運用監視層（Grafana PromQL/LogQL・CircleCI）、開発基盤層（Workspace MCP: GitHub不要コード編集・デプロイ、Sandbox MCP: 非エンジニア向けCloud Runデプロイ）。共通認証: Google OAuth 2.0+PKCE、`.mcp.json`設定のみで認可開始。技術スタック: TypeScript・Pulumi・Upstash Redis。
+> 詳細: references/reference_aircloset_mcp_servers_17.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
