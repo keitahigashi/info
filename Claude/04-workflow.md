@@ -293,4 +293,12 @@ Claude Code×tmuxで将軍/家老/足軽8の階層マルチエージェントシ
 Copilot: IDE内補完特化（GPT-5 mini無料クォータ）。Claude Code: 複数ファイルリファクタリング・基盤設計（Opus 4.6自律完遂）。codex-plugin-cc: Claude CodeからCodexを呼ぶクロスモデルレビュー層（確証バイアス回避）。トークン実測: Figmaクローン生成でCodex約150万 vs Claude Code約620万（約4倍差）。推奨4段階: Copilot補完→Claude Code設計実装→codex-plugin-ccレビュー→GitHub PRチームレビュー。注意: review-gate無限ループ（修正→再レビュー繰り返し）に注意。
 > 詳細: references/reference_codex_claude_copilot_comparison.md を参照
 
+### Claude Code v2.1.89〜v2.1.92 ワークフロー改善（自動収集 2026-04-10）
+defer権限決定（v2.1.89）: PreToolUseフックにallow/denyに加え「defer」追加。実行を一時停止し外部シグナルで再開待機。CI/CD承認ゲート・マルチエージェント連携に活用。MCP 500K文字制限（v2.1.91）: `_meta.anthropic/maxResultSizeChars: 500000`でツール結果サイズ拡大。パフォーマンス: Writeツールdiff計算60%高速化、SSEトランスポートO(n²)→O(n)改善。安定性修正: tmux終了後サブエージェント再生成・`--resume`キャッシュミス回帰・auto-compact無限ループ・CJK/絵文字履歴欠落・ネストCLAUDE.md再注入。
+> 詳細: references/reference_claude_code_april_2026_update.md を参照
+
+### Claude Managed Agents セッション管理（自動収集 2026-04-10）
+Managed Agentsのセッション: AgentとEnvironmentを指定して起動、SSEでイベントストリーミング。長時間非同期タスク向け（数分〜数時間）。プロンプトキャッシュ・コンテキスト圧縮が自動処理。実装検証5ステップ: ①ベータヘッダー`managed-agents-2026-04-01`準備→②最小Agent定義→③最小権限Environment→④課金監視→⑤MCP接続。
+> 詳細: references/reference_claude_managed_agents.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

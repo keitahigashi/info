@@ -282,4 +282,8 @@ MCPサーバー追加しすぎのコンテキスト圧迫対策。`claude --mcp-
 17個のMCPサーバーを5層構成で運用: データ層（DB Graph: 17DB・994テーブル横断検索）、インフラ層（GCloud/AWS読み取り専用）、ドキュメント層（GWS・Git Server）、運用監視層（Grafana PromQL/LogQL・CircleCI）、開発基盤層（Workspace MCP: GitHub不要コード編集・デプロイ、Sandbox MCP: 非エンジニア向けCloud Runデプロイ）。共通認証: Google OAuth 2.0+PKCE、`.mcp.json`設定のみで認可開始。技術スタック: TypeScript・Pulumi・Upstash Redis。
 > 詳細: references/reference_aircloset_mcp_servers_17.md を参照
 
+### UTAGE API・MCP公開でAIエージェント連携（自動収集 2026-04-10）
+国産MAツール「UTAGE」（17,000社導入）がMCP対応。Claude/Claude CodeからLP自動作成・ファネル管理・ページコンテンツ配置・メディア管理・メール/LINE配信管理を自然言語指示で実行可能。従来数時間のLP作成が「〇〇用のLPを作成して」の一言で自動完了。今後: 決済連携・会員サイト構築・アクセス解析等も順次MCP対応予定。
+> 詳細: references/reference_utage_mcp_api.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

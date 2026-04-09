@@ -207,4 +207,8 @@ PR作成前品質ゲート: /simplify→/security-review→/diff→/commit-push-
 スキル vs コマンド: スラッシュコマンドはハードコード固定処理、スキルはMarkdownベースプロンプト（AI推論で並列エージェント生成可能）。
 > 詳細: references/reference_claude_code_commands_skills_complete.md を参照
 
+### Claude Code v2.1.89〜v2.1.92 新コマンド・機能（自動収集 2026-04-10）
+`/powerup`（v2.1.90）: ツール内蔵インタラクティブ学習、アニメーションデモで機能ウォークスルー。`/cost`強化（v2.1.92）: モデル別・キャッシュヒット別コスト分析、Proサブスクライバー向けキャッシュ有効期限インジケーター。名前付きサブエージェント（v2.1.89）: `@mention`構文で直接指定可能。削除: `/tag`・`/vim`キーバインディング。`/release-notes`はインタラクティブバージョンピッカーに再設計。
+> 詳細: references/reference_claude_code_april_2026_update.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
