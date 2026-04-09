@@ -498,4 +498,16 @@ OpenAI・Anthropic・Stripeの実践例。AGENTS.md約100行の目次＋docs/階
 CADDi社のAIエージェント委譲事例。設計書（Usecase Design Doc）がAIへのハーネスとして機能。構成: サマリー・CRUD表・シーケンス図（トランザクション境界）・ドメインIF・API IF・変更箇所一覧・チェックリスト。設計書と照合しながらのレビューで品質確保。残課題: 設計書の軽微エラーが実装で増幅、設計・レビューがボトルネック化。
 > 詳細: references/reference_usecase_design_doc_caddi.md を参照
 
+### multi-agent-shogun v1.1.0: コンパクション復帰とガバナンス仕組み化（自動収集 2026-04-08）
+v1.1.0の運用改善。コンパクション時にルールが抜け落ちる問題→CLAUDE.mdに復帰手順（pane名確認→指示書再読込）を追加し仕組みで防止。7セクション共通テンプレート（What/Why/Who/Constraints/Current State/Decisions/Notes）で指示の一貫性を担保。「AIもうっかりする→根性論でなく仕組み」「多数決より専門家総意」が教訓。
+> 詳細: references/reference_multi_agent_shogun_v110.md を参照
+
+### multi-agent-shogunの自律ガバナンス構築（自動収集 2026-04-08）
+9体AIエージェント（将軍/家老/足軽8）が自律的にガバナンスを構築した事例。足軽の全タスク実行問題→将軍が「最小権限の原則」に基づきYAML分割を自発提案。将軍が指示書を自主改修し「違反は切腹」ルール追加。ルール違反検知→自動是正→全軍に理解度確認まで人間介入なし。Skills自動生成: 繰り返し作業パターン検知→Web検索→重複確認→Skill化提案。ナレッジ形式知化により退職時もポータブル資産として残存。
+> 詳細: references/reference_multi_agent_shogun.md を参照
+
+### AutoHarness Skill — ルール自動生成ハーネスエンジニアリング（自動収集 2026-04-09）
+`/autoharness-init`: 設定ファイル分析→`.claude/rules/harness.md`（規約）＋`harness_check.py`（検証）を自動生成。`/autoharness-update`: 型エラー・テスト失敗時に自律ルール改善、チーム慣習を段階的エンコード。評価: スタイル規約（pathlib.Path/Decimal/型アノテーション）で5/5達成、機能的正しさには差異なし。DeepMind 2026論文（arXiv:2603.03329）に基づくアプローチ。
+> 詳細: references/reference_autoharness_skill_rule_generation.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

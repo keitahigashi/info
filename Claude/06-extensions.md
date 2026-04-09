@@ -274,4 +274,8 @@ MCPサーバー追加しすぎのコンテキスト圧迫対策。`claude --mcp-
 14フックポイント: SessionStart/UserPromptSubmit/PreToolUse/PermissionRequest/PostToolUse/PostToolUseFailure/Notification/SubagentStart/SubagentStop/Stop/TeammateIdle/TaskCompleted/PreCompact/SessionEnd。3ハンドラータイプ: Command（シェル実行）・Prompt（LLM判断）・Agent（サブエージェント起動）。Exit 2でブロッキングエラー。設定は3層（`~/.claude/settings.json`・`.claude/settings.json`・`.claude/settings.local.json`）。
 > 詳細: references/reference_claude_code_hooks_14_events.md を参照
 
+### codex-plugin-cc — AIコードレビュー多角化プラグイン（自動収集 2026-04-09）
+導入4手順: marketplace add→plugin install→reload-plugins→codex:setup。7コマンド: `/codex:review`（通常）、`/codex:adversarial-review`（厳格）、`/codex:rescue`（委譲）、status/result/cancel/setup。Stopレビューゲート: セッション終了時に自動Codexレビュー、問題検出で停止ブロック。注意: review-gate無限ループ（修正→再レビュー繰り返し）でAPI枠急速消費。人間監視下で使用推奨。
+> 詳細: references/reference_codex_plugin_cc_review.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

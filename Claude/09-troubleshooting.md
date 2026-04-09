@@ -84,4 +84,8 @@ Editツールは事前にReadしていないとエラーになる。変更前に
 
 ## 実践メモ
 
+### トークン消費バグ7件の実測分析（自動収集 2026-04-09）
+修正済み3件: Sentinel（キャッシュプレフィックス破壊→v2.1.88修正）、Resume（`--resume`キャッシュ破壊→v2.1.89修正）、Cache invalidation（ターン毎キャッシュ無効化→4/4修正）。未修正4件（v2.1.92時点）: Microcompact（30ターン超でツール結果消去）、Budget cap（200K上限で結果切り詰め）、False rate limit（並行サブエージェントで偽カウント）、Log inflation（`/cost`表示が実測の約2倍）。対処法: 最新版更新、`--resume`回避、30ターン上限リセット、offset/limit活用、`/cost`値÷2が実測値。
+> 詳細: references/reference_claude_code_token_bugs_7.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
