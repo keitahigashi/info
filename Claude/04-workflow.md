@@ -301,4 +301,16 @@ defer権限決定（v2.1.89）: PreToolUseフックにallow/denyに加え「defe
 Managed Agentsのセッション: AgentとEnvironmentを指定して起動、SSEでイベントストリーミング。長時間非同期タスク向け（数分〜数時間）。プロンプトキャッシュ・コンテキスト圧縮が自動処理。実装検証5ステップ: ①ベータヘッダー`managed-agents-2026-04-01`準備→②最小Agent定義→③最小権限Environment→④課金監視→⑤MCP接続。
 > 詳細: references/reference_claude_managed_agents.md を参照
 
+### イベント駆動型ワークフロー自動化 — Hooks×Scheduler×Skills（自動収集 2026-04-11）
+3機能組み合わせの4パターン: ①Scheduler→Skill→Hook（定期収集＋FileChanged異常検知→Slack通知）、②Hook→Skill（git commit検知→CHANGELOG自動更新、Skill内Hookでスコープ限定）、③Scheduler→Skill+自己検証（Stopイベントでexit code 2→自己修正）、④SessionStart Hook→動的提案。設計原則: ファイル経由連携・関心の分離・exit code制御・段階的成長。
+> 詳細: references/reference_event_driven_workflow_automation.md を参照
+
+### Managed Agents API実装パターン（自動収集 2026-04-11）
+Agent定義（YAML: model・mcp_servers・tools）→Environment設定（unrestricted/limited）→Session開始→SSEイベントストリーミング。GitHub MCP連携にはFine-grained token＋Vault認証。料金: $0.08/時（ミリ秒課金）。長時間非同期タスク向け。
+> 詳細: references/reference_managed_agents_handson.md を参照
+
+### スケジューラー段階的育成（自動収集 2026-04-11）
+3タイプ: /loop（セッション内・3日失効）→Desktop（ローカル・スリープ時停止）→Cloud（完全自動）。育成: 手動確認→Desktop登録（3回連続成功で昇格）→Cloud放置。6パターン: 1on1準備・議事録・日次レポート・デイリーサマリー・自動化提案・KPI分析。11個で週4.5時間削減。
+> 詳細: references/reference_scheduler_nurturing_guide.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
