@@ -1,4 +1,4 @@
-# グリム童話（70話）
+# グリム童話（75話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -74,5 +74,10 @@
 | [grimm-068](../fables/grimm/grimm-068-the-wishing-table.md) | テーブルよ食事の支度をしろ | 盗まれたものは正当な手段で取り返すことができ、悪は必ず裁かれる |
 | [grimm-069](../fables/grimm/grimm-069-the-gold-children.md) | 金の子どもたち | 兄弟の絆と互いを思う心が、どんな危機も乗り越える力となる |
 | [grimm-070](../fables/grimm/grimm-070-spindle-shuttle-and-needle.md) | 糸紡ぎとシャトルと針 | 勤勉で心清き者のもとには、自ずと幸福が訪れる |
+| [grimm-071](../fables/grimm/grimm-071-our-ladys-child.md) | 聖母マリアの子ども | 罪を隠し続ける嘘は苦しみを深めるばかりであり、真摯な悔い改めだけが赦しと救いをもたらす |
+| [grimm-072](../fables/grimm/grimm-072-how-six-made-their-way.md) | 六人男、世界を股にかける | 個々の特技を持ち寄り協力すれば、強大な権力にも打ち勝つことができる |
+| [grimm-073](../fables/grimm/grimm-073-the-two-travelers.md) | 二人の旅人 | 善良で誠実な者は苦難の果てに必ず報われ、悪意ある者は自らの企みによって身を滅ぼす |
+| [grimm-074](../fables/grimm/grimm-074-deaths-messengers.md) | 死の使い | 病や老いの兆候はすべて死からの使いであり、それに気づかぬ者は覚悟のないまま最期を迎える |
+| [grimm-075](../fables/grimm/grimm-075-the-peasant-and-the-devil.md) | 百姓と悪魔 | 知恵と機転があれば、強大な相手の裏をかき、不利な契約からでも利を得ることができる |
 
 <!-- 寓話追加時にここへ行を追加 -->

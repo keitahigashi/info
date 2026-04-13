@@ -313,4 +313,12 @@ Agent定義（YAML: model・mcp_servers・tools）→Environment設定（unrestr
 3タイプ: /loop（セッション内・3日失効）→Desktop（ローカル・スリープ時停止）→Cloud（完全自動）。育成: 手動確認→Desktop登録（3回連続成功で昇格）→Cloud放置。6パターン: 1on1準備・議事録・日次レポート・デイリーサマリー・自動化提案・KPI分析。11個で週4.5時間削減。
 > 詳細: references/reference_scheduler_nurturing_guide.md を参照
 
+### /ultraplanによるクラウド設計ワークフロー（自動収集 2026-04-12）
+ブラウザUIでインラインコメント・絵文字リアクション・アウトラインサイドバーを使ったレビュー。完了後: クラウド実行（PR作成まで）or テレポート（ローカル実装）。ユースケース: 大規模リファクタリング（tRPC移行等）・サービス移行・セキュリティ監査（OWASP約8分）・マルチコンポーネント機能。ターミナル解放が最大の価値。
+> 詳細: references/reference_claude_code_ultraplan_guide.md を参照
+
+### Managed Agents APIワークフロー（自動収集 2026-04-12）
+Agent定義→Environment設定→Session開始→SSEイベントストリーミング。組み込みツール: bash・ファイル操作・Web検索・MCP接続。セッション制御: interruption（中断）・steering（方向修正）。単発自動化には過剰、長時間非同期タスクや大規模プロダクト統合向け。
+> 詳細: references/reference_managed_agents_api_architecture.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

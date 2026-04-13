@@ -75,5 +75,10 @@
 | grimm-068 | テーブルよ食事の支度をしろ | grimmstories.com, KHM36 | 2026-04-05 |
 | grimm-069 | 金の子どもたち | grimmstories.com, KHM85 | 2026-04-05 |
 | grimm-070 | 糸紡ぎとシャトルと針 | grimmstories.com, KHM188 | 2026-04-05 |
+| grimm-071 | 聖母マリアの子ども | grimmstories.com, grimmdowaclub.net, KHM3 | 2026-04-10 |
+| grimm-072 | 六人男、世界を股にかける | grimmstories.com, en.wikipedia.org, KHM71 | 2026-04-10 |
+| grimm-073 | 二人の旅人 | grimmstories.com, grimmdowaclub.net, KHM107 | 2026-04-10 |
+| grimm-074 | 死の使い | grimmstories.com, grimmdowaclub.net, KHM177 | 2026-04-10 |
+| grimm-075 | 百姓と悪魔 | grimmstories.com, grimmdowaclub.net, KHM189 | 2026-04-10 |
 
 <!-- 出典追加時にここへ行を追加 -->

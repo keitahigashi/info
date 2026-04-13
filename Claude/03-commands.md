@@ -211,4 +211,8 @@ PR作成前品質ゲート: /simplify→/security-review→/diff→/commit-push-
 `/powerup`（v2.1.90）: ツール内蔵インタラクティブ学習、アニメーションデモで機能ウォークスルー。`/cost`強化（v2.1.92）: モデル別・キャッシュヒット別コスト分析、Proサブスクライバー向けキャッシュ有効期限インジケーター。名前付きサブエージェント（v2.1.89）: `@mention`構文で直接指定可能。削除: `/tag`・`/vim`キーバインディング。`/release-notes`はインタラクティブバージョンピッカーに再設計。
 > 詳細: references/reference_claude_code_april_2026_update.md を参照
 
+### /ultraplan — クラウド設計モード（自動収集 2026-04-12）
+リサーチプレビュー（v2.1.91以降）。設計フェーズをAnthropicクラウドに移し、Opus 4.6に最大30分委任。3起動法: `/ultraplan <指示>`・プロンプト内キーワード・ローカルplan承認時アップグレード。ステータス: `◇ ultraplan`（作成中）→`◇ needs your input`→`◆ ready`。3バリアント: Simple（サブエージェントなし）・Visual（Mermaid図）・Deep（リスク評価含む）。実行: クラウド実行 or テレポート（ローカル戻し）。制約: Bedrock/Vertex不可、起動後のローカル変更は反映されない。
+> 詳細: references/reference_claude_code_ultraplan_guide.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
