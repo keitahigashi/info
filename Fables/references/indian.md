@@ -75,4 +75,10 @@
 | indian-068 | ビルバルとカラスの数 | アクバルとビルバル逸話集（16世紀口承文学） | 2026-04-05 |
 | indian-069 | 三つの忠告をくれた鳥 | インド口承文学, ペトルス・アルフォンシ『知恵の教え』 | 2026-04-05 |
 
+| indian-070 | 月の湖と兎の使者 | nriol.com, en.wikisource.org | 2026-04-14 |
+| indian-071 | チドリと海 | talesofpanchatantra.com, mokshamelodies.in | 2026-04-14 |
+| indian-072 | 欲張りジャッカルと弓弦 | india-a2z.com, nriol.com | 2026-04-14 |
+| indian-073 | 孝行息子シャーマ | thejatakatales.com, en.wikipedia.org | 2026-04-14 |
+| indian-074 | 王コブラと蟻の大群 | fablereads.com, kidsshortmoralstories.com | 2026-04-14 |
+
 <!-- 出典追加時にここへ行を追加 -->

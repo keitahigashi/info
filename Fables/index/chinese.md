@@ -76,5 +76,10 @@
 | [chinese-069](../fables/chinese/chinese-069-three-visits-to-the-thatched-cottage.md) | 三顧の礼 | 優れた人材を得るには、地位ある者が謙虚に誠意を尽くさなければならない |
 | [chinese-070](../fables/chinese/chinese-070-seamless-heavenly-garment.md) | 天衣無縫 | 真に優れたものは技巧の痕跡を感じさせず、自然でありながら完璧である |
 | [chinese-071](../fables/chinese/chinese-071-fellowship-of-water-and-fish.md) | 水魚の交わり | 互いに欠くべからざるパートナーの存在こそが、大事を成す基盤である |
+| [chinese-072](../fables/chinese/chinese-072-hundred-hearings-not-as-good-as-one-seeing.md) | 百聞は一見に如かず | 他人から百回聞くよりも、自ら一度現場で見るほうがはるかに確かな判断材料になる |
+| [chinese-073](../fables/chinese/chinese-073-a-cornered-rat-bites-the-cat.md) | 窮鼠猫を噛む | 追い詰められた弱者は、普段恐れている強者に対してさえ必死の反撃に出ることがある |
+| [chinese-074](../fables/chinese/chinese-074-meng-of-wu.md) | 呉下の阿蒙 | 人は学びと努力によって大きく変わる。過去の印象で人を判断してはならない |
+| [chinese-075](../fables/chinese/chinese-075-peach-and-plum-speak-not.md) | 桃李物言わざれども下自ら蹊を成す | 真に徳のある人は自ら語らずとも、その人格に惹かれて人が自然と集まる |
+| [chinese-076](../fables/chinese/chinese-076-climbing-the-dragon-gate.md) | 登龍門 | 困難な試練を突破すれば、大きな飛躍と名声を得る道が開ける |
 
 <!-- 寓話追加時にここへ行を追加 -->

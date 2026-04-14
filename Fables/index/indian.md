@@ -1,4 +1,4 @@
-# インド寓話（64話）
+# インド寓話（74話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -74,5 +74,11 @@
 | [indian-067](../fables/indian/indian-067-the-monkey-gardeners.md) | 庭師になった猿たち | 物事を理解しない者に大事を任せれば、助けるつもりが破壊につながる。 |
 | [indian-068](../fables/indian/indian-068-birbal-and-the-emperors-crows.md) | ビルバルとカラスの数 | 答えられない問いには、反論しようのない論理で切り返すのが真の知恵である。 |
 | [indian-069](../fables/indian/indian-069-the-bird-with-three-counsels.md) | 三つの忠告をくれた鳥 | 賢者の忠告を聞いても、欲に駆られれば即座に忘れてしまう。 |
+
+| [indian-070](../fables/indian/indian-070-the-lake-of-the-moon.md) | 月の湖と兎の使者 | 知恵は力に勝る。小さく弱い者でも機知と心理的な駆け引きで巨大な敵を退けられる |
+| [indian-071](../fables/indian/indian-071-the-bird-pair-and-the-sea.md) | チドリと海 | 決意を持って正しく訴え味方を得れば、小さな者でも巨大な力に立ち向かえる |
+| [indian-072](../fables/indian/indian-072-the-greedy-jackal-and-the-bowstring.md) | 欲張りジャッカルと弓弦 | 過度の欲は身を滅ぼす。十分なものがあるのにさらに求めれば全てを失う |
+| [indian-073](../fables/indian/indian-073-the-devoted-son-sama.md) | 孝行息子シャーマ | 親への孝行は最も尊い徳であり、慈しみで他者に尽くす者は真実の力によって救われる |
+| [indian-074](../fables/indian/indian-074-the-king-cobra-and-the-ants.md) | 王コブラと蟻の大群 | 驕りは身を滅ぼす。どれほど強大な者でも弱者が団結すれば打ち倒される |
 
 <!-- 寓話追加時にここへ行を追加 -->
