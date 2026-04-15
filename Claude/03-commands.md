@@ -215,4 +215,8 @@ PR作成前品質ゲート: /simplify→/security-review→/diff→/commit-push-
 リサーチプレビュー（v2.1.91以降）。設計フェーズをAnthropicクラウドに移し、Opus 4.6に最大30分委任。3起動法: `/ultraplan <指示>`・プロンプト内キーワード・ローカルplan承認時アップグレード。ステータス: `◇ ultraplan`（作成中）→`◇ needs your input`→`◆ ready`。3バリアント: Simple（サブエージェントなし）・Visual（Mermaid図）・Deep（リスク評価含む）。実行: クラウド実行 or テレポート（ローカル戻し）。制約: Bedrock/Vertex不可、起動後のローカル変更は反映されない。
 > 詳細: references/reference_claude_code_ultraplan_guide.md を参照
 
+### v2.1.69〜v2.1.101 主要コマンド追加（自動収集 2026-04-15）
+5週間30+リリースで追加された主要コマンド: `/powerup`（使用履歴分析→未使用機能提案）、`/team-onboarding`（チーム新メンバー向けガイド自動生成）、`/release-notes`（リリースノート表示）、`/monitor`（バックグラウンド処理リアルタイム監視）。Focus View（Ctrl+O）でプロンプト・ツールサマリー・最終回答のみ表示。NO_FLICKERレンダリング（`CLAUDE_NO_FLICKER=1`）でストリーミング中のちらつき解消。
+> 詳細: references/reference_claude_code_v21101_30_releases.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

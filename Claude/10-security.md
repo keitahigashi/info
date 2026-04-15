@@ -256,4 +256,8 @@ GIZIN社（36名AI社員協働）で「AIが判断しAIが通した」3件の同
 自社MCPサーバー17個のセキュリティ設計。5層防御: (1)OAuth+SSO (2)スコープ制限（read-onlyから段階的追加） (3)データレベル保護 (4)PII自動匿名化 (5)監査ログ（BigQueryツール利用ログ・GCP Audit Log・CloudTrail統合）。設計原則: スコープ最小化、Firestoreベースのロール・パス管理、既存CLIをOAuthプロキシ背後に配置。
 > 詳細: references/reference_aircloset_mcp_servers_17.md を参照
 
+### PRレビュー自動化のセキュリティ設計（自動収集 2026-04-15）
+3ペルソナのうちsecurity-reviewはOWASP準拠チェック専任。自動マージ対象外: 認証・決済フロー変更、DBスキーマ変更、インフラ変更。フォールバック: キルスイッチ（`vars.CLAUDE_REVIEW_ENABLED`）、自動マージ率急変時アラート、`/review-block`で強制人間レビュー。信頼度スコアで段階的な自動化範囲拡大（0.8未満は人間レビュー必須）。
+> 詳細: references/reference_claude_code_pr_review_automation.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

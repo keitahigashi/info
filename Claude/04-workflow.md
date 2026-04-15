@@ -321,4 +321,12 @@ Agent定義（YAML: model・mcp_servers・tools）→Environment設定（unrestr
 Agent定義→Environment設定→Session開始→SSEイベントストリーミング。組み込みツール: bash・ファイル操作・Web検索・MCP接続。セッション制御: interruption（中断）・steering（方向修正）。単発自動化には過剰、長時間非同期タスクや大規模プロダクト統合向け。
 > 詳細: references/reference_managed_agents_api_architecture.md を参照
 
+### PRレビュー全自動化 — 83%自動マージへの段階的ロールアウト（自動収集 2026-04-15）
+Claude Code GitHub Actionsで3ペルソナ並列レビュー（品質・セキュリティ・インフラ）。信頼度スコア=一致度×CI通過率×変更規模（0.8以上で自動マージ）。6ヶ月計画: シャドーモード→10%→30%→83%自動マージ。コスト: 400行diffで$0.04/PR（10名チームで月$24）。キルスイッチ・強制人間レビューコマンド等のフォールバック設計あり。
+> 詳細: references/reference_claude_code_pr_review_automation.md を参照
+
+### GMO 8ステップ開発オーケストレーター（自動収集 2026-04-15）
+Skills・Rules・Hooks・Sub Agents・Agent Teams・Memoryの6機能で全工程8ステップ自動化。5つのAgentTeamテンプレート（Research・Implement-orchestrator・Independent-impl・Review・Debug）。経験則自動メモリ: Hook監視→パターン抽出→失敗3回以上でSkill昇格。ドキュメント800行超で自動分割、トークン消費3〜10分の1に削減。
+> 詳細: references/reference_claude_code_orchestrator_gmo.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
