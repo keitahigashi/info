@@ -76,4 +76,10 @@
 | african-069 | アキティ・ザ・ハンター | Ogumefu『Yoruba Legends』, sacred-texts.com | 2026-04-06 |
 | african-070 | カメと鳥たちの飛行 | イボ族口承, Achebe『Things Fall Apart』(1958), en.wikipedia.org | 2026-04-06 |
 
+| african-071 | アナンシと豆の壺 | storycove.com, anansestory.africa | 2026-04-15 |
+| african-072 | 二枚の皮を持つ女 | worldoftales.com, folkli.com | 2026-04-15 |
+| african-073 | 狩人とワニのバンバ | abookandahug.com, goodreads.com | 2026-04-15 |
+| african-074 | 竜を退治した王女タカネ | rejectedprincesses.com, thenerddaily.com | 2026-04-15 |
+| african-075 | ウサギとハイエナの農場 | africanstoryproject.weebly.com, lughayangu.com | 2026-04-15 |
+
 <!-- 出典追加時にここへ行を追加 -->

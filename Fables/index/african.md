@@ -1,4 +1,4 @@
-# アフリカ民話（70話）
+# アフリカ民話（75話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -75,5 +75,11 @@
 | [african-068](../fables/african/african-068-kalulu-the-hare-and-the-elephant.md) | カルル兎と象 | 知恵と勤勉さは蛮力に勝り、他人の成果を盗む者には報いが訪れる |
 | [african-069](../fables/african/african-069-akiti-the-hunter.md) | アキティ・ザ・ハンター | 過度な自信は危険であり、真の勝利は蛮力ではなく創意工夫によって得られる |
 | [african-070](../fables/african/african-070-the-tortoise-and-the-birds.md) | カメと鳥たちの飛行 | 貪欲さと狡猾さは必ず罰され、仲間を欺く者は孤立と破滅を招く |
+
+| [african-071](../fables/african/african-071-anansi-and-the-pot-of-beans.md) | アナンシと豆の壺 | 賢者の忠告を無視し誘惑に負ければ、自分自身が痛い目に遭う |
+| [african-072](../fables/african/african-072-the-woman-with-two-skins.md) | 二枚の皮を持つ女 | 外見に惑わされず内面の美しさを見抜くべきであり、嫉妬からの策略はいつか必ず暴かれる |
+| [african-073](../fables/african/african-073-the-hunterman-and-the-crocodile.md) | 狩人とワニのバンバ | 人間は自然の上に立つのではなく、あらゆる生き物と調和して共に生きるべきである |
+| [african-074](../fables/african/african-074-thakane-the-dragon-slayer.md) | 竜を退治した王女タカネ | 家族への責任を果たす勇気は性別を問わず、困難に立ち向かう者に道は開ける |
+| [african-075](../fables/african/african-075-hare-and-hyenas-farm.md) | ウサギとハイエナの農場 | 約束を破り仲間を欺く者は、いずれ自らの欲深さで全てを失う |
 
 <!-- 寓話追加時にここへ行を追加 -->
