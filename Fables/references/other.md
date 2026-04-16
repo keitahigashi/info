@@ -75,5 +75,10 @@
 | other-068 | 牛とロバ ── タルムードの寓話 | ユダヤ教タルムード | 申命記22:10注解, タルムード教育論 | 2026-04-06 |
 | other-069 | アフメド王子と妖精ペリ・バヌー | アラビアンナイト | Galland仏訳(1704-1717), ja.wikipedia.org | 2026-04-06 |
 | other-070 | 商人とオウム | ペルシア文学 | ルーミー『精神的マスナヴィー』第1巻(13世紀) | 2026-04-06 |
+| other-071 | ゲレルトの伝説 | ウェールズ民話 | thevintagenews.com, historic-uk.com | 2026-04-16 |
+| other-072 | 木こりと虎 | 韓国民話 | gathertales.com, koreasociety.org | 2026-04-16 |
+| other-073 | 嘆く柱 | ペルシア文学 | rumiurdu.blogspot.com, masnavi.net | 2026-04-16 |
+| other-074 | ナスレッディンの鏡 | トルコ寓話 | turkestantravel.com, thephilosophyman.com | 2026-04-16 |
+| other-075 | ラ・ジョローナ（泣く女） | ラテンアメリカ民話 | en.wikipedia.org, folklore.usc.edu | 2026-04-16 |
 
 <!-- 出典追加時にここへ行を追加 -->

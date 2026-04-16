@@ -1,4 +1,4 @@
-# アンデルセン童話（70話）
+# アンデルセン童話（75話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -75,5 +75,10 @@
 | [andersen-068](../fables/andersen/andersen-068-the-golden-treasure.md) | 金色の財宝 | 真の宝は外にではなく、内なる才能と人格の中にある |
 | [andersen-069](../fables/andersen/andersen-069-auntie-toothache.md) | 叔母さんの歯痛 | 芸術的野心と肉体的苦痛は表裏一体であり、苦悩もまた創造の源泉となりうる |
 | [andersen-070](../fables/andersen/andersen-070-lucky-peer.md) | 幸運のペーア | 真の幸運とは物質的な豊かさではなく、内なる才能と善良さの結合である |
+| [andersen-071](../fables/andersen/andersen-071-the-naughty-boy.md) | いたずらっ子 | 親切心への報いは必ずしも善ではなく、愛は人の意図を超えた結果をもたらす |
+| [andersen-072](../fables/andersen/andersen-072-the-rags.md) | ボロ布 | 国や文化の優越性を争うことは空虚であり、異なる者同士こそ互いを称え合える |
+| [andersen-073](../fables/andersen/andersen-073-its-quite-true.md) | 実にそのとおり！ | 噂は人から人へ渡るたびに膨れ上がり、やがて原形をとどめない嘘になる |
+| [andersen-074](../fables/andersen/andersen-074-under-the-willow-tree.md) | 柳の木の下で | 心の内を伝えなければ何も始まらず、沈黙は後悔を生むだけである |
+| [andersen-075](../fables/andersen/andersen-075-the-wind-tells-about-valdemar-daae.md) | 風がヴァルデマル・ダアエと娘たちについて語る | 富と地位への執着は一族の破滅を招き、貪欲は何も生み出さず全てを奪う |
 
 <!-- 寓話追加時にここへ行を追加 -->

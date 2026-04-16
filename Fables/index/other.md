@@ -1,4 +1,4 @@
-# その他（70話）
+# その他（75話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -75,5 +75,10 @@
 | [other-068](../fables/other/other-068-the-ox-and-the-donkey-talmud.md) | 牛とロバ ── タルムードの寓話 | すべての者に同じやり方を強いることは共倒れを招く |
 | [other-069](../fables/other/other-069-prince-ahmed-and-the-fairy-peri-banu.md) | アフメド王子と妖精ペリ・バヌー | 物質的な宝より、真心と誠実さこそが最も価値ある宝である |
 | [other-070](../fables/other/other-070-the-merchant-and-the-parrot.md) | 商人とオウム | 真の自由を得るには、自分が囚われていることにまず気づかなければならない |
+| [other-071](../fables/other/other-071-the-tale-of-gelert.md) | ゲレルトの伝説 | 事実を確かめずに行動すれば、最も忠実な味方を失う取り返しのつかない結果を招く |
+| [other-072](../fables/other/other-072-the-woodcutter-and-the-tiger.md) | 木こりと虎 | 窮地での機転は命を救い、思いがけない嘘が真の絆を生むこともある |
+| [other-073](../fables/other/other-073-the-moaning-pillar.md) | 嘆く柱 | 真の献身から引き離された者の嘆きは、物質的な存在すら魂の声をあげさせる |
+| [other-074](../fables/other/other-074-nasreddins-mirror.md) | ナスレッディンの鏡 | 自分の欠点に気づけない者は、目の前の真実を他人のせいにする |
+| [other-075](../fables/other/other-075-la-llorona.md) | ラ・ジョローナ（泣く女） | 絶望に飲み込まれた行いは永遠の苦しみとなり、取り返しのつかない罪は死後も魂を縛る |
 
 <!-- 寓話追加時にここへ行を追加 -->

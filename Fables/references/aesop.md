@@ -104,5 +104,10 @@
 | aesop-321 | 檻の中のライオンとキツネ | Perry Index #410, バブリウス『寓話集』 | 2026-04-06 |
 | aesop-322 | ダチョウ | Perry Index #418 | 2026-04-06 |
 | aesop-323 | もとは人間だったアリ | Perry Index #166, バブリウス『寓話集』第40話 | 2026-04-06 |
+| aesop-324 | 二人の姦夫 | Perry Index #420, シンティパス寓話集 | 2026-04-17 |
+| aesop-325 | 水夫と息子 | Perry Index #421, fablesofaesop.com | 2026-04-17 |
+| aesop-326 | 昔は人間だったワシ | Perry Index #422, シンティパス寓話集 | 2026-04-17 |
+| aesop-327 | ワシとミソサザイ | Perry Index #434, fablesofaesop.com, mythfolklore.net | 2026-04-17 |
+| aesop-328 | フクロウと野鳥たち | Perry Index #437, fablesofaesop.com, read.gov | 2026-04-17 |
 
 <!-- 出典追加時にここへ行を追加 -->

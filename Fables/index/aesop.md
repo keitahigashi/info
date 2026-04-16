@@ -1,4 +1,4 @@
-# イソップ寓話（323話）
+# イソップ寓話（326話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -326,5 +326,10 @@
 | [aesop-321](../fables/aesop/aesop-321-the-caged-lion-and-the-fox.md) | 檻の中のライオンとキツネ | 一時的な不運はその者の本質や価値を損なわない |
 | [aesop-322](../fables/aesop/aesop-322-the-ostrich.md) | ダチョウ | どちらにもいい顔をする者は、どちらからも信頼されない |
 | [aesop-323](../fables/aesop/aesop-323-the-ant-formerly-a-man.md) | もとは人間だったアリ | 姿形が変わっても生まれ持った性分は変わらない |
+| [aesop-324](../fables/aesop/aesop-324-the-two-adulterers.md) | 二人の姦夫 | 他者の秘密の手口を盗んだ者は、同じ手口で自らも出し抜かれる |
+| [aesop-325](../fables/aesop/aesop-325-the-sailor-and-his-son.md) | 水夫と息子 | どれほど巧みな弁論も、現実の事実を変えることはできない |
+| [aesop-326](../fables/aesop/aesop-326-the-eagle-once-a-man.md) | 昔は人間だったワシ | 過去に犯した悪行の報いは、いつか必ず自らの身に降りかかる |
+| [aesop-327](../fables/aesop/aesop-327-the-eagle-and-the-wren.md) | ワシとミソサザイ | 力で勝てぬ相手にも知恵で勝てるが、不正な勝利に真の栄光はない |
+| [aesop-328](../fables/aesop/aesop-328-the-owl-and-the-birds.md) | フクロウと野鳥たち | 賢者の忠告を嘲笑う者は、災いが現実になってから後悔する |
 
 <!-- 寓話追加時にここへ行を追加 -->

@@ -75,5 +75,10 @@
 | andersen-068 | 金色の財宝 | andersen.sdu.dk, andersenstories.com, アンデルセン(1865) | 2026-04-06 |
 | andersen-069 | 叔母さんの歯痛 | andersen.sdu.dk, en.wikisource.org, アンデルセン(1872) | 2026-04-06 |
 | andersen-070 | 幸運のペーア | andersen.sdu.dk, fairytalez.com, アンデルセン(1870) | 2026-04-06 |
+| andersen-071 | いたずらっ子 | andersen.sdu.dk, andersenstories.com, アンデルセン(1835) | 2026-04-16 |
+| andersen-072 | ボロ布 | andersen.sdu.dk, andersenstories.com, アンデルセン(1869) | 2026-04-16 |
+| andersen-073 | 実にそのとおり！ | andersen.sdu.dk, hcandersen-homepage.dk, アンデルセン(1852) | 2026-04-16 |
+| andersen-074 | 柳の木の下で | andersen.sdu.dk, andersenstories.com, アンデルセン(1852) | 2026-04-16 |
+| andersen-075 | 風がヴァルデマル・ダアエと娘たちについて語る | andersen.sdu.dk, andersenstories.com, アンデルセン(1859) | 2026-04-16 |
 
 <!-- 出典追加時にここへ行を追加 -->
