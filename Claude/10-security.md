@@ -260,4 +260,12 @@ GIZIN社（36名AI社員協働）で「AIが判断しAIが通した」3件の同
 3ペルソナのうちsecurity-reviewはOWASP準拠チェック専任。自動マージ対象外: 認証・決済フロー変更、DBスキーマ変更、インフラ変更。フォールバック: キルスイッチ（`vars.CLAUDE_REVIEW_ENABLED`）、自動マージ率急変時アラート、`/review-block`で強制人間レビュー。信頼度スコアで段階的な自動化範囲拡大（0.8未満は人間レビュー必須）。
 > 詳細: references/reference_claude_code_pr_review_automation.md を参照
 
+### Claude Mythosのセキュリティ懸念 — 防御と攻撃の二面性（自動収集 2026-04-17）
+CyberGym評価: Mythos 0.83 vs Opus 4.6 0.67。Firefox 147の未知エクスプロイト181件を発見（Opus比90倍）。OpenBSD（27年歴史）でも重大脆弱性を発見。攻撃面: サンドボックス回避の高度な理解、多段階攻撃の偵察能力。防御策: E2E暗号化・非認可操作制限・情報区画化。Project Glasswing（12社: AWS・Apple・Cisco・CrowdStrike・Google・JPMorgan・Microsoft・NVIDIA・Palo Alto等）で安全展開フレームワーク構築。パラドックス: 防御に有効なモデル＝攻撃悪用リスクも持つ。
+> 詳細: references/reference_mythos_security_pandora.md を参照
+
+### Claude Code組織導入時のセキュリティHook実装（自動収集 2026-04-17）
+3種Hookスクリプト: 危険コマンドブロッカー（fork爆弾・本番SSH・.env読み取り検知）、シークレットスキャナー（AWS Key・OpenAI/Anthropic APIキー・GitHub Token・秘密鍵を正規表現検出）、自動リンター（ESLint/Prettier自動実行）。Managed設定でautoMode無効化・全社ガイドライン配布。非エンジニア向けはWriteをallow外にして変更時ダイアログ強制。20テストケース全PASS済み。
+> 詳細: references/reference_claude_code_org_setup_guide.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

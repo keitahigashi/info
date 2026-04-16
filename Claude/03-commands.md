@@ -219,4 +219,8 @@ PR作成前品質ゲート: /simplify→/security-review→/diff→/commit-push-
 5週間30+リリースで追加された主要コマンド: `/powerup`（使用履歴分析→未使用機能提案）、`/team-onboarding`（チーム新メンバー向けガイド自動生成）、`/release-notes`（リリースノート表示）、`/monitor`（バックグラウンド処理リアルタイム監視）。Focus View（Ctrl+O）でプロンプト・ツールサマリー・最終回答のみ表示。NO_FLICKERレンダリング（`CLAUDE_NO_FLICKER=1`）でストリーミング中のちらつき解消。
 > 詳細: references/reference_claude_code_v21101_30_releases.md を参照
 
+### 1週間13リリースの新コマンド・ツール（自動収集 2026-04-17）
+4/8-15の主要新機能: **Monitor Tool**（v2.1.98）バックグラウンドプロセス監視→会話にイベント流入、pollingループ不要。**Advisor Tool** Sonnet/Opus2層分業、adviser呼出率30%超でexecutor見直し。**/autofix-pr** PR自動修正。**/team-onboarding** 運用ガイド自動生成。**Ultraplan** `/ultraplan <目的>`でクラウド側plan起草→CLI即座解放。**v2.1.105** PreCompact hook・plugin monitors。**v2.1.108** `ENABLE_PROMPT_CACHING_1H=1`でcache TTL 5分→1時間。**/recap** session復帰時の自動要約（turncost≈0）。
+> 詳細: references/reference_claude_code_13_releases_week.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

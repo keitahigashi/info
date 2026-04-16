@@ -176,4 +176,8 @@ Claude Codeを「優秀な新卒エンジニア」として扱う環境設計。
 AI生成UIで日本語表記に違和感が生じる問題（見出し折り返し・行間の浅さ・英語混在・フォーム窮屈さ・表の密度）。原因は「AIの精度不足」ではなく「日本語UIの設計契約が未整備」。解決策として「jp-ui-contracts」を公開。CLAUDE.mdがコーディング全般の振る舞い契約であるのに対し、DESIGN.mdはUI/デザインに特化した設計契約で、AI指示ファイルの分離・専門化の一例。
 > 詳細: references/reference_jp_ui_contracts_design_md.md を参照
 
+### Claude Code組織導入セットアップ — 4層設定・3パターンテンプレート（自動収集 2026-04-17）
+設定4層構造: Managed（不変・IT部門配布）> Local（個人・gitignore）> Project（共有・git管理）> User（個人）。3パターン: エンジニア向け（npm/git allow、rm -rf/sudo deny、3種Hook）、非エンジニア向け（dev/build/startのみ、Write非allow）、Managed（全マシン適用・autoMode無効化・全社アナウンス）。Hookスクリプト: 危険コマンドブロッカー・シークレットスキャナー（AWS/APIキー/秘密鍵正規表現検出）・自動リンター。導入3日間: Day1リポジトリ配置→Day2別環境テスト→Day3 IT協調デプロイ。
+> 詳細: references/reference_claude_code_org_setup_guide.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

@@ -341,4 +341,12 @@ Routines（Research Preview）はAnthropic管理クラウド上でClaude Codeを
 両CLIが6カテゴリで収斂: 拡張層（oh-my-claudecode27.5K vs oh-my-codex20.8K）・CI統合（claude-code-action vs codex-action）・サブエージェント・ベスプラ集・クロスプラットフォームFW（superpowers146K/everything-claude-code150K）・並列実行。設計哲学の差: Claude=エージェント自律性、Codex=人間承認ワークフロー。共通方向: Research→Plan→Execute→Review→Ship。
 > 詳細: references/reference_harness_ecosystem_trends_april.md を参照
 
+### Routinesハンズオン — 既存スケジューリングとの5軸比較・3サンプル設計（自動収集 2026-04-17）
+Routinesをローカルタスク・/loop・GitHub Actionsと5軸比較。Routinesの強み: PC不要のクラウド実行・YAML不要のGitHubイベント反応・ターミナルからの`/fire` APIオンデマンド起動。弱み: 最小間隔1h・個人紐づけ（チーム共有不可）・日次上限あり。3サンプル: 週次Activity→Slack（スケジュール）、ターミナル→Issue（API）、PR文書チェック（GitHubイベント）。注意: MCPコネクタがデフォルト全有効、cronがUTC基準、GitHubトリガーはPR+Releaseのみ（UIとドキュメントに乖離あり）。
+> 詳細: references/reference_routines_handson_comparison.md を参照
+
+### 1週間13リリースの戦略分析 — 画面・クラウド・組織の3面攻撃（自動収集 2026-04-17）
+4/8-15に13機能リリース。画面面: Desktop再設計・Focus view・3段階表示モード。クラウド面: Routines・Ultraplan（plan/実装分離）・Monitor tool（event-driven）・1hキャッシュ。組織面: Cowork Enterprise（RBAC・支出上限・OTel SIEM連携）・/team-onboarding・OS CA trust。Multi-agent 5パターン: Generator-verifier→Orchestrator-subagent→Agent teams→Message bus→Shared-state。「最も単純なパターンから始めて進化」が推奨。
+> 詳細: references/reference_claude_code_13_releases_week.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
