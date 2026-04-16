@@ -349,4 +349,22 @@ Routinesをローカルタスク・/loop・GitHub Actionsと5軸比較。Routine
 4/8-15に13機能リリース。画面面: Desktop再設計・Focus view・3段階表示モード。クラウド面: Routines・Ultraplan（plan/実装分離）・Monitor tool（event-driven）・1hキャッシュ。組織面: Cowork Enterprise（RBAC・支出上限・OTel SIEM連携）・/team-onboarding・OS CA trust。Multi-agent 5パターン: Generator-verifier→Orchestrator-subagent→Agent teams→Message bus→Shared-state。「最も単純なパターンから始めて進化」が推奨。
 > 詳細: references/reference_claude_code_13_releases_week.md を参照
 
+### Routines完全ガイド — トリガー・上限・セキュリティ設計（自動収集 2026-04-17）
+- 3トリガー: スケジュール（ローカルTZ対応）、API（HTTPエンドポイント+トークン発行）、GitHubイベント（著者・タイトル・ブランチフィルタ可）
+- プラン別日次上限: Pro 5回、Max/Team 25回、Enterprise 25回（超過従量課金）
+- セキュリティ: `claude/`プレフィックスブランチのみプッシュ可。AI生成PRは必ず人間レビュー後にマージ
+- 設定3ステップ: routines画面→トリガー選択→コネクタ接続。PCオフでもAnthropicクラウドで継続実行
+> 詳細: references/reference_routines_complete_guide_jinrai.md を参照
+
+### RoutinesでGAS定期タスク置き換え（自動収集 2026-04-17）
+- GASはスプレッドシート連携に強く、Routinesは複数SaaS連携×自然言語判断に最適
+- GAS廃止ではなく補完的活用を推奨。MCPコネクタは権限最小限で選定
+- Research Preview段階のため仕様変更の可能性あり
+> 詳細: references/reference_routines_gas_replacement.md を参照
+
+### 30連続アップデート注目機能カテゴリ整理（自動収集 2026-04-17）
+- 5週間でv2.1.69→v2.1.101、30+リリース。Opus 4.6 1Mコンテキスト正式GA
+- カテゴリ別に整理され、開発者体験を根本から変える機能群が一気に追加
+> 詳細: references/reference_claude_code_30_updates_note.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

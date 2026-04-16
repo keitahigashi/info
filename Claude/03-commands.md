@@ -223,4 +223,9 @@ PR作成前品質ゲート: /simplify→/security-review→/diff→/commit-push-
 4/8-15の主要新機能: **Monitor Tool**（v2.1.98）バックグラウンドプロセス監視→会話にイベント流入、pollingループ不要。**Advisor Tool** Sonnet/Opus2層分業、adviser呼出率30%超でexecutor見直し。**/autofix-pr** PR自動修正。**/team-onboarding** 運用ガイド自動生成。**Ultraplan** `/ultraplan <目的>`でクラウド側plan起草→CLI即座解放。**v2.1.105** PreCompact hook・plugin monitors。**v2.1.108** `ENABLE_PROMPT_CACHING_1H=1`でcache TTL 5分→1時間。**/recap** session復帰時の自動要約（turncost≈0）。
 > 詳細: references/reference_claude_code_13_releases_week.md を参照
 
+### 30連続アップデート注目機能まとめ（自動収集 2026-04-17）
+- 5週間でv2.1.69→v2.1.101、30+リリース。開発者体験を根本から変えるレベルの機能追加
+- Opus 4.6 1Mコンテキストウィンドウが正式GA。約75万語を1セッションで処理可能
+> 詳細: references/reference_claude_code_30_updates_note.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
