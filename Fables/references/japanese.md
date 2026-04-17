@@ -75,5 +75,10 @@
 | japanese-068 | 河童の雨乞い | folktalesjpn.com, minwanoheya.jp | 2026-04-07 |
 | japanese-069 | 糠福と米福 | kotobank.jp, t-bunkyo.jp | 2026-04-07 |
 | japanese-070 | 飯降山 | arasuji-m.com, fukublo.jp | 2026-04-07 |
+| japanese-071 | 稲むらの火 | ja.wikipedia.org, en.wikipedia.org, 広川町公式 | 2026-04-17 |
+| japanese-072 | やまなしもぎ | pictbook.info, 福音館書店(1959) | 2026-04-17 |
+| japanese-073 | 宝の下駄 | minwanoheya.jp, まんが日本昔ばなしDB | 2026-04-17 |
+| japanese-074 | 天狗の羽うちわ | folktalesjpn.com, まんが日本昔ばなしDB | 2026-04-17 |
+| japanese-075 | 火男 | minwanoheya.jp, まんが日本昔ばなしDB | 2026-04-17 |
 
 <!-- 出典追加時にここへ行を追加 -->

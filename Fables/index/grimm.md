@@ -1,4 +1,4 @@
-# グリム童話（75話）
+# グリム童話（80話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -79,5 +79,10 @@
 | [grimm-073](../fables/grimm/grimm-073-the-two-travelers.md) | 二人の旅人 | 善良で誠実な者は苦難の果てに必ず報われ、悪意ある者は自らの企みによって身を滅ぼす |
 | [grimm-074](../fables/grimm/grimm-074-deaths-messengers.md) | 死の使い | 病や老いの兆候はすべて死からの使いであり、それに気づかぬ者は覚悟のないまま最期を迎える |
 | [grimm-075](../fables/grimm/grimm-075-the-peasant-and-the-devil.md) | 百姓と悪魔 | 知恵と機転があれば、強大な相手の裏をかき、不利な契約からでも利を得ることができる |
+| [grimm-076](../fables/grimm/grimm-076-the-willful-child.md) | わがままな子ども | 親への不従順は自らを滅ぼし、死後も安らぎを得られない |
+| [grimm-077](../fables/grimm/grimm-077-the-dog-and-the-sparrow.md) | 犬と雀 | 小さき者の警告を軽んじてはならず、弱者を見くびる傲慢さは自らの身を滅ぼす |
+| [grimm-078](../fables/grimm/grimm-078-the-wolf-and-the-fox.md) | 狼と狐 | 貪欲は身を滅ぼし、用心深い節制こそが生き延びる知恵である |
+| [grimm-079](../fables/grimm/grimm-079-the-shroud.md) | きょうかたびら | 過度な悲嘆は亡き者の安らぎを妨げ、死を受け入れることで生者も死者も安らぎを得られる |
+| [grimm-080](../fables/grimm/grimm-080-eves-various-children.md) | エバのふぞろいの子どもたち | すべての職業・役割には固有の価値があり、互いが不可欠な存在として社会を支え合っている |
 
 <!-- 寓話追加時にここへ行を追加 -->

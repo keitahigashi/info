@@ -80,5 +80,10 @@
 | grimm-073 | 二人の旅人 | grimmstories.com, grimmdowaclub.net, KHM107 | 2026-04-10 |
 | grimm-074 | 死の使い | grimmstories.com, grimmdowaclub.net, KHM177 | 2026-04-10 |
 | grimm-075 | 百姓と悪魔 | grimmstories.com, grimmdowaclub.net, KHM189 | 2026-04-10 |
+| grimm-076 | わがままな子ども | en.wikipedia.org, KHM117 | 2026-04-17 |
+| grimm-077 | 犬と雀 | grimmdowaclub.net, grimmstories.com, KHM58 | 2026-04-17 |
+| grimm-078 | 狼と狐 | en.wikipedia.org, grimmstories.com, KHM73 | 2026-04-17 |
+| grimm-079 | きょうかたびら | sites.pitt.edu, grimmdowaclub.net, KHM109 | 2026-04-17 |
+| grimm-080 | エバのふぞろいの子どもたち | sites.pitt.edu, grimmstories.com, KHM180 | 2026-04-17 |
 
 <!-- 出典追加時にここへ行を追加 -->

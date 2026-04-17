@@ -1,4 +1,4 @@
-# 日本昔話（70話）
+# 日本昔話（75話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -75,5 +75,10 @@
 | [japanese-068](../fables/japanese/japanese-068-the-kappas-prayer-for-rain.md) | 河童の雨乞い | 過去の過ちは改心と行動によって償うことができる |
 | [japanese-069](../fables/japanese/japanese-069-nukafuku-and-komefuku.md) | 糠福と米福 | 辛い境遇でも誠実で優しい心を失わなければ、やがて報われる |
 | [japanese-070](../fables/japanese/japanese-070-mount-iburiyama.md) | 飯降山 | 欲望に際限はなく、欲に駆られて他者を害すれば自らも破滅する |
+| [japanese-071](../fables/japanese/japanese-071-inamura-no-hi.md) | 稲むらの火 | 災害時には一刻も早い判断と行動が命を救い、自らの財産を犠牲にしてでも人命を守る覚悟が求められる |
+| [japanese-072](../fables/japanese/japanese-072-picking-mountain-pears.md) | やまなしもぎ | 困っている人には親切にすべきであり、他者の助言に素直に耳を傾ける謙虚さが困難を乗り越える力となる |
+| [japanese-073](../fables/japanese/japanese-073-the-treasure-geta.md) | 宝の下駄 | 授かった幸運は必要な分だけ感謝して受け取る謙虚さが幸福をもたらし、際限なく欲を出す者は自らの身を滅ぼす |
+| [japanese-074](../fables/japanese/japanese-074-the-tengus-fan.md) | 天狗の羽うちわ | 不正な手段で得た力を悪用すれば、いずれ自分に跳ね返ってくる |
+| [japanese-075](../fables/japanese/japanese-075-hyottoko-the-fire-boy.md) | 火男 | 授かった幸運は感謝して大切に扱うべきであり、欲を出しすぎれば幸福そのものを失ってしまう |
 
 <!-- 寓話追加時にここへ行を追加 -->
