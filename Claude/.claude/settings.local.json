@@ -4,7 +4,13 @@
       "Bash(cp \"C:/Users/keita/.claude/projects/D--020-Work-05-environment-01_active-Info/memory/reference_claude_interactive_diagrams.md\" \"C:/Users/keita/.claude/projects/D--020-Work-05-environment-01-active-Info/memory/reference_claude_interactive_diagrams.md\" && rm \"C:/Users/keita/.claude/projects/D--020-Work-05-environment-01_active-Info/memory/reference_claude_interactive_diagrams.md\")",
       "Bash(mkdir -p \"D:/020_Work/05_environment/01_active/Info/Claude/references\" && cp \"C:/Users/keita/.claude/projects/D--020-Work-05-environment-01-active-Info/memory/reference_\"*.md \"D:/020_Work/05_environment/01_active/Info/Claude/references/\" && ls \"D:/020_Work/05_environment/01_active/Info/Claude/references/\" | wc -l)",
       "Bash(rm \"C:/Users/keita/.claude/projects/D--020-Work-05-environment-01-active-Info/memory/reference_\"*.md)",
-      "Read(//c/Users/keita/.claude/projects/D--020-Work-05-environment-01-active-Info/memory/**)"
+      "Read(//c/Users/keita/.claude/projects/D--020-Work-05-environment-01-active-Info/memory/**)",
+      "Read(//mnt/skills/public/**)",
+      "Read(//c/Users/keita/AppData/Roaming/Claude/local-agent-mode-sessions/skills-plugin/**)",
+      "Bash(npm list:*)",
+      "Read(//c/Program Files/LibreOffice/program/**)",
+      "Read(//c/Program Files \\(x86\\)/LibreOffice/program/**)",
+      "Bash(pip show:*)"
     ]
   }
 }

@@ -1,4 +1,4 @@
-# 中国故事（66話）
+# 中国故事（81話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -81,5 +81,10 @@
 | [chinese-074](../fables/chinese/chinese-074-meng-of-wu.md) | 呉下の阿蒙 | 人は学びと努力によって大きく変わる。過去の印象で人を判断してはならない |
 | [chinese-075](../fables/chinese/chinese-075-peach-and-plum-speak-not.md) | 桃李物言わざれども下自ら蹊を成す | 真に徳のある人は自ら語らずとも、その人格に惹かれて人が自然と集まる |
 | [chinese-076](../fables/chinese/chinese-076-climbing-the-dragon-gate.md) | 登龍門 | 困難な試練を突破すれば、大きな飛躍と名声を得る道が開ける |
+| [chinese-077](../fables/chinese/chinese-077-su-wu-herding-sheep.md) | 蘇武牧羊 | いかなる脅迫や誘惑にも屈せず、信念と忠誠を貫く者こそ真に尊い |
+| [chinese-078](../fables/chinese/chinese-078-crawling-under-the-crotch.md) | 胯下之辱 | 大志を抱く者は一時の屈辱に耐え、より大きな目標のために自制する勇気を持つべきである |
+| [chinese-079](../fables/chinese/chinese-079-li-guang-never-enfeoffed.md) | 李広難封 | 個人の武勇だけでは真の成功は得られず、人望・時運・徳が揃ってはじめて大業は成る |
+| [chinese-080](../fables/chinese/chinese-080-hero-with-no-battlefield.md) | 英雄無用武之地 | いかに優れた才能も、発揮する場がなければ宝の持ち腐れとなる |
+| [chinese-081](../fables/chinese/chinese-081-you-mengs-costume.md) | 優孟衣冠 | 機知と風刺を巧みに用いれば、権力者の心をも動かして不正を正すことができる |
 
 <!-- 寓話追加時にここへ行を追加 -->
