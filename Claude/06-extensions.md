@@ -286,4 +286,8 @@ MCPサーバー追加しすぎのコンテキスト圧迫対策。`claude --mcp-
 国産MAツール「UTAGE」（17,000社導入）がMCP対応。Claude/Claude CodeからLP自動作成・ファネル管理・ページコンテンツ配置・メディア管理・メール/LINE配信管理を自然言語指示で実行可能。従来数時間のLP作成が「〇〇用のLPを作成して」の一言で自動完了。今後: 決済連携・会員サイト構築・アクセス解析等も順次MCP対応予定。
 > 詳細: references/reference_utage_mcp_api.md を参照
 
+### AWS MCP Server（Remote）でAWSサービスを自然言語操作（自動収集 2026-04-18）
+AWSマネージドリモートMCPサービス。15,000+のAWS API呼び出しを生成・実行可能。IAM認証（`aws-mcp:InvokeMcp`/`CallReadOnlyTool`/`CallReadWriteTool`）。`.mcp.json`に`uvx mcp-proxy-for-aws@latest`を設定し、`--metadata AWS_REGION=ap-northeast-1`でリージョン指定。S3一覧・Lambda関数確認等を自然言語で実行可能。注意: ReadWriteTool権限はIAMで厳格に制限すること。サービス自体は無料（US East限定）。
+> 詳細: references/reference_aws_mcp_server_remote.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

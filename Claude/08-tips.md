@@ -360,4 +360,8 @@ SIerインフラ/セキュリティ担当（非プログラマー）がPython約
 大規模AWSサーバーレスプロジェクト（TS 3万行・Lambda 20+・Terraform 170+）での実践事例。Lambda関数追加が数時間→30分、Terraform追加が1時間→15分に短縮。成功の鍵は「CLAUDE.mdの質 = 生成コードの質」で、コーディング規約・テスト方針・Terraformルール・API設計標準を明文化すること。既存パターンの踏襲作業で最も効率化が顕著。IAMポリシーのレビュー省略や複雑ロジックの一発生成は避けるべき失敗パターン。
 > 詳細: メモリ内 reference_claude_code_aws_serverless.md を参照
 
+### claude-code-best-practice 定量指針5つ（自動収集 2026-04-18）
+45,400+ Stars リポジトリの定量運用指針: (1)CLAUDE.md 200行以下 (2)PR分割中央値118行 (3)コンテキスト使用率50%で手動/compact・80%で自動compact(`CLAUDE_AUTOCOMPACT_PCT_OVERRIDE`) (4)小規模タスクはvanilla ccがワークフローより効率的 (5)複雑タスク前は必ずPlan Mode。settings.json権限3層: allow(日常25項目)・ask(破壊的22項目)・deny空。Cross-Model検証: Plan(Claude)→QA(Codex)→Implement(Claude)→Verify(Codex)でバイアス回避。
+> 詳細: references/reference_claude_code_best_practice_quantitative.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
