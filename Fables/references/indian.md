@@ -80,5 +80,7 @@
 | indian-072 | 欲張りジャッカルと弓弦 | india-a2z.com, nriol.com | 2026-04-14 |
 | indian-073 | 孝行息子シャーマ | thejatakatales.com, en.wikipedia.org | 2026-04-14 |
 | indian-074 | 王コブラと蟻の大群 | fablereads.com, kidsshortmoralstories.com | 2026-04-14 |
+| indian-075 | 軽率さの代償 | talesofpanchatantra.com, readandripe.com | 2026-04-20 |
+| indian-076 | ミッタヴィンダの呪い | wisdomlib.org, tricycle.org | 2026-04-20 |
 
 <!-- 出典追加時にここへ行を追加 -->

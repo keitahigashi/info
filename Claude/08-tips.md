@@ -368,4 +368,8 @@ SIerインフラ/セキュリティ担当（非プログラマー）がPython約
 初回正答率を大幅向上させる7手法: (1)ゴールファースト（最終状態を冒頭に）、(2)制約の明示（やってはいけないこと）、(3)Before/After提示（変換パターンの具体例）、(4)段階的タスク分解、(5)検証手順の組み込み（テスト・lint・curl）、(6)CLAUDE.mdとの連携（チーム全員Git共有）、(7)コンテキストウィンドウ最適化（/compact・/mcp disable）。必須: ゴールファースト・制約明示・CLAUDE.md連携。
 > 詳細: メモリ内 reference_claude_code_prompt_engineering_7.md を参照
 
+### Obsidian Vault連携プロジェクト運用（自動収集 2026-04-20）
+Claude Code専用プロジェクトでObsidian Vaultに成果物集約。6フォルダ分類（daily/coding/research/docs/references/archive）をCLAUDE.mdのルール表で自動化。settings.jsonでmodel・effortLevel・思考量を固定し安定運用。everything-claude-codeプラグインで8種スラッシュコマンド活用。USB/ZIP移行可能なポータブル設計。
+> 詳細: references/reference_claude_code_obsidian_vault_project.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

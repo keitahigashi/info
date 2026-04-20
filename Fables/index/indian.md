@@ -1,4 +1,4 @@
-# インド寓話（74話）
+# インド寓話（76話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -80,5 +80,7 @@
 | [indian-072](../fables/indian/indian-072-the-greedy-jackal-and-the-bowstring.md) | 欲張りジャッカルと弓弦 | 過度の欲は身を滅ぼす。十分なものがあるのにさらに求めれば全てを失う |
 | [indian-073](../fables/indian/indian-073-the-devoted-son-sama.md) | 孝行息子シャーマ | 親への孝行は最も尊い徳であり、慈しみで他者に尽くす者は真実の力によって救われる |
 | [indian-074](../fables/indian/indian-074-the-king-cobra-and-the-ants.md) | 王コブラと蟻の大群 | 驕りは身を滅ぼす。どれほど強大な者でも弱者が団結すれば打ち倒される |
+| [indian-075](../fables/indian/indian-075-the-price-of-indiscretion.md) | 軽率さの代償 | 仲間の忠告を軽んじる傲慢さは必ず災いを招く |
+| [indian-076](../fables/indian/indian-076-the-curse-of-mittavinda.md) | ミッタヴィンダの呪い | 他者への嫉妬と妨害は、長きにわたる苦しみとなって自らに返る |
 
 <!-- 寓話追加時にここへ行を追加 -->
