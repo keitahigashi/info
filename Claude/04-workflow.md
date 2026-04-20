@@ -367,4 +367,8 @@ Routinesをローカルタスク・/loop・GitHub Actionsと5軸比較。Routine
 - カテゴリ別に整理され、開発者体験を根本から変える機能群が一気に追加
 > 詳細: references/reference_claude_code_30_updates_note.md を参照
 
+### モバイルプッシュ通知と非同期開発パターン（自動収集 2026-04-20）
+v2.1.110でRemote Control有効セッションにモバイルプッシュ通知追加。Claudeの判断ポイントで自動通知→モバイルから承認・指示可能。実践パターン: テスト実行→離席→通知→リモート承認、夜間バッチ→通勤中に通知→Remote Control回答。注意: 本番環境での自動承認はリスク大。
+> 詳細: メモリ内 reference_claude_code_tui_mobile_remote.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

@@ -364,4 +364,8 @@ SIerインフラ/セキュリティ担当（非プログラマー）がPython約
 45,400+ Stars リポジトリの定量運用指針: (1)CLAUDE.md 200行以下 (2)PR分割中央値118行 (3)コンテキスト使用率50%で手動/compact・80%で自動compact(`CLAUDE_AUTOCOMPACT_PCT_OVERRIDE`) (4)小規模タスクはvanilla ccがワークフローより効率的 (5)複雑タスク前は必ずPlan Mode。settings.json権限3層: allow(日常25項目)・ask(破壊的22項目)・deny空。Cross-Model検証: Plan(Claude)→QA(Codex)→Implement(Claude)→Verify(Codex)でバイアス回避。
 > 詳細: references/reference_claude_code_best_practice_quantitative.md を参照
 
+### プロンプト設計術7テクニック（自動収集 2026-04-20）
+初回正答率を大幅向上させる7手法: (1)ゴールファースト（最終状態を冒頭に）、(2)制約の明示（やってはいけないこと）、(3)Before/After提示（変換パターンの具体例）、(4)段階的タスク分解、(5)検証手順の組み込み（テスト・lint・curl）、(6)CLAUDE.mdとの連携（チーム全員Git共有）、(7)コンテキストウィンドウ最適化（/compact・/mcp disable）。必須: ゴールファースト・制約明示・CLAUDE.md連携。
+> 詳細: メモリ内 reference_claude_code_prompt_engineering_7.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

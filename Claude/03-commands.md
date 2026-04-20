@@ -228,4 +228,8 @@ PR作成前品質ゲート: /simplify→/security-review→/diff→/commit-push-
 - Opus 4.6 1Mコンテキストウィンドウが正式GA。約75万語を1セッションで処理可能
 > 詳細: references/reference_claude_code_30_updates_note.md を参照
 
+### /tui fullscreen・Remote Controlコマンド拡張（自動収集 2026-04-20）
+v2.1.110で追加。`/tui fullscreen` でちらつきのない全画面ターミナル表示（tmux/iTerm2問題解消）。Remote Controlに4コマンド追加: `/autocompact`（自動圧縮制御）、`/context`（残トークン確認）、`/exit`（安全終了）、`/reload-plugins`（プラグイン再読込）。
+> 詳細: メモリ内 reference_claude_code_tui_mobile_remote.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
