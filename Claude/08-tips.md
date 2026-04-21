@@ -372,4 +372,8 @@ SIerインフラ/セキュリティ担当（非プログラマー）がPython約
 Claude Code専用プロジェクトでObsidian Vaultに成果物集約。6フォルダ分類（daily/coding/research/docs/references/archive）をCLAUDE.mdのルール表で自動化。settings.jsonでmodel・effortLevel・思考量を固定し安定運用。everything-claude-codeプラグインで8種スラッシュコマンド活用。USB/ZIP移行可能なポータブル設計。
 > 詳細: references/reference_claude_code_obsidian_vault_project.md を参照
 
+### Claude Code Meetup Japan #4 技術知見（自動収集 2026-04-21）
+Microsoft会場LT大会14セッション。注目知見: Planner→Builder→Variator 3段階で音声→1-3hプロトタイプ自動生成。PRD.md+spec.json+context.jsonの3ファイル要件定義自動化。Kaggle 3,800チーム中5位（人間=アイデア、AI=実装のロール分担）。組織展開: Team Plan+Managed Settings+Jamf(MDM)で数百台一元配布。M5Stackロボット開発でも有効性実証。
+> 詳細: references/reference_claude_code_meetup_japan_4.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

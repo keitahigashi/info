@@ -232,4 +232,8 @@ PR作成前品質ゲート: /simplify→/security-review→/diff→/commit-push-
 v2.1.110で追加。`/tui fullscreen` でちらつきのない全画面ターミナル表示（tmux/iTerm2問題解消）。Remote Controlに4コマンド追加: `/autocompact`（自動圧縮制御）、`/context`（残トークン確認）、`/exit`（安全終了）、`/reload-plugins`（プラグイン再読込）。
 > 詳細: メモリ内 reference_claude_code_tui_mobile_remote.md を参照
 
+### /init インタビューモードで自動セットアップ（自動収集 2026-04-21）
+`CLAUDE_CODE_NEW_INIT=1` で有効化。対話形式で技術スタック・習熟度・コミュニケーション設定を質問し、CLAUDE.md・CLAUDE.local.md・スキル（/verify, /setup-env）・フック（ruff/prettier自動フォーマット）を自動生成。Project/Personal/両方の選択可能。`~/.claude/settings.json` に記述で永続化。
+> 詳細: references/reference_claude_code_init_interview_mode.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
