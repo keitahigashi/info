@@ -549,4 +549,12 @@ Node.js依存排除のGo-nativeハーネス。5 verb skills（plan/work/review/r
 Claude Code Game Studiosの安全装置設計: 12種自動検証フック+11種パス別コーディングルールでAI提案を人間が承認するHuman-in-the-loop。Tier1(Opus)→Tier2(Sonnet)→Tier3(Sonnet/Haiku)の階層でモデルコスト最適化。72スキルを/コマンド形式で提供し、開発フロー全体をカバー。
 > 詳細: references/reference_claude_code_game_studios.md を参照
 
+### Harness最適化7軸フレームワーク（自動収集 2026-04-22）
+ECC（everything-claude-code）のHarness Audit 7軸70点満点: Tool Coverage・Context Efficiency・Quality Gates・Memory Persistence・Eval Coverage・Security Guardrails・Cost Efficiency（各10pt）。コスト最適化設定例: model=sonnet（-60%）、MAX_THINKING_TOKENS=10000（推論-70%）、サブエージェント=haiku。ECCツール規模: agents 30・skills 135・commands 60。核心: 「出力品質向上にはプロダクトコードではなくHarness設定を改善する」。
+> 詳細: references/reference_harness_optimization_7_axes.md を参照
+
+### Claude Code 7層設定の本番運用（自動収集 2026-04-22）
+Babushka AI提供の7層設定テンプレート（CLAUDE.md・Auto Memory・rules・settings.json・Hooks・Skills・MCP）。権限設定の優先順位6段階。セットアップスクリプトで一括プロビジョニング可能。
+> 詳細: references/reference_claude_code_full_config_production.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

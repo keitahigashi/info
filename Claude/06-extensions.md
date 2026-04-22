@@ -290,4 +290,8 @@ MCPサーバー追加しすぎのコンテキスト圧迫対策。`claude --mcp-
 AWSマネージドリモートMCPサービス。15,000+のAWS API呼び出しを生成・実行可能。IAM認証（`aws-mcp:InvokeMcp`/`CallReadOnlyTool`/`CallReadWriteTool`）。`.mcp.json`に`uvx mcp-proxy-for-aws@latest`を設定し、`--metadata AWS_REGION=ap-northeast-1`でリージョン指定。S3一覧・Lambda関数確認等を自然言語で実行可能。注意: ReadWriteTool権限はIAMで厳格に制限すること。サービス自体は無料（US East限定）。
 > 詳細: references/reference_aws_mcp_server_remote.md を参照
 
+### おすすめMCPサーバー15選 2026年版（自動収集 2026-04-22）
+10,000超の公開MCPサーバーから実用性の高い15選を5カテゴリに分類。コード・開発: GitHub/Filesystem/PostgreSQL/Playwright。チーム・業務: Slack/Google Drive/M365/Notion。Web検索: Exa/Brave/Firecrawl。クリエイティブ: Canva/Figma。自動化: Taskade/Zapier。注意: 5サーバー同時接続で10,000〜15,000トークン消費、10サーバー以上はMCPゲートウェイ検討。
+> 詳細: references/reference_mcp_servers_15_recommendation.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

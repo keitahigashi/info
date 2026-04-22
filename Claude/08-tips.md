@@ -376,4 +376,8 @@ Claude Code専用プロジェクトでObsidian Vaultに成果物集約。6フォ
 Microsoft会場LT大会14セッション。注目知見: Planner→Builder→Variator 3段階で音声→1-3hプロトタイプ自動生成。PRD.md+spec.json+context.jsonの3ファイル要件定義自動化。Kaggle 3,800チーム中5位（人間=アイデア、AI=実装のロール分担）。組織展開: Team Plan+Managed Settings+Jamf(MDM)で数百台一元配布。M5Stackロボット開発でも有効性実証。
 > 詳細: references/reference_claude_code_meetup_japan_4.md を参照
 
+### Claude Codeと暮らす: 母艦ワークスペース運用（自動収集 2026-04-22）
+個別プロジェクトではなく統一ワークスペースを母艦に運用。記憶基盤はGraphiti+FalkorDB（因果関係検索）とPostgreSQL+pgvector（セマンティック検索）の二刀流、Ollamaでローカル処理。朝`/morning`→午前`/context-load`→午後`/research`→終業`/daily-log`の1日パターン。SessionEndフックで自動サマリー→ナレッジグラフ登録。Happy CLI（E2E暗号化）でモバイルからも接続。
+> 詳細: references/reference_claude_code_daily_living.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
