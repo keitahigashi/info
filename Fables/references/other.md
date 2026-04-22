@@ -80,5 +80,10 @@
 | other-073 | 嘆く柱 | ペルシア文学 | rumiurdu.blogspot.com, masnavi.net | 2026-04-16 |
 | other-074 | ナスレッディンの鏡 | トルコ寓話 | turkestantravel.com, thephilosophyman.com | 2026-04-16 |
 | other-075 | ラ・ジョローナ（泣く女） | ラテンアメリカ民話 | en.wikipedia.org, folklore.usc.edu | 2026-04-16 |
+| other-076 | オルフェウスとエウリュディケー | ギリシャ神話 | ja.wikipedia.org（オルペウス）, greek-myth.info | 2026-04-22 |
+| other-077 | 船乗りシンドバッドの冒険 | アラビア文学（千夜一夜物語） | ja.wikipedia.org（シンドバッド）, kaleela.com | 2026-04-22 |
+| other-078 | ブレア・ラビットとタールの人形 | アフリカ系アメリカ民話 | pressbooks.ccconline.org, kidsgen.com | 2026-04-22 |
+| other-079 | ウィリアム・テル | スイス伝説 | ja.wikipedia.org（ウィリアム・テル）, hugkum.sho.jp | 2026-04-22 |
+| other-080 | シグルズとファフニール | 北欧神話（ヴォルスング・サガ） | ja.wikipedia.org（ファフニール）, melcolon.com | 2026-04-22 |
 
 <!-- 出典追加時にここへ行を追加 -->

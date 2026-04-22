@@ -80,5 +80,10 @@
 | [other-073](../fables/other/other-073-the-moaning-pillar.md) | 嘆く柱 | 真の献身から引き離された者の嘆きは、物質的な存在すら魂の声をあげさせる |
 | [other-074](../fables/other/other-074-nasreddins-mirror.md) | ナスレッディンの鏡 | 自分の欠点に気づけない者は、目の前の真実を他人のせいにする |
 | [other-075](../fables/other/other-075-la-llorona.md) | ラ・ジョローナ（泣く女） | 絶望に飲み込まれた行いは永遠の苦しみとなり、取り返しのつかない罪は死後も魂を縛る |
+| [other-076](../fables/other/other-076-orpheus-and-eurydice.md) | オルフェウスとエウリュディケー | 愛する者への信頼を最後まで貫かなければ、たった一瞬の疑いが取り返しのつかない悲劇を招く |
+| [other-077](../fables/other/other-077-sinbad-the-sailor.md) | 船乗りシンドバッドの冒険 | どんな困難も知恵と勇気と忍耐で乗り越えることができ、真の富は苦労の末にのみ得られる |
+| [other-078](../fables/other/other-078-brer-rabbit-and-the-tar-baby.md) | ブレア・ラビットとタールの人形 | 力では勝てない相手でも、冷静な知恵と機転で逆境を生き抜くことができる |
+| [other-079](../fables/other/other-079-william-tell.md) | ウィリアム・テル | 不正な権力への屈服を拒み、命をかけて自由と尊厳を守ることが、民族の解放への道を開く |
+| [other-080](../fables/other/other-080-sigurd-and-fafnir.md) | シグルズとファフニール——竜殺しの英雄と呪われた黄金 | 強欲が人を獣に変え、呪われた財宝への執着は英雄をも滅ぼす——真の知恵は力ではなく、欲望を制することにある |
 
 <!-- 寓話追加時にここへ行を追加 -->
