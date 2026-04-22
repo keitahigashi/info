@@ -1,4 +1,4 @@
-# アフリカ民話（75話）
+# アフリカ民話（80話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -81,5 +81,11 @@
 | [african-073](../fables/african/african-073-the-hunterman-and-the-crocodile.md) | 狩人とワニのバンバ | 人間は自然の上に立つのではなく、あらゆる生き物と調和して共に生きるべきである |
 | [african-074](../fables/african/african-074-thakane-the-dragon-slayer.md) | 竜を退治した王女タカネ | 家族への責任を果たす勇気は性別を問わず、困難に立ち向かう者に道は開ける |
 | [african-075](../fables/african/african-075-hare-and-hyenas-farm.md) | ウサギとハイエナの農場 | 約束を破り仲間を欺く者は、いずれ自らの欲深さで全てを失う |
+
+| [african-076](../fables/african/african-076-how-the-lion-became-the-king-of-the-jungle.md) | ライオンがジャングルの王になった理由 | 権力の正統性は力や伝統ではなく正義と公平さから生まれ、真のリーダーシップは弱者を守ることにある |
+| [african-077](../fables/african/african-077-the-story-of-the-lightning-and-the-thunder.md) | 雷と稲妻の物語 | 破壊的な行いを繰り返す者は社会から排除され、聞く耳を持たない者には親の愛も届かない |
+| [african-078](../fables/african/african-078-the-black-crow.md) | 黒いカラスになった理由 | 高い地位にある者こそ規範を守らなければならず、偽善と貪欲は必ず恥辱と罰をもたらす |
+| [african-079](../fables/african/african-079-the-dog-the-goat-and-the-donkey.md) | 犬とヤギとロバの乗合バス | 自分の義務を正直に果たした者だけが心の平和を得られ、不誠実は不安と苛立ちを生む |
+| [african-080](../fables/african/african-080-when-silence-is-strength.md) | 沈黙こそ力 | 戦略的な沈黙と冷静さは慌てた行動よりも強力な武器となり、人間は言葉によって正体を明かす |
 
 <!-- 寓話追加時にここへ行を追加 -->

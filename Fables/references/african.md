@@ -81,5 +81,10 @@
 | african-073 | 狩人とワニのバンバ | abookandahug.com, goodreads.com | 2026-04-15 |
 | african-074 | 竜を退治した王女タカネ | rejectedprincesses.com, thenerddaily.com | 2026-04-15 |
 | african-075 | ウサギとハイエナの農場 | africanstoryproject.weebly.com, lughayangu.com | 2026-04-15 |
+| african-076 | ライオンがジャングルの王になった理由 | afrolegends.com | 2026-04-22 |
+| african-077 | 雷と稲妻の物語 | worldoftales.com, Dayrell『Folk Stories from Southern Nigeria』(1910) | 2026-04-22 |
+| african-078 | 黒いカラスになった理由 | afrolegends.com | 2026-04-22 |
+| african-079 | 犬とヤギとロバの乗合バス | afrolegends.com | 2026-04-22 |
+| african-080 | 沈黙こそ力 | afrolegends.com, パトリス・カヨ民話集 | 2026-04-22 |
 
 <!-- 出典追加時にここへ行を追加 -->
