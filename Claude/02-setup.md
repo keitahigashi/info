@@ -188,4 +188,8 @@ Obsidian Vaultに成果物を集約するClaude Code専用プロジェクト。C
 7層: CLAUDE.md→Auto Memory→.claude/rules/→settings.json→Hooks(17イベント)→Skills→MCP。CLAUDE.mdには「人間が知っていてClaudeがコードから推測できない情報」のみ記載。権限優先順位: Management policy > CLI flags > Project local > Project shared > User local > User shared。アンチパターン: 過剰な権限・冗長ドキュメント・Hookタイムアウト未設定・disable-model-invocationフラグ忘れ。
 > 詳細: references/reference_claude_code_full_config_production.md を参照
 
+### CLAUDE.md の3層分離で起動トークン83%削減（自動収集 2026-04-22）
+GMOペパボの実測事例。2000行のCLAUDE.mdを3層に分離: ①CLAUDE.md（150行・最重要ルールのみ）→常時ロード、②rules/（15ファイル・ドメイン別恒常ルール）→常時ロード、③skills/（40ファイル・ワークフロー）→呼び出し時のみロード。結果: 起動時トークンが114,847→19,232（83%削減）。追加工夫: chezmoi によるホスト別設定出し分け・サブエージェント探索委譲・自動メモリ化。設計原則: CLAUDE.mdには「人間が知っていてClaudeがコードから推測できない情報」のみ残す。
+> 詳細: references/reference_claude_md_3layer_83percent_reduction.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
