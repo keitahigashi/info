@@ -10,7 +10,8 @@
       "Bash(npm list:*)",
       "Read(//c/Program Files/LibreOffice/program/**)",
       "Read(//c/Program Files \\(x86\\)/LibreOffice/program/**)",
-      "Bash(pip show:*)"
+      "Bash(pip show:*)",
+      "Skill(schedule)"
     ]
   }
 }

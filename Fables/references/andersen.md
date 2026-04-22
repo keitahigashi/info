@@ -81,4 +81,10 @@
 | andersen-074 | 柳の木の下で | andersen.sdu.dk, andersenstories.com, アンデルセン(1852) | 2026-04-16 |
 | andersen-075 | 風がヴァルデマル・ダアエと娘たちについて語る | andersen.sdu.dk, andersenstories.com, アンデルセン(1859) | 2026-04-16 |
 
+| andersen-076 | 最後の真珠 | ja.wikipedia.org, andersenstories.com, アンデルセン(1853) | 2026-04-22 |
+| andersen-077 | なにか | en.wikisource.org, andersenstories.com, アンデルセン(1858) | 2026-04-22 |
+| andersen-078 | ニワトコおばさん | andersen.sdu.dk, andersenstories.com, アンデルセン(1844) | 2026-04-22 |
+| andersen-079 | 名誉の茨の道 | andersenstories.com, andersen.sdu.dk, アンデルセン(1855) | 2026-04-22 |
+| andersen-080 | イプとクリスティーネ | en.wikipedia.org, andersenstories.com, アンデルセン(1855) | 2026-04-22 |
+
 <!-- 出典追加時にここへ行を追加 -->

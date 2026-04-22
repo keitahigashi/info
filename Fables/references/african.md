@@ -87,4 +87,10 @@
 | african-079 | 犬とヤギとロバの乗合バス | afrolegends.com | 2026-04-22 |
 | african-080 | 沈黙こそ力 | afrolegends.com, パトリス・カヨ民話集 | 2026-04-22 |
 
+| african-076 | サル・ヘビ・ライオン | worldoftales.com, en.wikisource.org, fairytalez.com | 2026-04-21 |
+| african-077 | アナンシと一粒のトウモロコシ | gateway-africa.com, anansestory.africa, mythdancer.blogspot.com | 2026-04-21 |
+| african-078 | アナンシが蜘蛛になった理由 | gateway-africa.com, en.wikipedia.org | 2026-04-21 |
+| african-079 | イボイノシシが醜い理由 | travelbutlers.com, kenyawildparks.com, angolarising.blogspot.com | 2026-04-21 |
+| african-080 | ワニがメンドリを食べない理由 | mythfolklore.blogspot.com, sacred-texts.com | 2026-04-21 |
+
 <!-- 出典追加時にここへ行を追加 -->

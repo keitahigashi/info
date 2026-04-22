@@ -28,7 +28,9 @@
       "Bash(cd \"D:/020_Work/05_environment/01_active/Info/Fables\" && rm fables/aesop/aesop-09[1-9]-*.md fables/aesop/aesop-[1-3][0-9][0-9]-*.md 2>/dev/null; ls fables/aesop/ | wc -l)",
       "Bash(cd \"D:/020_Work/05_environment/01_active/Info/Fables\" && rm -f _aesop_utf8.txt _aesop_remaining.txt _aesop_fables_all.json _aesop_batch_data.json _aesop_created.json _aesop_id_mapping.json _batch_create_fables.py _index_entries.txt _ref_entries.txt _log_entry.txt)",
       "Bash(python3 -X utf8 -c \"\nimport re, glob\n\nfiles = glob.glob\\('D:/020_Work/05_environment/01_active/Info/Fables/references/*.md'\\)\nfor f in files:\n    with open\\(f, encoding='utf-8'\\) as fh:\n        content = fh.read\\(\\)\n    before = content\n    while True:\n        content = re.sub\\(r'\\(\\\\|[ \\\\t]*\\\\n\\)\\\\n\\(\\\\|\\)', r'\\\\1\\\\2', content\\)\n        if content == before:\n            break\n        before = content\n    with open\\(f, 'w', encoding='utf-8'\\) as fh:\n        fh.write\\(content\\)\n    matches = re.findall\\(r'\\\\|\\\\n\\\\n\\\\|', content\\)\n    print\\(f'{f.split\\(\\\\\"/\\\\\"\\)[-1]}: {len\\(matches\\)} remaining'\\)\n\")",
-      "Bash(cd \"D:/020_Work/05_environment/01_active/Info/Fables\" && python3 _fix_morals.py 2>&1)"
+      "Bash(cd \"D:/020_Work/05_environment/01_active/Info/Fables\" && python3 _fix_morals.py 2>&1)",
+      "Skill(schedule)",
+      "Bash(rm:*)"
     ]
   }
 }
