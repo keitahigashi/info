@@ -6,7 +6,7 @@
 
 | 出典体系 | 件数 | 出典 |
 |---------|------|------|
-| イソップ寓話 | 326 | [出典を見る](references/aesop.md) |
+| イソップ寓話 | 331 | [出典を見る](references/aesop.md) |
 | 日本昔話 | 75 | [出典を見る](references/japanese.md) |
 | 中国故事 | 81 | [出典を見る](references/chinese.md) |
 | グリム童話 | 80 | [出典を見る](references/grimm.md) |
@@ -14,4 +14,4 @@
 | インド寓話 | 76 | [出典を見る](references/indian.md) |
 | アフリカ民話 | 80 | [出典を見る](references/african.md) |
 | その他 | 80 | [出典を見る](references/other.md) |
-| **合計** | **878** | |
+| **合計** | **883** | |

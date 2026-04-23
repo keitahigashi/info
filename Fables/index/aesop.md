@@ -1,4 +1,4 @@
-# イソップ寓話（326話）
+# イソップ寓話（331話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -331,5 +331,10 @@
 | [aesop-326](../fables/aesop/aesop-326-the-eagle-once-a-man.md) | 昔は人間だったワシ | 過去に犯した悪行の報いは、いつか必ず自らの身に降りかかる |
 | [aesop-327](../fables/aesop/aesop-327-the-eagle-and-the-wren.md) | ワシとミソサザイ | 力で勝てぬ相手にも知恵で勝てるが、不正な勝利に真の栄光はない |
 | [aesop-328](../fables/aesop/aesop-328-the-owl-and-the-birds.md) | フクロウと野鳥たち | 賢者の忠告を嘲笑う者は、災いが現実になってから後悔する |
+| [aesop-329](../fables/aesop/aesop-329-the-frogs-and-the-fighting-bulls.md) | 牛たちの争いとカエルたち | 強者が争えば、弱者がその犠牲となる |
+| [aesop-330](../fables/aesop/aesop-330-the-eagle-the-cat-and-the-wild-sow.md) | ワシとネコとイノシシ | 陰口と中傷で他者を争わせる者を信じてはならない |
+| [aesop-331](../fables/aesop/aesop-331-the-stag-in-the-ox-stall.md) | 雄鹿と牛小屋 | 主人自らの目は何物も見逃さない |
+| [aesop-332](../fables/aesop/aesop-332-the-old-woman-and-the-wine-jar.md) | 老婆と空のワイン壺 | 善き行いや優れた体験の記憶は、それが失われた後もなお人の心に残る |
+| [aesop-333](../fables/aesop/aesop-333-the-fly-and-the-draught-mule.md) | ハエと荷馬 | 実権を持たない者の脅しや命令は無視すればよい |
 
 <!-- 寓話追加時にここへ行を追加 -->

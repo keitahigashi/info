@@ -110,4 +110,10 @@
 | aesop-327 | ワシとミソサザイ | Perry Index #434, fablesofaesop.com, mythfolklore.net | 2026-04-17 |
 | aesop-328 | フクロウと野鳥たち | Perry Index #437, fablesofaesop.com, read.gov | 2026-04-17 |
 
+| aesop-329 | 牛たちの争いとカエルたち | Perry Index #485, fablesofaesop.com | 2026-04-23 |
+| aesop-330 | ワシとネコとイノシシ | Perry Index #488, パイドロス版 II-4, fablesofaesop.com, mythfolklore.net | 2026-04-23 |
+| aesop-331 | 雄鹿と牛小屋 | Perry Index #492, タウンゼント版, fablesofaesop.com | 2026-04-23 |
+| aesop-332 | 老婆と空のワイン壺 | Perry Index #493, パイドロス版（Anus et Amphora）, fablesofaesop.com, en.wikipedia.org | 2026-04-23 |
+| aesop-333 | ハエと荷馬 | Perry Index #498, タウンゼント版, fablesofaesop.com | 2026-04-23 |
+
 <!-- 出典追加時にここへ行を追加 -->
