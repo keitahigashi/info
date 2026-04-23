@@ -236,4 +236,8 @@ v2.1.110で追加。`/tui fullscreen` でちらつきのない全画面ターミ
 `CLAUDE_CODE_NEW_INIT=1` で有効化。対話形式で技術スタック・習熟度・コミュニケーション設定を質問し、CLAUDE.md・CLAUDE.local.md・スキル（/verify, /setup-env）・フック（ruff/prettier自動フォーマット）を自動生成。Project/Personal/両方の選択可能。`~/.claude/settings.json` に記述で永続化。
 > 詳細: references/reference_claude_code_init_interview_mode.md を参照
 
+### Focus View・/btw・/buddy の実践的使い方（自動収集 2026-04-23）
+Focus View（Ctrl+O、v2.1.97〜）: プロンプト・サマリー・最終回答のみのクリーン表示で可読性3倍。/btw: メインコンテキストを維持したまま割り込み質問（例: 「TypeScriptのPickとOmitの違いを30秒で説明して」）。/buddy: 18種（duck〜legendary）のターミナルペット機能。Subagent @mention: `@{エージェント名}` でメインセッションからタスクを並列委任。
+> 詳細: references/reference_claude_code_9_hidden_features_uravation.md, reference_claude_code_april_updates_sei.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

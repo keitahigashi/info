@@ -294,4 +294,8 @@ AWSマネージドリモートMCPサービス。15,000+のAWS API呼び出しを
 10,000超の公開MCPサーバーから実用性の高い15選を5カテゴリに分類。コード・開発: GitHub/Filesystem/PostgreSQL/Playwright。チーム・業務: Slack/Google Drive/M365/Notion。Web検索: Exa/Brave/Firecrawl。クリエイティブ: Canva/Figma。自動化: Taskade/Zapier。注意: 5サーバー同時接続で10,000〜15,000トークン消費、10サーバー以上はMCPゲートウェイ検討。
 > 詳細: references/reference_mcp_servers_15_recommendation.md を参照
 
+### MCP 設定4方法と実運用5サーバー（Notion/Canva/Figma/Ahrefs/GitHub）（自動収集 2026-04-23）
+MCPの4設定アプローチ: コネクタ（主要サービス自動有効）・HTTP接続（`--transport http`）・stdio接続（`--transport stdio` ※Windows環境は`cmd /c`ラッパー必須）・.mcp.json（チーム共有）。実運用5選: Notion（タスク管理中核）・Canva（テンプレート編集）・Figma（デザイン↔コード変換）・Ahrefs（SEO分析）・GitHub（PR/Issue管理）。公式認証済みコネクタ優先・シークレットは環境変数で管理。
+> 詳細: references/reference_claude_code_mcp_5servers_note.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

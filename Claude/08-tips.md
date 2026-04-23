@@ -380,4 +380,8 @@ Microsoft会場LT大会14セッション。注目知見: Planner→Builder→Var
 個別プロジェクトではなく統一ワークスペースを母艦に運用。記憶基盤はGraphiti+FalkorDB（因果関係検索）とPostgreSQL+pgvector（セマンティック検索）の二刀流、Ollamaでローカル処理。朝`/morning`→午前`/context-load`→午後`/research`→終業`/daily-log`の1日パターン。SessionEndフックで自動サマリー→ナレッジグラフ登録。Happy CLI（E2E暗号化）でモバイルからも接続。
 > 詳細: references/reference_claude_code_daily_living.md を参照
 
+### Claude Code 9つの知られざる機能と4層フレームワーク（自動収集 2026-04-23）
+基本操作（Focus View=Ctrl+O可読性3倍・/btw割り込み質問・/buddy 18種ペット）→計画設計（Ultra Plan・/branch）→自動化（Channels webhook・Hooks pre_write/post_write）→スケール（Git Worktrees・/loop）の4層で習得。企業導入は1機能ずつ週1ペースで段階的に。シークレットは必ず環境変数で管理。
+> 詳細: references/reference_claude_code_9_hidden_features_uravation.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
