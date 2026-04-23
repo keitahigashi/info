@@ -290,4 +290,8 @@ article-writer Skill: 過去記事分析→スタイルガイド自動生成→5
 2026年4月16日にパブリックプレビューとしてリリース。Claude Code・Copilot・Cursor・Codex・Gemini CLI・Antigravityの6エージェントに対応するオープン仕様のスキル管理CLI。主要コマンド: `gh skill search`（GitHub Code Searchで検索）・`gh skill preview`（内容確認・インストール前必須）・`gh skill install`（対話形式・プロジェクト/ユーザースコープ選択）・`gh skill update`（一括更新確認）・`gh skill publish`（セキュリティ検証付き公開）。タグ/コミットSHAでバージョンピン留め可能。チーム間スキル共有の標準手段として活用できる。
 > 詳細: references/reference_github_cli_gh_skill_command.md を参照
 
+### スキル+MCPでQiita自動投稿：3つのハマりポイントと設定手順（自動収集 2026-04-23）
+SKILL.mdとmcp-server-qiitaを組み合わせたQiita自動投稿フロー。スキルはSKILL.md手順書でClaude が文書フォーマットや投稿チェックリストを把握し、MCPはQiita APIへのインテリジェントなツール選択で実行。ハマりポイント3点: settings.jsonへの直接記述が必要（.mcp.jsonは不可）・コマンドオプション順序・MCP設定変更後の再起動忘れ。Zenn/Dev.toへの横展開・英訳ファイルチェックガードも実装可能。
+> 詳細: references/reference_skills_mcp_qiita_autopublish.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

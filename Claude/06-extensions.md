@@ -298,4 +298,8 @@ AWSマネージドリモートMCPサービス。15,000+のAWS API呼び出しを
 MCPの4設定アプローチ: コネクタ（主要サービス自動有効）・HTTP接続（`--transport http`）・stdio接続（`--transport stdio` ※Windows環境は`cmd /c`ラッパー必須）・.mcp.json（チーム共有）。実運用5選: Notion（タスク管理中核）・Canva（テンプレート編集）・Figma（デザイン↔コード変換）・Ahrefs（SEO分析）・GitHub（PR/Issue管理）。公式認証済みコネクタ優先・シークレットは環境変数で管理。
 > 詳細: references/reference_claude_code_mcp_5servers_note.md を参照
 
+### MCP+スキル実装例：Qiita自動投稿フロー設定（自動収集 2026-04-23）
+mcp-server-qiitaとSKILL.mdを組み合わせた自動投稿フローの構築手順。`npm install -g mcp-server-qiita`後にsettings.jsonのmcpServersセクションへAPIトークンを設定。MCPがQiita APIとのインテリジェントな通信を担い、SKILL.mdがフォーマット規約・チェックリストを提供する役割分担。同構成でZenn・Dev.to・Hashnodeへも横展開可能。
+> 詳細: references/reference_skills_mcp_qiita_autopublish.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
