@@ -286,4 +286,8 @@ article-writer Skill: 過去記事分析→スタイルガイド自動生成→5
 - 著者の運用内訳: 執筆系6個+開発系5個+運用系5個+公式プラグイン5個=計21個
 > 詳細: references/reference_skills_21_design_operation.md を参照
 
+### GitHub CLI「gh skill」：エージェント間共有スキル管理コマンド（自動収集 2026-04-22）
+2026年4月16日にパブリックプレビューとしてリリース。Claude Code・Copilot・Cursor・Codex・Gemini CLI・Antigravityの6エージェントに対応するオープン仕様のスキル管理CLI。主要コマンド: `gh skill search`（GitHub Code Searchで検索）・`gh skill preview`（内容確認・インストール前必須）・`gh skill install`（対話形式・プロジェクト/ユーザースコープ選択）・`gh skill update`（一括更新確認）・`gh skill publish`（セキュリティ検証付き公開）。タグ/コミットSHAでバージョンピン留め可能。チーム間スキル共有の標準手段として活用できる。
+> 詳細: references/reference_github_cli_gh_skill_command.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
