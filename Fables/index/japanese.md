@@ -1,4 +1,4 @@
-# 日本昔話（75話）
+# 日本昔話（80話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -80,5 +80,10 @@
 | [japanese-073](../fables/japanese/japanese-073-the-treasure-geta.md) | 宝の下駄 | 授かった幸運は必要な分だけ感謝して受け取る謙虚さが幸福をもたらし、際限なく欲を出す者は自らの身を滅ぼす |
 | [japanese-074](../fables/japanese/japanese-074-the-tengus-fan.md) | 天狗の羽うちわ | 不正な手段で得た力を悪用すれば、いずれ自分に跳ね返ってくる |
 | [japanese-075](../fables/japanese/japanese-075-hyottoko-the-fire-boy.md) | 火男 | 授かった幸運は感謝して大切に扱うべきであり、欲を出しすぎれば幸福そのものを失ってしまう |
+| [japanese-076](../fables/japanese/japanese-076-adachigahara-the-demon-hag.md) | 安達ヶ原（安達原の鬼婆） | 深い愛情が狂気に変わるとき、人は鬼になる。善意から始まった行為も、歯止めのない執着は取り返しのつかない悲劇を生む。 |
+| [japanese-077](../fables/japanese/japanese-077-tanabata.md) | 七夕 | どれほど深く愛し合っても、与えられた職務を怠れば幸福は続かない。誠実な働きの上にこそ真の幸福は成り立つ。 |
+| [japanese-078](../fables/japanese/japanese-078-the-monkeys-liver.md) | 猿の生き肝 | 機転と知恵で危機を乗り越えることができる。また、謀略に加担した者が余計な口を滑らせれば、その策略は自らに跳ね返る。 |
+| [japanese-079](../fables/japanese/japanese-079-hikoichi-and-the-raccoon-dog.md) | タヌキと彦市 | 権力や悪知恵を持つ相手にも、冷静な観察力と機転で対抗できる。損に見える状況を逆手に取る知恵が、窮地を好機に変える。 |
+| [japanese-080](../fables/japanese/japanese-080-three-wishes.md) | 三つの願い | 財や名誉よりも家族の健康と絆こそが真の幸福である。与えられた恵みに欲をかかず、愛する者の平穏を願う心の豊かさが本当の幸せをもたらす。 |
 
 <!-- 寓話追加時にここへ行を追加 -->

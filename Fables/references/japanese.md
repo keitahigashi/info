@@ -80,5 +80,10 @@
 | japanese-073 | 宝の下駄 | minwanoheya.jp, まんが日本昔ばなしDB | 2026-04-17 |
 | japanese-074 | 天狗の羽うちわ | folktalesjpn.com, まんが日本昔ばなしDB | 2026-04-17 |
 | japanese-075 | 火男 | minwanoheya.jp, まんが日本昔ばなしDB | 2026-04-17 |
+| japanese-076 | 安達ヶ原（安達原の鬼婆） | ja.wikipedia.org（黒塚）, adachikouiki.lg.jp, 『拾遺和歌集』（10世紀末）, 能「黒塚」（15世紀） | 2026-04-24 |
+| japanese-077 | 七夕 | ja.wikipedia.org, worldfolksong.com, 国立天文台, 『万葉集』巻10, 『日本書紀』持統天皇5年（691年） | 2026-04-24 |
+| japanese-078 | 猿の生き肝 | ja.wikipedia.org（猿の生肝）, minwanoheya.jp, kotobank.jp, 『今昔物語集』巻5（平安末〜鎌倉初期） | 2026-04-24 |
+| japanese-079 | タヌキと彦市 | ja.wikipedia.org（彦一）, folktalesjpn.com, 偕成社文庫『彦一とんちばなし』, まんが日本昔ばなし（1976年） | 2026-04-24 |
+| japanese-080 | 三つの願い | nihon.syoukoukai.com（まんが日本昔ばなしDB）, まんが日本昔ばなし第505回（1985年） | 2026-04-24 |
 
 <!-- 出典追加時にここへ行を追加 -->
