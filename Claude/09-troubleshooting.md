@@ -88,4 +88,8 @@ Editツールは事前にReadしていないとエラーになる。変更前に
 修正済み3件: Sentinel（キャッシュプレフィックス破壊→v2.1.88修正）、Resume（`--resume`キャッシュ破壊→v2.1.89修正）、Cache invalidation（ターン毎キャッシュ無効化→4/4修正）。未修正4件（v2.1.92時点）: Microcompact（30ターン超でツール結果消去）、Budget cap（200K上限で結果切り詰め）、False rate limit（並行サブエージェントで偽カウント）、Log inflation（`/cost`表示が実測の約2倍）。対処法: 最新版更新、`--resume`回避、30ターン上限リセット、offset/limit活用、`/cost`値÷2が実測値。
 > 詳細: references/reference_claude_code_token_bugs_7.md を参照
 
+### Opus 4.7移行時の破壊的変更と400回避チェックリスト（自動収集 2026-04-24）
+400エラーになる3件: ①`thinking.budget_tokens`固定値→Adaptive Thinking（`thinking: {type: "adaptive"}`）へ移行必須、②`temperature`/`top_p`/`top_k`のデフォルト外値が400に、③`assistant`メッセージのprefill禁止。静かな変更: thinking表示デフォルト変更・より文字通りの解釈・応答長の可変化。コスト影響: 新トークナイザーで最大+35%増・高解像度画像は最大4,784tokens/枚。8項目チェックリスト: temperature削除→adaptive thinking切替→effort設定→prefill撤去→max_tokens確認→画像コスト試算→LLM呼び出しアダプタ化→ゴールデンセット整備。
+> 詳細: references/reference_opus_47_breaking_changes_checklist.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

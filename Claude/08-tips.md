@@ -384,4 +384,8 @@ Microsoft会場LT大会14セッション。注目知見: Planner→Builder→Var
 基本操作（Focus View=Ctrl+O可読性3倍・/btw割り込み質問・/buddy 18種ペット）→計画設計（Ultra Plan・/branch）→自動化（Channels webhook・Hooks pre_write/post_write）→スケール（Git Worktrees・/loop）の4層で習得。企業導入は1機能ずつ週1ペースで段階的に。シークレットは必ず環境変数で管理。
 > 詳細: references/reference_claude_code_9_hidden_features_uravation.md を参照
 
+### Boris Cherny直伝：Opus 4.7を最大限活かす6つのヒント（自動収集 2026-04-24）
+Claude Code作者が語る6ヒント: ①自動モード（許可プロンプトを分類器が自動承認）、②`/fewer-permission-prompts`（セッション履歴から許可リスト推奨）、③リキャップ（長時間セッションの進捗要約）、④`/focus`（途中作業を非表示にして最終結果のみ表示）、⑤`/effort xhigh`（適応的思考強度をタスクに応じて調整）、⑥検証手段の提供（テスト→lint→PR作成の標準ワークフロー定義）。「古いワークフローでも改善は感じるが、調整すれば大きな飛躍になる」。
+> 詳細: references/reference_opus_47_boris_cherny_tips.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

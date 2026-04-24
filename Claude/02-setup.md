@@ -192,4 +192,8 @@ Obsidian Vaultに成果物を集約するClaude Code専用プロジェクト。C
 GMOペパボの実測事例。2000行のCLAUDE.mdを3層に分離: ①CLAUDE.md（150行・最重要ルールのみ）→常時ロード、②rules/（15ファイル・ドメイン別恒常ルール）→常時ロード、③skills/（40ファイル・ワークフロー）→呼び出し時のみロード。結果: 起動時トークンが114,847→19,232（83%削減）。追加工夫: chezmoi によるホスト別設定出し分け・サブエージェント探索委譲・自動メモリ化。設計原則: CLAUDE.mdには「人間が知っていてClaudeがコードから推測できない情報」のみ残す。
 > 詳細: references/reference_claude_md_3layer_83percent_reduction.md を参照
 
+### Claude Code環境変数チートシート2026年4月版（自動収集 2026-04-24）
+主要変数: `CLAUDE_CODE_EFFORT_LEVEL`（low/medium/high/xhigh・xhighはOpus 4.7専用で4.6ではhighにフォールバック）、`ANTHROPIC_MODEL`、`CLAUDE_CODE_MAX_TOKENS`、`CLAUDE_CODE_SKIP_PERMISSIONS`（CI/CD用）。settings.json分離: APIキーは個人の`settings.local.json`管理、effort levelはチーム共有の`settings.json`で統一。注意: Routines起動時は環境変数が届かないため別途設定が必要。判断フロー: xhigh=大規模リファクタリング・セキュリティレビュー、high=通常機能開発、medium=ドキュメント・質問応答、low=監視・ポーリング。
+> 詳細: references/reference_claude_code_env_vars_cheatsheet.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

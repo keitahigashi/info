@@ -240,4 +240,8 @@ v2.1.110で追加。`/tui fullscreen` でちらつきのない全画面ターミ
 Focus View（Ctrl+O、v2.1.97〜）: プロンプト・サマリー・最終回答のみのクリーン表示で可読性3倍。/btw: メインコンテキストを維持したまま割り込み質問（例: 「TypeScriptのPickとOmitの違いを30秒で説明して」）。/buddy: 18種（duck〜legendary）のターミナルペット機能。Subagent @mention: `@{エージェント名}` でメインセッションからタスクを並列委任。
 > 詳細: references/reference_claude_code_9_hidden_features_uravation.md, reference_claude_code_april_updates_sei.md を参照
 
+### Opus 4.7新コマンド：/effort・/focus・/fewer-permission-prompts（自動収集 2026-04-24）
+`/effort xhigh`: Adaptive Thinkingの強度をxhighに設定（Opus 4.7専用・大規模タスク向け）。`/focus`: 途中作業を非表示にして最終結果のみ表示（可読性向上）。`/fewer-permission-prompts`: セッション履歴をスキャンして許可リストを自動推薦（CI/CDパイプラインでの摩擦削減に有用）。これらはBoris Cherny（Claude Code作者）推奨のワークフロー改善セット。
+> 詳細: references/reference_opus_47_boris_cherny_tips.md, reference_claude_code_env_vars_cheatsheet.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
