@@ -70,7 +70,6 @@
 | [chinese-064](../fables/chinese/chinese-064-great-similarity-small-differences.md) | 大同小異 | 物事の本質を見極めれば細部の違いに惑わされない |
 | [chinese-065](../fables/chinese/chinese-065-the-thiefs-spring.md) | 渇しても盗泉の水を飲まず | いかなる苦境にあっても不義に手を染めてはならない |
 | [chinese-066](../fables/chinese/chinese-066-sheep-in-tigers-skin.md) | 羊質虎皮 | 外見をいくら飾っても本質が伴わなければ化けの皮は剥がれる |
-
 | [chinese-067](../fables/chinese/chinese-067-blue-surpasses-indigo.md) | 青は藍より出でて藍より青し | 継続的な学びと修養により、弟子は師を超えることができる |
 | [chinese-068](../fables/chinese/chinese-068-great-talents-mature-late.md) | 大器晩成 | 真に大きな才能は完成までに長い時間を要し、早急な評価は誤りを招く |
 | [chinese-069](../fables/chinese/chinese-069-three-visits-to-the-thatched-cottage.md) | 三顧の礼 | 優れた人材を得るには、地位ある者が謙虚に誠意を尽くさなければならない |
@@ -86,5 +85,4 @@
 | [chinese-079](../fables/chinese/chinese-079-li-guang-never-enfeoffed.md) | 李広難封 | 個人の武勇だけでは真の成功は得られず、人望・時運・徳が揃ってはじめて大業は成る |
 | [chinese-080](../fables/chinese/chinese-080-hero-with-no-battlefield.md) | 英雄無用武之地 | いかに優れた才能も、発揮する場がなければ宝の持ち腐れとなる |
 | [chinese-081](../fables/chinese/chinese-081-you-mengs-costume.md) | 優孟衣冠 | 機知と風刺を巧みに用いれば、権力者の心をも動かして不正を正すことができる |
-
 <!-- 寓話追加時にここへ行を追加 -->
