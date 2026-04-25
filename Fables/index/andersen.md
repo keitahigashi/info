@@ -69,7 +69,6 @@
 | [andersen-063](../fables/andersen/andersen-063-the-silver-shilling.md) | 銀の貨幣 | 他者に偽物と決めつけられても自分の価値を見失ってはならない |
 | [andersen-064](../fables/andersen/andersen-064-picture-book-without-pictures.md) | 絵のない絵本 | 注意深く世界を見つめればどんな場面にも物語と教訓が隠されている |
 | [andersen-065](../fables/andersen/andersen-065-the-ice-maiden.md) | 氷姫 | 人間の幸福は自然の圧倒的な力の前ではいつも脆い |
-
 | [andersen-066](../fables/andersen/andersen-066-the-great-sea-serpent.md) | 大海蛇 | 理解を超えた偉業も、知ろうとしない者の目には奇怪な存在に映るにすぎない |
 | [andersen-067](../fables/andersen/andersen-067-the-flea-and-the-professor.md) | 教授と蚤 | 知恵と巧妙さは不可能な状況をも打ち破ることができる |
 | [andersen-068](../fables/andersen/andersen-068-the-golden-treasure.md) | 金色の財宝 | 真の宝は外にではなく、内なる才能と人格の中にある |
@@ -80,11 +79,9 @@
 | [andersen-073](../fables/andersen/andersen-073-its-quite-true.md) | 実にそのとおり！ | 噂は人から人へ渡るたびに膨れ上がり、やがて原形をとどめない嘘になる |
 | [andersen-074](../fables/andersen/andersen-074-under-the-willow-tree.md) | 柳の木の下で | 心の内を伝えなければ何も始まらず、沈黙は後悔を生むだけである |
 | [andersen-075](../fables/andersen/andersen-075-the-wind-tells-about-valdemar-daae.md) | 風がヴァルデマル・ダアエと娘たちについて語る | 富と地位への執着は一族の破滅を招き、貪欲は何も生み出さず全てを奪う |
-
 | [andersen-076](../fables/andersen/andersen-076-the-last-pearl.md) | 最後の真珠 | 悲しみを知ることで初めて真の幸福を理解でき、自分にも他者にも優しくなれる |
 | [andersen-077](../fables/andersen/andersen-077-something.md) | なにか | 真の偉業とは地位や名声ではなく、誠実な努力と思いやりのある行動にこそ宿る |
 | [andersen-078](../fables/andersen/andersen-078-the-elder-tree-mother.md) | ニワトコおばさん | 人生を通じて積み重ねた思い出こそが、人を支え導く最も大切な宝である |
 | [andersen-079](../fables/andersen/andersen-079-the-thorny-road-of-honor.md) | 名誉の茨の道 | 人類に真に貢献した者たちは、生前に嘲笑や迫害という茨の道を歩まねばならなかった |
 | [andersen-080](../fables/andersen/andersen-080-ib-and-little-christina.md) | イプとクリスティーネ | 真の豊かさは外面の華やかさではなく、誠実な心と献身的な愛の中にある |
-
 <!-- 寓話追加時にここへ行を追加 -->
