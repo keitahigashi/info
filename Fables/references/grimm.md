@@ -85,5 +85,10 @@
 | grimm-078 | 狼と狐 | en.wikipedia.org, grimmstories.com, KHM73 | 2026-04-17 |
 | grimm-079 | きょうかたびら | sites.pitt.edu, grimmdowaclub.net, KHM109 | 2026-04-17 |
 | grimm-080 | エバのふぞろいの子どもたち | sites.pitt.edu, grimmstories.com, KHM180 | 2026-04-17 |
+| grimm-081 | 知ったかぶりのドクトル | grimmstories.com/ja/grimm_dowa/mono_shiri_hakase, sites.pitt.edu/~dash/grimm098.html, KHM98 | 2026-04-25 |
+| grimm-082 | アイゼンハンス | grimmstories.com/ja/grimm_dowa/tetsu_no_hansu, grimmdowaclub.net/khm136/, sites.pitt.edu/~dash/grimm136.html, KHM136 | 2026-04-25 |
+| grimm-083 | かぶ | grimmstories.com/ja/grimm_dowa/kabu, de.wikisource.org/wiki/Die_Rübe_(1815), KHM146 | 2026-04-25 |
+| grimm-084 | 牧童 | grimmstories.com/ja/grimm_dowa/bokudo, grimmdowaclub.net/khm152/, KHM152 | 2026-04-25 |
+| grimm-085 | 太鼓たたき | grimmstories.com/ja/grimm_dowa/taiko_tataki, de.wikipedia.org/wiki/Der_Trommler, KHM193 | 2026-04-25 |
 
 <!-- 出典追加時にここへ行を追加 -->
