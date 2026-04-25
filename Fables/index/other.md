@@ -69,7 +69,6 @@
 | [other-063](../fables/other/other-063-the-wawel-dragon.md) | クラクフの龍 | 力ずくより知恵と工夫で困難を克服する者こそ真の英雄である |
 | [other-064](../fables/other/other-064-the-selfish-giant.md) | わがままな巨人 | 自分だけのものにしようとすれば喜びは消え、分かち合えば豊かさが戻る |
 | [other-065](../fables/other/other-065-amirani-the-chained-hero.md) | アミラニ —— 鎖に繋がれた英雄 | 人類のために戦う者は代償を払うが、その精神は決して屈しない |
-
 | [other-066](../fables/other/other-066-the-three-princes-of-serendip.md) | セレンディップの三人の王子たち | 偶然の幸運は、豊富な知識と鋭い観察眼を備えた者にのみ訪れる |
 | [other-067](../fables/other/other-067-ivan-the-firebird-and-the-grey-wolf.md) | イワン王子と火の鳥と灰色狼 | 助言に素直に従い失敗から学ぶ者は、たとえ弱くても最後には幸福に到達する |
 | [other-068](../fables/other/other-068-the-ox-and-the-donkey-talmud.md) | 牛とロバ ── タルムードの寓話 | すべての者に同じやり方を強いることは共倒れを招く |
@@ -85,9 +84,6 @@
 | [other-078](../fables/other/other-078-brer-rabbit-and-the-tar-baby.md) | ブレア・ラビットとタールの人形 | 力では勝てない相手でも、冷静な知恵と機転で逆境を生き抜くことができる |
 | [other-079](../fables/other/other-079-william-tell.md) | ウィリアム・テル | 不正な権力への屈服を拒み、命をかけて自由と尊厳を守ることが、民族の解放への道を開く |
 | [other-080](../fables/other/other-080-sigurd-and-fafnir.md) | シグルズとファフニール——竜殺しの英雄と呪われた黄金 | 強欲が人を獣に変え、呪われた財宝への執着は英雄をも滅ぼす——真の知恵は力ではなく、欲望を制することにある |
-
 | [other-081](../fables/other/other-081-the-three-bricklayers.md) | 三人のレンガ職人 | ヨーロッパ寓話 | 同じ仕事でも、その先にある目的を見据える者だけが誇りと喜びを持って働くことができる |
-
 | [other-082](../fables/other/other-082-the-dull-axe.md) | 木こりのジレンマ | ヨーロッパ寓話 | 目の前の作業に追われて道具を磨く時間を惜しむ者は、かえって多くの時間と労力を無駄にする |
-
 <!-- 寓話追加時にここへ行を追加 -->
