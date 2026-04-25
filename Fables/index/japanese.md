@@ -69,7 +69,6 @@
 | [japanese-063](../fables/japanese/japanese-063-gon-the-fox.md) | ごんぎつね | 善意が伝わらぬまま失われることの悲しさと、思い込みで行動する危うさ |
 | [japanese-064](../fables/japanese/japanese-064-atama-yama.md) | 頭山 | 目先の損得に執着する吝嗇は、やがて自分自身を滅ぼす |
 | [japanese-065](../fables/japanese/japanese-065-the-candle-of-life.md) | 寿命のロウソク | 寿命を欲で操ろうとする者は、かえって自らの命を縮める |
-
 | [japanese-066](../fables/japanese/japanese-066-the-miso-buying-bridge.md) | 味噌買い橋 | 夢や直感を信じて辛抱強く行動する者にこそ、幸運は訪れる |
 | [japanese-067](../fables/japanese/japanese-067-the-god-of-poverty-and-the-god-of-fortune.md) | 貧乏神と福の神 | 物質的な豊かさよりも、目の前の存在に誠実に向き合う心の豊かさこそが本当の幸福をもたらす |
 | [japanese-068](../fables/japanese/japanese-068-the-kappas-prayer-for-rain.md) | 河童の雨乞い | 過去の過ちは改心と行動によって償うことができる |
@@ -85,5 +84,4 @@
 | [japanese-078](../fables/japanese/japanese-078-the-monkeys-liver.md) | 猿の生き肝 | 機転と知恵で危機を乗り越えることができる。また、謀略に加担した者が余計な口を滑らせれば、その策略は自らに跳ね返る。 |
 | [japanese-079](../fables/japanese/japanese-079-hikoichi-and-the-raccoon-dog.md) | タヌキと彦市 | 権力や悪知恵を持つ相手にも、冷静な観察力と機転で対抗できる。損に見える状況を逆手に取る知恵が、窮地を好機に変える。 |
 | [japanese-080](../fables/japanese/japanese-080-three-wishes.md) | 三つの願い | 財や名誉よりも家族の健康と絆こそが真の幸福である。与えられた恵みに欲をかかず、愛する者の平穏を願う心の豊かさが本当の幸せをもたらす。 |
-
 <!-- 寓話追加時にここへ行を追加 -->
