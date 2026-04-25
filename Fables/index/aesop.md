@@ -320,7 +320,6 @@
 | [aesop-316](../fables/aesop/aesop-316-jupiter-and-the-tortoise.md) | ゼウスとカメ | 社交を拒み自分の殻に閉じこもる者は、その殻を一生背負う羽目になる |
 | [aesop-317](../fables/aesop/aesop-317-prometheus-and-the-making-of-man.md) | プロメテウスと人間の創造 | 外見を変えても内なる本性は変わらない |
 | [aesop-318](../fables/aesop/aesop-318-the-farmers-sons-and-the-treasure.md) | 農夫と息子たちの宝 | 勤勉こそが最大の宝であり、労働そのものが豊かさをもたらす |
-
 | [aesop-319](../fables/aesop/aesop-319-the-hunter-and-the-wolf.md) | 狩人と狼 | 他者を害する者は、やがて自らもその害を被ることになる |
 | [aesop-320](../fables/aesop/aesop-320-the-dogs-tearing-a-lions-skin.md) | ライオンの皮を引き裂く犬たち | 倒れた者を踏みつけるのは容易だが、最も軽蔑されるべき行為である |
 | [aesop-321](../fables/aesop/aesop-321-the-caged-lion-and-the-fox.md) | 檻の中のライオンとキツネ | 一時的な不運はその者の本質や価値を損なわない |
@@ -336,5 +335,4 @@
 | [aesop-331](../fables/aesop/aesop-331-the-stag-in-the-ox-stall.md) | 雄鹿と牛小屋 | 主人自らの目は何物も見逃さない |
 | [aesop-332](../fables/aesop/aesop-332-the-old-woman-and-the-wine-jar.md) | 老婆と空のワイン壺 | 善き行いや優れた体験の記憶は、それが失われた後もなお人の心に残る |
 | [aesop-333](../fables/aesop/aesop-333-the-fly-and-the-draught-mule.md) | ハエと荷馬 | 実権を持たない者の脅しや命令は無視すればよい |
-
 <!-- 寓話追加時にここへ行を追加 -->
