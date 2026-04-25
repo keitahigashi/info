@@ -69,23 +69,19 @@
 | [african-063](../fables/african/african-063-the-rabbit-and-the-tar-baby.md) | ウサギとタール人形 | 怒りに任せて行動すれば自ら罠にはまる |
 | [african-064](../fables/african/african-064-why-hyena-eats-carrion.md) | なぜハイエナは汚いものを食べるのか | 欲張って二つのものを同時に得ようとすれば両方とも失う |
 | [african-065](../fables/african/african-065-the-tortoise-and-the-kings-daughter.md) | カメと王の娘 | 知恵と忍耐があれば見かけの弱さを補って大きな成果を得られる |
-
 | [african-066](../fables/african/african-066-ohia-and-the-thieving-deer.md) | オヒアと盗泥棒鹿 | 逆境への粘り強い忍耐と正義の追求は、最終的に報酬と繁栄をもたらす |
 | [african-067](../fables/african/african-067-the-girl-and-the-lion-spirit.md) | 少女とライオンの精霊 | 本当の強さは力ではなく、思いやりと知恵にある |
 | [african-068](../fables/african/african-068-kalulu-the-hare-and-the-elephant.md) | カルル兎と象 | 知恵と勤勉さは蛮力に勝り、他人の成果を盗む者には報いが訪れる |
 | [african-069](../fables/african/african-069-akiti-the-hunter.md) | アキティ・ザ・ハンター | 過度な自信は危険であり、真の勝利は蛮力ではなく創意工夫によって得られる |
 | [african-070](../fables/african/african-070-the-tortoise-and-the-birds.md) | カメと鳥たちの飛行 | 貪欲さと狡猾さは必ず罰され、仲間を欺く者は孤立と破滅を招く |
-
 | [african-071](../fables/african/african-071-anansi-and-the-pot-of-beans.md) | アナンシと豆の壺 | 賢者の忠告を無視し誘惑に負ければ、自分自身が痛い目に遭う |
 | [african-072](../fables/african/african-072-the-woman-with-two-skins.md) | 二枚の皮を持つ女 | 外見に惑わされず内面の美しさを見抜くべきであり、嫉妬からの策略はいつか必ず暴かれる |
 | [african-073](../fables/african/african-073-the-hunterman-and-the-crocodile.md) | 狩人とワニのバンバ | 人間は自然の上に立つのではなく、あらゆる生き物と調和して共に生きるべきである |
 | [african-074](../fables/african/african-074-thakane-the-dragon-slayer.md) | 竜を退治した王女タカネ | 家族への責任を果たす勇気は性別を問わず、困難に立ち向かう者に道は開ける |
 | [african-075](../fables/african/african-075-hare-and-hyenas-farm.md) | ウサギとハイエナの農場 | 約束を破り仲間を欺く者は、いずれ自らの欲深さで全てを失う |
-
 | [african-076](../fables/african/african-076-how-the-lion-became-the-king-of-the-jungle.md) | ライオンがジャングルの王になった理由 | 権力の正統性は力や伝統ではなく正義と公平さから生まれ、真のリーダーシップは弱者を守ることにある |
 | [african-077](../fables/african/african-077-the-story-of-the-lightning-and-the-thunder.md) | 雷と稲妻の物語 | 破壊的な行いを繰り返す者は社会から排除され、聞く耳を持たない者には親の愛も届かない |
 | [african-078](../fables/african/african-078-the-black-crow.md) | 黒いカラスになった理由 | 高い地位にある者こそ規範を守らなければならず、偽善と貪欲は必ず恥辱と罰をもたらす |
 | [african-079](../fables/african/african-079-the-dog-the-goat-and-the-donkey.md) | 犬とヤギとロバの乗合バス | 自分の義務を正直に果たした者だけが心の平和を得られ、不誠実は不安と苛立ちを生む |
 | [african-080](../fables/african/african-080-when-silence-is-strength.md) | 沈黙こそ力 | 戦略的な沈黙と冷静さは慌てた行動よりも強力な武器となり、人間は言葉によって正体を明かす |
-
 <!-- 寓話追加時にここへ行を追加 -->
