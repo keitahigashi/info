@@ -68,13 +68,11 @@
 | [indian-062](../fables/indian/indian-062-the-monkey-and-the-bell.md) | 猿と鈴 | 未知のものへの恐怖は知恵と冷静な観察で克服できる |
 | [indian-063](../fables/indian/indian-063-the-head-and-tail-of-the-snake.md) | 蛇の頭と尻尾 | 能力のない者がリーダーになれば全員が滅びる |
 | [indian-064](../fables/indian/indian-064-the-two-parrots.md) | 二羽のオウム | 人の性格は生まれより育つ環境によって決まる |
-
 | [indian-065](../fables/indian/indian-065-the-swan-and-the-owl.md) | 白鳥とフクロウ | 生き方や習慣が根本的に異なる者同士の友情は、互いに災いをもたらす。 |
 | [indian-066](../fables/indian/indian-066-dantila-and-gorambha.md) | 商人ダンティラと掃除夫ゴーラムバ | 身分の低い者を侮れば、思わぬ形で報いを受ける。 |
 | [indian-067](../fables/indian/indian-067-the-monkey-gardeners.md) | 庭師になった猿たち | 物事を理解しない者に大事を任せれば、助けるつもりが破壊につながる。 |
 | [indian-068](../fables/indian/indian-068-birbal-and-the-emperors-crows.md) | ビルバルとカラスの数 | 答えられない問いには、反論しようのない論理で切り返すのが真の知恵である。 |
 | [indian-069](../fables/indian/indian-069-the-bird-with-three-counsels.md) | 三つの忠告をくれた鳥 | 賢者の忠告を聞いても、欲に駆られれば即座に忘れてしまう。 |
-
 | [indian-070](../fables/indian/indian-070-the-lake-of-the-moon.md) | 月の湖と兎の使者 | 知恵は力に勝る。小さく弱い者でも機知と心理的な駆け引きで巨大な敵を退けられる |
 | [indian-071](../fables/indian/indian-071-the-bird-pair-and-the-sea.md) | チドリと海 | 決意を持って正しく訴え味方を得れば、小さな者でも巨大な力に立ち向かえる |
 | [indian-072](../fables/indian/indian-072-the-greedy-jackal-and-the-bowstring.md) | 欲張りジャッカルと弓弦 | 過度の欲は身を滅ぼす。十分なものがあるのにさらに求めれば全てを失う |
@@ -82,5 +80,4 @@
 | [indian-074](../fables/indian/indian-074-the-king-cobra-and-the-ants.md) | 王コブラと蟻の大群 | 驕りは身を滅ぼす。どれほど強大な者でも弱者が団結すれば打ち倒される |
 | [indian-075](../fables/indian/indian-075-the-price-of-indiscretion.md) | 軽率さの代償 | 仲間の忠告を軽んじる傲慢さは必ず災いを招く |
 | [indian-076](../fables/indian/indian-076-the-curse-of-mittavinda.md) | ミッタヴィンダの呪い | 他者への嫉妬と妨害は、長きにわたる苦しみとなって自らに返る |
-
 <!-- 寓話追加時にここへ行を追加 -->
