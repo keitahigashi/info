@@ -84,5 +84,4 @@
 | [grimm-078](../fables/grimm/grimm-078-the-wolf-and-the-fox.md) | 狼と狐 | 貪欲は身を滅ぼし、用心深い節制こそが生き延びる知恵である |
 | [grimm-079](../fables/grimm/grimm-079-the-shroud.md) | きょうかたびら | 過度な悲嘆は亡き者の安らぎを妨げ、死を受け入れることで生者も死者も安らぎを得られる |
 | [grimm-080](../fables/grimm/grimm-080-eves-various-children.md) | エバのふぞろいの子どもたち | すべての職業・役割には固有の価値があり、互いが不可欠な存在として社会を支え合っている |
-
 <!-- 寓話追加時にここへ行を追加 -->
