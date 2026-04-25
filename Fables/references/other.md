@@ -86,4 +86,8 @@
 | other-079 | ウィリアム・テル | スイス伝説 | ja.wikipedia.org（ウィリアム・テル）, hugkum.sho.jp | 2026-04-22 |
 | other-080 | シグルズとファフニール | 北欧神話（ヴォルスング・サガ） | ja.wikipedia.org（ファフニール）, melcolon.com | 2026-04-22 |
 
+| other-081 | 三人のレンガ職人 | ヨーロッパ寓話 | total-engagement.jp | 2026-04-25 |
+
+| other-082 | 木こりのジレンマ | ヨーロッパ寓話 | webtan.impress.co.jp | 2026-04-25 |
+
 <!-- 出典追加時にここへ行を追加 -->
