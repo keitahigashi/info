@@ -92,4 +92,8 @@ Editツールは事前にReadしていないとエラーになる。変更前に
 400エラーになる3件: ①`thinking.budget_tokens`固定値→Adaptive Thinking（`thinking: {type: "adaptive"}`）へ移行必須、②`temperature`/`top_p`/`top_k`のデフォルト外値が400に、③`assistant`メッセージのprefill禁止。静かな変更: thinking表示デフォルト変更・より文字通りの解釈・応答長の可変化。コスト影響: 新トークナイザーで最大+35%増・高解像度画像は最大4,784tokens/枚。8項目チェックリスト: temperature削除→adaptive thinking切替→effort設定→prefill撤去→max_tokens確認→画像コスト試算→LLM呼び出しアダプタ化→ゴールデンセット整備。
 > 詳細: references/reference_opus_47_breaking_changes_checklist.md を参照
 
+### Opus 4.7移行の実務落とし穴8ポイント（GMO初日レポート）（自動収集 2026-04-25）
+「モデル名差し替えだけ」では危険な理由: ①曖昧な指示が文字通り解釈されプロンプト動作変更、②`temperature`/`top_p`/`top_k`非デフォルト値が400エラー化、③`assistant prefill`が使用不可（400エラー）、④固定`thinking budget`廃止（adaptive thinkingへ移行）、⑤新トークナイザーで同一入力が1.0〜1.35倍に増加。Effort設定指針: coding/agenticは`xhigh`から開始、知能重視は`high`以上、単発Q&Aは`medium`。Notion事例: ツールエラーが1/3に削減・複雑ワークフローで14%改善。初日は本番直入れを避け、stagingで1〜2日の回帰テストを推奨。
+> 詳細: references/reference_claude_opus47_gmo_migration.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

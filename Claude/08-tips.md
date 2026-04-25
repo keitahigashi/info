@@ -388,4 +388,8 @@ Microsoft会場LT大会14セッション。注目知見: Planner→Builder→Var
 Claude Code作者が語る6ヒント: ①自動モード（許可プロンプトを分類器が自動承認）、②`/fewer-permission-prompts`（セッション履歴から許可リスト推奨）、③リキャップ（長時間セッションの進捗要約）、④`/focus`（途中作業を非表示にして最終結果のみ表示）、⑤`/effort xhigh`（適応的思考強度をタスクに応じて調整）、⑥検証手段の提供（テスト→lint→PR作成の標準ワークフロー定義）。「古いワークフローでも改善は感じるが、調整すれば大きな飛躍になる」。
 > 詳細: references/reference_opus_47_boris_cherny_tips.md を参照
 
+### Opus 4.7で「やめるべき」6つの旧習慣と代替ベストプラクティス（自動収集 2026-04-25）
+Opus 4.7リリースでAnthropicと作者Boris Chernyが転換を促した6点: ①ペアプロ型細かい指示→Goal/Constraints/完了基準を初回一括記載、②Effort MAXの常用→xhighを推奨デフォルトに（MAXはオーバーシンキング傾向）、③`--dangerously-skip-permissions`常用→Auto Mode（Max以上）や`/fewer-permission-prompts`に切り替え、④長時間セッションの横付き監視→`/focus`・Recapsを活用、⑤毎回Subagent呼び出し→自律判断を妨げない、⑥検証機構なしの自律実行→Stop Hookにnpm testを繋ぎ自動検証ループを構築。実務チェックリスト付き。
+> 詳細: references/reference_claude_code_anti_patterns_opus47.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
