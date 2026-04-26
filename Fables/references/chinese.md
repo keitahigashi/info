@@ -87,4 +87,10 @@
 | chinese-080 | 英雄無用武之地 | 『三国志』蜀書・諸葛亮伝, 『資治通鑑』 | 2026-04-18 |
 | chinese-081 | 優孟衣冠 | 『史記』滑稽列伝, dict.idioms.moe.edu.tw | 2026-04-18 |
 
+| chinese-082 | 老馬の智 | kotobank.jp（老馬の智）、plaza.rakuten.co.jp | 2026-04-26 |
+| chinese-083 | 轍鮒の急 | proverb-encyclopedia.com（轍鮒の急）、skawa68.com | 2026-04-26 |
+| chinese-084 | 逆鱗に触れる | chugokugo-script.net（逆鱗）、kiboriguma.hatenadiary.jp | 2026-04-26 |
+| chinese-085 | 木鶏 | kotobank.jp（木鶏）、kanbun.info（木鶏とは） | 2026-04-26 |
+| chinese-086 | 屠竜の技 | proverb-encyclopedia.com（屠竜の技）、kotobank.jp（屠竜之技） | 2026-04-26 |
+
 <!-- 出典追加時にここへ行を追加 -->

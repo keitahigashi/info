@@ -1,4 +1,4 @@
-# 中国故事（81話）
+# 中国故事（86話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -85,4 +85,9 @@
 | [chinese-079](../fables/chinese/chinese-079-li-guang-never-enfeoffed.md) | 李広難封 | 個人の武勇だけでは真の成功は得られず、人望・時運・徳が揃ってはじめて大業は成る |
 | [chinese-080](../fables/chinese/chinese-080-hero-with-no-battlefield.md) | 英雄無用武之地 | いかに優れた才能も、発揮する場がなければ宝の持ち腐れとなる |
 | [chinese-081](../fables/chinese/chinese-081-you-mengs-costume.md) | 優孟衣冠 | 機知と風刺を巧みに用いれば、権力者の心をも動かして不正を正すことができる |
+| [chinese-082](../fables/chinese/chinese-082-wisdom-of-the-old-horse.md) | 老馬の智 | 経験を積んだ者の実践的な知恵を軽んじず、どれほど優れた者も知らないことは素直に学ぶ姿勢を持つべきである |
+| [chinese-083](../fables/chinese/chinese-083-crucian-carp-in-the-wheel-rut.md) | 轍鮒の急 | 目前に迫った危機には壮大な将来の約束ではなく即座の助けが必要であり、真の思いやりとは相手の緊急性を理解して今すぐ行動することである |
+| [chinese-084](../fables/chinese/chinese-084-touching-the-dragons-reverse-scale.md) | 逆鱗に触れる | 権力者には触れてはならない感情的な禁忌があり、いかに正論であってもその一線を踏み越えれば身を滅ぼす |
+| [chinese-085](../fables/chinese/chinese-085-the-wooden-rooster.md) | 木鶏 | 真の強さとは外見の威勢や激しい闘争心にあるのではなく、いかなる刺激にも動じない泰然自若とした内なる充実にある |
+| [chinese-086](../fables/chinese/chinese-086-skill-of-slaying-dragons.md) | 屠竜の技 | どれほど高度な技術や学問であっても現実に活用できなければ何の価値もなく、実用性のない知識の習得に資源を費やすことの愚かさを戒める |
 <!-- 寓話追加時にここへ行を追加 -->
