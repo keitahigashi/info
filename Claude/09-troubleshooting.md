@@ -96,4 +96,8 @@ Editツールは事前にReadしていないとエラーになる。変更前に
 「モデル名差し替えだけ」では危険な理由: ①曖昧な指示が文字通り解釈されプロンプト動作変更、②`temperature`/`top_p`/`top_k`非デフォルト値が400エラー化、③`assistant prefill`が使用不可（400エラー）、④固定`thinking budget`廃止（adaptive thinkingへ移行）、⑤新トークナイザーで同一入力が1.0〜1.35倍に増加。Effort設定指針: coding/agenticは`xhigh`から開始、知能重視は`high`以上、単発Q&Aは`medium`。Notion事例: ツールエラーが1/3に削減・複雑ワークフローで14%改善。初日は本番直入れを避け、stagingで1〜2日の回帰テストを推奨。
 > 詳細: references/reference_claude_opus47_gmo_migration.md を参照
 
+### Opus 4.7移行実録：AI-Bridge Lab が感じた3つの進化と注意点（自動収集 2026-04-26）
+Opus 4.6実務ユーザーによる移行レポート（2026-04-22）。**3つの進化**: ①指示追従・日本語実務対応力向上（曖昧指示の文字通り解釈は両面あり）②複雑意思決定での構造把握強化（長文コンテキスト検索はやや低下）③コーディング・デザイン品質改善。**移行時の落とし穴**: トークンコスト最大35%増・API互換性3件（`temperature`等400エラー・`prefill`廃止・thinking budget廃止）・4.6向けプロンプトが逆効果になるケース。**移行推奨**: coding/agenticタスク主体・日本語精度重視・staging検証可能な場合。**様子見推奨**: APIプロンプト固定済み・コスト増許容不可・本番即日投入必要な場合。
+> 詳細: references/reference_claude_opus_47_aibridge_lab_review.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

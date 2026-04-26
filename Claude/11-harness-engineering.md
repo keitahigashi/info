@@ -565,4 +565,8 @@ Babushka AI提供の7層設定テンプレート（CLAUDE.md・Auto Memory・rul
 CLAUDE.md（憲法）・Rules（ドメイン規約）・Skills（ワークフロー手順書）・Agents（専門実行体）・Settings（権限制御）の5層構造。決定的処理（データパース・API呼び出し）をPythonに委譲しLLMは判断・生成のみに特化することでトークン消費を1/6に削減。「やらないこと」をスコープ外明示することで予期しない行動を劇的削減。最小から始めてdeny設定で十分な間はHooksを導入しない段階的アプローチを推奨。
 > 詳細: references/reference_harness_5layer_pattern_sasadango.md を参照
 
+### ハーネスエンジニアリング入門：4設計要素×3ステップ実装（Hexabase 2026年4月版）（自動収集 2026-04-26）
+Claude Code/Cursor共通の入門ガイド（2026-04-21）。ハーネス設計を**4要素**で体系化: ①コンテキスト設計（AIに見せる情報→CLAUDE.md・Rules）②行動設計（許可範囲と制約→settings.json・Hooks）③フィードバック設計（評価と修正ループ→PostToolUse Hook・Stop Gate）④運用設計（継続改善→Skills・定期メンテ）。**3ステップ実装**: `.claude/`ディレクトリ作成→CLAUDE.mdでルール定義→skills/にSKILL.mdを保存。プロンプトエンジニアリングとの差: 単一プロンプト最適化ではなくエージェント動作環境全体の設計。最先端事例として**Meta-Harness**（ハーネス自体の自動生成・自己改善）を紹介。
+> 詳細: references/reference_harness_engineering_intro_hexabase_2026.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
