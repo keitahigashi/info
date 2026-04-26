@@ -1,4 +1,4 @@
-# グリム童話（80話）
+# グリム童話（85話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -84,4 +84,9 @@
 | [grimm-078](../fables/grimm/grimm-078-the-wolf-and-the-fox.md) | 狼と狐 | 貪欲は身を滅ぼし、用心深い節制こそが生き延びる知恵である |
 | [grimm-079](../fables/grimm/grimm-079-the-shroud.md) | きょうかたびら | 過度な悲嘆は亡き者の安らぎを妨げ、死を受け入れることで生者も死者も安らぎを得られる |
 | [grimm-080](../fables/grimm/grimm-080-eves-various-children.md) | エバのふぞろいの子どもたち | すべての職業・役割には固有の価値があり、互いが不可欠な存在として社会を支え合っている |
+| [grimm-081](../fables/grimm/grimm-081-doctor-knowall.md) | 知ったかぶりのドクトル | 幸運と偶然の一致は時に本物の知恵と見分けがつかず、人は見かけの知識に騙されやすい |
+| [grimm-082](../fables/grimm/grimm-082-iron-hans.md) | アイゼンハンス | 勇気を持って安全な場所を離れ、見知らぬ異者への親切心を示す者は思いがけない力に守られて成長できる |
+| [grimm-083](../fables/grimm/grimm-083-the-turnip.md) | かぶ | 真の贈り物は見返りを求めない心から生まれ、打算的な施しは虚しい結果を招く |
+| [grimm-084](../fables/grimm/grimm-084-the-shepherd-boy.md) | 牧童 | 知恵とは答えを知ることではなく、問いの本質を見抜いて機転を利かせる能力にある |
+| [grimm-085](../fables/grimm/grimm-085-the-drummer.md) | 太鼓たたき | 愛する者への誓いは忘却や誘惑に負けてはならず、記憶を取り戻した者だけが真の幸福を得る |
 <!-- 寓話追加時にここへ行を追加 -->
