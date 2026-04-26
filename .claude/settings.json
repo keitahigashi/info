@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "deny": [
+      "Bash(git checkout -b:*)",
+      "Bash(git switch -c:*)",
+      "Bash(git branch:*)",
+      "Bash(git worktree add:*)",
+      "Bash(gh pr create:*)",
+      "Bash(gh pr:*)"
+    ]
+  }
+}
