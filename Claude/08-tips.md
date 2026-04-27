@@ -392,4 +392,8 @@ Claude Code作者が語る6ヒント: ①自動モード（許可プロンプト
 Opus 4.7リリースでAnthropicと作者Boris Chernyが転換を促した6点: ①ペアプロ型細かい指示→Goal/Constraints/完了基準を初回一括記載、②Effort MAXの常用→xhighを推奨デフォルトに（MAXはオーバーシンキング傾向）、③`--dangerously-skip-permissions`常用→Auto Mode（Max以上）や`/fewer-permission-prompts`に切り替え、④長時間セッションの横付き監視→`/focus`・Recapsを活用、⑤毎回Subagent呼び出し→自律判断を妨げない、⑥検証機構なしの自律実行→Stop Hookにnpm testを繋ぎ自動検証ループを構築。実務チェックリスト付き。
 > 詳細: references/reference_claude_code_anti_patterns_opus47.md を参照
 
+### AIツール品質変動への実践対策：ベンチマーク構築・バージョン管理・ベンダー報告方法（自動収集 2026-04-27）
+Claude Code品質低下事件を受けた実践的な自己防衛策。①10〜30件の「期待する入出力ペア」ベンチマークセットを構築（週次評価で変動を数値化）②使用モデルバージョン+日付の記録管理（差分発生タイミングを追跡）③ベンダーへの報告は「バージョンXXX以降このプロンプトでこの応答」形式で再現可能に。「品質劣化は感覚的な報告から始まりがち」なためを定量化する仕組みが重要。ベンダー透明性文化の変化（「黙って直す」→「説明して直す」）への適応も必要。
+> 詳細: references/reference_claude_quality_benchmark_practice_qiita.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
