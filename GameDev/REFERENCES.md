@@ -52,3 +52,23 @@
 | reference_quadtree-collision-optimization.md | 四分木空間分割の実装・モートン順序・線形四分木・O(n²)からの計算量削減 | sbfl.net | 2026-04-28 | 07-technical-systems |
 | reference_collision-detection-2d3d.md | 衝突判定の二段階処理・AABB/OBB・空間分割手法・最適化テクニック | GarageFarm | 2026-04-28 | 07-technical-systems |
 | reference_bartle-player-taxonomy.md | バートル4分類（Achiever/Explorer/Socializer/Killer）・設計指針・限界 | GameAnalytics | 2026-04-28 | 00-foundations |
+| reference_scope-creep-indie-games.md | スコープクリープの原因・5予防戦略（MVP/MoSCoW/タイムボックス等）・Stardew Valley事例 | Wayline | 2026-04-28 | 08-production |
+| reference_ship-indie-game-scope.md | インディーゲーム出荷のスコープ管理・ハードデッドライン・反復的ゴール調整 | Medium (Doan) | 2026-04-28 | 08-production |
+| reference_12-principles-animation.md | アニメーション12原則・スクワッシュ&ストレッチ・予備動作・ゲーム開発応用 | CLIP STUDIO TIPS | 2026-04-28 | 05-visual-audio |
+| reference_reward-psychology-games.md | ゲーム内報酬の心理学・ドーパミンループ・変動報酬スケジュール・倫理的考慮 | Simply Put Psych | 2026-04-28 | 01-mechanics |
+| reference_variable-ratio-reinforcement-gaming.md | 変動比率強化のゲーム応用・スキナー箱・ニアミス効果・ルートボックス倫理 | PlayStation Universe | 2026-04-28 | 01-mechanics |
+| reference_fromsoftware-storytelling-without-words.md | フロムソフトウェアの環境ナラティブ・アイテム説明文・曖昧さの設計哲学 | Duat Tales | 2026-04-28 | 03-narrative |
+| reference_fromsoftware-world-design-lessons.md | フロムソフトウェアのワールドデザイン8原則・相互接続・垂直性・密度 | Medium (Roha) | 2026-04-28 | 03-narrative |
+| reference_examining-emergent-gameplay.md | 創発的ゲームプレイの定義・2設計条件・シンプルなメカニクスからの複雑さ | Game Developer | 2026-04-28 | 09-genre-studies |
+| reference_sandbox-gameplay-history-theory.md | サンドボックスの歴史・設計原則・自由と構造のバランス・創発的システム | Game Developer | 2026-04-28 | 09-genre-studies |
+| reference_npc-dialogue-text-design.md | NPC会話テキストの5段階設計プロセス・役割割り出し・優先度・物量管理 | note (ザンギ) | 2026-04-28 | 03-narrative |
+| reference_design-pillars-core.md | デザインピラーの定義(3-5感情/要素)・意思決定フレームワーク・TLoU/BotW実例 | Game Developer | 2026-04-28 | 00-foundations |
+| reference_game-pillars-and-values.md | ピラー(何を)とバリュー(どのように)の区別・Subnauticaフレームワーク | Charlie Cleveland | 2026-04-28 | 00-foundations |
+| reference_level-design-subtraction-compass.md | MOBA戦闘ステージの引き算の美学・空間設計原則・プレイヤー視点の重要性 | ゲームメーカーズ | 2026-04-28 | 02-level-design |
+| reference_game-art-direction-first-impressions.md | アートディレクション6原則・第一印象・一貫した美的アイデンティティ | GIANTY | 2026-04-28 | 05-visual-audio |
+| reference_indie-game-art-styles-7types.md | インディー7アートスタイル（ピクセル/手描き/ベクター/ローポリ等）比較ガイド | RocketBrush | 2026-04-28 | 05-visual-audio |
+| reference_hud-design-guide.md | HUD情報階層・認知負荷管理・ミニマリスト原則・動的UI・ジャンル別配置 | Sunstrike Studios | 2026-04-28 | 04-ui-ux |
+| reference_cognitive-psychology-game-ux.md | 認知心理学のゲームUX適用・ゲシュタルト法則・記憶・注意・ユーザビリティ+ゲームフロー | Celia Hodent | 2026-04-28 | 04-ui-ux |
+| reference_fix-your-timestep.md | タイムステップ進化5段階・固定/可変/アキュムレータ/補間の段階的解説 | Gaffer On Games | 2026-04-28 | 06-programming-patterns |
+| reference_game-loop-pattern.md | ゲームループパターン・4タイムステップアプローチ・更新/描画分離・電力管理 | Game Programming Patterns | 2026-04-28 | 06-programming-patterns |
+| reference_procedural-animation-intro.md | プロシージャルアニメーション・ラグドール・逆運動学(IK)・ゲーム応用例 | Alan Zucconi | 2026-04-28 | 07-technical-systems |
