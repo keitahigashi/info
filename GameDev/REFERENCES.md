@@ -87,3 +87,23 @@
 | reference_ludonarrative-dissonance-harmony.md | ルドナラティブ不一致/調和の定義・事例・4設計アプローチ・不一致の原因 | Blood Moon Interactive | 2026-04-28 | 03-narrative |
 | reference_save-system-architecture.md | セーブ4層アーキテクチャ・シリアライズ比較・ISaveable・バージョニング・クラウド | Generalist Programmer | 2026-04-28 | 06-programming-patterns |
 | reference_save-game-implementation-practical.md | セーブ3層構造・ダーティフラグ・バージョニング戦略・よくある落とし穴・実践アドバイス | Intelligent Artifice | 2026-04-28 | 06-programming-patterns |
+| reference_verticality-level-design.md | レベルデザインの垂直性・フロアプレーン・最大3層ルール・ジャンル別設計 | Level Design Book | 2026-04-28 | 02-level-design |
+| reference_spatial-composition-level-design.md | 空間構成・ランドマーク・サイトライン・コントラスト階層・ショット構成批判 | Level Design Book | 2026-04-28 | 02-level-design |
+| reference_nier-automata-ui-design.md | NieR:AutomataのUI哲学・楽譜モチーフ・カラー設計・シンプル操作・独創的UI | PlatinumGames | 2026-04-28 | 04-ui-ux |
+| reference_game-ui-lessons-for-ux.md | ゲームUIから学ぶ4つのUX原則・直感的フィードバック・世界観統合・段階的情報 | ポップインサイト | 2026-04-28 | 04-ui-ux |
+| reference_third-person-camera-systems.md | 三人称カメラ4パラメータ・フレーミング戦略・動的調整・ブレンディング実装 | Little Polygon | 2026-04-28 | 05-visual-audio |
+| reference_engagement-loops-framework.md | エンゲージメントループ4段階構造・ネスト構造・ランダム性配置・倫理的区別 | Andrew Fischer | 2026-04-28 | 01-mechanics |
+| reference_compulsion-loop-design.md | コンパルションループ定義・スキナー条件づけ・3フェーズ構造・倫理的課題 | Game Makers | 2026-04-28 | 01-mechanics |
+| reference_non-photorealistic-rendering.md | NPR主要技法・セルシェーディング色離散化/アウトライン・Gooch・ハッチング・JFA | CG Learn | 2026-04-28 | 05-visual-audio |
+| reference_cel-toon-shading-techniques.md | セル/トゥーンシェーディング技術実装・量子化ライティング・Inverted Hull | Offscreen Canvas | 2026-04-28 | 05-visual-audio |
+| reference_roguelike-deckbuilder-genre.md | ローグライクデッキビルダーのジャンル定義・シナジー/手続き生成・代表作分析 | Rogueliker | 2026-04-28 | 09-genre-studies |
+| reference_procedural-vs-emergent-narrative.md | プロシージャル（設計手法）vs創発（体験）ナラティブの区別・断片的ストーリー設計 | Game Developer | 2026-04-28 | 03-narrative |
+| reference_procedural-narrative-future.md | プロシージャルナラティブの定義・テーマ/トーン基盤・Darkest Dungeon/PoE実例 | Ed McRae | 2026-04-28 | 03-narrative |
+| reference_rollback-netcode-architecture.md | ロールバックネットコードの仕組み・予測/修正・Input Decay・実装要件・適用ジャンル | SnapNet | 2026-04-28 | 07-technical-systems |
+| reference_input-delay-vs-rollback.md | 入力遅延vsロールバック比較・ハイブリッド3パラメータ・インフラ重要性 | Edgegap | 2026-04-28 | 07-technical-systems |
+| reference_constraints-creativity-game-dev.md | 制約が創造性を促進する原理・5種の制約・実践戦略7項目・Minecraft/Undertale事例 | Wayline | 2026-04-28 | 00-foundations |
+| reference_puzzle-design-guide.md | パズルデザイン3基礎要素・言葉なき教授法・7実践原則・難易度プログレッション | Medium (Delfino) | 2026-04-28 | 02-level-design |
+| reference_puzzle-design-reasoning-types.md | パズル3推論モード（演繹/帰納/アブダクション）・線形vs非線形・統合戦略 | SUPERJUMP | 2026-04-28 | 02-level-design |
+| reference_survival-adventure-game-loop.md | サバイバルゲーム4柱・リソースサイクル・クラフト中心設計・脅威デザイン | HackMD (VoidCrew) | 2026-04-28 | 09-genre-studies |
+| reference_indie-crunch-burnout-sustainability.md | インディークランチ原因・バーンアウトパターン・持続可能性10項目ツールキット | Wayline | 2026-04-28 | 08-production |
+| reference_crunch-prevention-strategies.md | クランチ防止4戦略・タイムライン管理・現実的スコーピング・デッドライン柔軟性 | Pingle Studio | 2026-04-28 | 08-production |
