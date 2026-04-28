@@ -72,3 +72,18 @@
 | reference_fix-your-timestep.md | タイムステップ進化5段階・固定/可変/アキュムレータ/補間の段階的解説 | Gaffer On Games | 2026-04-28 | 06-programming-patterns |
 | reference_game-loop-pattern.md | ゲームループパターン・4タイムステップアプローチ・更新/描画分離・電力管理 | Game Programming Patterns | 2026-04-28 | 06-programming-patterns |
 | reference_procedural-animation-intro.md | プロシージャルアニメーション・ラグドール・逆運動学(IK)・ゲーム応用例 | Alan Zucconi | 2026-04-28 | 07-technical-systems |
+| reference_value-chains-game-economy.md | バリューチェーン手法・ソース/コンバータ/シンク3段階・クラフト設計・バランス検証 | Lost Garden | 2026-04-28 | 01-mechanics |
+| reference_game-economy-5pillars.md | ゲーム経済5柱（蛇口/インベントリ/コンバータ/シンク/トレーダー）・インフレ防止 | Page One | 2026-04-28 | 01-mechanics |
+| reference_lighting-level-design.md | レベルデザインのライティング機能・4パスワークフロー・静的vs動的・D6ライティング | Level Design Book | 2026-04-28 | 07-technical-systems |
+| reference_lighting-game-design-guide.md | ゲームライティング4種類・ムード構築・プレイヤーガイダンス・ジャンル別応用 | Blood Moon Interactive | 2026-04-28 | 07-technical-systems |
+| reference_game-document-list-director.md | ゲーム開発ドキュメント体系・2p/10p/GDD/LDD・段階別構成・実践コツ | Qiita | 2026-04-28 | 08-production |
+| reference_blockout-greyboxing-guide.md | グレイボックス/ブロックアウトの5段階ワークフロー・イテレーション・構築手法5種 | Level Design Book | 2026-04-28 | 02-level-design |
+| reference_12-ways-improve-turnbased-combat.md | ターン制RPG戦闘改善の12手法・空間/専門化/地形/リソース管理の設計原則 | Game Developer | 2026-04-28 | 09-genre-studies |
+| reference_turnbased-combat-design-untamed.md | ターン制戦闘設計実践・グリッド選択・能力バランスポイント制・透明性とランダム性 | Game World Observer | 2026-04-28 | 09-genre-studies |
+| reference_mobile-game-kpi-phases.md | モバイルゲーム4フェーズ別KPI・CPI/DAU/ARPU/LTV/チャーンレートの指標設計 | gamebiz | 2026-04-28 | 08-production |
+| reference_realtime-game-data-analytics.md | ゲームデータ分析パイプライン・KPI自動化・リアルタイム基盤・機械学習応用 | Qiita | 2026-04-28 | 08-production |
+| reference_systems-thinking-feedback-loops.md | システム思考3レベル（変数/ループ/体験）・正/負ループ・Golden Sun事例 | Manuel Sanchez | 2026-04-28 | 00-foundations |
+| reference_feedback-loops-player-experience.md | フィードバックループのプレイヤー体験への影響・動的難易度・Machinations可視化 | Machinations.io | 2026-04-28 | 00-foundations |
+| reference_ludonarrative-dissonance-harmony.md | ルドナラティブ不一致/調和の定義・事例・4設計アプローチ・不一致の原因 | Blood Moon Interactive | 2026-04-28 | 03-narrative |
+| reference_save-system-architecture.md | セーブ4層アーキテクチャ・シリアライズ比較・ISaveable・バージョニング・クラウド | Generalist Programmer | 2026-04-28 | 06-programming-patterns |
+| reference_save-game-implementation-practical.md | セーブ3層構造・ダーティフラグ・バージョニング戦略・よくある落とし穴・実践アドバイス | Intelligent Artifice | 2026-04-28 | 06-programming-patterns |
