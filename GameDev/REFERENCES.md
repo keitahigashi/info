@@ -112,3 +112,7 @@
 | reference_dependency-injection-games.md | ゲームDIの本質・シングルトン偽装の罠・神インターフェース分割・アンチパターン | Clean Game Architecture | 2026-04-28 | 06-programming-patterns |
 | reference_monthly-game-jam-lessons.md | 月例ゲームジャム12回の教訓・スコープ管理・制約下設計・自己評価の現実 | Game Developer | 2026-04-28 | 08-production |
 | reference_48-hour-game-creation.md | 48時間ゲーム制作・チーム編成・スコープ判断・時間配分・バグ修正優先 | Game Developer | 2026-04-28 | 08-production |
+| reference_game-ui-localization-i18n.md | ゲームUIローカライゼーション7原則・テキスト拡張30%・RTL対応・アイコン戦略 | Gridly | 2026-04-28 | 04-ui-ux |
+| reference_3d-game-audio-spatialization.md | 3Dオーディオ主要技法・HRTF/オクルージョン/リバーブ/距離減衰・ジャンル別応用 | Number Analytics | 2026-04-28 | 07-technical-systems |
+| reference_player-skill-vs-character-skill.md | プレイヤースキルvsキャラクタースキル区別・プログレッション整合性・設計原則 | Game Developer | 2026-04-28 | 01-mechanics |
+| reference_reverb-spatialization-interactive.md | リバーブ2種・バイノーラル/VBAP・オブジェクトベースオーディオ・実装ベストプラクティス | Number Analytics | 2026-04-28 | 07-technical-systems |
