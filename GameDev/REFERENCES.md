@@ -116,3 +116,8 @@
 | reference_3d-game-audio-spatialization.md | 3Dオーディオ主要技法・HRTF/オクルージョン/リバーブ/距離減衰・ジャンル別応用 | Number Analytics | 2026-04-28 | 07-technical-systems |
 | reference_player-skill-vs-character-skill.md | プレイヤースキルvsキャラクタースキル区別・プログレッション整合性・設計原則 | Game Developer | 2026-04-28 | 01-mechanics |
 | reference_reverb-spatialization-interactive.md | リバーブ2種・バイノーラル/VBAP・オブジェクトベースオーディオ・実装ベストプラクティス | Number Analytics | 2026-04-28 | 07-technical-systems |
+| reference_meaningful-choices-framework.md | 意味ある選択の4要素フレームワーク・エージェンシー・選択構築・ドミナント戦略対策 | University XP | 2026-04-28 | 00-foundations |
+| reference_narrative-pacing-three-levels.md | インタラクティブストーリーテリングの3階層ペーシング（Arc/Scene/Action）・キャンディ理論 | USC Scalar | 2026-04-28 | 03-narrative |
+| reference_narrative-design-101.md | ナラティブデザインの定義・ライターとの役割区別・ゲームプレイ動詞・プロトタイピング手法 | Medium (Brooke Maggs) | 2026-04-28 | 03-narrative |
+| reference_game-sound-design-immersive.md | ゲームサウンドデザイン包括ガイド・4原則・フォーリー・アダプティブオーディオ・最適化 | Wayline | 2026-04-28 | 05-visual-audio |
+| reference_carrion-foley-sound-design.md | レトロビジュアル×AAAサウンドの意図的乖離・自作フォーリー手法・FMODレイヤリング | GAMERS ZONE | 2026-04-28 | 05-visual-audio |
