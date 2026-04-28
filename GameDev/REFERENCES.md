@@ -121,3 +121,8 @@
 | reference_narrative-design-101.md | ナラティブデザインの定義・ライターとの役割区別・ゲームプレイ動詞・プロトタイピング手法 | Medium (Brooke Maggs) | 2026-04-28 | 03-narrative |
 | reference_game-sound-design-immersive.md | ゲームサウンドデザイン包括ガイド・4原則・フォーリー・アダプティブオーディオ・最適化 | Wayline | 2026-04-28 | 05-visual-audio |
 | reference_carrion-foley-sound-design.md | レトロビジュアル×AAAサウンドの意図的乖離・自作フォーリー手法・FMODレイヤリング | GAMERS ZONE | 2026-04-28 | 05-visual-audio |
+| reference_encounter-design-combat-story.md | エンカウンター定義・戦闘ナラティブ3段階・プレイヤー足場確保3手法・敵パレット | Level Design Book | 2026-04-28 | 02-level-design |
+| reference_combat-level-metrics.md | 戦闘空間メトリクス設計・カバー配置5要素・武器射程と空間設計・テスト空間構築 | Game Developer | 2026-04-28 | 02-level-design |
+| reference_platformer-character-controller.md | プラットフォーマー操作感3大テクニック（コヨーテタイム/入力バッファリング/非放物線ジャンプ） | Medium (Cameron) | 2026-04-28 | 09-genre-studies |
+| reference_boss-battle-design-structure.md | ボス戦設計4目標・8ビート構造・テレグラフシステム・スキルテスト準備4ステップ | Game Developer | 2026-04-28 | 01-mechanics |
+| reference_card-game-command-architecture.md | Command/State/Observer/Strategy統合・決定論的同期・リプレイ復元・能力Composition | Zenn (niwatly) | 2026-04-28 | 06-programming-patterns |
