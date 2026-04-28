@@ -126,3 +126,32 @@
 | reference_platformer-character-controller.md | プラットフォーマー操作感3大テクニック（コヨーテタイム/入力バッファリング/非放物線ジャンプ） | Medium (Cameron) | 2026-04-28 | 09-genre-studies |
 | reference_boss-battle-design-structure.md | ボス戦設計4目標・8ビート構造・テレグラフシステム・スキルテスト準備4ステップ | Game Developer | 2026-04-28 | 01-mechanics |
 | reference_card-game-command-architecture.md | Command/State/Observer/Strategy統合・決定論的同期・リプレイ復元・能力Composition | Zenn (niwatly) | 2026-04-28 | 06-programming-patterns |
+| reference_agile-game-development-practices.md | ゲーム開発アジャイル3フレームワーク（Scrum/XP/Kanban）・チーム構造・スプリント運用 | Starloop Studios | 2026-04-28 | 08-production |
+| reference_ftue-playbook.md | FTUE定義・5計測指標・5一般的問題・テストセッション設計・Ankama事例（リテンション25%向上） | Antidote | 2026-04-28 | 08-production |
+| reference_game-onboarding-5techniques.md | ゲームオンボーディング5段階手法・難易度/重要度分類・BotW/Portal/Celeste事例 | The Acagamic | 2026-04-28 | 04-ui-ux |
+| reference_onboarding-principles-design.md | ゲームオンボーディング8原則・スキャフォールディング・任天堂3段階導入法 | Nerdy Teachers | 2026-04-28 | 04-ui-ux |
+| reference_sid-meier-interesting-decisions.md | 「ゲーム=面白い決定の連続」・4特性・リスク対報酬・フィードバック設計・反復的改良 | Game Developer | 2026-04-28 | 00-foundations |
+| reference_reactive-vs-active-stealth.md | リアクティブ/アクティブステルス2類型比較・検出複雑性・単調さ回避策 | Game Wisdom | 2026-04-28 | 01-mechanics |
+| reference_stealth-ai-awareness-systems.md | ステルスAI検出・認識モデル・FSM限界・動的パトロール・MGSV適応難易度 | Wayline | 2026-04-28 | 07-technical-systems |
+| reference_color-palette-video-games.md | 色彩心理・5カラースキーム・ウェイファインディング・ナラティブ色彩 | Game Developer | 2026-04-28 | 05-visual-audio |
+| reference_color-theory-games-art.md | 色彩物理・色空間比較・カラーハーモニー・感情的共鳴・ゲームアート実践 | Medium (Shahrabi) | 2026-04-28 | 05-visual-audio |
+| reference_game-effects-particle-system.md | パーティクル基本原理・エミッター構造・テクスチャ3分類・マテリアル活用 | Zenn (kurie) | 2026-04-28 | 07-technical-systems |
+| reference_side-quest-design-avellone.md | Avellone4原則・Witcher3/Fallout/BG2事例・効果的サイドクエスト6要素 | Game Developer | 2026-04-28 | 03-narrative |
+| reference_quest-design-meaningful.md | クエスト設計の心理的基盤・内発的動機・4失敗パターン・報酬構造・模範的システム | Medium (GG3) | 2026-04-28 | 03-narrative |
+| reference_melee-combat-hit-feel.md | 近接戦闘フィール7技法・ヒットストップ/シェイク/カメラ・DMC5/Tekken7/Sekiro事例 | Jason de Heras | 2026-04-28 | 09-genre-studies |
+| reference_juice-problem-over-feedback.md | 過剰ジュース3問題・バランスフィードバック設計・5実践ガイドライン | Wayline | 2026-04-28 | 05-visual-audio |
+| reference_component-pattern.md | コンポーネントパターン・モノリシック分割・3通信戦略・コンポジション優先 | Game Programming Patterns | 2026-04-28 | 06-programming-patterns |
+| reference_linear-multipath-openworld-ld.md | 3レベル構造パターン比較・エスカレーション曲線・POI磁力・オニオン構造 | Medium (Oniscu) | 2026-04-28 | 02-level-design |
+| reference_open-world-exploration-design.md | ハブ/セトルメント設計・プレイヤー選択統合・日夜サイクル・NPC生活感 | Techland | 2026-04-28 | 02-level-design |
+| reference_formal-systems-games.md | ゲーム形式的システム・マジックサークル・ルソリーアティチュード・システム思考 | Game Developer | 2026-04-28 | 00-foundations |
+| reference_formal-elements-games.md | 形式要素完全分類・7プレイヤー構造・8目標タイプ・情報構造・3ステップ分析 | Game Design Concepts | 2026-04-28 | 00-foundations |
+| reference_bayonetta-origins-ui-design.md | 絵本モチーフUI哲学・色彩体系・2Dアニメーション哲学・HUD設計・世界観統合 | PlatinumGames | 2026-04-28 | 04-ui-ux |
+| reference_indie-game-marketing-launch.md | ゲームポジショニング・コミュニティ構築・ローンチ72時間・ロングテール戦略 | Campaign Cooperative | 2026-04-28 | 08-production |
+| reference_publisher-pitch-wishlist.md | パブリッシャーピッチ構成・デモ/バーティカルスライス・ウィッシュリスト最適化 | Wayline | 2026-04-28 | 08-production |
+| reference_crafting-systems-5approaches.md | クラフト5類型（通貨代替/レシピ/試行錯誤/カスタマイズ/無限）・適用ガイド | Envato Tuts+ | 2026-04-28 | 01-mechanics |
+| reference_crafting-systems-7studies.md | 7作品クラフト分析・キャラクター投資・テンション・社会的役割・世界観構築 | Game Developer | 2026-04-28 | 01-mechanics |
+| reference_terrain-from-noise.md | ノイズ地形生成・オクターブ/周波数/振幅・バイオーム・島生成・無限マップ | Red Blob Games | 2026-04-28 | 07-technical-systems |
+| reference_horror-game-design-fear.md | 心理的恐怖vs驚愕・恐怖の核心的源泉・雰囲気設計4要素・脆弱性メカニクス | Dark Skies Film | 2026-04-28 | 09-genre-studies |
+| reference_event-queue-pattern.md | イベントキュー・リングバッファ・設計判断（内容/読書/書込/寿命）・状態陳腐化 | Game Programming Patterns | 2026-04-28 | 06-programming-patterns |
+| reference_post-processing-effects-guide.md | ポストプロセス定義・コアエフェクト群・パイプライン順序・ジャンル別応用 | Comprehensive Guide | 2026-04-28 | 07-technical-systems |
+| reference_hdr-tone-mapping-games.md | トーンマッピングの映画的役割・ACES比較・過剰コントラスト問題・美的判断優先論 | Promit's Ventspace | 2026-04-28 | 05-visual-audio |
