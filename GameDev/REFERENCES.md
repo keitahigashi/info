@@ -107,3 +107,8 @@
 | reference_survival-adventure-game-loop.md | サバイバルゲーム4柱・リソースサイクル・クラフト中心設計・脅威デザイン | HackMD (VoidCrew) | 2026-04-28 | 09-genre-studies |
 | reference_indie-crunch-burnout-sustainability.md | インディークランチ原因・バーンアウトパターン・持続可能性10項目ツールキット | Wayline | 2026-04-28 | 08-production |
 | reference_crunch-prevention-strategies.md | クランチ防止4戦略・タイムライン管理・現実的スコーピング・デッドライン柔軟性 | Pingle Studio | 2026-04-28 | 08-production |
+| reference_thumb-zone-mobile-design.md | モバイルUIサムゾーン設計・3アクセシビリティゾーン・ジェスチャー仕様・タッチターゲット | Smashing Magazine | 2026-04-28 | 04-ui-ux |
+| reference_service-locator-pattern.md | サービスロケーター定義・シングルトンとの違い・3実装手法・設計判断・トレードオフ | Game Programming Patterns | 2026-04-28 | 06-programming-patterns |
+| reference_dependency-injection-games.md | ゲームDIの本質・シングルトン偽装の罠・神インターフェース分割・アンチパターン | Clean Game Architecture | 2026-04-28 | 06-programming-patterns |
+| reference_monthly-game-jam-lessons.md | 月例ゲームジャム12回の教訓・スコープ管理・制約下設計・自己評価の現実 | Game Developer | 2026-04-28 | 08-production |
+| reference_48-hour-game-creation.md | 48時間ゲーム制作・チーム編成・スコープ判断・時間配分・バグ修正優先 | Game Developer | 2026-04-28 | 08-production |
