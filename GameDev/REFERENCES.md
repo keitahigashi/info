@@ -155,3 +155,76 @@
 | reference_event-queue-pattern.md | イベントキュー・リングバッファ・設計判断（内容/読書/書込/寿命）・状態陳腐化 | Game Programming Patterns | 2026-04-28 | 06-programming-patterns |
 | reference_post-processing-effects-guide.md | ポストプロセス定義・コアエフェクト群・パイプライン順序・ジャンル別応用 | Comprehensive Guide | 2026-04-28 | 07-technical-systems |
 | reference_hdr-tone-mapping-games.md | トーンマッピングの映画的役割・ACES比較・過剰コントラスト問題・美的判断優先論 | Promit's Ventspace | 2026-04-28 | 05-visual-audio |
+| reference_game-ai-planning-goap-utility-bt.md | ゲームAI計画システム4手法比較・GOAP/Utility/BT/Classical・選定フレームワーク | Tono Game Consultants | 2026-04-28 | 07-technical-systems |
+| reference_fear-goap-architecture.md | F.E.A.R.のGOAPアーキテクチャ・3状態FSM・Smart Objects・STRIPS適用 | Game Developer | 2026-04-28 | 07-technical-systems |
+| reference_beyond-battlepass-gacha-monetization.md | バトルパス/ガチャを超える6つのリテンション駆動マネタイゼーションモデル | Games Alchemy | 2026-04-28 | 01-mechanics |
+| reference_live-game-monetization-future.md | ライブゲームマネタイゼーション5トレンド・永続プログレッション・脱ホエール経済 | Beamable | 2026-04-28 | 01-mechanics |
+| reference_cooperative-game-design-patterns.md | 協力ゲーム13デザインパターン・相互依存性・チャレンジ分類・研究知見 | Formula D | 2026-04-28 | 01-mechanics |
+| reference_sbmm-skill-rating-systems.md | SBMM設計ガイド・Elo/Glicko/TrueSkill・3マッチメイキングアルゴリズム・スマーフ対策 | PubNub | 2026-04-28 | 07-technical-systems |
+| reference_elo-matchmaking-network-theory.md | Eloレーティングのゲーム適用分析・マッチング市場問題・TrueSkilチーム拡張 | Cornell Networks Blog | 2026-04-28 | 07-technical-systems |
+| reference_dda-dynamic-difficulty-agency.md | DDA批判的分析・フロー理論・エージェンシー喪失問題・推奨アプローチ | gihyo.jp | 2026-04-28 | 01-mechanics |
+| reference_wfc-algorithm-procedural-gen.md | WFCアルゴリズム詳解・Simple Tiled/Overlappingモデル・Observe/Propagate・制約・限界 | Ptidej Blog | 2026-04-28 | 07-technical-systems |
+| reference_wfc-3d-building-generation.md | WFCの3D建築生成応用・タイルセット設計・境界条件・マルチセルタイル | UpRoom Games | 2026-04-28 | 07-technical-systems |
+| reference_blend-tree-animation-system.md | ブレンドツリー完全ガイド・1D/2Dブレンド・加算レイヤー・ステートマシン統合・最適化 | MoCap Online | 2026-04-28 | 07-technical-systems |
+| reference_influence-maps-spatial-ai.md | インフルエンスマップ基礎・2Dグリッド/グラフ表現・伝播メカニズム・減衰/モメンタム | Grant Gangi | 2026-04-28 | 07-technical-systems |
+| reference_influence-maps-tactical-analysis.md | インフルエンスマップ戦術応用・3拡散手法・多層合成・ノードベース実装・最適化 | Andrew Hunt | 2026-04-28 | 07-technical-systems |
+| reference_data-aware-dialogue-system.md | データ認識ダイアログシステム・ポリツリー構造・ノードタイプ8種・静的分析・形式検証 | Philipp Hagenlocher | 2026-04-28 | 06-programming-patterns |
+| reference_inventory-system-architecture.md | インベントリ3層設計・アイテム定義/インスタンス分離・コンポーネント型・装備システム | 紅魔館のおもちゃ箱 / 複合 | 2026-04-28 | 06-programming-patterns |
+| reference_meaningful-skill-tree-design.md | スキルツリー7設計原則・品質評価フレームワーク・動詞テスト・アンチパターン | GDKeys | 2026-04-29 | 01-mechanics |
+| reference_water-rendering-overview.md | 水面レンダリング4要素・平面反射/屈折・DuDv/法線マッピング・フレネル効果 | OpenSAGE Blog | 2026-04-29 | 05-visual-audio |
+| reference_realtime-water-caustics.md | リアルタイムコースティクスGPU実装・環境マッピング応用・屈折レイ反復アルゴリズム | Martin Renou | 2026-04-29 | 07-technical-systems |
+| reference_command-pattern-input-handling.md | Commandパターン入力処理・アクション抽象化・リバインド・Undo/Redo・リプレイ | Game Programming Patterns | 2026-04-29 | 06-programming-patterns |
+| reference_input-system-architecture.md | 入力システム3層設計・InputState抽象化・アクションマッピング・設定ファイルパターン | Bytes Beneath | 2026-04-29 | 06-programming-patterns |
+| reference_steering-behaviors-reynolds.md | Reynolds操舵行動全体系・3層行動階層・18以上の操舵行動・群れ行動・結合手法5種 | Craig Reynolds (GDC 1999) | 2026-04-29 | 07-technical-systems |
+| reference_steering-behaviors-implementation.md | 操舵行動実装ガイド・エージェント3属性・Seek/Flee/Wander/Flocking実装・力結合 | slsdo | 2026-04-29 | 07-technical-systems |
+| reference_frame-data-patterns-designers.md | フレームデータ設計パターン・攻撃3フェーズ・ターンエコノミー・コンボ理論・プレッシャー | CritPoints | 2026-04-29 | 09-genre-studies |
+| reference_fighting-game-design-pillars.md | 格闘ゲーム設計3柱・応答性/コンボ/技術深度・ニュートラルゲーム・アクセシビリティ | Game Wisdom | 2026-04-29 | 09-genre-studies |
+| reference_localization-pipeline-technical.md | ローカライゼーション技術パイプライン・ロケールエンコーディング・エクスポートツール・QA | Game Developer | 2026-04-29 | 08-production |
+| reference_motion-matching-animation.md | モーションマッチング全体系・特徴ベクトル/ポーズ検索・KD木2段階探索・軌跡予測 | O3DE Blog | 2026-04-29 | 07-technical-systems |
+| reference_achievement-mechanics-motivation.md | アチーブメント設計原則・3層ティア構造・リテンションデータ・アンチパターン | Adrian Crook | 2026-04-29 | 01-mechanics |
+| reference_achievement-psychology-intrinsic.md | アチーブメント心理学・過正当化効果・評価型vs偶発型・隠しアチーブメントの優位性 | Game Developer | 2026-04-29 | 00-foundations |
+| reference_2d-camera-theory-practice.md | 2Dカメラ決定的リファレンス・注意/操作/快適3原則・テクニック体系・歴史的進化 | Game Developer (Itay Keren) | 2026-04-29 | 07-technical-systems |
+| reference_2d-camera-design-techniques.md | 2Dカメラ5必須テクニック・ルックアヘッド/ジャンプ管理/ダンピング/フレーミング/ジュース | GMTK (Mark Brown) | 2026-04-29 | 07-technical-systems |
+| reference_ai-blackboard-architecture.md | ブラックボードパターン・共有キーバリューストア・タスク協調・Utility統合・分散型AI | Tono Game Consultants | 2026-04-29 | 07-technical-systems |
+| reference_procedural-level-generation-algorithms.md | 手続き的レベル生成3手法・BSP/セルラーオートマタ/Perlinノイズ・接続性検証・ハイブリッド | Jaconir Blog | 2026-04-29 | 07-technical-systems |
+| reference_procedural-dungeon-algorithm.md | 7段階ダンジョン生成・物理ベース分離・ドロネー三角形分割・MST＋ループ・L字コリドー | Game Developer | 2026-04-29 | 09-genre-studies |
+| reference_easing-functions-game-animation.md | イージング関数完全ガイド・EaseIn/Out/InOut・Spike・累乗比較・Lerp統合・選定指針 | Febucci Blog | 2026-04-29 | 06-programming-patterns |
+| reference_lerp-interpolation-techniques.md | Lerp実践テクニック・よくある間違い・フレームレート独立・Smoothstep/Smootherstep | Chico Unity3D | 2026-04-29 | 06-programming-patterns |
+| reference_game-analytics-telemetry.md | ゲーム分析テレメトリ実装4フェーズ・計装/パイプライン/リアルタイム分析/可視化 | DataCalculus | 2026-04-29 | 08-production |
+| reference_heatmap-analysis-games.md | ゲームヒートマップ分析・4段階ワークフロー・UI/マネタイゼーション/パフォーマンス応用 | DataCalculus | 2026-04-29 | 08-production |
+| reference_volumetric-fog-scattering.md | 大気散乱/ボリュメトリックフォグ・Beer-Lambert法則・単一散乱近似・AC4実装 | Game Developer (Wronski) | 2026-04-29 | 05-visual-audio |
+| reference_tower-defense-rules-framework.md | TD設計フレームワーク・勝敗条件3種・マップ設計4哲学・経済システム・ヒーロー統合 | Game Developer | 2026-04-29 | 09-genre-studies |
+| reference_tower-defense-design-guide.md | TD設計ガイド・5コアメカニクス・バランス調整・プレイヤー心理・設計課題 | DesignTheGame | 2026-04-29 | 09-genre-studies |
+| reference_ai-perception-system.md | AI知覚システム・視覚/聴覚/環境/社会知覚・段階的認識レベル・階層的最適化 | Tono Game Consultants | 2026-04-29 | 07-technical-systems |
+| reference_thief-ai-sensory-system.md | Thief AI感覚システム・視覚3要素・聴覚ヒューリスティック・ステルス3要件・設計哲学 | Game Developer | 2026-04-29 | 07-technical-systems |
+| reference_rhythm-game-music-sync.md | リズムゲーム音楽同期3原則・DSPタイミング・ビートベースノート生成・補間移動 | Game Developer | 2026-04-29 | 09-genre-studies |
+| reference_rhythm-game-conductor-architecture.md | リズムゲームConductorクラス・DSP同期・firstBeatOffset・ビート抽象化 | Game Developer | 2026-04-29 | 09-genre-studies |
+| reference_day-night-cycle-design.md | 昼夜サイクル設計ツール・ゲームプレイ5統合領域・雰囲気効果・固定vs操作可能 | DesignTheGame | 2026-04-29 | 07-technical-systems |
+| reference_shadow-mapping-techniques.md | シャドウマッピング技法総覧・VSM/EVSM/MSM・カスケード最適化・PCF3変種・バイアス3手法 | Matt Pettineo | 2026-04-29 | 07-technical-systems |
+| reference_shadow-mapping-practical.md | シャドウマッピング実践ガイド・CSM/VSM/ESM概要・フィルタリング・最適化戦略 | DataCalculus | 2026-04-29 | 07-technical-systems |
+| reference_idle-incremental-tycoon-mechanics.md | 放置/インクリメンタル/タイクーン3サブジャンル比較・コアループ・プレステージ・設計フレームワーク | Tindalos Games | 2026-04-29 | 09-genre-studies |
+| reference_idle-game-design-monetization.md | 放置ゲーム設計ベストプラクティス・マネタイゼーション4階層・オフライン進行・プレステージ公式 | Mind Studios | 2026-04-29 | 09-genre-studies |
+| reference_ugc-player-satisfaction.md | UGC3カテゴリ（パッシブ/ポータル/Mod）・プレイヤー動機2レベル・設計推奨 | Game Developer | 2026-04-29 | 08-production |
+| reference_ambient-occlusion-algorithms.md | AO技法総覧・SSAO/HBAO/HBAO+/HDAO/VXAO/GTAO比較・パフォーマンス実測・VR考慮 | ARVI VR | 2026-04-29 | 07-technical-systems |
+| reference_moba-design-analysis.md | MOBAジャンル分析・目標構造/キャラ成長/レーン/ロール・完璧な不均衡・メタゲーム | Game Developer | 2026-04-29 | 09-genre-studies |
+| reference_audio-middleware-platforms.md | オーディオミドルウェア5プラットフォーム比較・Wwise/FMOD/Master Audio/Fabric/InAudio | Somatone Interactive | 2026-04-29 | 05-visual-audio |
+| reference_audio-middleware-comparison-2026.md | Wwise/FMOD/MetaSounds 2026年比較・空間音響/音楽/ダイアログ/手続き生成・選定基準 | StraySpark Studio | 2026-04-29 | 05-visual-audio |
+| reference_lod-culling-drawcall-optimization.md | LOD三角形段階/カリング4手法/ドローコール最適化5戦略/オーバードロー管理 | kindatechnical | 2026-04-29 | 07-technical-systems |
+| reference_battle-royale-design-flaws.md | バトルロイヤル設計欠陥分析・反復戦略/停滞ルート/キャラ差別化不足・改善4提案 | Game Wisdom | 2026-04-29 | 09-genre-studies |
+| reference_battle-royale-development-guide.md | バトルロイヤル開発ガイド・マップ設計/ルート配置/セーフゾーン/エンゲージメント | Game-Ace | 2026-04-29 | 09-genre-studies |
+| reference_game-testing-frameworks.md | ゲームテスト自動化・テストピラミッド・Unity/Unreal/Godotフレームワーク・CI/CD | Generalist Programmer | 2026-04-29 | 08-production |
+| reference_game-test-automation-tools.md | テスト自動化ツール比較・3コア技法（画像認識/API/ボット）・5ツール詳細比較 | IXIE Gaming | 2026-04-29 | 08-production |
+| reference_verlet-integration-ragdoll-cloth.md | Verlet積分・位置ベース物理・制約ソルバー・布/ラグドール・Euler比較・最適化 | Pikuma | 2026-04-29 | 07-technical-systems |
+| reference_4x-strategy-design-analysis.md | 4Xジャンル設計分析・4柱相互接続・ペーシング問題・中盤モメンタム喪失・勝利条件多様化 | Building Better Games / Cheng-Wei Hu | 2026-04-29 | 09-genre-studies |
+| reference_asset-pipeline-dcc-to-runtime.md | アセットパイプライン全工程・DCC契約/インポートプリセット/圧縮/クッキング/非同期ロード | PulseGeek | 2026-04-29 | 08-production |
+| reference_asset-loading-optimization.md | アセットロード最適化・非同期ロード/ストリーミング/圧縮フォーマット/オブジェクトプール | Wayline | 2026-04-29 | 08-production |
+| reference_client-server-multiplayer-architecture.md | 権威的サーバー・クライアント側予測・サーバー照合・エンティティ補間・ラグ補償 | Gabriel Gambetta | 2026-04-29 | 07-technical-systems |
+| reference_entity-interpolation-networking.md | エンティティ補間・タイムステップ・時間オフセット・デッドレコニングvsインターポレーション | Gabriel Gambetta | 2026-04-29 | 07-technical-systems |
+| reference_racing-game-implementation.md | レーシング実装2手法・物理vsアーケード・サークルベース旋回・ドリフト・ビジュアル補償 | Superheroes in Racecars | 2026-04-29 | 09-genre-studies |
+| reference_live-operations-gaas.md | LiveOps完全ガイド・イベント6類型/バトルパス/ケイデンス/KPI/チーム構造 | Generalist Programmer | 2026-04-29 | 08-production |
+| reference_anti-aliasing-techniques.md | AA5手法比較・FXAA/SMAA/MSAA/SSAA/TXAA・パフォーマンス/品質トレードオフ・選定ガイド | ARVI VR | 2026-04-29 | 07-technical-systems |
+| reference_management-simulator-design.md | 経営シミュレーション設計・逆順設計/ティア依存/経済フロー計算/戦略的摩擦 | Game Developer (McAulay) | 2026-04-29 | 09-genre-studies |
+| reference_haptic-feedback-design.md | 触覚フィードバック革命・ボイスコイルアクチュエータ・アダプティブトリガー・設計哲学 | The Ringer | 2026-04-29 | 04-ui-ux |
+| reference_destruction-systems-games.md | ゲーム破壊6手法・事前破砕/メッシュスライス/ソフトボディ/ボクセル/構造応力 | GMTK (Mark Brown) | 2026-04-29 | 07-technical-systems |
+| reference_realtime-destruction-implementation.md | リアルタイム破壊3実装・複合物理形状・グラフ島検出・最適化3手法 | Riordan Callil | 2026-04-29 | 07-technical-systems |
+| reference_quaternion-3d-rotation.md | クォータニオン3D回転・ジンバルロック・SLERP・オイラー角比較・Hamilton歴史 | Ralf Becker (Medium) | 2026-04-29 | 06-programming-patterns |
