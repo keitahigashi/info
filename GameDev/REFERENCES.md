@@ -248,3 +248,13 @@
 | reference_two-bone-ik-procedural.md | 2ボーンIK余弦定理解析解・四元数回転・足接地/エイム応用・Unreal/Unity実装 | Little Polygon | 2026-04-29 | 07-technical-systems |
 | reference_ik-algorithms-comparison.md | IK 3アルゴリズム比較（CCD/ヤコビアン/FABRIK）・計算量・パフォーマンス実験・SotC応用 | Medium (Ye) | 2026-04-29 | 07-technical-systems |
 | reference_fabrik-algorithm.md | FABRIK位置ベースIK・前方/後方リーチング・制約対応・CCD比較・エンジン統合状況 | Andreas Aristidou | 2026-04-29 | 07-technical-systems |
+| reference_dialogue-trees-branching.md | ダイアログツリー4構成要素・分岐構造4類型・設計ベストプラクティス5項目・実装技術考慮 | DesignTheGame | 2026-04-29 | 03-narrative |
+| reference_dialogue-tools-comparison.md | 分岐対話ツール4種比較（Twine/Yarn Spinner/Ink/NarrativeFlow）・選定基準 | NarrativeFlow | 2026-04-29 | 03-narrative |
+| reference_multiplayer-map-guidelines.md | マルチプレイヤーマップ10ガイドライン・対称性/サイトライン/スポーン/ピックアップ配置 | Game Developer (Ryan) | 2026-04-29 | 02-level-design |
+| reference_map-balance-design.md | マップバランス定義・対称性3種・サイトライン管理・カバー4分類・チョークポイント・チューニング | Level Design Book | 2026-04-29 | 02-level-design |
+| reference_theory-of-fun-koster.md | 楽しさ=学習の理論・チャンキング/グロック・パターン認識・Lazzaroの4つの楽しさ・設計3原則 | Medium (Padinha) | 2026-04-29 | 00-foundations |
+| reference_postmortem-analysis-patterns.md | 24件ポストモーテム統計分析・成功/失敗パターン・プロダクション問題最多・チーム規模4クラスタ | Game Developer (Shirinian) | 2026-04-29 | 08-production |
+| reference_great-game-music-elements.md | ゲーム音楽4核心要素（感情/没入/テーマ/適応型）・8bit進化史・ライトモティーフ・ダイナミックスコアリング | Twine Blog | 2026-04-29 | 05-visual-audio |
+| reference_classic-games-smart-rng.md | クラシックゲームRNG実装・FF1テーブル方式・SM64線形合同法・エントロピー注入・確率知覚調整 | Game Developer | 2026-04-29 | 06-programming-patterns |
+| reference_better-randomness-design.md | ランダム性改善7手法・マーブルバッグ/ピティタイマー/隠蔽リロール/適応型/制御カオス | indieklem | 2026-04-29 | 01-mechanics |
+| reference_perceived-randomness-research.md | 認知バイアス考慮の疑似乱数設計・評価関数最適化・標準vs調整乱数の知覚実験 | JAIST 池田研究室 | 2026-04-29 | 01-mechanics |
