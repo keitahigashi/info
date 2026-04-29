@@ -258,3 +258,11 @@
 | reference_classic-games-smart-rng.md | クラシックゲームRNG実装・FF1テーブル方式・SM64線形合同法・エントロピー注入・確率知覚調整 | Game Developer | 2026-04-29 | 06-programming-patterns |
 | reference_better-randomness-design.md | ランダム性改善7手法・マーブルバッグ/ピティタイマー/隠蔽リロール/適応型/制御カオス | indieklem | 2026-04-29 | 01-mechanics |
 | reference_perceived-randomness-research.md | 認知バイアス考慮の疑似乱数設計・評価関数最適化・標準vs調整乱数の知覚実験 | JAIST 池田研究室 | 2026-04-29 | 01-mechanics |
+| reference_minimap-research-design.md | ミニマップ2種（ワールド/プレイヤー中心）・ジャンル別配置・表示要素・インタラクション機能 | GitHub (Ávila) | 2026-04-29 | 04-ui-ux |
+| reference_minimap-placement-study.md | 66ゲーム分析ミニマップ配置研究・視線心理学・認知負荷軽減・業界標準の不在 | Game Developer | 2026-04-29 | 04-ui-ux |
+| reference_returnal-ux-case-study.md | Returnal UX哲学・ゲームプレイファーストUI・ディエジェティック表示・ハプティクス統合・アクセシビリティ | PlayStation Blog | 2026-04-29 | 04-ui-ux |
+| reference_gpu-cloth-hair-softbody.md | GPU並列布/髪/ソフトボディシミュレーション・PBD・コンピュートシェーダー・衝突処理・LOD | DaydreamSoft | 2026-04-29 | 07-technical-systems |
+| reference_emotional-design-theories.md | 感情設計6ステップ・マズロー/プラチック理論・感情トリガー7種・強度調整・ニュートラル局面 | MY.GAMES (Medium) | 2026-04-29 | 00-foundations |
+| reference_cutscene-design-principles.md | カットシーン種類・コスト比較・6主要機能・「見せろ語るな」原則・HL/BG成功事例 | Game Developer | 2026-04-29 | 03-narrative |
+| reference_organic-tutorial-design.md | 有機的チュートリアル定義・3段階教育・テキストなし学習・Nintendo/Valve/Portal事例 | Game Wisdom | 2026-04-29 | 02-level-design |
+| reference_intuitive-tutorial-guide.md | 直感的チュートリアル3ステップ・安全環境導入・複合メカニクス統合・HL2教育設計 | GameDev Academy | 2026-04-29 | 02-level-design |
