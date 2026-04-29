@@ -365,3 +365,13 @@
 | reference_resources-and-cooldowns.md | リソース分類（ヘルス/マネー/時間）・クールダウン設計原則・難易度調整・Overwatch弾薬排除哲学 | Medium (Kionay) | 2026-04-29 | 01-mechanics |
 | reference_scoring-system-guide.md | スコアリング3タイプ・設計3要素（公平性/進行/フィードバック）・動的スコアリング・技術実装 | Number Analytics | 2026-04-29 | 01-mechanics |
 | reference_leaderboard-design-octalysis.md | リーダーボード中心問題・マイクロスプライシング6次元・近傍ビュー・時間的戦略・毒性防止 | Yu-kai Chou | 2026-04-29 | 01-mechanics |
+| reference_multithreaded-job-systems.md | ジョブシステム設計・3キュートポロジー・粒度設計・ワークスティーリング・優先度バジェット | PulseGeek | 2026-04-29 | 06-programming-patterns |
+| reference_building-a-job-system.md | ジョブシステム自作・リングバッファ・ワークスティーリング・JobFuture非同期・テスト戦略 | Rismosch | 2026-04-29 | 06-programming-patterns |
+| reference_fog-of-war-design.md | FoW定義と軍事起源・3視認状態・戦略的影響・動的vs静的・高度バリエーション・ジャンル適用 | DesignTheGame | 2026-04-29 | 07-technical-systems |
+| reference_fog-of-war-implementation.md | FoW起源（Empire 1977）・可視性マップ2D配列・3段階アルゴリズム・隣接タイル認識・LOS手法比較 | Didac Romero | 2026-04-29 | 07-technical-systems |
+| reference_realtime-3d-fluid-simulation.md | Navier-Stokes・GPUテクスチャ計算・MacCormack移流・煙/火/水型別実装・ボリュームレンダリング | NVIDIA GPU Gems 3 | 2026-04-29 | 07-technical-systems |
+| reference_foreshadowing-game-narrative.md | 伏線3カテゴリ（ヒント/視覚音響/環境設定）・ミスディレクション・セットアップ&ペイオフ・TLoU/Portal | Number Analytics | 2026-04-29 | 03-narrative |
+| reference_in-game-notifications-alerts.md | ゲーム内通知5ステップ設計・視覚的階層・コンテキスト適応・アラート疲労回避・データ駆動改善 | DataCalculus | 2026-04-29 | 04-ui-ux |
+| reference_blasphemous-metroidvania-iteration.md | メトロイドヴァニア公式逸脱・マップ3階層・ショートカット進化・非線形探索・チェックポイント7画面ルール | Game Developer | 2026-04-29 | 02-level-design |
+| reference_metroidvania-level-design-guide.md | メトロイドヴァニアLD 5ステップ・相互接続性・ゲーティング・能力統合・LDが作業80% | ClassX | 2026-04-29 | 02-level-design |
+| reference_soulslike-level-methodology.md | 形状/空間/環境3レイヤー・5環境類型・密度勾配・ループパス・実装7段階ワークフロー | Medium (Bramasole) | 2026-04-29 | 02-level-design |
