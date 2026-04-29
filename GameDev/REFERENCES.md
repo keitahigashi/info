@@ -228,3 +228,13 @@
 | reference_destruction-systems-games.md | ゲーム破壊6手法・事前破砕/メッシュスライス/ソフトボディ/ボクセル/構造応力 | GMTK (Mark Brown) | 2026-04-29 | 07-technical-systems |
 | reference_realtime-destruction-implementation.md | リアルタイム破壊3実装・複合物理形状・グラフ島検出・最適化3手法 | Riordan Callil | 2026-04-29 | 07-technical-systems |
 | reference_quaternion-3d-rotation.md | クォータニオン3D回転・ジンバルロック・SLERP・オイラー角比較・Hamilton歴史 | Ralf Becker (Medium) | 2026-04-29 | 06-programming-patterns |
+| reference_worldbuilding-process-design.md | ワールドビルディングのプロセス・3基本質問・マップ/タイムライン/ノート・ハトの糞理論 | Level Design Book | 2026-04-29 | 03-narrative |
+| reference_gates-lock-key-level-design.md | ゲート種類（ハード/ソフト/隠し）・ロック&キーパターン・ショートカット設計 | Level Design Book | 2026-04-29 | 02-level-design |
+| reference_metroidvania-game-design.md | メトロイドヴァニア定義・能力プログレッション・疑似オープンワールド・ゲーティング | Game Developer | 2026-04-29 | 02-level-design |
+| reference_dead-by-daylight-asymmetric-design.md | Dead By Daylight非対称設計・キラー/サバイバー役割・ホラー体験3柱・緊張感メカニクス | Game Developer | 2026-04-29 | 01-mechanics |
+| reference_asymmetrical-design-challenges.md | 非対称デザイン2分類・バランス課題・「答え」の概念・L4D事例・スキルレベル問題 | Game Developer | 2026-04-29 | 01-mechanics |
+| reference_virtual-sensation-principles.md | 仮想感覚7原則・予測可能性/新規性/フィードバック/スキルフロア・ゲームフィール設計基盤 | Game Developer (Swink) | 2026-04-29 | 00-foundations |
+| reference_game-feel-secret-ingredient.md | ゲームフィール6構成要素（入力/反応/文脈/ポリッシュ/メタファー/ルール）・宮本茂の庭園手法 | Game Developer | 2026-04-29 | 00-foundations |
+| reference_prototypes-vertical-slice.md | プロトタイプvsバーティカルスライス・開発タイムライン8段階・ピッチング戦略 | Rami Ismail (LTPF) | 2026-04-29 | 08-production |
+| reference_nuanced-morality-systems.md | 善悪二項対立の限界・評判/結果エンジン/動的対話/道徳的整列ウェブ・Disco Elysium/CK3事例 | Wayline | 2026-04-29 | 00-foundations |
+| reference_karma-morality-4types.md | カルマシステム4類型（バイナリ/独立スケール/承認/統合的選択）・Infamous/MassEffect/DA比較 | Envato Tuts+ | 2026-04-29 | 01-mechanics |
