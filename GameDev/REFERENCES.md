@@ -266,3 +266,62 @@
 | reference_cutscene-design-principles.md | カットシーン種類・コスト比較・6主要機能・「見せろ語るな」原則・HL/BG成功事例 | Game Developer | 2026-04-29 | 03-narrative |
 | reference_organic-tutorial-design.md | 有機的チュートリアル定義・3段階教育・テキストなし学習・Nintendo/Valve/Portal事例 | Game Wisdom | 2026-04-29 | 02-level-design |
 | reference_intuitive-tutorial-guide.md | 直感的チュートリアル3ステップ・安全環境導入・複合メカニクス統合・HL2教育設計 | GameDev Academy | 2026-04-29 | 02-level-design |
+| reference_game-version-control.md | ゲーム開発VCS二元戦略・Git LFS/Perforce/Plastic SCM比較・コード/アート分離管理 | The Digital Spell | 2026-04-29 | 08-production |
+| reference_ue5-version-control-comparison.md | UE5向けVCS 3ツール比較・ファイルロック戦略・チームサイズ別推奨・日次ワークフロー | StraySpark Studio | 2026-04-29 | 08-production |
+| reference_pixel-art-animation-guide.md | ピクセルアートアニメーション原則・キャラ設計4要素・制作4ステップ・FPS設定・サブピクセル | WigglyPaint | 2026-04-29 | 05-visual-audio |
+| reference_rubber-banding-design-requirement.md | ラバーバンディング定義・マリオカートvs Split/Second・パワープレイメカニクス・設計要件 | Game Developer | 2026-04-29 | 01-mechanics |
+| reference_rubber-band-theory.md | ラバーバンド理論・SF4滅殺波動拳(成功)vsブルーシェル(失敗)・設計4原則・スキル関連性 | Law of Game Design | 2026-04-29 | 01-mechanics |
+| reference_flyweight-pattern.md | フライウェイト定義・固有/外部状態分離・森林/地形タイル応用・不変性要件・インスタンス描画 | Game Programming Patterns | 2026-04-29 | 06-programming-patterns |
+| reference_type-object-pattern.md | タイプオブジェクト・Breed/Monster構造・クラス階層代替・データ駆動設計・継承3オプション | Game Programming Patterns | 2026-04-29 | 06-programming-patterns |
+| reference_game-engine-memory-management.md | ゲームエンジンメモリ管理・カスタムアロケータ5種・メモリプール・AoS vs SoA・遅延解放 | Palos Publishing | 2026-04-29 | 06-programming-patterns |
+| reference_terrain-generation-erosion.md | 地形生成3手法（ダイアモンドスクエア/ボロノイ/重み付け）・熱侵食・水力侵食4段階 | David Jorna | 2026-04-29 | 07-technical-systems |
+| reference_hydraulic-erosion-simulation.md | パーティクルベース水力侵食・侵食/堆積メカニズム・パラメータ調整・GPU最適化提案 | Medium (van der Veen) | 2026-04-29 | 07-technical-systems |
+| reference_inventory-ui-10-improvements.md | インベントリUI改善10手法・グリッドセル設計/通知バッジ/コントローラー配慮/操作感最適化 | The Wingless | 2026-04-29 | 04-ui-ux |
+| reference_inventory-ux-secrets.md | インベントリUX 3パターン（停止/低速化/継続）・クイックホイール・セカンドスクリーン | The Acagamic | 2026-04-29 | 04-ui-ux |
+| reference_game-font-typography.md | フォント4タイプ比較・TTF/OTF/ビットマップ仕様・Dyslexieアクセシビリティ・Notoローカライズ | The Digital Spell | 2026-04-29 | 04-ui-ux |
+| reference_player-agency-design.md | プレイヤーエージェンシー定義・SDT 3欲求・3実装方法・選択の幻想・4課題・Witcher3/Minecraft | Toxigon | 2026-04-29 | 00-foundations |
+| reference_plant-picker-poison-picker.md | Plant Picker(意味ある選択)vs Poison Picker(選択の幻想)・ドーパミン放出・設計バランス比率 | Yu-kai Chou | 2026-04-29 | 00-foundations |
+| reference_environmental-storytelling-3layers.md | 環境ストーリーテリング3階層・理解/感情/アイデンティティ駆動・色彩心理・BioShock/Portal事例 | Medium (Mulholland) | 2026-04-29 | 03-narrative |
+| reference_lorebook-codex-design.md | ロアブック/コーデックス設計問題・読む抵抗の本質・ファミリアー/アンファミリアー型・統合型改善 | Abstracting Games | 2026-04-29 | 03-narrative |
+| reference_effective-coop-design.md | 協力プレイ設計原則・レベル二重化・スキル差対応・衝突メカニクス活用・プレイテスト必須性 | Game Developer (Keenan) | 2026-04-29 | 02-level-design |
+| reference_four-atoms-cooperative-games.md | 協力ゲーム4原子（Gate/Comfort/Class/Job）・識別方法・Portal2/L4D/Splinter Cell事例 | Game Developer (Lauret) | 2026-04-29 | 02-level-design |
+| reference_exploration-discovery-design.md | 好奇心/探索/発見の設計・God of War島探索/Hollow Knight段階的ロア・フロー状態・線形性0.3-0.5 | GamersLearn | 2026-04-29 | 02-level-design |
+| reference_community-management-guide.md | コミュニティ管理5プラットフォーム戦略・Discord/Reddit/Steam/SNS運営・フィードバック統合 | Codecks | 2026-04-29 | 08-production |
+| reference_vfx-pipeline-games.md | ゲームVFXパイプライン5段階（スタイル/リファレンス/テクスチャ/3D/マテリアル&パーティクル） | Mad VFX | 2026-04-29 | 05-visual-audio |
+| reference_game-vfx-comprehensive-guide.md | VFX 3本柱（パーティクル/シェーダー/物理）・設計5要素・映画との差異・UE5 Niagara | Magic Media | 2026-04-29 | 05-visual-audio |
+| reference_status-effect-stacking.md | ステータスエフェクト効力×持続時間保存原則・4スタッキングケース・方式A vs B比較 | Game Developer (Doucet) | 2026-04-29 | 01-mechanics |
+| reference_status-effects-why-and-how.md | ステータスエフェクト6分類・戦略的深さ・ボス免疫問題・設計ベストプラクティス・戦闘外応用 | Red Hare Studios | 2026-04-29 | 01-mechanics |
+| reference_double-buffer-pattern.md | ダブルバッファ定義・ティアリング解決・スワップ2方式・AI振る舞いバッファリング応用 | Game Programming Patterns | 2026-04-29 | 06-programming-patterns |
+| reference_dirty-flag-pattern.md | ダーティフラグ定義・一次/派生データ遅延再計算・シーングラフ変換最適化・クリアタイミング3種 | Game Programming Patterns | 2026-04-29 | 06-programming-patterns |
+| reference_realtime-global-illumination.md | リアルタイムGI 4手法（RTGI/VXGI/SSGI/LPV）・UE5 Lumen・Minecraft RTX・AI照明予測 | Maxima Gaming Studio | 2026-04-29 | 07-technical-systems |
+| reference_snapshot-compression.md | スナップショット圧縮・四元数Smallest Three(128→29bit)・デルタ圧縮・17Mbps→256Kbps達成 | Gaffer On Games | 2026-04-29 | 07-technical-systems |
+| reference_state-synchronization.md | 状態同期アプローチ・優先度蓄積器・ジッターバッファ・量子化同期・視覚的平滑化 | Gaffer On Games | 2026-04-29 | 07-technical-systems |
+| reference_loading-screen-design-rules.md | ローディングスクリーン6設計ルール・ペーシング配慮/スポイラー回避/進捗必須/ヒント排除 | Game Developer | 2026-04-29 | 04-ui-ux |
+| reference_radial-menu-design.md | ラジアルメニュー定義・角度ベース選択/筋肉記憶・利点欠点・8項目以下推奨・GTA V/Dishonored | Stirling Weir | 2026-04-29 | 04-ui-ux |
+| reference_progress-bar-design.md | プログレスバー心理学・達成欲求・5段階アニメーション・線形/円形/代替表現・設計3原則 | Medium (Kosyakoff) | 2026-04-29 | 04-ui-ux |
+| reference_procedural-rhetoric-bogost.md | 手続き的レトリック理論・ルールによる説得・Animal Crossing批評・手続き的リテラシー | Mechanics of Magic | 2026-04-29 | 00-foundations |
+| reference_loading-screen-ux-lessons.md | ローディングUX 5原則・知覚時間管理/教育活用/没入維持/インタラクティブ/ブランディング | Game Booth | 2026-04-29 | 04-ui-ux |
+| reference_npc-dialogue-worldbuilding.md | NPC対話8タイプ分類・ワールド基礎構築3フェーズ・小話排除原則・Kenshi/Witcher3事例 | Game Developer | 2026-04-29 | 03-narrative |
+| reference_dialogue-scriptwriting-guide.md | ゲーム脚本4要素（キャラクター性/文脈/選択肢/感情）・4ステップ執筆・サブテキスト・データ分析統合 | DataCalculus | 2026-04-29 | 03-narrative |
+| reference_boss-battle-design-research.md | ボス戦設計5要素（トリガー/イントロ/環境/フェーズ/パターン）・テレグラフ・アリーナ適応 | Medium (Foster) | 2026-04-29 | 02-level-design |
+| reference_heatmap-level-analysis.md | レベル分析ヒートマップ・可視化改善3戦略・離散カラーマップ/暖寒色/明度・Matplotlib実装 | Medium (Rodionova) | 2026-04-29 | 02-level-design |
+| reference_balance-flow-maps.md | バランスヒートマップ（キル-デス減算）・正規化・勾配/フローマップ・安全退避経路算出 | GameAnalytics | 2026-04-29 | 02-level-design |
+| reference_user-research-methods.md | ゲームUXリサーチ方法論・観察/思考発話/インタビュー/アンケート/アナリティクス/エキスパートレビュー | Games User Research | 2026-04-29 | 08-production |
+| reference_playtest-research-goals.md | プレイテスト2目標（ユーザビリティ/鑑賞）・フォーマル/インフォーマル手法・定性vs定量 | PlaytestCloud | 2026-04-29 | 08-production |
+| reference_permadeath-design.md | パーマデス4実装形態（フルリセット/キャラ限定/ソフト/アイアンマン）・5利点・フラストレーション管理 | DesignTheGame | 2026-04-29 | 01-mechanics |
+| reference_permadeath-original-intent.md | Rogue共同制作者のパーマデス本来意図・「苦痛でなく没入感」・永続的結果・用語問題 | Game Developer | 2026-04-29 | 00-foundations |
+| reference_visual-hierarchy-game-ui.md | ゲームUI/UX 7要素・視覚的階層・色彩情報優先度・フィードバックループ・没入設計 | Medium (Devoq) | 2026-04-29 | 05-visual-audio |
+| reference_bytecode-pattern.md | バイトコードVM定義・スタックベース実装・命令セット4種・サンドボックス・生成ツール選択 | Game Programming Patterns | 2026-04-29 | 06-programming-patterns |
+| reference_spatial-partition-pattern.md | 空間分割パターン・5構造比較（グリッド/四分木/八分木/BSP/BVH）・平坦vs階層・設計判断 | Game Programming Patterns | 2026-04-29 | 06-programming-patterns |
+| reference_deferred-shading.md | 遅延シェーディング2段階パイプライン・G-Buffer構成・フォワード比較・ライトボリューム最適化 | LearnOpenGL | 2026-04-29 | 07-technical-systems |
+| reference_forward-deferred-forwardplus.md | Forward/Deferred/Forward+ 3方式比較・タイルベースライトカリング・パフォーマンス特性表 | 3D Game Engine Programming | 2026-04-29 | 07-technical-systems |
+| reference_spatial-partitioning-3dcg.md | 3DCG空間分割4構造（グリッド/クワッドツリー/オクツリー/BVH）・SAH最適分割・選定基準 | Re:Earth Engineering | 2026-04-29 | 07-technical-systems |
+| reference_unreliable-narrator-games.md | 信頼できない語り手・プレイヤー=キャラのギャップ・焦点化/叙述モード/粒度・BioShock/SH2事例 | AV Club / PlayLab | 2026-04-29 | 03-narrative |
+| reference_speedrun-friendly-design.md | スピードラン対応設計・3核心目標・カットシーンスキップ/タイマー/RNG管理・カテゴリ対応 | SDA Knowledge Base | 2026-04-29 | 02-level-design |
+| reference_speedrunning-game-design-insights.md | スピードランから見る設計洞察・開発者意図vs実プレイ乖離・設計戦略5項目・コミュニティ対話 | Wayline | 2026-04-29 | 02-level-design |
+| reference_tooltip-guidelines.md | ツールチップ5ガイドライン・必須情報含めない/簡潔/KB対応/矢印/一貫性・ゲーム応用 | NNGroup | 2026-04-29 | 04-ui-ux |
+| reference_game-one-page-design.md | ゲームワンページ設計・必須5要素・デザイン3原則・対象者別カスタマイズ（パブリッシャー/イベント） | Game Developer | 2026-04-29 | 08-production |
+| reference_game-pitch-process.md | ピッチ3段階（ワンシート/ピッチデッキ/ビヨンド）・パブリッシャーvs投資家戦略・バーティカルスライス30秒 | Press Start Leadership | 2026-04-29 | 08-production |
+| reference_character-readability-tf2-overwatch.md | TF2vsOWキャラクター可読性・シルエット設計・色彩階層（チェスト明色→足暗色）・チーム識別 | Medium (Coelho-Kostolny) | 2026-04-29 | 05-visual-audio |
+| reference_valve-art-gameplay-integration.md | Valve TF2可読性3段階・Leyendecker色彩・L4Dビジュアル手法・AIディレクター連携・光源誘導 | Game Developer | 2026-04-29 | 05-visual-audio |
+| reference_schell-art-of-game-design.md | Schellエレメンタルテトラッド・44レンズ・6メカニクス・11バランス・フロー・リスク軽減ループ | Medium (Chan) | 2026-04-29 | 00-foundations |
