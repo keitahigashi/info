@@ -325,3 +325,33 @@
 | reference_character-readability-tf2-overwatch.md | TF2vsOWキャラクター可読性・シルエット設計・色彩階層（チェスト明色→足暗色）・チーム識別 | Medium (Coelho-Kostolny) | 2026-04-29 | 05-visual-audio |
 | reference_valve-art-gameplay-integration.md | Valve TF2可読性3段階・Leyendecker色彩・L4Dビジュアル手法・AIディレクター連携・光源誘導 | Game Developer | 2026-04-29 | 05-visual-audio |
 | reference_schell-art-of-game-design.md | Schellエレメンタルテトラッド・44レンズ・6メカニクス・11バランス・フロー・リスク軽減ループ | Medium (Chan) | 2026-04-29 | 00-foundations |
+| reference_observer-pattern.md | Observerパターン・Subject/Observer構造・侵襲的リンクリスト最適化・Lapsed Listener問題・設計判断 | Game Programming Patterns | 2026-04-29 | 06-programming-patterns |
+| reference_event-driven-game-architecture.md | イベント駆動アーキテクチャ3構成要素・ポーリング比較・6ユースケース・パフォーマンス最適化 | DaydreamSoft | 2026-04-29 | 06-programming-patterns |
+| reference_pbr-theory-cook-torrance.md | PBR3要件・反射方程式・Cook-Torrance BRDF（NDF/G/F）数式とGLSL実装・メタリックワークフロー | LearnOpenGL | 2026-04-29 | 07-technical-systems |
+| reference_pbr-basics-cygames.md | PBR3パラメータ（アルベド/反射率/ラフネス）・マイクロファセット・GGX比較・ゲーム実践視点 | Cygames Engineers' Blog | 2026-04-29 | 07-technical-systems |
+| reference_navmesh-generation-recast.md | Recast NavMesh生成パイプライン4段階・エージェント属性・タイルメッシュ・業界標準ツール | Recast Navigation | 2026-04-29 | 07-technical-systems |
+| reference_elizabeth-companion-design.md | Elizabethコンパニオン設計哲学・役割分担・自己拡張・戦力過剰問題・エージェンシー維持 | Game Developer | 2026-04-29 | 03-narrative |
+| reference_dialogue-barks-world-building.md | バーク2分類（内的独白/断片会話）・動詞ベース発想・性格差別化・ゲームプレイ統合 | Game Developer | 2026-04-29 | 03-narrative |
+| reference_bark-writing-craft.md | バーク執筆技法・キャラクター性表現・ロア統合・物語的潜在性・ミニマリスト的シナリオ技法 | Sarah Beaulieu | 2026-04-29 | 03-narrative |
+| reference_ux-flows-game-design.md | ゲームUXフロー4分類・3スコープレベル・6ベストプラクティス・制作進度追跡活用 | Medium (Joss Querné) | 2026-04-29 | 04-ui-ux |
+| reference_game-structure-hub-open.md | ゲーム構造3分類（ハブ/オープン/ダンジョン）・構造文法の貫徹・マクロ/ミクロ一貫性 | Game Developer (Adam Saltsman) | 2026-04-29 | 02-level-design |
+| reference_systems-suspense-surprise.md | システムサスペンス/サプライズ・メンタルモデル・ファジーエッジ・10設計手法・感情応用 | Polaris Game Design Retreat | 2026-04-29 | 00-foundations |
+| reference_mechanics-of-tension.md | テンション生成7要素・情報隠蔽・誤帰属・無力化戦略・知覚ハック・ネガティブスペース | Medium (Chris Pruett) | 2026-04-29 | 00-foundations |
+| reference_cross-functional-teams.md | クロスファンクショナル組織・職能別比較・ゾンビ死亡機能例・4利点・スプリント効率 | Game Developer | 2026-04-29 | 08-production |
+| reference_early-access-success-steps.md | EA適性ジャンル・ローンチ品質基準・モメンタム維持・1.0移行・Prison Architect成功例 | Game Developer | 2026-04-29 | 08-production |
+| reference_early-access-survival-guide.md | EA開発者向け7実践アドバイス・市場検証・コミュニティテスト・創造的監督権の保持 | Codecks | 2026-04-29 | 08-production |
+| reference_weapon-design-7-suggestions.md | 武器デザイン7原則・携行制限・Skip Encounter回避・重複排除・Ability/Handle深度 | Game Developer | 2026-04-29 | 01-mechanics |
+| reference_weapon-switching-systems.md | 武器切替9方式分類・認知的制限・ハードウェア制約・戦闘設計への影響・最適方式選定 | Medium (Hasker Brouwer) | 2026-04-29 | 01-mechanics |
+| reference_upgrades-equipment-skill-trees.md | アップグレード3機能・面白い選択の4属性・装備特性・進行曲線バランス | Game Developer | 2026-04-29 | 01-mechanics |
+| reference_stamina-three-genres.md | スタミナ3ジャンル比較（アクション/カジュアル/サバイバル）・Ecoカロリーシステム・倫理的課題 | Hedberg Games | 2026-04-29 | 01-mechanics |
+| reference_stamina-action-design.md | スタミナ数値実装・3中核パラメータ・疲弊状態設計・回復一時停止・Dark Souls分析 | Hedberg Games | 2026-04-29 | 01-mechanics |
+| reference_lua-modding-architecture.md | Luaモディング階層アーキテクチャ・API公開戦略・サンドボックス化・イベント駆動・ライフサイクル | DEV Community | 2026-04-29 | 06-programming-patterns |
+| reference_lua-game-scripting-guide.md | Lua選定理由（軽量/JIT/C統合）・データ駆動設計・コルーチンAI・ホットリロード・WoW/Roblox | Generalist Programmer | 2026-04-29 | 06-programming-patterns |
+| reference_ssr-blightbound.md | SSR実装実例・レイマーチング・透過物体問題・前フレーム利用・パフォーマンス最適化 | Game Developer | 2026-04-29 | 07-technical-systems |
+| reference_ssr-raymarching-tutorial.md | SSRレイマーチング2段階・座標変換・透視補正・可視性フェード・ラフネス制御・GLSL | 3D Game Shaders for Beginners | 2026-04-29 | 07-technical-systems |
+| reference_2d-physics-engine-implementation.md | GJK/EPAアルゴリズム・ミンコフスキー差・衝突応答撃力公式・慣性モーメント・制約ソルバー | Qiita | 2026-04-29 | 07-technical-systems |
+| reference_stealth-encounter-anatomy.md | ステルスエンカウンター4分類（Outpost/Limited/Hunted/Hide or Die）・安全開始条件・敵配置・空間設計 | Game Developer | 2026-04-29 | 02-level-design |
+| reference_stealth-4-required-elements.md | ステルス4要素（検出/オプション/敵多様性/キャラ強度）・アンチパターン・ハイブリッド進化 | Game Developer | 2026-04-29 | 02-level-design |
+| reference_meaningful-decisions-branching.md | 分岐ナラティブ5原則・結果予測・主人公構築・遅延結果・フィードバック機構・Walking Dead事例 | Game Developer | 2026-04-29 | 03-narrative |
+| reference_choice-based-game-patterns.md | 選択ベースゲーム8構造パターン（Time Cave/Gauntlet/Branch&Bottleneck/Quest等）・状態追跡 | These Heterogenous Tasks | 2026-04-29 | 03-narrative |
+| reference_damage-numbers-rpg.md | フローティングダメージ表示進化・色彩/装飾/フォント・マルチヒット問題・DQ XI時差表示 | Medium (Shweep) | 2026-04-29 | 04-ui-ux |
