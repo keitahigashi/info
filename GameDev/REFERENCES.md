@@ -355,3 +355,13 @@
 | reference_meaningful-decisions-branching.md | 分岐ナラティブ5原則・結果予測・主人公構築・遅延結果・フィードバック機構・Walking Dead事例 | Game Developer | 2026-04-29 | 03-narrative |
 | reference_choice-based-game-patterns.md | 選択ベースゲーム8構造パターン（Time Cave/Gauntlet/Branch&Bottleneck/Quest等）・状態追跡 | These Heterogenous Tasks | 2026-04-29 | 03-narrative |
 | reference_damage-numbers-rpg.md | フローティングダメージ表示進化・色彩/装飾/フォント・マルチヒット問題・DQ XI時差表示 | Medium (Shweep) | 2026-04-29 | 04-ui-ux |
+| reference_emergence-design-deep-dive.md | 創発の3種複雑性（ルール/システム/プレイヤー駆動）・設計手法・管理と調整・Minecraft/Dwarf Fortress | Number Analytics | 2026-04-29 | 00-foundations |
+| reference_emergence-gameplay-conditions.md | 創発の4発生条件・システム相互作用・4効果（リプレイ/ナラティブ/創造性/エンゲージメント）・制約バランス | Machinations.io | 2026-04-29 | 00-foundations |
+| reference_outsourcing-art-studio-envar.md | アウトソーシングスタジオ運営・スタイライズドアート専門性・パートナーシップ志向・スケーリング課題 | 80 Level | 2026-04-29 | 08-production |
+| reference_aaa-outsourcing-codevelopment.md | アウトソーシングvsコ・デベロップメント・コスト構造2026年・品質管理/IP保護・AI活用トレンド | Juego Studio | 2026-04-29 | 08-production |
+| reference_game-dev-schedule-phases.md | ゲーム開発7段階・アルファ30%/ベータ60%目安・プロト版検証目的・進捗可視化 | note (taka) | 2026-04-29 | 08-production |
+| reference_rethinking-mmo-trinity.md | Holy Trinity歴史・利点4項目・問題3点（人気不均衡/評価困難/ソロペナルティ）・GW2代替 | Game Developer | 2026-04-29 | 01-mechanics |
+| reference_holy-trinity-roles.md | Tank/Healer/DPS定義・ダンジョン設計連携・ソロ非互換性・GW2排除実験・ハイブリッド課題 | Game Developer | 2026-04-29 | 01-mechanics |
+| reference_resources-and-cooldowns.md | リソース分類（ヘルス/マネー/時間）・クールダウン設計原則・難易度調整・Overwatch弾薬排除哲学 | Medium (Kionay) | 2026-04-29 | 01-mechanics |
+| reference_scoring-system-guide.md | スコアリング3タイプ・設計3要素（公平性/進行/フィードバック）・動的スコアリング・技術実装 | Number Analytics | 2026-04-29 | 01-mechanics |
+| reference_leaderboard-design-octalysis.md | リーダーボード中心問題・マイクロスプライシング6次元・近傍ビュー・時間的戦略・毒性防止 | Yu-kai Chou | 2026-04-29 | 01-mechanics |
