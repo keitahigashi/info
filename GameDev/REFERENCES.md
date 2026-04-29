@@ -238,3 +238,13 @@
 | reference_prototypes-vertical-slice.md | プロトタイプvsバーティカルスライス・開発タイムライン8段階・ピッチング戦略 | Rami Ismail (LTPF) | 2026-04-29 | 08-production |
 | reference_nuanced-morality-systems.md | 善悪二項対立の限界・評判/結果エンジン/動的対話/道徳的整列ウェブ・Disco Elysium/CK3事例 | Wayline | 2026-04-29 | 00-foundations |
 | reference_karma-morality-4types.md | カルマシステム4類型（バイナリ/独立スケール/承認/統合的選択）・Infamous/MassEffect/DA比較 | Envato Tuts+ | 2026-04-29 | 01-mechanics |
+| reference_animated-game-ui.md | ゲームUIアニメーション4種類・注意誘導・遷移設計・パフォーマンス最適化・AR/VR展望 | PUNCHev Group | 2026-04-29 | 04-ui-ux |
+| reference_social-deduction-fundamentals.md | ソーシャルディダクション設計3原則・裏切り者発覚の終局・勝利条件の簡潔性 | BKGameDesign | 2026-04-29 | 09-genre-studies |
+| reference_hidden-role-game-design.md | 隠し役割ゲーム設計・情報非対称性・役割3カテゴリ・バランス比率・段階的情報開示 | Minifiniti | 2026-04-29 | 01-mechanics |
+| reference_escort-mission-companion-design.md | エスコートミッション3大問題・改善策・RE4/ICO/BioShock Infinite成功事例 | Game Developer | 2026-04-29 | 01-mechanics |
+| reference_role-assignment-social-deduction.md | 役割割り当て方法・3カテゴリ・グループサイズ別設計・高度な割り当て手法5種 | Minifiniti | 2026-04-29 | 09-genre-studies |
+| reference_state-pattern-fsm.md | ステートパターン/FSM 4要素・列挙型vs GoF・並行FSM・階層型・プッシュダウンオートマトン | Game Programming Patterns | 2026-04-29 | 06-programming-patterns |
+| reference_hierarchical-fsm.md | HFSM定義・通常FSM比較・親子状態構造・状態爆発解決・100行以下実装・チーム可視化 | Medium (Svensson) | 2026-04-29 | 06-programming-patterns |
+| reference_two-bone-ik-procedural.md | 2ボーンIK余弦定理解析解・四元数回転・足接地/エイム応用・Unreal/Unity実装 | Little Polygon | 2026-04-29 | 07-technical-systems |
+| reference_ik-algorithms-comparison.md | IK 3アルゴリズム比較（CCD/ヤコビアン/FABRIK）・計算量・パフォーマンス実験・SotC応用 | Medium (Ye) | 2026-04-29 | 07-technical-systems |
+| reference_fabrik-algorithm.md | FABRIK位置ベースIK・前方/後方リーチング・制約対応・CCD比較・エンジン統合状況 | Andreas Aristidou | 2026-04-29 | 07-technical-systems |
