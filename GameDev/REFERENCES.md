@@ -375,3 +375,8 @@
 | reference_blasphemous-metroidvania-iteration.md | メトロイドヴァニア公式逸脱・マップ3階層・ショートカット進化・非線形探索・チェックポイント7画面ルール | Game Developer | 2026-04-29 | 02-level-design |
 | reference_metroidvania-level-design-guide.md | メトロイドヴァニアLD 5ステップ・相互接続性・ゲーティング・能力統合・LDが作業80% | ClassX | 2026-04-29 | 02-level-design |
 | reference_soulslike-level-methodology.md | 形状/空間/環境3レイヤー・5環境類型・密度勾配・ループパス・実装7段階ワークフロー | Medium (Bramasole) | 2026-04-29 | 02-level-design |
+| reference_wayfinding-level-design.md | ウェイファインディング4カテゴリ（Subtle/Coarse/Situational/Direct）・9ナビゲーション戦略・メンタルマップ・確実性段階設計 | The Level Design Book | 2026-04-29 | 02-level-design |
+| reference_tutorial-flow-mechanics-intro.md | チュートリアルフロー定義・3パート説明フレームワーク（What/How/Why）・マルチシステム課題・ジャスト・イン・タイム学習 | Game Wisdom | 2026-04-29 | 08-production |
+| reference_player-choice-psychology.md | プレイヤー選択の心理学・エージェンシー基盤・選択アーキテクチャ・5選択タイプ・5プレイヤーアーキタイプと動機 | Sandboxr | 2026-04-29 | 00-foundations |
+| reference_narrative-design-principles-patterns.md | 動詞中心アプローチ・エージェンシー2階層・クエストアーキテクチャ・モジュールビートペーシング・データハイジーン | PulseGeek | 2026-04-29 | 03-narrative |
+| reference_competitive-game-design.md | 競技ゲーム4ジャンル・ペイ・トゥ・ウィン排除・対称的バランス・スペクテーター設計・メタゲーム維持の原則 | Game Wisdom | 2026-04-29 | 09-genre-studies |
