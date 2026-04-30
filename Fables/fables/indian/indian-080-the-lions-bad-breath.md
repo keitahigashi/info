@@ -1,5 +1,5 @@
 ---
-id: indian-078
+id: indian-080
 title: 獅子の口臭
 title_en: The Lion's Bad Breath
 origin: インド寓話（パンチャタントラ）

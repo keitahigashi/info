@@ -1,5 +1,5 @@
 ---
-id: indian-079
+id: indian-082
 title: セリの商人（黄金の鉢）
 title_en: The Merchant of Seri (The Golden Bowl)
 origin: インド寓話（ジャータカ）

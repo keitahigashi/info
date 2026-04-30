@@ -1,5 +1,5 @@
 ---
-id: indian-080
+id: indian-083
 title: 象とジャッカル
 title_en: The Elephant and the Jackal
 origin: インド寓話（ヒトーパデーシャ）

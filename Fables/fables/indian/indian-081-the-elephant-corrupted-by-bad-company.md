@@ -1,5 +1,5 @@
 ---
-id: indian-079
+id: indian-081
 title: 悪い仲間に染まった象
 title_en: The Elephant Corrupted by Bad Company
 origin: ジャータカ（パーリ仏典）

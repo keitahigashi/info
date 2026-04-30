@@ -1,4 +1,4 @@
-# インド寓話（81話）
+# インド寓話（86話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -81,13 +81,13 @@
 | [indian-075](../fables/indian/indian-075-the-price-of-indiscretion.md) | 軽率さの代償 | 仲間の忠告を軽んじる傲慢さは必ず災いを招く |
 | [indian-076](../fables/indian/indian-076-the-curse-of-mittavinda.md) | ミッタヴィンダの呪い | 他者への嫉妬と妨害は、長きにわたる苦しみとなって自らに返る |
 | [indian-077](../fables/indian/indian-077-the-four-friends-and-the-hunter.md) | 四人の友と猟師 | 真の友は苦難のときにこそ力を合わせる。それぞれの強みを生かせば、どんな困難も乗り越えられる。 |
-| [indian-078](../fables/indian/indian-078-the-lions-bad-breath.md) | 獅子の口臭 | 権力者を前にしたとき、正直も追従も危険を招くことがある。機知ある言葉が身を救う。 |
-| [indian-079](../fables/indian/indian-079-the-merchant-of-seri.md) | セリの商人（黄金の鉢） | 誠実さは最善の策であり、貪欲と妬みは最終的に自らを滅ぼす。 |
-| [indian-080](../fables/indian/indian-080-the-elephant-and-the-jackal.md) | 象とジャッカル | どんな暴君も必ず滅びを迎える。残虐な行いは必ず報いを受ける。 |
-| [indian-081](../fables/indian/indian-081-yaksha-prashna.md) | ヤクシャ問答 | 真の知恵とはダルマ（法・正義）に従って行動する力にあり、謙虚に正道を歩む者が最後に救われる。 |
-| [indian-077](../fables/indian/indian-077-the-vedabbha-brahmin.md) | ヴェダッバのバラモンと千の死 | 賢者の忠告を無視して欲に従えば、自分だけでなく多くの者を巻き込む破滅を招く |
-| [indian-078](../fables/indian/indian-078-the-elephant-and-the-jackal.md) | 象とジャッカル（暴君の末路） | どれほど強大な暴君も、知恵と計略の前には無力である |
-| [indian-079](../fables/indian/indian-079-the-elephant-corrupted-by-bad-company.md) | 悪い仲間に染まった象 | 人は日々接する言葉や仲間によって善にも悪にも変わる |
-| [indian-080](../fables/indian/indian-080-the-girl-who-married-a-snake.md) | 蛇の呪いを解いた花嫁 | 外見ではなく誠実な愛と献身こそが呪縛を解く力を持つ |
-| [indian-081](../fables/indian/indian-081-nachiketa-and-yama.md) | ナチケータスの問い | 真の知恵の探求は、いかなる物質的誘惑にも勝る |
+| [indian-078](../fables/indian/indian-078-the-vedabbha-brahmin.md) | ヴェダッバのバラモンと千の死 | 賢者の忠告を無視して欲に従えば、自分だけでなく多くの者を巻き込む破滅を招く |
+| [indian-079](../fables/indian/indian-079-the-elephant-and-the-jackal.md) | 象とジャッカル（暴君の末路） | どれほど強大な暴君も、知恵と計略の前には無力である |
+| [indian-080](../fables/indian/indian-080-the-lions-bad-breath.md) | 獅子の口臭 | 権力者を前にしたとき、正直も追従も危険を招くことがある。機知ある言葉が身を救う。 |
+| [indian-081](../fables/indian/indian-081-the-elephant-corrupted-by-bad-company.md) | 悪い仲間に染まった象 | 人は日々接する言葉や仲間によって善にも悪にも変わる |
+| [indian-082](../fables/indian/indian-082-the-merchant-of-seri.md) | セリの商人（黄金の鉢） | 誠実さは最善の策であり、貪欲と妬みは最終的に自らを滅ぼす。 |
+| [indian-083](../fables/indian/indian-083-the-elephant-and-the-jackal.md) | 象とジャッカル | どんな暴君も必ず滅びを迎える。残虐な行いは必ず報いを受ける。 |
+| [indian-084](../fables/indian/indian-084-the-girl-who-married-a-snake.md) | 蛇の呪いを解いた花嫁 | 外見ではなく誠実な愛と献身こそが呪縛を解く力を持つ |
+| [indian-085](../fables/indian/indian-085-nachiketa-and-yama.md) | ナチケータスの問い | 真の知恵の探求は、いかなる物質的誘惑にも勝る |
+| [indian-086](../fables/indian/indian-086-yaksha-prashna.md) | ヤクシャ問答 | 真の知恵とはダルマ（法・正義）に従って行動する力にあり、謙虚に正道を歩む者が最後に救われる。 |
 <!-- 寓話追加時にここへ行を追加 -->

@@ -1,5 +1,5 @@
 ---
-id: indian-077
+id: indian-078
 title: ヴェダッバのバラモンと千の死
 title_en: The Vedabbha Brahmin
 origin: ジャータカ（パーリ仏典）

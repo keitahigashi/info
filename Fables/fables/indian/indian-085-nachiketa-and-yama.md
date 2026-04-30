@@ -1,5 +1,5 @@
 ---
-id: indian-081
+id: indian-085
 title: ナチケータスの問い
 title_en: Nachiketa and Yama
 origin: カタ・ウパニシャッド

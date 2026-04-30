@@ -1,5 +1,5 @@
 ---
-id: indian-080
+id: indian-084
 title: 蛇の呪いを解いた花嫁
 title_en: The Girl Who Married a Snake
 origin: パンチャタントラ

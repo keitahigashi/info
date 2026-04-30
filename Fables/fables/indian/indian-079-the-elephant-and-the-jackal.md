@@ -1,5 +1,5 @@
 ---
-id: indian-078
+id: indian-079
 title: 象とジャッカル（暴君の末路）
 title_en: The Elephant and the Jackal
 origin: ヒトーパデーシャ

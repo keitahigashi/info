@@ -1,5 +1,5 @@
 ---
-id: indian-081
+id: indian-086
 title: ヤクシャ問答
 title_en: Yaksha Prashna (The Yaksha's Questions)
 origin: インド寓話（マハーバーラタ）
