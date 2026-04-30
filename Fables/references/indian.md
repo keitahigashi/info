@@ -92,4 +92,8 @@
 | indian-084 | 蛇の呪いを解いた花嫁 | en.wikisource.org（パンチャタントラ）, india-a2z.com | 2026-04-28 |
 | indian-085 | ナチケータスの問い | カタ・ウパニシャッド, Sacred Books of the East Vol.15 | 2026-04-28 |
 | indian-086 | ヤクシャ問答 | storiesmadesimple.in, en.wikipedia.org（マハーバーラタ） | 2026-04-29 |
+| indian-087 | 猫と禿鷲——偽りの修行者 | longlongtimeago.com, wisdomlib.org, mocomi.com | 2026-04-30 |
+| indian-088 | 不運な機織り職人ソミラカ | talesofpanchatantra.com, mocomi.com | 2026-04-30 |
+| indian-089 | 油の器を運ぶ男（テーラパッタ本生譚） | thejatakatales.com, ancient-buddhist-texts.net | 2026-04-30 |
+| indian-090 | 貧しい女と鐘の怪 | kidsgen.com, mocomi.com | 2026-04-30 |
 <!-- 出典追加時にここへ行を追加 -->

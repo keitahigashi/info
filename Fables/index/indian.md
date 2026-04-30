@@ -1,4 +1,4 @@
-# インド寓話（86話）
+# インド寓話（90話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -90,4 +90,8 @@
 | [indian-084](../fables/indian/indian-084-the-girl-who-married-a-snake.md) | 蛇の呪いを解いた花嫁 | 外見ではなく誠実な愛と献身こそが呪縛を解く力を持つ |
 | [indian-085](../fables/indian/indian-085-nachiketa-and-yama.md) | ナチケータスの問い | 真の知恵の探求は、いかなる物質的誘惑にも勝る |
 | [indian-086](../fables/indian/indian-086-yaksha-prashna.md) | ヤクシャ問答 | 真の知恵とはダルマ（法・正義）に従って行動する力にあり、謙虚に正道を歩む者が最後に救われる。 |
+| [indian-087](../fables/indian/indian-087-the-cat-and-the-vulture.md) | 猫と禿鷲——偽りの修行者 | 雄弁に徳を語る者が最も危険な欺瞞者であることがある。素性の知れない者を易々と信じてはならない |
+| [indian-088](../fables/indian/indian-088-the-unlucky-weaver.md) | 不運な機織り職人ソミラカ | 財の多寡ではなく財の使い方こそが人生の豊かさを決める。与えられた分で満足して生きることが真の幸福である |
+| [indian-089](../fables/indian/indian-089-telapatta-jataka.md) | 油の器を運ぶ男——テーラパッタ本生譚 | 油の満ちた器を一滴もこぼさずに運ぶように心の正念を保てば、どんな誘惑や試練も乗り越えられる |
+| [indian-090](../fables/indian/indian-090-the-poor-woman-and-the-bell.md) | 貧しい女と鐘の怪 | 根拠のない噂や集団的恐慌に流されず、勇気をもって真実を確かめる知性こそが虚偽を暴き社会を救う |
 <!-- 寓話追加時にここへ行を追加 -->
