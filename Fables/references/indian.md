@@ -82,6 +82,11 @@
 | indian-074 | 王コブラと蟻の大群 | fablereads.com, kidsshortmoralstories.com | 2026-04-14 |
 | indian-075 | 軽率さの代償 | talesofpanchatantra.com, readandripe.com | 2026-04-20 |
 | indian-076 | ミッタヴィンダの呪い | wisdomlib.org, tricycle.org | 2026-04-20 |
+| indian-077 | 四人の友と猟師 | kidsgen.com, パンチャタントラ第1巻 | 2026-04-29 |
+| indian-078 | 獅子の口臭 | mocomi.com, パンチャタントラ | 2026-04-29 |
+| indian-079 | セリの商人（黄金の鉢） | longlongtimeago.com, sacred-texts.com（ジャータカ第3話） | 2026-04-29 |
+| indian-080 | 象とジャッカル | culturalindia.net, ヒトーパデーシャ | 2026-04-29 |
+| indian-081 | ヤクシャ問答 | storiesmadesimple.in, en.wikipedia.org（マハーバーラタ） | 2026-04-29 |
 
 | indian-077 | ヴェダッバのバラモンと千の死 | wisdomlib.org, jataka-tales-english | 2026-04-28 |
 | indian-078 | 象とジャッカル（暴君の末路） | longlongtimeago.com, culturalindia.net | 2026-04-28 |

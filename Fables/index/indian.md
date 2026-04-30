@@ -80,6 +80,11 @@
 | [indian-074](../fables/indian/indian-074-the-king-cobra-and-the-ants.md) | 王コブラと蟻の大群 | 驕りは身を滅ぼす。どれほど強大な者でも弱者が団結すれば打ち倒される |
 | [indian-075](../fables/indian/indian-075-the-price-of-indiscretion.md) | 軽率さの代償 | 仲間の忠告を軽んじる傲慢さは必ず災いを招く |
 | [indian-076](../fables/indian/indian-076-the-curse-of-mittavinda.md) | ミッタヴィンダの呪い | 他者への嫉妬と妨害は、長きにわたる苦しみとなって自らに返る |
+| [indian-077](../fables/indian/indian-077-the-four-friends-and-the-hunter.md) | 四人の友と猟師 | 真の友は苦難のときにこそ力を合わせる。それぞれの強みを生かせば、どんな困難も乗り越えられる。 |
+| [indian-078](../fables/indian/indian-078-the-lions-bad-breath.md) | 獅子の口臭 | 権力者を前にしたとき、正直も追従も危険を招くことがある。機知ある言葉が身を救う。 |
+| [indian-079](../fables/indian/indian-079-the-merchant-of-seri.md) | セリの商人（黄金の鉢） | 誠実さは最善の策であり、貪欲と妬みは最終的に自らを滅ぼす。 |
+| [indian-080](../fables/indian/indian-080-the-elephant-and-the-jackal.md) | 象とジャッカル | どんな暴君も必ず滅びを迎える。残虐な行いは必ず報いを受ける。 |
+| [indian-081](../fables/indian/indian-081-yaksha-prashna.md) | ヤクシャ問答 | 真の知恵とはダルマ（法・正義）に従って行動する力にあり、謙虚に正道を歩む者が最後に救われる。 |
 | [indian-077](../fables/indian/indian-077-the-vedabbha-brahmin.md) | ヴェダッバのバラモンと千の死 | 賢者の忠告を無視して欲に従えば、自分だけでなく多くの者を巻き込む破滅を招く |
 | [indian-078](../fables/indian/indian-078-the-elephant-and-the-jackal.md) | 象とジャッカル（暴君の末路） | どれほど強大な暴君も、知恵と計略の前には無力である |
 | [indian-079](../fables/indian/indian-079-the-elephant-corrupted-by-bad-company.md) | 悪い仲間に染まった象 | 人は日々接する言葉や仲間によって善にも悪にも変わる |
