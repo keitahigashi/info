@@ -83,4 +83,9 @@
 | indian-075 | 軽率さの代償 | talesofpanchatantra.com, readandripe.com | 2026-04-20 |
 | indian-076 | ミッタヴィンダの呪い | wisdomlib.org, tricycle.org | 2026-04-20 |
 
+| indian-077 | ヴェダッバのバラモンと千の死 | wisdomlib.org, jataka-tales-english | 2026-04-28 |
+| indian-078 | 象とジャッカル（暴君の末路） | longlongtimeago.com, culturalindia.net | 2026-04-28 |
+| indian-079 | 悪い仲間に染まった象 | thejatakatales.com, ancient-buddhist-texts.net | 2026-04-28 |
+| indian-080 | 蛇の呪いを解いた花嫁 | en.wikisource.org（パンチャタントラ）, india-a2z.com | 2026-04-28 |
+| indian-081 | ナチケータスの問い | カタ・ウパニシャッド, Sacred Books of the East Vol.15 | 2026-04-28 |
 <!-- 出典追加時にここへ行を追加 -->
