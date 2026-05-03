@@ -391,3 +391,8 @@
 | reference_game-qa-pipeline-management.md | 2026-05-03 |
 | reference_game-risk-management-ddp.md | 2026-05-03 |
 | reference_game-preproduction-9-steps.md | 2026-05-03 |
+| reference_game-menus-ux-masterclass.md | 2026-05-03 |
+| reference_game-accessibility-guidelines-catalog.md | 2026-05-03 |
+| reference_open-world-navigation-systems.md | 2026-05-03 |
+| reference_mapping-wayfinding-worldmaps.md | 2026-05-03 |
+| reference_game-accessibility-standards-advocacy.md | 2026-05-03 |
