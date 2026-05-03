@@ -415,4 +415,8 @@ Anthropicが2026年4月14日リリースのクラウド常駐自動化機能。*
 nogataka氏によるRoutines初期実運用レポート。実装4ルーチン: 朝のトレンド収集(Schedule)・夜間経理入金確認(Schedule)・GitHub Issue自動トリアージ(GitHub Event)・週次活動レポート(Schedule)。3件の事故: ①停止忘れによる予期しない課金②通知の連続発火③意図せぬセッション重複。教訓: 監視/停止手順を事前整備・Hooksによるレート制限・週次棚卸しのオペレーション化が必須。「安定運用コストと事故コストがほぼ同オーダー」。初利用者は1本のルーチンから始めることを推奨。
 > 詳細: references/reference_claude_code_routines_3days_nogataka.md を参照
 
+### Claude Managed Agentsで変わる経営判断5つ：$0.08/時間・3ステップ導入（自動収集 2026-05-01）
+Anthropicが2026年4月8日に公開ベータ開始。Notion・楽天グループ・Asana・Atlassian・Sentry採用。**経営・マネジメント視点の5変化**: ①AIが複数ツールを使って長時間自律遂行 ②料金$0.08/時間（約12円）と極めて低廉 ③インフラ構築不要で導入障壁低下 ④経営者の役割が「何をAIに任せるか」設計へ転換 ⑤AI活用先進企業との格差が急速に拡大。**3ステップ導入**: ①繰り返し業務のリスト化→②アクセス権限の明文化→③小規模試験と数値測定。注意: 機密データ取り扱いにはセキュリティポリシー確認必須。技術実装詳細はreference_managed_agents_handson.mdを参照。
+> 詳細: references/reference_claude_managed_agents_business_tech_noisy.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

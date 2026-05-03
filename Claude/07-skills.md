@@ -294,4 +294,12 @@ article-writer Skill: 過去記事分析→スタイルガイド自動生成→5
 SKILL.mdとmcp-server-qiitaを組み合わせたQiita自動投稿フロー。スキルはSKILL.md手順書でClaude が文書フォーマットや投稿チェックリストを把握し、MCPはQiita APIへのインテリジェントなツール選択で実行。ハマりポイント3点: settings.jsonへの直接記述が必要（.mcp.jsonは不可）・コマンドオプション順序・MCP設定変更後の再起動忘れ。Zenn/Dev.toへの横展開・英訳ファイルチェックガードも実装可能。
 > 詳細: references/reference_skills_mcp_qiita_autopublish.md を参照
 
+### Zenn→Qiita/note自動転載スキル：API/Playwright/GitHub連携の使い分け（自動収集 2026-04-30）
+Zennを正本に4スキル構成（`/zenn-post`・`/zenn-to-qiita`・`/zenn-to-note`・`/note-post`）で複数プラットフォームへの転載を自動化。投稿手段の選択: Zenn→GitHub連携、Qiita→REST API v2（限定共有で下書き代替）、note→Playwright（公式APIなしのため）。認証情報は`~/.config/`に集約しプロジェクトから切り離す。外部書き込み操作は人間確認を挟む設計が重要。英語圏向けにDev.toへも同様アプローチで拡張可能。
+> 詳細: references/reference_claude_code_crosspost_skill.md を参照
+
+### Claude CodeスキルをNotionで一括管理：20本超えの管理課題を解決（自動収集 2026-05-01）
+スキルが20本を超えると最新バージョン特定・配置場所把握・マルチ環境同期・更新履歴管理が困難になる。解決策: SKILL.md正本＋sync_plugins.py＋Notion DB「スキル台帳」の3コンポーネント構成。Notion DBにname・version（semver）・description・scope・zip_urlを管理。同期コマンド: `uv run scripts/sync_plugins.py --all`で全スキルを一括Notion同期。frontmatterのバージョン変更を検知して差分更新するため手動管理不要。zipパッケージをNotionに保管し別PCへの配布も容易。
+> 詳細: references/reference_claude_skills_notion_management.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
