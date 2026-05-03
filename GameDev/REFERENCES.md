@@ -385,3 +385,8 @@
 | reference_character-backstory-design.md | ゲームキャラクターバックストーリー設計4ステップ・動機/欠陥/葛藤/成長アーク・実装3手法 | Game Developer | 2026-04-30 | 03-narrative |
 | reference_tension-release-games.md | 緊張（Tension）と解放（Release）の多スケール設計理論・4実装手法・ゲーム事例5作品・フロー理論接続 | Game Developer | 2026-04-30 | 00-foundations |
 | reference_gameplay-pacing-intensity.md | キャンペーン強度グラフ設計・ピーク/トラフ理論・事前計画フレームワーク・プロダクション上の利点 | Game Developer | 2026-04-30 | 00-foundations |
+| reference_greenlight-5-stages-game.md | グリーンライト5段階ゲートシステム（戦略/プリプロダクション/プロトタイプ/制作/ソフトローンチ）・各段階の意思決定基準 | Game Developer (Hothead Games) | 2026-05-03 | 08-production |
+| reference_game-development-budget-planning.md | ゲームタイプ別予算範囲表・コスト内訳（給与60-80%/ツール/マーケ/隠れコスト）・最適化戦略・Stardew Valley/Hollow Knight実例 | Generalist Programmer | 2026-05-03 | 08-production |
+| reference_game-qa-pipeline-management.md | QAパイプライン5段階（Find/Report/Assign/Fix/Regress）・バグ分類A〜D・クローズ権限・小チーム適用ガイドライン | Game Developer (Josh Green) | 2026-05-03 | 08-production |
+| reference_game-risk-management-ddp.md | ゲーム開発リスク4分類・Discovery-Driven Planning（DDP）7ステップ・逆向き損益計算・感度分析・仮定-知識比率 | Game Developer (Paul Tozour) | 2026-05-03 | 08-production |
+| reference_game-preproduction-9-steps.md | プリプロダクション9ステップ（コアコンセプト/市場調査/進行設計/プロトタイプ/パイプライン/再検討/スケジュール/GDD/QA計画）・落とし穴3種 | Room 8 Studio | 2026-05-03 | 08-production |
