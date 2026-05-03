@@ -82,11 +82,28 @@
 | indian-074 | 王コブラと蟻の大群 | fablereads.com, kidsshortmoralstories.com | 2026-04-14 |
 | indian-075 | 軽率さの代償 | talesofpanchatantra.com, readandripe.com | 2026-04-20 |
 | indian-076 | ミッタヴィンダの呪い | wisdomlib.org, tricycle.org | 2026-04-20 |
-
-| indian-077 | セリの商人 | longlongtimeago.com, culturalindia.net | 2026-05-03 |
-| indian-078 | 六牙の白象チャッダンタ | thejatakatales.com, wisdomlib.org | 2026-05-03 |
-| indian-079 | 鷹一家と友人たち | etc.usf.edu/lit2go | 2026-05-03 |
-| indian-080 | 賢い山羊とオオカミ | etc.usf.edu/lit2go | 2026-05-03 |
-| indian-081 | 狐と暴君の象 | mocomi.com, パンチャタントラ | 2026-05-03 |
+| indian-077 | 四人の友と猟師 | kidsgen.com, パンチャタントラ第1巻 | 2026-04-29 |
+| indian-078 | ヴェダッバのバラモンと千の死 | wisdomlib.org, jataka-tales-english | 2026-04-28 |
+| indian-079 | 象とジャッカル（暴君の末路） | longlongtimeago.com, culturalindia.net | 2026-04-28 |
+| indian-080 | 獅子の口臭 | mocomi.com, パンチャタントラ | 2026-04-29 |
+| indian-081 | 悪い仲間に染まった象 | thejatakatales.com, ancient-buddhist-texts.net | 2026-04-28 |
+| indian-082 | セリの商人（黄金の鉢） | longlongtimeago.com, sacred-texts.com（ジャータカ第3話） | 2026-04-29 |
+| indian-083 | 象とジャッカル | culturalindia.net, ヒトーパデーシャ | 2026-04-29 |
+| indian-084 | 蛇の呪いを解いた花嫁 | en.wikisource.org（パンチャタントラ）, india-a2z.com | 2026-04-28 |
+| indian-085 | ナチケータスの問い | カタ・ウパニシャッド, Sacred Books of the East Vol.15 | 2026-04-28 |
+| indian-086 | ヤクシャ問答 | storiesmadesimple.in, en.wikipedia.org（マハーバーラタ） | 2026-04-29 |
+| indian-087 | 猫と禿鷲——偽りの修行者 | longlongtimeago.com, wisdomlib.org, mocomi.com | 2026-04-30 |
+| indian-088 | 不運な機織り職人ソミラカ | talesofpanchatantra.com, mocomi.com | 2026-04-30 |
+| indian-089 | 油の器を運ぶ男（テーラパッタ本生譚） | thejatakatales.com, ancient-buddhist-texts.net | 2026-04-30 |
+| indian-090 | 貧しい女と鐘の怪 | kidsgen.com, mocomi.com | 2026-04-30 |
+| indian-091 | 猫の誓いの修行者 | ancient-buddhist-texts.net, palikanon.com | 2026-05-01 |
+| indian-092 | ビドゥラの教え | indica.today, greenmesg.org | 2026-05-01 |
+| indian-093 | ナーラダとマーヤー | boloji.com, sonomaashram.org | 2026-05-01 |
+| indian-094 | 鶴と蟹（バカ・ジャータカ） | thejatakatales.com, en.oum.ru | 2026-05-01 |
+| indian-095 | マホーサダの知恵 | buddha-images.com, thejatakatales.com | 2026-05-01 |
+| indian-096 | 六牙の白象チャッダンタ | thejatakatales.com, wisdomlib.org | 2026-05-03 |
+| indian-097 | 鷹一家と友人たち | etc.usf.edu/lit2go | 2026-05-03 |
+| indian-098 | 賢い山羊とオオカミ | etc.usf.edu/lit2go | 2026-05-03 |
+| indian-099 | 狐と暴君の象 | mocomi.com, パンチャタントラ | 2026-05-03 |
 
 <!-- 出典追加時にここへ行を追加 -->

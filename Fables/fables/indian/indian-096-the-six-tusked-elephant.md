@@ -1,5 +1,5 @@
 ---
-id: indian-078
+id: indian-096
 title: 六牙の白象チャッダンタ
 title_en: Chaddanta Jataka (The Six-Tusked Elephant)
 origin: インド寓話（ジャータカ）

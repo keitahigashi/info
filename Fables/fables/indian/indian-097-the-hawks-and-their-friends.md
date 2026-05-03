@@ -1,5 +1,5 @@
 ---
-id: indian-079
+id: indian-097
 title: 鷹一家と友人たち
 title_en: The Hawks and Their Friends
 origin: インド寓話（ジャータカ）

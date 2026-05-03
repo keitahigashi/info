@@ -1,4 +1,4 @@
-# インド寓話（81話）
+# インド寓話（99話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -80,9 +80,27 @@
 | [indian-074](../fables/indian/indian-074-the-king-cobra-and-the-ants.md) | 王コブラと蟻の大群 | 驕りは身を滅ぼす。どれほど強大な者でも弱者が団結すれば打ち倒される |
 | [indian-075](../fables/indian/indian-075-the-price-of-indiscretion.md) | 軽率さの代償 | 仲間の忠告を軽んじる傲慢さは必ず災いを招く |
 | [indian-076](../fables/indian/indian-076-the-curse-of-mittavinda.md) | ミッタヴィンダの呪い | 他者への嫉妬と妨害は、長きにわたる苦しみとなって自らに返る |
-| [indian-077](../fables/indian/indian-077-the-merchants-of-seri.md) | セリの商人 | 貪欲と嫉妬は自分自身を滅ぼし、正直と公正な取引こそが真の豊かさをもたらす |
-| [indian-078](../fables/indian/indian-078-the-six-tusked-elephant.md) | 六牙の白象チャッダンタ | 恨みは転生を超えて自らを苦しめ、慈悲は傷つけようとする者にさえ示される |
-| [indian-079](../fables/indian/indian-079-the-hawks-and-their-friends.md) | 鷹一家と友人たち | 友情の真価は危機の時にこそ現れ、それぞれ異なる力を持つ友との絆が最大の守りとなる |
-| [indian-080](../fables/indian/indian-080-the-wise-goat-and-the-wolf.md) | 賢い山羊とオオカミ | 知恵と冷静な判断は体の力に勝る。危機の際にパニックにならず頭脳で対処することが身を守る |
-| [indian-081](../fables/indian/indian-081-the-fox-and-the-elephant.md) | 狐と暴君の象 | 暴力による支配は知恵によって打ち倒される。弱い者でも知恵を使えば強大な圧制者に勝てる |
+| [indian-077](../fables/indian/indian-077-the-four-friends-and-the-hunter.md) | 四人の友と猟師 | 真の友は苦難のときにこそ力を合わせる。それぞれの強みを生かせば、どんな困難も乗り越えられる。 |
+| [indian-078](../fables/indian/indian-078-the-vedabbha-brahmin.md) | ヴェダッバのバラモンと千の死 | 賢者の忠告を無視して欲に従えば、自分だけでなく多くの者を巻き込む破滅を招く |
+| [indian-079](../fables/indian/indian-079-the-elephant-and-the-jackal.md) | 象とジャッカル（暴君の末路） | どれほど強大な暴君も、知恵と計略の前には無力である |
+| [indian-080](../fables/indian/indian-080-the-lions-bad-breath.md) | 獅子の口臭 | 権力者を前にしたとき、正直も追従も危険を招くことがある。機知ある言葉が身を救う。 |
+| [indian-081](../fables/indian/indian-081-the-elephant-corrupted-by-bad-company.md) | 悪い仲間に染まった象 | 人は日々接する言葉や仲間によって善にも悪にも変わる |
+| [indian-082](../fables/indian/indian-082-the-merchant-of-seri.md) | セリの商人（黄金の鉢） | 誠実さは最善の策であり、貪欲と妬みは最終的に自らを滅ぼす。 |
+| [indian-083](../fables/indian/indian-083-the-elephant-and-the-jackal.md) | 象とジャッカル | どんな暴君も必ず滅びを迎える。残虐な行いは必ず報いを受ける。 |
+| [indian-084](../fables/indian/indian-084-the-girl-who-married-a-snake.md) | 蛇の呪いを解いた花嫁 | 外見ではなく誠実な愛と献身こそが呪縛を解く力を持つ |
+| [indian-085](../fables/indian/indian-085-nachiketa-and-yama.md) | ナチケータスの問い | 真の知恵の探求は、いかなる物質的誘惑にも勝る |
+| [indian-086](../fables/indian/indian-086-yaksha-prashna.md) | ヤクシャ問答 | 真の知恵とはダルマ（法・正義）に従って行動する力にあり、謙虚に正道を歩む者が最後に救われる。 |
+| [indian-087](../fables/indian/indian-087-the-cat-and-the-vulture.md) | 猫と禿鷲——偽りの修行者 | 雄弁に徳を語る者が最も危険な欺瞞者であることがある。素性の知れない者を易々と信じてはならない |
+| [indian-088](../fables/indian/indian-088-the-unlucky-weaver.md) | 不運な機織り職人ソミラカ | 財の多寡ではなく財の使い方こそが人生の豊かさを決める。与えられた分で満足して生きることが真の幸福である |
+| [indian-089](../fables/indian/indian-089-telapatta-jataka.md) | 油の器を運ぶ男——テーラパッタ本生譚 | 油の満ちた器を一滴もこぼさずに運ぶように心の正念を保てば、どんな誘惑や試練も乗り越えられる |
+| [indian-090](../fables/indian/indian-090-the-poor-woman-and-the-bell.md) | 貧しい女と鐘の怪 | 根拠のない噂や集団的恐慌に流されず、勇気をもって真実を確かめる知性こそが虚偽を暴き社会を救う |
+| [indian-091](../fables/indian/indian-091-bilara-jataka-cat-ascetic.md) | 猫の誓いの修行者 | 外見の敬虔さに惑わされず、行いの一貫性を見極めることで偽善を見抜くことができる |
+| [indian-092](../fables/indian/indian-092-vidura-niti.md) | ビドゥラの教え | 知恵者の言葉を聞き入れ感情や執着に流されない判断をすることが、国家と個人の滅亡を避ける唯一の道である |
+| [indian-093](../fables/indian/indian-093-narada-and-maya.md) | ナーラダとマーヤー | 物質世界の快楽と絆に深く囚われれば、知識を持つ聖者さえも永遠の実在を忘れてしまう |
+| [indian-094](../fables/indian/indian-094-baka-jataka-crane-and-crab.md) | 鶴と蟹（バカ・ジャータカ） | 他者を欺いて生き延びようとする者は、やがてその欺瞞によって自らの破滅を招く |
+| [indian-095](../fables/indian/indian-095-mahosadha-the-great-wisdom.md) | マホーサダの知恵 | 真の知恵とは力や武力を超えるものであり、相手の状況を見通す洞察こそが国と民を救う最大の武器となる |
+| [indian-096](../fables/indian/indian-096-the-six-tusked-elephant.md) | 六牙の白象チャッダンタ | 恨みは転生を超えて自らを苦しめ、慈悲は傷つけようとする者にさえ示される |
+| [indian-097](../fables/indian/indian-097-the-hawks-and-their-friends.md) | 鷹一家と友人たち | 友情の真価は危機の時にこそ現れ、それぞれ異なる力を持つ友との絆が最大の守りとなる |
+| [indian-098](../fables/indian/indian-098-the-wise-goat-and-the-wolf.md) | 賢い山羊とオオカミ | 知恵と冷静な判断は体の力に勝る。危機の際にパニックにならず頭脳で対処することが身を守る |
+| [indian-099](../fables/indian/indian-099-the-fox-and-the-elephant.md) | 狐と暴君の象 | 暴力による支配は知恵によって打ち倒される。弱い者でも知恵を使えば強大な圧制者に勝てる |
 <!-- 寓話追加時にここへ行を追加 -->

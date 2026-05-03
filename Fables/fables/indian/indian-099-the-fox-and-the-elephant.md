@@ -1,5 +1,5 @@
 ---
-id: indian-081
+id: indian-099
 title: 狐と暴君の象
 title_en: The Fox and the Elephant
 origin: インド寓話（パンチャタントラ）

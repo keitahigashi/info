@@ -1,5 +1,5 @@
 ---
-id: indian-080
+id: indian-098
 title: 賢い山羊とオオカミ
 title_en: The Wise Goat and the Wolf
 origin: インド寓話（ジャータカ）

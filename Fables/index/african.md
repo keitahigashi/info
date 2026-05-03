@@ -1,4 +1,4 @@
-# アフリカ民話（80話）
+# アフリカ民話（85話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -84,4 +84,9 @@
 | [african-078](../fables/african/african-078-the-black-crow.md) | 黒いカラスになった理由 | 高い地位にある者こそ規範を守らなければならず、偽善と貪欲は必ず恥辱と罰をもたらす |
 | [african-079](../fables/african/african-079-the-dog-the-goat-and-the-donkey.md) | 犬とヤギとロバの乗合バス | 自分の義務を正直に果たした者だけが心の平和を得られ、不誠実は不安と苛立ちを生む |
 | [african-080](../fables/african/african-080-when-silence-is-strength.md) | 沈黙こそ力 | 戦略的な沈黙と冷静さは慌てた行動よりも強力な武器となり、人間は言葉によって正体を明かす |
+| [african-081](../fables/african/african-081-why-the-worms-live-underground.md) | ミミズが地中に住む理由 | 弱者を侮辱する驕りは敗北を招く。力の差を認めず慢心した者は、相手の本当の強さを思い知ることになる |
+| [african-082](../fables/african/african-082-why-the-moon-waxes-and-wanes.md) | 月が満ち欠けする理由 | 他者の善意と慈悲は大切に守らなければならない。好奇心や干渉が弱者を助ける恩人を傷つけ、救いそのものを失わせることがある |
+| [african-083](../fables/african/african-083-the-tortoise-tricks-the-elephant.md) | カメがゾウを打ち負かした話 | 体格や腕力だけが強さではない。知恵と機知はどんな物理的な力にも勝り、見た目で相手を侮ることは慢心である |
+| [african-084](../fables/african/african-084-the-kites-and-the-crows.md) | トビとカラスの戦い | 欺きと裏切りによる勝利は永続する平和をもたらさない。一時の策略が憎しみの連鎖を生み、双方に回復不能な傷を残す |
+| [african-085](../fables/african/african-085-the-sacred-milk-of-koumongoe.md) | 聖なる木クモンゴエの乳 | 禁忌を破ることは重い結果をもたらすが、愛と知恵による犠牲は希望を守る。不当な慣習に対して良心で抗う者の物語は、単純な罰では終わらない |
 <!-- 寓話追加時にここへ行を追加 -->
