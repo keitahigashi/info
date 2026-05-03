@@ -396,3 +396,8 @@
 | reference_open-world-navigation-systems.md | 2026-05-03 |
 | reference_mapping-wayfinding-worldmaps.md | 2026-05-03 |
 | reference_game-accessibility-standards-advocacy.md | 2026-05-03 |
+| reference_data-locality-pattern.md | 2026-05-03 |
+| reference_power-progression-design.md | 2026-05-03 |
+| reference_risk-in-game-design.md | 2026-05-03 |
+| reference_systems-based-game-development.md | 2026-05-03 |
+| reference_million-particle-gpu-system.md | 2026-05-03 |
