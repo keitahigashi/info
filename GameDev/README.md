@@ -34,7 +34,7 @@
   ↓
 skills/article-collector/SKILL.md → ワークフロー手順を読み込み
   ↓
-REFERENCES.md → 収集済みURL一覧で重複チェック（単一ソース）
+REFERENCES.md → 収集済みファイル名一覧で重複チェック（単一ソース）
   ↓
 Web検索（3キーワード並列・日英混合） → 重複フィルタ
   ↓

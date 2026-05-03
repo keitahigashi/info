@@ -22,8 +22,8 @@
 
 ### Phase 1: 重複チェック準備
 
-1. `REFERENCES.md` を読み込み、収集済みURLの一覧を取得する
-2. これを重複判定のソースとして使用する
+1. `REFERENCES.md` を読み込み、収集済みファイル名の一覧を取得する
+2. これを重複判定のソースとして使用する（ファイル名の一致で判定）
 
 ### Phase 2: 記事検索
 
@@ -63,7 +63,7 @@ type: reference
 
 1. `REFERENCES.md` の「収集済み記事」テーブルに行を追加する:
    ```
-   | reference_{slug}.md | {内容} | {ソース} | {YYYY-MM-DD} | {反映先} |
+   | reference_{slug}.md | {YYYY-MM-DD} |
    ```
 
 2. `log/{YYYY-MM-DD}.md` にデイリーログを作成/追記する:
