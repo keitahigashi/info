@@ -400,4 +400,8 @@ Claude Code品質低下事件を受けた実践的な自己防衛策。①10〜3
 34機能を8モジュールに体系化した包括ガイド。モジュール構成: ①コード編集・生成(5機能)②ファイル/プロジェクト操作(5機能)③ターミナル/コマンド実行(4機能)④Git/バージョン管理(4機能)⑤Web検索/外部連携(3機能)⑥ドキュメント生成(4機能)⑦エージェント/自律実行(5機能: マルチステップ・長時間通知・エラー自動修正・サブエージェント並列・チェックポイント保存)⑧セキュリティ/カスタマイズ(4機能)。企業導入実績: 月間削減額200,000円・ROI約13倍。
 > 詳細: references/reference_claude_code_complete_guide_kazai.md を参照
 
+### GitHub Copilot従量課金化（2026/6）を受けたClaude Code移行とクロスモデルPre-PR Self Review（自動収集 2026-05-02）
+GitHub Copilotが2026年6月1日からAI Credits課金（1 credit=$0.01）へ移行。Proプランからopusモデル削除。著者はローカル完結の「Pre-PR Self Review」に移行：Claude Code（Opus 4.7）で設計・可読性レビュー→Codex CLIでセキュリティ・パフォーマンスレビューの2段階クロスモデル構成。コスト比較: Claude Code Max（$100/月）+ Codex CLI（$5〜30/月）vs. Copilot Pro+（$39/月クレジット制）。プロジェクト特性・チーム規模・ローカル実行要否によって移行判断を分岐させる意思決定フレームを提示。
+> 詳細: references/reference_copilot_billing_claude_migration.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

@@ -245,3 +245,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_security_public_beta_uravation.md | 2026-05-02 |
 | reference_claude_code_v21126_changelog.md | 2026-05-01 |
 | reference_claude_skills_notion_management.md | 2026-05-01 |
+| reference_claude_status_monitoring_uravation.md | 2026-05-03 |
+| reference_claude_connectors_9_uravation.md | 2026-05-03 |
+| reference_ai_team_no_code_saitoko.md | 2026-05-03 |
+| reference_copilot_billing_claude_migration.md | 2026-05-03 |
+| reference_claude_code_third_party_policy.md | 2026-05-03 |
