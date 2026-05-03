@@ -83,4 +83,10 @@
 | indian-075 | 軽率さの代償 | talesofpanchatantra.com, readandripe.com | 2026-04-20 |
 | indian-076 | ミッタヴィンダの呪い | wisdomlib.org, tricycle.org | 2026-04-20 |
 
+| indian-077 | セリの商人 | longlongtimeago.com, culturalindia.net | 2026-05-03 |
+| indian-078 | 六牙の白象チャッダンタ | thejatakatales.com, wisdomlib.org | 2026-05-03 |
+| indian-079 | 鷹一家と友人たち | etc.usf.edu/lit2go | 2026-05-03 |
+| indian-080 | 賢い山羊とオオカミ | etc.usf.edu/lit2go | 2026-05-03 |
+| indian-081 | 狐と暴君の象 | mocomi.com, パンチャタントラ | 2026-05-03 |
+
 <!-- 出典追加時にここへ行を追加 -->

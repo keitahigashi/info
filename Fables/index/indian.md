@@ -1,4 +1,4 @@
-# インド寓話（76話）
+# インド寓話（81話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -80,4 +80,9 @@
 | [indian-074](../fables/indian/indian-074-the-king-cobra-and-the-ants.md) | 王コブラと蟻の大群 | 驕りは身を滅ぼす。どれほど強大な者でも弱者が団結すれば打ち倒される |
 | [indian-075](../fables/indian/indian-075-the-price-of-indiscretion.md) | 軽率さの代償 | 仲間の忠告を軽んじる傲慢さは必ず災いを招く |
 | [indian-076](../fables/indian/indian-076-the-curse-of-mittavinda.md) | ミッタヴィンダの呪い | 他者への嫉妬と妨害は、長きにわたる苦しみとなって自らに返る |
+| [indian-077](../fables/indian/indian-077-the-merchants-of-seri.md) | セリの商人 | 貪欲と嫉妬は自分自身を滅ぼし、正直と公正な取引こそが真の豊かさをもたらす |
+| [indian-078](../fables/indian/indian-078-the-six-tusked-elephant.md) | 六牙の白象チャッダンタ | 恨みは転生を超えて自らを苦しめ、慈悲は傷つけようとする者にさえ示される |
+| [indian-079](../fables/indian/indian-079-the-hawks-and-their-friends.md) | 鷹一家と友人たち | 友情の真価は危機の時にこそ現れ、それぞれ異なる力を持つ友との絆が最大の守りとなる |
+| [indian-080](../fables/indian/indian-080-the-wise-goat-and-the-wolf.md) | 賢い山羊とオオカミ | 知恵と冷静な判断は体の力に勝る。危機の際にパニックにならず頭脳で対処することが身を守る |
+| [indian-081](../fables/indian/indian-081-the-fox-and-the-elephant.md) | 狐と暴君の象 | 暴力による支配は知恵によって打ち倒される。弱い者でも知恵を使えば強大な圧制者に勝てる |
 <!-- 寓話追加時にここへ行を追加 -->
