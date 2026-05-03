@@ -390,3 +390,8 @@
 | reference_game-qa-pipeline-management.md | QAパイプライン5段階（Find/Report/Assign/Fix/Regress）・バグ分類A〜D・クローズ権限・小チーム適用ガイドライン | Game Developer (Josh Green) | 2026-05-03 | 08-production |
 | reference_game-risk-management-ddp.md | ゲーム開発リスク4分類・Discovery-Driven Planning（DDP）7ステップ・逆向き損益計算・感度分析・仮定-知識比率 | Game Developer (Paul Tozour) | 2026-05-03 | 08-production |
 | reference_game-preproduction-9-steps.md | プリプロダクション9ステップ（コアコンセプト/市場調査/進行設計/プロトタイプ/パイプライン/再検討/スケジュール/GDD/QA計画）・落とし穴3種 | Room 8 Studio | 2026-05-03 | 08-production |
+| reference_game-menus-ux-masterclass.md | ゲームメニューUX設計8原則・没入型デザイン・情報アーキテクチャ・アクセシビリティ統合・設計評価チェックポイント | Medium (Krishnamohan Yagneswaran) | 2026-05-03 | 04-ui-ux |
+| reference_game-accessibility-guidelines-catalog.md | ゲームアクセシビリティガイドライン完全版・3難易度分類（Basic/Intermediate/Advanced）×6障害カテゴリのチェックリスト体系 | Game Accessibility Guidelines | 2026-05-03 | 04-ui-ux |
+| reference_open-world-navigation-systems.md | オープンワールドナビゲーション設計・ブレッドクラミング (breadcrumbing)・ハブ&スポーク構造・デュアルレイヤーアプローチ・事例5作品 | JoyPlayX | 2026-05-03 | 02-level-design |
+| reference_mapping-wayfinding-worldmaps.md | ワールドマップとウェイファインディング設計・5誘導要素・ウィーニー (weenie) 概念・ポジティブ/ネガティブスペース・空間的感情設計 | Understanding Games (Medium, Myk Eff) | 2026-05-03 | 02-level-design |
+| reference_game-accessibility-standards-advocacy.md | ゲームアクセシビリティ標準化の必要性・推奨標準化機能リスト・プリセット機能・発売前公開・Co-Pilotモード・ユニバーサルデザイン論 | Access-Ability (Laura Dale) | 2026-05-03 | 04-ui-ux |
