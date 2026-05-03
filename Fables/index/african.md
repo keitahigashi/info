@@ -1,4 +1,4 @@
-# アフリカ民話（85話）
+# アフリカ民話（90話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -89,4 +89,9 @@
 | [african-083](../fables/african/african-083-the-tortoise-tricks-the-elephant.md) | カメがゾウを打ち負かした話 | 体格や腕力だけが強さではない。知恵と機知はどんな物理的な力にも勝り、見た目で相手を侮ることは慢心である |
 | [african-084](../fables/african/african-084-the-kites-and-the-crows.md) | トビとカラスの戦い | 欺きと裏切りによる勝利は永続する平和をもたらさない。一時の策略が憎しみの連鎖を生み、双方に回復不能な傷を残す |
 | [african-085](../fables/african/african-085-the-sacred-milk-of-koumongoe.md) | 聖なる木クモンゴエの乳 | 禁忌を破ることは重い結果をもたらすが、愛と知恵による犠牲は希望を守る。不当な慣習に対して良心で抗う者の物語は、単純な罰では終わらない |
+| [african-086](../fables/african/african-086-honourable-minu.md) | 名誉あるミヌ氏 | いかに富と名声を積み重ねても最後は誰もが等しく死を迎える。身の丈に合った暮らしに満足することが真の知恵である |
+| [african-087](../fables/african/african-087-the-hawk-and-the-owl.md) | タカとフクロウ | 黙って苦しみを飲み込む者は内に復讐を秘めており危険である。大声で怒りを表す者はその場で感情を発散させるため、かえって脅威は少ない |
+| [african-088](../fables/african/african-088-adzanumee-and-her-mother.md) | 芋の娘アジャヌミー | 一度交わした約束はたとえ一瞬の言葉であっても破ってはならない。不用意な言葉が大切な存在を永遠に失わせる |
+| [african-089](../fables/african/african-089-why-white-ants-always-harm-mans-property.md) | シロアリがいつも人の財産を害する理由 | 他者の善意を利用して嘘をつく者は、より広い不幸の連鎖を引き起こす。罪のない者が巻き込まれて受けた怒りは、人類全体への害として続いていく |
+| [african-090](../fables/african/african-090-the-animals-dam.md) | 動物たちのダム | 共同の労働を拒否して利益だけを享受しようとする者は、いつか必ず報いを受ける。怠惰と欲張りは必ず露見する |
 <!-- 寓話追加時にここへ行を追加 -->

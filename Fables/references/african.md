@@ -98,4 +98,9 @@
 | african-083 | カメがゾウを打ち負かした話 | folktales.africa/the-tortoise-tricks-the-elephant/, Nassau『Where Animals Talk』(1914) | 2026-05-02 |
 | african-084 | トビとカラスの戦い | fairytalez.com/the-kites-and-the-crows/, Bateman『Zanzibar Tales』(1901) | 2026-05-02 |
 | african-085 | 聖なる木クモンゴエの乳 | etc.usf.edu/lit2go/…/the-sacred-milk-of-koumongoe/, Lang『The Brown Fairy Book』(1904) | 2026-05-02 |
+| african-086 | 名誉あるミヌ氏 | gutenberg.org/files/66923, heritage-history.com (Barker『West African Folk-Tales』1917) | 2026-05-03 |
+| african-087 | タカとフクロウ | worldoftales.com/African_folktales/Nigerian_folktale_37.html, sacred-texts.com (Dayrell 1910) | 2026-05-03 |
+| african-088 | 芋の娘アジャヌミー | gutenberg.org/files/66923, afrolegends.com (Barker『West African Folk-Tales』1917) | 2026-05-03 |
+| african-089 | シロアリがいつも人の財産を害する理由 | gutenberg.org/files/66923, heritage-history.com (Barker『West African Folk-Tales』1917) | 2026-05-03 |
+| african-090 | 動物たちのダム | worldoftales.com/African_folktales/African_Folktale_20.html, gutenberg.org (Honey 1910, Metelerkamp 1914) | 2026-05-03 |
 <!-- 出典追加時にここへ行を追加 -->
