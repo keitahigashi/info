@@ -96,4 +96,9 @@
 | indian-088 | 不運な機織り職人ソミラカ | talesofpanchatantra.com, mocomi.com | 2026-04-30 |
 | indian-089 | 油の器を運ぶ男（テーラパッタ本生譚） | thejatakatales.com, ancient-buddhist-texts.net | 2026-04-30 |
 | indian-090 | 貧しい女と鐘の怪 | kidsgen.com, mocomi.com | 2026-04-30 |
+| indian-091 | 猫の誓いの修行者 | ancient-buddhist-texts.net, palikanon.com | 2026-05-01 |
+| indian-092 | ビドゥラの教え | indica.today, greenmesg.org | 2026-05-01 |
+| indian-093 | ナーラダとマーヤー | boloji.com, sonomaashram.org | 2026-05-01 |
+| indian-094 | 鶴と蟹（バカ・ジャータカ） | thejatakatales.com, en.oum.ru | 2026-05-01 |
+| indian-095 | マホーサダの知恵 | buddha-images.com, thejatakatales.com | 2026-05-01 |
 <!-- 出典追加時にここへ行を追加 -->

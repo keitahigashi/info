@@ -1,4 +1,4 @@
-# インド寓話（90話）
+# インド寓話（95話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -94,4 +94,9 @@
 | [indian-088](../fables/indian/indian-088-the-unlucky-weaver.md) | 不運な機織り職人ソミラカ | 財の多寡ではなく財の使い方こそが人生の豊かさを決める。与えられた分で満足して生きることが真の幸福である |
 | [indian-089](../fables/indian/indian-089-telapatta-jataka.md) | 油の器を運ぶ男——テーラパッタ本生譚 | 油の満ちた器を一滴もこぼさずに運ぶように心の正念を保てば、どんな誘惑や試練も乗り越えられる |
 | [indian-090](../fables/indian/indian-090-the-poor-woman-and-the-bell.md) | 貧しい女と鐘の怪 | 根拠のない噂や集団的恐慌に流されず、勇気をもって真実を確かめる知性こそが虚偽を暴き社会を救う |
+| [indian-091](../fables/indian/indian-091-bilara-jataka-cat-ascetic.md) | 猫の誓いの修行者 | 外見の敬虔さに惑わされず、行いの一貫性を見極めることで偽善を見抜くことができる |
+| [indian-092](../fables/indian/indian-092-vidura-niti.md) | ビドゥラの教え | 知恵者の言葉を聞き入れ感情や執着に流されない判断をすることが、国家と個人の滅亡を避ける唯一の道である |
+| [indian-093](../fables/indian/indian-093-narada-and-maya.md) | ナーラダとマーヤー | 物質世界の快楽と絆に深く囚われれば、知識を持つ聖者さえも永遠の実在を忘れてしまう |
+| [indian-094](../fables/indian/indian-094-baka-jataka-crane-and-crab.md) | 鶴と蟹（バカ・ジャータカ） | 他者を欺いて生き延びようとする者は、やがてその欺瞞によって自らの破滅を招く |
+| [indian-095](../fables/indian/indian-095-mahosadha-the-great-wisdom.md) | マホーサダの知恵 | 真の知恵とは力や武力を超えるものであり、相手の状況を見通す洞察こそが国と民を救う最大の武器となる |
 <!-- 寓話追加時にここへ行を追加 -->
