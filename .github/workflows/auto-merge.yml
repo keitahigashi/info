@@ -8,13 +8,22 @@ permissions:
   contents: write
   pull-requests: write
 
+# 同じPRに対するワークフローは直列化＆古いほうをキャンセル
+concurrency:
+  group: auto-merge-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
 jobs:
   auto-merge:
     runs-on: ubuntu-latest
-    # auto-merge ラベルが付いていて、かつ Draft でない PR のみ対象
+    # 条件:
+    #   - auto-merge ラベルが付いている
+    #   - Draft でない
+    #   - labeled イベントの場合は、付与されたラベルが auto-merge のときだけ
     if: |
       contains(github.event.pull_request.labels.*.name, 'auto-merge') &&
-      github.event.pull_request.draft == false
+      github.event.pull_request.draft == false &&
+      (github.event.action != 'labeled' || github.event.label.name == 'auto-merge')
     steps:
       - name: Check mergeable and merge
         uses: actions/github-script@v7
@@ -23,7 +32,7 @@ jobs:
             const { owner, repo } = context.repo;
             const pull_number = context.payload.pull_request.number;
 
-            // mergeable は計算中だと null が返るので、確定するまでポーリング
+            // 最新のPR状態を取得（mergeable は計算中だと null が返るのでポーリング）
             let pr;
             for (let i = 0; i < 10; i++) {
               const res = await github.rest.pulls.get({ owner, repo, pull_number });
@@ -33,21 +42,41 @@ jobs:
               await new Promise(r => setTimeout(r, 3000));
             }
 
-            core.info(`mergeable=${pr.mergeable}, mergeable_state=${pr.mergeable_state}`);
+            core.info(`state=${pr.state}, merged=${pr.merged}, mergeable=${pr.mergeable}, mergeable_state=${pr.mergeable_state}`);
+
+            // 既にマージ済み or クローズ済みなら何もしない（二重起動対策）
+            if (pr.merged) {
+              core.info('PR is already merged. Skipping.');
+              return;
+            }
+            if (pr.state !== 'open') {
+              core.info(`PR is not open (state=${pr.state}). Skipping.`);
+              return;
+            }
 
             if (pr.mergeable !== true) {
-              core.warning(`Skip merge: PR is not mergeable (likely a conflict).`);
+              core.warning('Skip merge: PR is not mergeable (likely a conflict).');
               return;
             }
 
             // マージ実行
-            await github.rest.pulls.merge({
-              owner,
-              repo,
-              pull_number,
-              merge_method: 'merge',
-            });
-            core.info(`PR #${pull_number} merged successfully.`);
+            try {
+              await github.rest.pulls.merge({
+                owner,
+                repo,
+                pull_number,
+                merge_method: 'merge',
+              });
+              core.info(`PR #${pull_number} merged successfully.`);
+            } catch (e) {
+              // 405 Method Not Allowed: 競合などで既にマージできない状態になった
+              // 409 Conflict: SHAミスマッチ等
+              if (e.status === 405 || e.status === 409) {
+                core.warning(`Merge skipped due to race condition: ${e.message}`);
+                return;
+              }
+              throw e;
+            }
 
             // ヘッドブランチを削除（同一リポジトリのブランチのみ）
             const headRepoFullName = pr.head.repo ? pr.head.repo.full_name : null;
@@ -61,7 +90,12 @@ jobs:
                 });
                 core.info(`Branch '${pr.head.ref}' deleted.`);
               } catch (e) {
-                core.warning(`Failed to delete branch: ${e.message}`);
+                // 既に削除されている場合（422）は無視
+                if (e.status === 422) {
+                  core.info('Branch is already deleted.');
+                } else {
+                  core.warning(`Failed to delete branch: ${e.message}`);
+                }
               }
             } else {
               core.info('Head branch is from a fork; skipping branch deletion.');
