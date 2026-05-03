@@ -93,4 +93,9 @@
 | african-079 | イボイノシシが醜い理由 | travelbutlers.com, kenyawildparks.com, angolarising.blogspot.com | 2026-04-21 |
 | african-080 | ワニがメンドリを食べない理由 | mythfolklore.blogspot.com, sacred-texts.com | 2026-04-21 |
 
+| african-081 | ミミズが地中に住む理由 | worldoftales.com/African_folktales/Nigerian_folktale_13.html, Dayrell『Folk Stories from Southern Nigeria』(1910) | 2026-05-02 |
+| african-082 | 月が満ち欠けする理由 | worldoftales.com/African_folktales/Nigerian_folktale_26.html, Dayrell『Folk Stories from Southern Nigeria』(1910) | 2026-05-02 |
+| african-083 | カメがゾウを打ち負かした話 | folktales.africa/the-tortoise-tricks-the-elephant/, Nassau『Where Animals Talk』(1914) | 2026-05-02 |
+| african-084 | トビとカラスの戦い | fairytalez.com/the-kites-and-the-crows/, Bateman『Zanzibar Tales』(1901) | 2026-05-02 |
+| african-085 | 聖なる木クモンゴエの乳 | etc.usf.edu/lit2go/…/the-sacred-milk-of-koumongoe/, Lang『The Brown Fairy Book』(1904) | 2026-05-02 |
 <!-- 出典追加時にここへ行を追加 -->
