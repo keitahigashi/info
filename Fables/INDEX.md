@@ -8,8 +8,8 @@
 | 日本昔話 | 80 | [一覧を見る](index/japanese.md) |
 | 中国故事 | 86 | [一覧を見る](index/chinese.md) |
 | グリム童話 | 85 | [一覧を見る](index/grimm.md) |
-| アンデルセン童話 | 80 | [一覧を見る](index/andersen.md) |
+| アンデルセン童話 | 85 | [一覧を見る](index/andersen.md) |
 | インド寓話 | 99 | [一覧を見る](index/indian.md) |
 | アフリカ民話 | 90 | [一覧を見る](index/african.md) |
 | その他 | 82 | [一覧を見る](index/other.md) |
-| **合計** | **933** | |
+| **合計** | **938** | |
