@@ -401,3 +401,8 @@
 | reference_risk-in-game-design.md | 2026-05-03 |
 | reference_systems-based-game-development.md | 2026-05-03 |
 | reference_million-particle-gpu-system.md | 2026-05-03 |
+| reference_13-principles-gameplay-design.md | 2026-05-04 |
+| reference_dead-space-level-design-storytelling.md | 2026-05-04 |
+| reference_5-core-elements-interactive-storytelling.md | 2026-05-04 |
+| reference_branching-narrative-low-budget.md | 2026-05-04 |
+| reference_atmosphere-world-design-level-progression.md | 2026-05-04 |
