@@ -250,3 +250,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_ai_team_no_code_saitoko.md | 2026-05-03 |
 | reference_copilot_billing_claude_migration.md | 2026-05-03 |
 | reference_claude_code_third_party_policy.md | 2026-05-03 |
+| reference_claude_code_marketplace_guide_uravation.md | 2026-05-04 |
+| reference_zenn_claude_code_writing_env_tmdev.md | 2026-05-04 |
+| reference_claude_code_force_hook_3layer_nagata.md | 2026-05-04 |
+| reference_claude_code_routines_complete_uravation.md | 2026-05-04 |
+| reference_apple_claude_md_juno_ai_leak_lyrie.md | 2026-05-04 |
