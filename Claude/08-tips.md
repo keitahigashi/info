@@ -404,4 +404,8 @@ Claude Code品質低下事件を受けた実践的な自己防衛策。①10〜3
 GitHub Copilotが2026年6月1日からAI Credits課金（1 credit=$0.01）へ移行。Proプランからopusモデル削除。著者はローカル完結の「Pre-PR Self Review」に移行：Claude Code（Opus 4.7）で設計・可読性レビュー→Codex CLIでセキュリティ・パフォーマンスレビューの2段階クロスモデル構成。コスト比較: Claude Code Max（$100/月）+ Codex CLI（$5〜30/月）vs. Copilot Pro+（$39/月クレジット制）。プロジェクト特性・チーム規模・ローカル実行要否によって移行判断を分岐させる意思決定フレームを提示。
 > 詳細: references/reference_copilot_billing_claude_migration.md を参照
 
+### AnthropicのPM術：6ヶ月ロードマップ廃止・週単位shipping・EvalsがPRDを置き換える（自動収集 2026-05-05）
+AnthropicのHead of Product Cat Wu曰く、shippingサイクルは1週間（短いものは1日）。「Research Preview」で本番を実験場として活用。ロードマップの代わりにTeam PrinciplesとMetrics Readoutsで方向性を共有。AI時代のPdM 4仮説: ①EvalsがPRDを置き換える ②PdMはプロンプト設計者へ ③機能削除が価値創造 ④Shippingが唯一の真実。Claude Codeの急速なアップデートペースの背景にこの開発哲学がある。
+> 詳細: references/reference_anthropic_pdm_speed_qiita_xiao18.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

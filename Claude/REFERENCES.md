@@ -255,3 +255,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_force_hook_3layer_nagata.md | 2026-05-04 |
 | reference_claude_code_routines_complete_uravation.md | 2026-05-04 |
 | reference_apple_claude_md_juno_ai_leak_lyrie.md | 2026-05-04 |
+| reference_anthropic_pdm_speed_qiita_xiao18.md | 2026-05-05 |
+| reference_claude_code_blog_workflow_tmdev.md | 2026-05-05 |
+| reference_claude_code_v21_features_joinclass.md | 2026-05-05 |
+| reference_claude_code_skills_evolution_nanahiryu.md | 2026-05-05 |
+| reference_claude_code_why_exploded_yupy.md | 2026-05-05 |
