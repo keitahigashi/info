@@ -90,4 +90,9 @@
 
 | other-082 | 木こりのジレンマ | ヨーロッパ寓話 | webtan.impress.co.jp | 2026-04-25 |
 
+| other-083 | オーディンのルーン発見 | 北欧神話（古エッダ「ハーヴァマール」） | norse-mythology.org/tales/odins-discovery-of-the-runes/ | 2026-05-05 |
+| other-084 | 知恵の翁の三本の金の髪 | チェコ民話（エルベン、19世紀） | worldoftales.com/European_folktales/Czechoslovak_folktale_2.html | 2026-05-05 |
+| other-085 | コティホロシコ——豆から生まれた英雄 | ウクライナ民話 | en.wikipedia.org/wiki/Kotyhoroshko, euromaidanpress.com | 2026-05-05 |
+| other-086 | セルキーの妻 | スコットランド／オークニー諸島民話 | northlinkferries.co.uk/orkney-blog/an-orkney-folk-tale-the-selkie-wife/, scotlands-stories.com | 2026-05-05 |
+| other-087 | ソンティンとトゥイティン——山の神と水の神 | ベトナム神話（雄王伝説） | en.wikipedia.org/wiki/Sơn_Tinh–Thủy_Tinh, vietnamtourism.org.vn | 2026-05-05 |
 <!-- 出典追加時にここへ行を追加 -->
