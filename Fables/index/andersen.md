@@ -1,4 +1,4 @@
-# アンデルセン童話（75話）
+# アンデルセン童話（80話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -84,4 +84,9 @@
 | [andersen-078](../fables/andersen/andersen-078-the-elder-tree-mother.md) | ニワトコおばさん | 人生を通じて積み重ねた思い出こそが、人を支え導く最も大切な宝である |
 | [andersen-079](../fables/andersen/andersen-079-the-thorny-road-of-honor.md) | 名誉の茨の道 | 人類に真に貢献した者たちは、生前に嘲笑や迫害という茨の道を歩まねばならなかった |
 | [andersen-080](../fables/andersen/andersen-080-ib-and-little-christina.md) | イプとクリスティーネ | 真の豊かさは外面の華やかさではなく、誠実な心と献身的な愛の中にある |
+| [andersen-081](../fables/andersen/andersen-081-the-worlds-fairest-rose.md) | 世界一美しいバラ | 真の愛の美しさは人間の感情や形式的な美しさを超えており、最も純粋な愛とは神の愛＝自己犠牲の精神の中にある |
+| [andersen-082](../fables/andersen/andersen-082-the-child-in-the-grave.md) | 墓の中の子供 | 過度な悲しみは自己中心的な罪となりうる。死を神の御心として受け入れ、生きている者への責任を果たすことが真の愛である |
+| [andersen-083](../fables/andersen/andersen-083-holger-danske.md) | ホルガー・ダンスケ | 民族の精神と誇りは物語によって世代を超えて受け継がれ、国が本当の危機に直面したとき、その魂は必ず目覚める |
+| [andersen-084](../fables/andersen/andersen-084-the-candles.md) | ろうそく | 人の価値は社会的地位や素材の高貴さによって決まるのではなく、与えられた場所で誠実に輝くことの中にある |
+| [andersen-085](../fables/andersen/andersen-085-the-marsh-kings-daughter.md) | 沼の王の娘 | 生まれや外見が人の価値を決めるのではない。どれほど悪の血を引いていようと、慈悲の心を育てることで人は救われる |
 <!-- 寓話追加時にここへ行を追加 -->

@@ -87,4 +87,9 @@
 | andersen-079 | 名誉の茨の道 | andersenstories.com, andersen.sdu.dk, アンデルセン(1855) | 2026-04-22 |
 | andersen-080 | イプとクリスティーネ | en.wikipedia.org, andersenstories.com, アンデルセン(1855) | 2026-04-22 |
 
+| andersen-081 | 世界一美しいバラ | andersen.sdu.dk/vaerk/hersholt/TheWorldsFairestRose_e.html, アンデルセン(1852) | 2026-05-04 |
+| andersen-082 | 墓の中の子供 | andersenstories.com/en/andersen_fairy-tales/the_child_in_the_grave, fairytalez.com/the-child-in-the-grave/, アンデルセン(1859) | 2026-05-04 |
+| andersen-083 | ホルガー・ダンスケ | andersen.sdu.dk/vaerk/hersholt/HolgerDanske_e.html, andersenstories.com/en/andersen_fairy-tales/holger_danske, アンデルセン(1845) | 2026-05-04 |
+| andersen-084 | ろうそく | andersen.sdu.dk/vaerk/hersholt/TheCandles_e.html, childstories.org/en/the-candles-2031.html, アンデルセン(1870) | 2026-05-04 |
+| andersen-085 | 沼の王の娘 | andersen.sdu.dk/vaerk/hersholt/TheMarshKingsDaughter_e.html, fairytalez.com/the-marsh-kings-daughter/, アンデルセン(1858) | 2026-05-04 |
 <!-- 出典追加時にここへ行を追加 -->
