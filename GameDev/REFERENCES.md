@@ -406,3 +406,8 @@
 | reference_5-core-elements-interactive-storytelling.md | 2026-05-04 |
 | reference_branching-narrative-low-budget.md | 2026-05-04 |
 | reference_atmosphere-world-design-level-progression.md | 2026-05-04 |
+| reference_loot-drop-best-practices.md | 2026-05-05 |
+| reference_emotions-randomness-loot.md | 2026-05-05 |
+| reference_loot-tables-arpg-design.md | 2026-05-05 |
+| reference_improving-random-loot-drops.md | 2026-05-05 |
+| reference_shader-programming-guide-2025.md | 2026-05-05 |
