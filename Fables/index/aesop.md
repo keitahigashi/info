@@ -1,4 +1,4 @@
-# イソップ寓話（331話）
+# イソップ寓話（336話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -335,4 +335,9 @@
 | [aesop-331](../fables/aesop/aesop-331-the-stag-in-the-ox-stall.md) | 雄鹿と牛小屋 | 主人自らの目は何物も見逃さない |
 | [aesop-332](../fables/aesop/aesop-332-the-old-woman-and-the-wine-jar.md) | 老婆と空のワイン壺 | 善き行いや優れた体験の記憶は、それが失われた後もなお人の心に残る |
 | [aesop-333](../fables/aesop/aesop-333-the-fly-and-the-draught-mule.md) | ハエと荷馬 | 実権を持たない者の脅しや命令は無視すればよい |
+| [aesop-334](../fables/aesop/aesop-334-the-apes-founding-a-city.md) | 猿たちの都市建設 | 外見の変化は内なる本性を変えない——どれほど文明的な装いをしても、本能は消えない |
+| [aesop-335](../fables/aesop/aesop-335-the-shepherd-and-the-butcher.md) | 羊飼いと肉屋 | 他者の不幸を目の当たりにしながら何も学ばない者は、自分の番が来たとき後悔する |
+| [aesop-336](../fables/aesop/aesop-336-plenty-and-poverty.md) | 豊かさと貧しさ | 愛と欲望は満ち足りることと欠乏することの間から生まれ、常に求め続ける |
+| [aesop-337](../fables/aesop/aesop-337-the-satyr-and-fire.md) | サテュロスと火 | 美しく魅力的なものも、近づきすぎれば命を奪う——遠くから賛嘆すべきものがある |
+| [aesop-338](../fables/aesop/aesop-338-the-moon-and-her-mother.md) | 月と母親 | 常に変わり続ける者を満足させることは誰にもできない |
 <!-- 寓話追加時にここへ行を追加 -->
