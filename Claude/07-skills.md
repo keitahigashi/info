@@ -302,4 +302,8 @@ Zennを正本に4スキル構成（`/zenn-post`・`/zenn-to-qiita`・`/zenn-to-n
 スキルが20本を超えると最新バージョン特定・配置場所把握・マルチ環境同期・更新履歴管理が困難になる。解決策: SKILL.md正本＋sync_plugins.py＋Notion DB「スキル台帳」の3コンポーネント構成。Notion DBにname・version（semver）・description・scope・zip_urlを管理。同期コマンド: `uv run scripts/sync_plugins.py --all`で全スキルを一括Notion同期。frontmatterのバージョン変更を検知して差分更新するため手動管理不要。zipパッケージをNotionに保管し別PCへの配布も容易。
 > 詳細: references/reference_claude_skills_notion_management.md を参照
 
+### Claude Code Skillsの進化史：CommandsがSkillsに統合され「ほぼ必須」になるまで（自動収集 2026-05-05）
+2025年10月登場のSkillsはv2.1.3でCommandsを統合し`/`呼び出し可能に。4特性: Composable・Portable・Efficient・Powerful。他機能との現在の関係: Rules（常時適用の制約として変わらず）・Commands（ほぼ不要に）・Subagents（境界が曖昧化）。使い分けの指針: 参照情報用Skills（knowledge in references/）と実行タスク用Skills（workflow in SKILL.md）の分離が「Skills膨張」を防ぐ鍵。
+> 詳細: references/reference_claude_code_skills_evolution_nanahiryu.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
