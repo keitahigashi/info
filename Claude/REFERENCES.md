@@ -260,3 +260,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_v21_features_joinclass.md | 2026-05-05 |
 | reference_claude_code_skills_evolution_nanahiryu.md | 2026-05-05 |
 | reference_claude_code_why_exploded_yupy.md | 2026-05-05 |
+| reference_claude_code_whats_new_official_ja.md | 2026-05-06 |
+| reference_claude_code_mcp_agent_driven_netsujo.md | 2026-05-06 |
+| reference_claude_latest_features_may2026_kanri.md | 2026-05-06 |
+| reference_codex_multiagentv2_vs_claude_code.md | 2026-05-06 |
+| reference_claude_code_new_grad_workflow_yoshiaki.md | 2026-05-06 |
