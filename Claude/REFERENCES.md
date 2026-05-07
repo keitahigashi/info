@@ -270,3 +270,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_anthropic_spacex_deal_madonomori.md | 2026-05-07 |
 | reference_claude_finance_agents_impress.md | 2026-05-07 |
 | reference_claude_code_limits_2x_kawai.md | 2026-05-07 |
+| reference_anthropic_higher_limits_spacex_official.md | 2026-05-07 |
+| reference_anthropic_spacex_mythos_nikkei.md | 2026-05-07 |
+| reference_anthropic_spacex_gihyo.md | 2026-05-07 |
+| reference_claude_code_limits_spacex_mynavi.md | 2026-05-07 |
+| reference_anthropic_spacex_deal_itmedia.md | 2026-05-07 |
