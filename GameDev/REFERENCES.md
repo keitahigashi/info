@@ -421,3 +421,8 @@
 | reference_platformer-leveldesign-workflow-bighops.md | 2026-05-07 |
 | reference_environmental-storytelling-generation-zero.md | 2026-05-07 |
 | reference_written-storytelling-techniques-game-design.md | 2026-05-07 |
+| reference_currencies-game-economy-loops.md | 2026-05-07 |
+| reference_game-economy-handbook-150m.md | 2026-05-07 |
+| reference_game-balancing-spread-control.md | 2026-05-07 |
+| reference_gameplay-progression-fundamentals.md | 2026-05-07 |
+| reference_skill-definition-through-mechanics.md | 2026-05-07 |
