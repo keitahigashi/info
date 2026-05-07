@@ -411,3 +411,8 @@
 | reference_loot-tables-arpg-design.md | 2026-05-05 |
 | reference_improving-random-loot-drops.md | 2026-05-05 |
 | reference_shader-programming-guide-2025.md | 2026-05-05 |
+| reference_how-to-write-gdd-2024.md | 2026-05-07 |
+| reference_pool-allocator-design-implementation.md | 2026-05-07 |
+| reference_ui-information-balance-expressiveness.md | 2026-05-07 |
+| reference_reduce-visual-confusion-game.md | 2026-05-07 |
+| reference_creativity-deadlines-game-development.md | 2026-05-07 |
