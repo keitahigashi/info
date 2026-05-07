@@ -84,4 +84,9 @@
 | [japanese-078](../fables/japanese/japanese-078-the-monkeys-liver.md) | 猿の生き肝 | 機転と知恵で危機を乗り越えることができる。また、謀略に加担した者が余計な口を滑らせれば、その策略は自らに跳ね返る。 |
 | [japanese-079](../fables/japanese/japanese-079-hikoichi-and-the-raccoon-dog.md) | タヌキと彦市 | 権力や悪知恵を持つ相手にも、冷静な観察力と機転で対抗できる。損に見える状況を逆手に取る知恵が、窮地を好機に変える。 |
 | [japanese-080](../fables/japanese/japanese-080-three-wishes.md) | 三つの願い | 財や名誉よりも家族の健康と絆こそが真の幸福である。与えられた恵みに欲をかかず、愛する者の平穏を願う心の豊かさが本当の幸せをもたらす。 |
+| [japanese-081](../fables/japanese/japanese-081-the-water-of-youth.md) | 若返りの水 | 過ぎたるは及ばざるがごとし。欲望に任せて程度を超えると、かえって悪い結果を招く。 |
+| [japanese-082](../fables/japanese/japanese-082-the-sparrow-with-the-broken-hip.md) | 腰折れ雀 | 見返りを求めた偽りの善行は報われず、むしろ災いを招く。純粋な思いやりだけが真の恵みをもたらす。 |
+| [japanese-083](../fables/japanese/japanese-083-shinigami-the-death-god.md) | 死神 | 欲に目がくらんで運命の道理をごまかそうとする者は身を滅ぼす。分を超えた欲と不正への戒め。 |
+| [japanese-084](../fables/japanese/japanese-084-the-grateful-crabs-of-kanimanji.md) | 蟹満寺 | 命を惜しまず生き物を助ける慈悲の善行と真摯な信仰心は、必ず報われる。恩返しと慈悲の連鎖が奇跡を生む。 |
+| [japanese-085](../fables/japanese/japanese-085-blessings-out-demons-in.md) | 福は外・鬼は内 | 世間の常識に流されず弱者への思いやりをもって行動する者には、思わぬ幸運が訪れる。 |
 <!-- 寓話追加時にここへ行を追加 -->
