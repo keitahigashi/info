@@ -280,3 +280,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_anthropic_spacex_gihyo.md | 2026-05-07 |
 | reference_claude_code_limits_spacex_mynavi.md | 2026-05-07 |
 | reference_anthropic_spacex_deal_itmedia.md | 2026-05-07 |
+| reference_code_w_claude_2026_simonwillison.md | 2026-05-07 |
+| reference_code_with_claude_2026_event_qiita_kaikou.md | 2026-05-07 |
+| reference_claude_dreaming_gigazine.md | 2026-05-07 |
+| reference_claude_dreaming_managed_agents_xenospectrum.md | 2026-05-07 |
+| reference_claude_managed_agents_dreaming_technoisy.md | 2026-05-07 |
