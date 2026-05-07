@@ -116,4 +116,10 @@
 | aesop-332 | 老婆と空のワイン壺 | Perry Index #493, パイドロス版（Anus et Amphora）, fablesofaesop.com, en.wikipedia.org | 2026-04-23 |
 | aesop-333 | ハエと荷馬 | Perry Index #498, タウンゼント版, fablesofaesop.com | 2026-04-23 |
 
+| aesop-334 | 猿たちの都市建設 | Perry Index #464, バブリウス『寓話集』, classicaesopica.com | 2026-05-06 |
+| aesop-335 | 羊飼いと肉屋 | Perry Index #465, バブリウス『寓話集』, classicaesopica.com | 2026-05-06 |
+| aesop-336 | 豊かさと貧しさ | Perry Index #466, バブリウス『寓話集』, classicaesopica.com | 2026-05-06 |
+| aesop-337 | サテュロスと火 | Perry Index #467, バブリウス『寓話集』, classicaesopica.com | 2026-05-06 |
+| aesop-338 | 月と母親 | Perry Index #468, バブリウス『寓話集』, fablesofaesop.com, classicaesopica.com | 2026-05-06 |
+
 <!-- 出典追加時にここへ行を追加 -->
