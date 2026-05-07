@@ -91,4 +91,10 @@
 | grimm-084 | 牧童 | grimmstories.com/ja/grimm_dowa/bokudo, grimmdowaclub.net/khm152/, KHM152 | 2026-04-25 |
 | grimm-085 | 太鼓たたき | grimmstories.com/ja/grimm_dowa/taiko_tataki, de.wikipedia.org/wiki/Der_Trommler, KHM193 | 2026-04-25 |
 
+| grimm-086 | なぞなぞ | sites.pitt.edu/~dash/grimm022.html, furansugonosekai.com/the-riddle/, KHM22 | 2026-05-07 |
+| grimm-087 | 強盗のおむこさん | sites.pitt.edu/~dash/grimm040.html, grimmdowaclub.net/khm040/, KHM40 | 2026-05-07 |
+| grimm-088 | フィッチャーの鳥 | sites.pitt.edu/~dash/grimm046.html, grimmstories.com/ja/grimm_dowa/fitcha_no_tori, KHM46 | 2026-05-07 |
+| grimm-089 | ねずの木の話 | grimmdowaclub.net/khm047/, grimmstories.com/ja/grimm_dowa/nezu_no_ki_no_hanashi, KHM47 | 2026-05-07 |
+| grimm-090 | 千匹皮 | sites.pitt.edu/~dash/grimm065.html, grimmdowaclub.net/khm065/, KHM65 | 2026-05-07 |
+
 <!-- 出典追加時にここへ行を追加 -->

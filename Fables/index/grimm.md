@@ -1,4 +1,4 @@
-# グリム童話（85話）
+# グリム童話（90話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -89,4 +89,9 @@
 | [grimm-083](../fables/grimm/grimm-083-the-turnip.md) | かぶ | 真の贈り物は見返りを求めない心から生まれ、打算的な施しは虚しい結果を招く |
 | [grimm-084](../fables/grimm/grimm-084-the-shepherd-boy.md) | 牧童 | 知恵とは答えを知ることではなく、問いの本質を見抜いて機転を利かせる能力にある |
 | [grimm-085](../fables/grimm/grimm-085-the-drummer.md) | 太鼓たたき | 愛する者への誓いは忘却や誘惑に負けてはならず、記憶を取り戻した者だけが真の幸福を得る |
+| [grimm-086](../fables/grimm/grimm-086-the-riddle.md) | なぞなぞ | 知恵を不正に用いた者は、かえってその不正によって破滅を招く |
+| [grimm-087](../fables/grimm/grimm-087-the-robber-bridegroom.md) | 強盗のおむこさん | 悪事はいつか必ず明るみに出る。表面上の豊かさに惑わされず内なる直感を信じるべき |
+| [grimm-088](../fables/grimm/grimm-088-fitchers-bird.md) | フィッチャーの鳥 | 禁じられた誘惑に打ち勝つ自制と機知こそが生存と正義をもたらす |
+| [grimm-089](../fables/grimm/grimm-089-the-juniper-tree.md) | ねずの木の話 | 無実の者の魂は必ず真実を訴え、悪行者は相応の報いを受ける。正義の後には命の回復がある |
+| [grimm-090](../fables/grimm/grimm-090-all-kinds-of-fur.md) | 千匹皮 | どんな窮地でも知恵と忍耐で自らの運命を切り開ける。真の価値は外見の貧しさに隠れていても必ず見出される |
 <!-- 寓話追加時にここへ行を追加 -->
