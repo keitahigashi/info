@@ -93,4 +93,10 @@
 | chinese-085 | 木鶏 | kotobank.jp（木鶏）、kanbun.info（木鶏とは） | 2026-04-26 |
 | chinese-086 | 屠竜の技 | proverb-encyclopedia.com（屠竜の技）、kotobank.jp（屠竜之技） | 2026-04-26 |
 
+| chinese-087 | 毛遂自薦 | kotowaza-dictionary.jp, ja.wiktionary.org | 2026-05-07 |
+| chinese-088 | 破釜沈舟 | jp.wanokokorosoh.com, dqff.sakura.ne.jp | 2026-05-07 |
+| chinese-089 | 九牛一毛 | kotobank.jp, idiom-encyclopedia.com | 2026-05-07 |
+| chinese-090 | 鼎の軽重を問う | kotobank.jp, ja.wikipedia.org（九鼎） | 2026-05-07 |
+| chinese-091 | 韋編三絶 | kotobank.jp, idiom-encyclopedia.com | 2026-05-07 |
+
 <!-- 出典追加時にここへ行を追加 -->
