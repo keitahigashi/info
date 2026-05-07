@@ -9,9 +9,9 @@
 | イソップ寓話 | 336 | [出典を見る](references/aesop.md) |
 | 日本昔話 | 85 | [出典を見る](references/japanese.md) |
 | 中国故事 | 86 | [出典を見る](references/chinese.md) |
-| グリム童話 | 85 | [出典を見る](references/grimm.md) |
+| グリム童話 | 90 | [出典を見る](references/grimm.md) |
 | アンデルセン童話 | 85 | [出典を見る](references/andersen.md) |
 | インド寓話 | 99 | [出典を見る](references/indian.md) |
 | アフリカ民話 | 90 | [出典を見る](references/african.md) |
 | その他 | 87 | [出典を見る](references/other.md) |
-| **合計** | **953** | |
+| **合計** | **958** | |
