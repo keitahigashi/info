@@ -1,4 +1,4 @@
-# 中国故事（86話）
+# 中国故事（91話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -90,4 +90,9 @@
 | [chinese-084](../fables/chinese/chinese-084-touching-the-dragons-reverse-scale.md) | 逆鱗に触れる | 権力者には触れてはならない感情的な禁忌があり、いかに正論であってもその一線を踏み越えれば身を滅ぼす |
 | [chinese-085](../fables/chinese/chinese-085-the-wooden-rooster.md) | 木鶏 | 真の強さとは外見の威勢や激しい闘争心にあるのではなく、いかなる刺激にも動じない泰然自若とした内なる充実にある |
 | [chinese-086](../fables/chinese/chinese-086-skill-of-slaying-dragons.md) | 屠竜の技 | どれほど高度な技術や学問であっても現実に活用できなければ何の価値もなく、実用性のない知識の習得に資源を費やすことの愚かさを戒める |
+| [chinese-087](../fables/chinese/chinese-087-mao-sui-recommends-himself.md) | 毛遂自薦 | 真に実力のある者は自ら進んで名乗り出る勇気を持つべきである |
+| [chinese-088](../fables/chinese/chinese-088-smash-the-cauldrons-sink-the-boats.md) | 破釜沈舟 | 退路を断ち死を覚悟することで、人は本来の力を超えた力を発揮できる |
+| [chinese-089](../fables/chinese/chinese-089-a-single-hair-from-nine-oxen.md) | 九牛一毛 | どれほど広大な全体の中でも、ごく小さな一部の損失は全体に影響を与えない |
+| [chinese-090](../fables/chinese/chinese-090-questioning-the-weight-of-the-cauldron.md) | 鼎の軽重を問う | 真の権威は武力ではなく徳によって成り立ち、力だけで権威に挑む者は正当性を得られない |
+| [chinese-091](../fables/chinese/chinese-091-leather-binding-broke-three-times.md) | 韋編三絶 | 真の学びは飽くことなき反復と努力によってのみ達成され、深い理解に近道はない |
 <!-- 寓話追加時にここへ行を追加 -->
