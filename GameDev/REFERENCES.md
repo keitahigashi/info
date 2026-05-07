@@ -416,3 +416,8 @@
 | reference_ui-information-balance-expressiveness.md | 2026-05-07 |
 | reference_reduce-visual-confusion-game.md | 2026-05-07 |
 | reference_creativity-deadlines-game-development.md | 2026-05-07 |
+| reference_mental-models-in-games-part1.md | 2026-05-07 |
+| reference_chemistry-of-game-design.md | 2026-05-07 |
+| reference_platformer-leveldesign-workflow-bighops.md | 2026-05-07 |
+| reference_environmental-storytelling-generation-zero.md | 2026-05-07 |
+| reference_written-storytelling-techniques-game-design.md | 2026-05-07 |
