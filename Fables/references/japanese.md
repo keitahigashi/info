@@ -85,5 +85,10 @@
 | japanese-078 | 猿の生き肝 | ja.wikipedia.org（猿の生肝）, minwanoheya.jp, kotobank.jp, 『今昔物語集』巻5（平安末〜鎌倉初期） | 2026-04-24 |
 | japanese-079 | タヌキと彦市 | ja.wikipedia.org（彦一）, folktalesjpn.com, 偕成社文庫『彦一とんちばなし』, まんが日本昔ばなし（1976年） | 2026-04-24 |
 | japanese-080 | 三つの願い | nihon.syoukoukai.com（まんが日本昔ばなしDB）, まんが日本昔ばなし第505回（1985年） | 2026-04-24 |
+| japanese-081 | 若返りの水 | folktalesjpn.com/folktale/0080/, arasuji-m.com/wakagaeri/ | 2026-05-07 |
+| japanese-082 | 腰折れ雀 | kanbenosato.com/minwa/298/, minwanoheya.jp/area/gifu_002/ | 2026-05-07 |
+| japanese-083 | 死神 | yose-navi.com/shinigami/, rakugo.xyz/koten-rakugo-vol-8/ | 2026-05-07 |
+| japanese-084 | 蟹満寺 | minamiyamashiro-koji.jp/jp/kanimanji/, ja.wikipedia.org/wiki/蟹満寺 | 2026-05-07 |
+| japanese-085 | 福は外・鬼は内 | minwanoheya.jp/area/yamagata_052/ | 2026-05-07 |
 
 <!-- 出典追加時にここへ行を追加 -->
