@@ -106,4 +106,10 @@
 | indian-098 | 賢い山羊とオオカミ | etc.usf.edu/lit2go | 2026-05-03 |
 | indian-099 | 狐と暴君の象 | mocomi.com, パンチャタントラ | 2026-05-03 |
 
+| indian-100 | ロバには脳がない | culturalindia.net/indian-folktales/panchatantra-tales/ass-has-no-brains.html | 2026-05-08 |
+| indian-101 | 小鳥の復讐 | thejatakatales.com/latukika-jataka/ | 2026-05-08 |
+| indian-102 | 毒の苗木 | thejatakatales.com/ekapanna-jataka-149/ | 2026-05-08 |
+| indian-103 | 徳を試した僧正 | thejatakatales.com/silavimamsa-jataka-330/ | 2026-05-08 |
+| indian-104 | 大賢者ジャッカルの策 | talesofpanchatantra.com/the-jackals-strategy | 2026-05-08 |
+
 <!-- 出典追加時にここへ行を追加 -->
