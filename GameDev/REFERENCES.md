@@ -426,3 +426,8 @@
 | reference_game-balancing-spread-control.md | 2026-05-07 |
 | reference_gameplay-progression-fundamentals.md | 2026-05-07 |
 | reference_skill-definition-through-mechanics.md | 2026-05-07 |
+| reference_vr-hand-tracking-interaction-design.md | 2026-05-08 |
+| reference_vr-design-principles.md | 2026-05-08 |
+| reference_gpu-performance-for-artists.md | 2026-05-08 |
+| reference_game-design-ethics-playing-with-fire.md | 2026-05-08 |
+| reference_metrics-driven-design-ethics.md | 2026-05-08 |
