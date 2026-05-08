@@ -285,3 +285,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_dreaming_gigazine.md | 2026-05-07 |
 | reference_claude_dreaming_managed_agents_xenospectrum.md | 2026-05-07 |
 | reference_claude_managed_agents_dreaming_technoisy.md | 2026-05-07 |
+| reference_mozilla_mythos_firefox_hacks.md | 2026-05-08 |
+| reference_context_suicide_6patterns_qiita.md | 2026-05-08 |
+| reference_cursor_to_claude_code_migration_mintototo1.md | 2026-05-08 |
+| reference_claude_sonnet_48_aique.md | 2026-05-08 |
+| reference_mozilla_firefox_423_vulns_cysecnews.md | 2026-05-08 |
