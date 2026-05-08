@@ -1,4 +1,4 @@
-# インド寓話（99話）
+# インド寓話（104話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -103,4 +103,9 @@
 | [indian-097](../fables/indian/indian-097-the-hawks-and-their-friends.md) | 鷹一家と友人たち | 友情の真価は危機の時にこそ現れ、それぞれ異なる力を持つ友との絆が最大の守りとなる |
 | [indian-098](../fables/indian/indian-098-the-wise-goat-and-the-wolf.md) | 賢い山羊とオオカミ | 知恵と冷静な判断は体の力に勝る。危機の際にパニックにならず頭脳で対処することが身を守る |
 | [indian-099](../fables/indian/indian-099-the-fox-and-the-elephant.md) | 狐と暴君の象 | 暴力による支配は知恵によって打ち倒される。弱い者でも知恵を使えば強大な圧制者に勝てる |
+| [indian-100](../fables/indian/indian-100-the-ass-with-no-brains.md) | ロバには脳がない | 甘い言葉と見せかけの約束に乗せられ、同じ罠に二度落ちる者は自業自得である |
+| [indian-101](../fables/indian/indian-101-the-little-bird-and-the-rogue-elephant.md) | 小鳥の復讐 | 肉体の強さより精神の強さが勝る。仲間と力を合わせれば、弱者でも強大な悪を打ち倒せる |
+| [indian-102](../fables/indian/indian-102-the-poisonous-sapling.md) | 毒の苗木 | 悪い性質は小さいうちに矯正せよ。毒の木も苗木のうちに引き抜けば害は少ないが、育ち切れば手がつけられなくなる |
+| [indian-103](../fables/indian/indian-103-testing-ones-own-virtue.md) | 徳を試した僧正 | 真の名誉は血筋や家柄ではなく、徳と行いによって得られる。欲望を手放すことで、真の安らぎが訪れる |
+| [indian-104](../fables/indian/indian-104-the-jackal-mahachaturaka.md) | 大賢者ジャッカルの策 | 強者には頭を下げ、弱者には機略を使い、同等の者とは正面から渡り合え。状況を見極めた柔軟な対応が生き抜く知恵である |
 <!-- 寓話追加時にここへ行を追加 -->
