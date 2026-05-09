@@ -290,3 +290,6 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_cursor_to_claude_code_migration_mintototo1.md | 2026-05-08 |
 | reference_claude_sonnet_48_aique.md | 2026-05-08 |
 | reference_mozilla_firefox_423_vulns_cysecnews.md | 2026-05-08 |
+| reference_claude_microsoft365_pcwatch.md | 2026-05-09 |
+| reference_adobe_cx_enterprise_mcp_uravation.md | 2026-05-09 |
+| reference_claude_managed_agents_dreaming_outcomes_bizdotit.md | 2026-05-09 |
