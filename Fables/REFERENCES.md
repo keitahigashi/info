@@ -12,6 +12,6 @@
 | グリム童話 | 90 | [出典を見る](references/grimm.md) |
 | アンデルセン童話 | 85 | [出典を見る](references/andersen.md) |
 | インド寓話 | 104 | [出典を見る](references/indian.md) |
-| アフリカ民話 | 90 | [出典を見る](references/african.md) |
+| アフリカ民話 | 95 | [出典を見る](references/african.md) |
 | その他 | 87 | [出典を見る](references/other.md) |
-| **合計** | **968** | |
+| **合計** | **973** | |

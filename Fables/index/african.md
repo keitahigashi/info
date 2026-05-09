@@ -1,4 +1,4 @@
-# アフリカ民話（90話）
+# アフリカ民話（95話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -94,4 +94,9 @@
 | [african-088](../fables/african/african-088-adzanumee-and-her-mother.md) | 芋の娘アジャヌミー | 一度交わした約束はたとえ一瞬の言葉であっても破ってはならない。不用意な言葉が大切な存在を永遠に失わせる |
 | [african-089](../fables/african/african-089-why-white-ants-always-harm-mans-property.md) | シロアリがいつも人の財産を害する理由 | 他者の善意を利用して嘘をつく者は、より広い不幸の連鎖を引き起こす。罪のない者が巻き込まれて受けた怒りは、人類全体への害として続いていく |
 | [african-090](../fables/african/african-090-the-animals-dam.md) | 動物たちのダム | 共同の労働を拒否して利益だけを享受しようとする者は、いつか必ず報いを受ける。怠惰と欲張りは必ず露見する |
+| [african-091](../fables/african/african-091-unanana-and-the-elephant.md) | ウナナナと象 | 母親の勇気と知恵、そして他者への思いやりは、どんな困難をも乗り越える力を持つ |
+| [african-092](../fables/african/african-092-why-the-flies-bother-the-cows.md) | なぜハエは牛にまとわりつくのか | どんなに小さく見える者であっても無視し軽んじれば、必ず報いを受けることになる |
+| [african-093](../fables/african/african-093-how-the-crocodile-got-its-skin.md) | ワニの肌が荒れた理由 | 傲慢と虚栄心は、自分が最も誇りにしているものをも滅ぼす |
+| [african-094](../fables/african/african-094-why-the-hippo-lives-in-water.md) | なぜカバは水の中に住むのか | 約束は必ず守らなければならない――誠実さこそが信頼と共存の基盤となる |
+| [african-095](../fables/african/african-095-the-orphan-boy-and-the-magic-stone.md) | 孤児の少年と魔法の石 | 富を誇示してはならない――羨望と強欲はつねに隣り合わせにある |
 <!-- 寓話追加時にここへ行を追加 -->

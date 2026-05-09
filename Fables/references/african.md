@@ -103,4 +103,9 @@
 | african-088 | 芋の娘アジャヌミー | gutenberg.org/files/66923, afrolegends.com (Barker『West African Folk-Tales』1917) | 2026-05-03 |
 | african-089 | シロアリがいつも人の財産を害する理由 | gutenberg.org/files/66923, heritage-history.com (Barker『West African Folk-Tales』1917) | 2026-05-03 |
 | african-090 | 動物たちのダム | worldoftales.com/African_folktales/African_Folktale_20.html, gutenberg.org (Honey 1910, Metelerkamp 1914) | 2026-05-03 |
+| african-091 | ウナナナと象 | storylibrary.org, backyardzoologist.wordpress.com, Kathleen Arnott『African Myths and Legends』(1962) | 2026-05-09 |
+| african-092 | なぜハエは牛にまとわりつくのか | worldoftales.com/African_folktales/Nigerian_folktale_17.html, sacred-texts.com/afr/fssn/fsn19.htm (Dayrell 1910) | 2026-05-09 |
+| african-093 | ワニの肌が荒れた理由 | gateway-africa.com/stories/How_the_Crocodile_Got_Its_Skin.html, afrolegends.com (ナミビア口承) | 2026-05-09 |
+| african-094 | なぜカバは水の中に住むのか | artsandculture.google.com (Project FUEL), subsaharanstories.com (マサイ族口承) | 2026-05-09 |
+| african-095 | 孤児の少年と魔法の石 | worldoftales.com/African_folktales/Nigerian_folktale_33.html, sacred-texts.com/afr/fssn/fsn35.htm (Dayrell 1910) | 2026-05-09 |
 <!-- 出典追加時にここへ行を追加 -->
