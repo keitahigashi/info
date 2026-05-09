@@ -431,3 +431,8 @@
 | reference_gpu-performance-for-artists.md | 2026-05-08 |
 | reference_game-design-ethics-playing-with-fire.md | 2026-05-08 |
 | reference_metrics-driven-design-ethics.md | 2026-05-08 |
+| reference_metrics-of-space-tactical-ld.md | 2026-05-09 |
+| reference_custom-game-engines-2024.md | 2026-05-09 |
+| reference_architect-level-design-preproduction.md | 2026-05-09 |
+| reference_critical-stage-analysis.md | 2026-05-09 |
+| reference_poor-leadership-game-dev.md | 2026-05-09 |
