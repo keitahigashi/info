@@ -92,4 +92,9 @@
 | andersen-083 | ホルガー・ダンスケ | andersen.sdu.dk/vaerk/hersholt/HolgerDanske_e.html, andersenstories.com/en/andersen_fairy-tales/holger_danske, アンデルセン(1845) | 2026-05-04 |
 | andersen-084 | ろうそく | andersen.sdu.dk/vaerk/hersholt/TheCandles_e.html, childstories.org/en/the-candles-2031.html, アンデルセン(1870) | 2026-05-04 |
 | andersen-085 | 沼の王の娘 | andersen.sdu.dk/vaerk/hersholt/TheMarshKingsDaughter_e.html, fairytalez.com/the-marsh-kings-daughter/, アンデルセン(1858) | 2026-05-04 |
+| andersen-086 | アンネ・リスベット | andersenstories.com/en/andersen_fairy-tales/anne_lisbeth, fairytalez.com/anne-lisbeth/ | 2026-05-10 |
+| andersen-087 | おばあさん | andersen.sdu.dk/vaerk/hersholt/Grandmother_e.html, andersenstories.com/en/andersen_fairy-tales/grandmother | 2026-05-10 |
+| andersen-088 | 農場の雄鶏と風見鶏 | andersenstories.com/en/andersen_fairy-tales/the_farm-yard_cock_and_the_weather-cock, hca.gilead.org.il/cock.html | 2026-05-10 |
+| andersen-089 | 門番の息子 | andersen.sdu.dk/vaerk/hersholt/ThePortersSon_e.html, andersenstories.com/en/andersen_fairy-tales/the_porters_son | 2026-05-10 |
+| andersen-090 | 白鳥の巣 | andersen.sdu.dk/vaerk/hersholt/TheSwansNest_e.html, hcandersen-homepage.dk/?page_id=2199 | 2026-05-10 |
 <!-- 出典追加時にここへ行を追加 -->
