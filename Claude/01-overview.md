@@ -215,4 +215,8 @@ AIの競争軸が「モデル性能」から「エージェント実行力」へ
 Claude Code登場（2025年2月）→Opus 4.5で非エンジニアも活用開始→**2026年2月5日のOpus 4.6が決定的転機**。「数時間の自律稼働」「DB設計まで完結」体験談がXで雪崩式に拡散。SemiAnalysis: 「GitHub公開コミットの4%がClaude Code由来、年末に20%超見込み」。普及の公式: 性能向上×体験共有爆発×現実味=臨界点突破。コミュニティへの体験共有（Zenn・Qiita・note）がエコシステム形成に不可欠という示唆。
 > 詳細: references/reference_claude_code_why_exploded_yupy.md を参照
 
+### Claude Sonnet 4.8：流出51万行コードから判明した次世代モデルの全貌（KAIROS・Cardinal・Mythos）（自動収集 2026-05-10）
+2026年3月31日のnpmパッケージ誤配布で約51万行のTypeScriptコードが流出。Sonnet 4.8（Sonnet 4.7は存在せずOpus 4.7の次がSonnet 4.8）の新機能として①KAIROS（バックグラウンド常駐型永続エージェント）②Undercover Mode（API呼び出し時のモデル名マスク）③Cardinal（98.5%視覚精度をSonnetへ移植）④Mythos（Opusを超える最高位モデルの可能性）が確認された。価格はSonnet 4.6と同じ$3/$15据え置き予想。2026年5月「Code with Claude」（SF/London/Tokyo）での公式発表が有力。
+> 詳細: references/reference_claude_sonnet_48_leak_analysis_note.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

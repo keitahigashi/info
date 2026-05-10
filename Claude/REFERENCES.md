@@ -293,3 +293,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_microsoft365_pcwatch.md | 2026-05-09 |
 | reference_adobe_cx_enterprise_mcp_uravation.md | 2026-05-09 |
 | reference_claude_managed_agents_dreaming_outcomes_bizdotit.md | 2026-05-09 |
+| reference_claude_code_may2026_release_notes_pasquale.md | 2026-05-10 |
+| reference_claude_sonnet_48_leak_analysis_note.md | 2026-05-10 |
+| reference_claude_code_plugin_marketplace_internal_hatenabase.md | 2026-05-10 |
+| reference_claude_code_routines_desktop_redesign_uravation.md | 2026-05-10 |
+| reference_claude_m365_excel_ppt_word_madonomori.md | 2026-05-10 |
