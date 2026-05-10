@@ -436,3 +436,8 @@
 | reference_architect-level-design-preproduction.md | 2026-05-09 |
 | reference_critical-stage-analysis.md | 2026-05-09 |
 | reference_poor-leadership-game-dev.md | 2026-05-09 |
+| reference_wayward-strand-simultaneous-storytelling.md | 2026-05-10 |
+| reference_character-design-storytelling-ch5.md | 2026-05-10 |
+| reference_player-character-arcs-branching-narrative.md | 2026-05-10 |
+| reference_dynamic-ui-context-awareness-games.md | 2026-05-10 |
+| reference_player-agency-narrative-design.md | 2026-05-10 |
