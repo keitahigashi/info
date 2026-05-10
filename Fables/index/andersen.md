@@ -89,4 +89,9 @@
 | [andersen-083](../fables/andersen/andersen-083-holger-danske.md) | ホルガー・ダンスケ | 民族の精神と誇りは物語によって世代を超えて受け継がれ、国が本当の危機に直面したとき、その魂は必ず目覚める |
 | [andersen-084](../fables/andersen/andersen-084-the-candles.md) | ろうそく | 人の価値は社会的地位や素材の高貴さによって決まるのではなく、与えられた場所で誠実に輝くことの中にある |
 | [andersen-085](../fables/andersen/andersen-085-the-marsh-kings-daughter.md) | 沼の王の娘 | 生まれや外見が人の価値を決めるのではない。どれほど悪の血を引いていようと、慈悲の心を育てることで人は救われる |
+| [andersen-086](../fables/andersen/andersen-086-anne-lisbeth.md) | アンネ・リスベット | 親としての責任を果たさず我が子を捨てた者は良心の呵責から逃れられず、真の悔恨を経てのみ魂の救済を得られる |
+| [andersen-087](../fables/andersen/andersen-087-grandmother.md) | おばあさん | 愛する者への記憶と想いは永遠に消えることはなく、死は終わりではなく再会への入り口である |
+| [andersen-088](../fables/andersen/andersen-088-the-farm-yard-cock-and-the-weather-cock.md) | 農場の雄鶏と風見鶏 | 高みから世界を見下す傲慢な者は自らの重みで折れるが、地道に自分の役割を果たす誠実な者こそが長く輝き続ける |
+| [andersen-089](../fables/andersen/andersen-089-the-porters-son.md) | 門番の息子 | 才能と誠実な努力は生まれの身分を超え、真の愛と人格はいかなる階級の壁も乗り越えることができる |
+| [andersen-090](../fables/andersen/andersen-090-the-swans-nest.md) | 白鳥の巣 | 小さな国であっても偉大な精神と文化の遺産はそこから世界へ羽ばたき、永遠に輝き続ける |
 <!-- 寓話追加時にここへ行を追加 -->
