@@ -95,4 +95,9 @@
 | other-085 | コティホロシコ——豆から生まれた英雄 | ウクライナ民話 | en.wikipedia.org/wiki/Kotyhoroshko, euromaidanpress.com | 2026-05-05 |
 | other-086 | セルキーの妻 | スコットランド／オークニー諸島民話 | northlinkferries.co.uk/orkney-blog/an-orkney-folk-tale-the-selkie-wife/, scotlands-stories.com | 2026-05-05 |
 | other-087 | ソンティンとトゥイティン——山の神と水の神 | ベトナム神話（雄王伝説） | en.wikipedia.org/wiki/Sơn_Tinh–Thủy_Tinh, vietnamtourism.org.vn | 2026-05-05 |
+| other-088 | プラスレアと黄金のリンゴ | ルーマニア民話 | en.wikipedia.org/wiki/Prâslea_the_Brave, thereaderwiki.com | 2026-05-11 |
+| other-089 | ヒーローツイン——フナフプとシュバランケー | マヤ神話（ポポル・ヴフ） | mayan.org/gods/hero-twins/, en.wikipedia.org/wiki/Maya_Hero_Twins | 2026-05-11 |
+| other-090 | フェヘールローフィア——白い牝馬の息子 | ハンガリー民話 | europeanfolktales.com/feherlofia, en.wikipedia.org/wiki/Fehérlófia | 2026-05-11 |
+| other-091 | 第五の太陽の伝説——ナナワツィンとテクシステカトル | アステカ神話（フローレンティン写本） | storytellingdb.com/aztec-creation-myth/, tosea.net/the-creation-of-the-sun-and-the-moon/ | 2026-05-11 |
+| other-092 | カエとクジラ・ロンゴポア | トンガ民話（ポリネシア） | en.wikipedia.org/wiki/Kae_and_Longopoa, archive.org/details/tonganmythstales0000giff | 2026-05-11 |
 <!-- 出典追加時にここへ行を追加 -->
