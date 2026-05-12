@@ -441,3 +441,8 @@
 | reference_player-character-arcs-branching-narrative.md | 2026-05-10 |
 | reference_dynamic-ui-context-awareness-games.md | 2026-05-10 |
 | reference_player-agency-narrative-design.md | 2026-05-10 |
+| reference_balance-3-key-factors.md | 2026-05-12 |
+| reference_fail-states-balance-design.md | 2026-05-12 |
+| reference_procedural-world-generation-3approaches.md | 2026-05-12 |
+| reference_how-we-design-games-now-and-why.md | 2026-05-12 |
+| reference_fundamentals-game-progression.md | 2026-05-12 |
