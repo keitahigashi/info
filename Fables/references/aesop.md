@@ -122,4 +122,10 @@
 | aesop-337 | サテュロスと火 | Perry Index #467, バブリウス『寓話集』, classicaesopica.com | 2026-05-06 |
 | aesop-338 | 月と母親 | Perry Index #468, バブリウス『寓話集』, fablesofaesop.com, classicaesopica.com | 2026-05-06 |
 
+| aesop-339 | ライオンと牛と角 | Perry Index #469, バブリウス『寓話集』, mythfolklore.net/aesopica/perry/469.htm | 2026-05-12 |
+| aesop-340 | シラミと農夫 | Perry Index #471, バブリウス『寓話集』Babrius LXXXVI, elfinspell.com | 2026-05-12 |
+| aesop-341 | 虚栄のカラスと孔雀 | Perry Index #472, パイドロス版, バブリウス版, fablesofaesop.com, read.gov | 2026-05-12 |
+| aesop-342 | 犬と羊とオオカミ | Perry Index #478, タウンゼント版, fablesofaesop.com/dog-sheep-wolf.html | 2026-05-12 |
+| aesop-343 | 雄牛とライオンと強盗 | Perry Index #487, タウンゼント版, fablesofaesop.com/generous-lion.html | 2026-05-12 |
+
 <!-- 出典追加時にここへ行を追加 -->

@@ -1,4 +1,4 @@
-# イソップ寓話（336話）
+# イソップ寓話（341話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -340,4 +340,9 @@
 | [aesop-336](../fables/aesop/aesop-336-plenty-and-poverty.md) | 豊かさと貧しさ | 愛と欲望は満ち足りることと欠乏することの間から生まれ、常に求め続ける |
 | [aesop-337](../fables/aesop/aesop-337-the-satyr-and-fire.md) | サテュロスと火 | 美しく魅力的なものも、近づきすぎれば命を奪う——遠くから賛嘆すべきものがある |
 | [aesop-338](../fables/aesop/aesop-338-the-moon-and-her-mother.md) | 月と母親 | 常に変わり続ける者を満足させることは誰にもできない |
+| [aesop-339](../fables/aesop/aesop-339-the-lion-the-bull-and-his-horns.md) | ライオンと牛と角 | 巧みに偽装された罠も、賢い者は証拠から危険を察知して難を逃れる |
+| [aesop-340](../fables/aesop/aesop-340-the-lice-and-the-farmer.md) | シラミと農夫 | 小さな苦しみに怒りに任せて対処すると、問題よりもずっと大きな損失を招く |
+| [aesop-341](../fables/aesop/aesop-341-the-vainglorious-jackdaw-and-the-peacock.md) | 虚栄のカラスと孔雀 | 借り物の飾りで身を飾り高みを目指しても、正体が露見すれば両側から排除される |
+| [aesop-342](../fables/aesop/aesop-342-the-dog-the-sheep-and-the-wolf.md) | 犬と羊とオオカミ | 偽りの証言と腐敗した裁きは無実の者を苦しめるが、天の正義は必ず裏切り者に報いる |
+| [aesop-343](../fables/aesop/aesop-343-the-bullock-the-lion-and-the-robber.md) | 雄牛とライオンと強盗 | 傲慢な要求は報いられず、謙虚な振る舞いこそが強者の寛大さを引き出す |
 <!-- 寓話追加時にここへ行を追加 -->
