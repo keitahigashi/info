@@ -298,3 +298,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_plugin_marketplace_internal_hatenabase.md | 2026-05-10 |
 | reference_claude_code_routines_desktop_redesign_uravation.md | 2026-05-10 |
 | reference_claude_m365_excel_ppt_word_madonomori.md | 2026-05-10 |
+| reference_claude_code_agent_view_official.md | 2026-05-12 |
+| reference_claude_code_agent_view_note_tothinks.md | 2026-05-12 |
+| reference_claude_platform_on_aws_crenavi.md | 2026-05-12 |
+| reference_claude_code_agent_view_aws_gigazine.md | 2026-05-12 |
+| reference_weekly_ai_news_may4_11_chaen.md | 2026-05-12 |
