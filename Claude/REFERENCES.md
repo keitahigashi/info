@@ -303,3 +303,7 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_platform_on_aws_crenavi.md | 2026-05-12 |
 | reference_claude_code_agent_view_aws_gigazine.md | 2026-05-12 |
 | reference_weekly_ai_news_may4_11_chaen.md | 2026-05-12 |
+| reference_designer_claude_code_shortcuts_may2026.md | 2026-05-13 |
+| reference_claude_for_legal_ai_revolution.md | 2026-05-13 |
+| reference_claude_canva_mcp_automation.md | 2026-05-13 |
+| reference_claude_m365_ga_ledge_ai.md | 2026-05-13 |
