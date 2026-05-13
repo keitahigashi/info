@@ -1,4 +1,4 @@
-# 日本昔話（80話）
+# 日本昔話（90話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -89,4 +89,9 @@
 | [japanese-083](../fables/japanese/japanese-083-shinigami-the-death-god.md) | 死神 | 欲に目がくらんで運命の道理をごまかそうとする者は身を滅ぼす。分を超えた欲と不正への戒め。 |
 | [japanese-084](../fables/japanese/japanese-084-the-grateful-crabs-of-kanimanji.md) | 蟹満寺 | 命を惜しまず生き物を助ける慈悲の善行と真摯な信仰心は、必ず報われる。恩返しと慈悲の連鎖が奇跡を生む。 |
 | [japanese-085](../fables/japanese/japanese-085-blessings-out-demons-in.md) | 福は外・鬼は内 | 世間の常識に流されず弱者への思いやりをもって行動する者には、思わぬ幸運が訪れる。 |
+| [japanese-086](../fables/japanese/japanese-086-shibararejizo.md) | しばられ地蔵 | 権威者の誤った判断が無実の者に及ぶ不条理を風刺し、真相は必ず明らかになるという信念を示す。 |
+| [japanese-087](../fables/japanese/japanese-087-nezumi-no-sumo.md) | ねずみのすもう | 見返りを求めず弱い者へ手を差し伸べる思いやりは、やがて思わぬ形で幸福となって返ってくる。 |
+| [japanese-088](../fables/japanese/japanese-088-neko-danka.md) | 猫檀家 | 動物への慈悲と誠実な思いやりは必ず恩返しとして実を結ぶ。 |
+| [japanese-089](../fables/japanese/japanese-089-ashinaga-tenaga.md) | 足長手長 | 力に力で立ち向かわず、知恵と信仰心をもって対処すれば、どんな強大な脅威も退けられる。 |
+| [japanese-090](../fables/japanese/japanese-090-imohori-choja.md) | 芋ほり長者 | 欲を持たず他者へ惜しみなく与える心こそが真の豊かさであり、そのような人のもとにこそ幸運は訪れる。 |
 <!-- 寓話追加時にここへ行を追加 -->
