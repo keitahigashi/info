@@ -446,3 +446,8 @@
 | reference_procedural-world-generation-3approaches.md | 2026-05-12 |
 | reference_how-we-design-games-now-and-why.md | 2026-05-12 |
 | reference_fundamentals-game-progression.md | 2026-05-12 |
+| reference_ten-principles-level-design-part1.md | 2026-05-13 |
+| reference_ten-principles-level-design-part2.md | 2026-05-13 |
+| reference_game-outcomes-project-part3.md | 2026-05-13 |
+| reference_producers-vs-designers-impact.md | 2026-05-13 |
+| reference_critique-mvc-mvvm-game-development.md | 2026-05-13 |
