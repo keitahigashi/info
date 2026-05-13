@@ -91,4 +91,9 @@
 | japanese-084 | 蟹満寺 | minamiyamashiro-koji.jp/jp/kanimanji/, ja.wikipedia.org/wiki/蟹満寺 | 2026-05-07 |
 | japanese-085 | 福は外・鬼は内 | minwanoheya.jp/area/yamagata_052/ | 2026-05-07 |
 
+| japanese-086 | しばられ地蔵 | arasuji-m.com/shibararejizo/, 業平山南蔵院（東京都葛飾区）伝承 | 2026-05-13 |
+| japanese-087 | ねずみのすもう | arasuji-m.com/nezuminosumo/ | 2026-05-13 |
+| japanese-088 | 猫檀家 | folktalesjpn.com/folktale/0094/, 佐々木喜善『聴耳草紙』 | 2026-05-13 |
+| japanese-089 | 足長手長 | arasuji-m.com/ashinagatenaga/, 磐梯山伝承（福島県） | 2026-05-13 |
+| japanese-090 | 芋ほり長者 | folktalesjpn.com/folktale/0134/, 『石川県の民話』（偕成社） | 2026-05-13 |
 <!-- 出典追加時にここへ行を追加 -->
