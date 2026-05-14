@@ -1,4 +1,4 @@
-# グリム童話（90話）
+# グリム童話（95話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -94,4 +94,9 @@
 | [grimm-088](../fables/grimm/grimm-088-fitchers-bird.md) | フィッチャーの鳥 | 禁じられた誘惑に打ち勝つ自制と機知こそが生存と正義をもたらす |
 | [grimm-089](../fables/grimm/grimm-089-the-juniper-tree.md) | ねずの木の話 | 無実の者の魂は必ず真実を訴え、悪行者は相応の報いを受ける。正義の後には命の回復がある |
 | [grimm-090](../fables/grimm/grimm-090-all-kinds-of-fur.md) | 千匹皮 | どんな窮地でも知恵と忍耐で自らの運命を切り開ける。真の価値は外見の貧しさに隠れていても必ず見出される |
+| [grimm-091](../fables/grimm/grimm-091-the-good-bargain.md) | うまい商売 | 世間知らずの純朴な者でも、思いがけない幸運に恵まれることがある |
+| [grimm-092](../fables/grimm/grimm-092-the-twelve-huntsmen.md) | 十二人の狩人 | 真実の愛は変装や障害に屈せず、誠実な心と機知によって守られ最終的に報われる |
+| [grimm-093](../fables/grimm/grimm-093-the-glass-coffin.md) | ガラスの棺 | 身分の低い者でも勇気と誠実さを持って行動すれば大きな幸運と報いを得られる |
+| [grimm-094](../fables/grimm/grimm-094-lazy-heinz.md) | ものぐさハインツ | 怠惰と安易な計画は何も生み出さず、楽をしようとするたびに状況が悪化する |
+| [grimm-095](../fables/grimm/grimm-095-the-moon.md) | 月 | 共同体の恵みを私物化して持ち去ることは生者と死者の世界の秩序を乱す |
 <!-- 寓話追加時にここへ行を追加 -->
