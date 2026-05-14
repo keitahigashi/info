@@ -451,3 +451,8 @@
 | reference_game-outcomes-project-part3.md | 2026-05-13 |
 | reference_producers-vs-designers-impact.md | 2026-05-13 |
 | reference_critique-mvc-mvvm-game-development.md | 2026-05-13 |
+| reference_narrative-design-myths-lore.md | 2026-05-14 |
+| reference_worldbuilding-authentic-crafting.md | 2026-05-14 |
+| reference_story-bible-game.md | 2026-05-14 |
+| reference_hud-immersion-hide-numbers.md | 2026-05-14 |
+| reference_80-days-narrative-design.md | 2026-05-14 |
