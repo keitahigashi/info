@@ -307,3 +307,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_for_legal_ai_revolution.md | 2026-05-13 |
 | reference_claude_canva_mcp_automation.md | 2026-05-13 |
 | reference_claude_m365_ga_ledge_ai.md | 2026-05-13 |
+| reference_claude_agent_sdk_credit_gihyo.md | 2026-05-14 |
+| reference_claude_code_weekly_limit_50pct_jinrai.md | 2026-05-14 |
+| reference_claude_small_business_9to5mac.md | 2026-05-14 |
+| reference_claude_third_party_reinstate_itmedia.md | 2026-05-14 |
+| reference_claude_subscrip_restructure_technoedge.md | 2026-05-14 |
