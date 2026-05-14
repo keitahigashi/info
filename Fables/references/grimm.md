@@ -1,4 +1,4 @@
-# グリム童話 — 出典一覧
+# グリム童話 — 出典一覧（95話）
 
 [< 出典一覧に戻る](../REFERENCES.md)
 
@@ -97,4 +97,9 @@
 | grimm-089 | ねずの木の話 | grimmdowaclub.net/khm047/, grimmstories.com/ja/grimm_dowa/nezu_no_ki_no_hanashi, KHM47 | 2026-05-07 |
 | grimm-090 | 千匹皮 | sites.pitt.edu/~dash/grimm065.html, grimmdowaclub.net/khm065/, KHM65 | 2026-05-07 |
 
+| grimm-091 | うまい商売 | grimmstories.com/language.php?grimm=007&l=ja, childstories.org/ja/the-good-bargain-1844.html, KHM7 | 2026-05-14 |
+| grimm-092 | 十二人の狩人 | grimmstories.com/language.php?grimm=067&l=ja, grimmdowaclub.net/khm067, sites.pitt.edu/~dash/grimm067.html, KHM67 | 2026-05-14 |
+| grimm-093 | ガラスの棺 | grimmstories.com/ja/grimm_dowa/garasu_no_hitsugi, grimmdowaclub.net/khm163, KHM163 | 2026-05-14 |
+| grimm-094 | ものぐさハインツ | grimmstories.com/ja/grimm_dowa/monogusa_haintsu, en.wikipedia.org/wiki/Lazy_Henry, KHM164 | 2026-05-14 |
+| grimm-095 | 月 | grimmstories.com/ja/grimm_dowa/tsuki, grimmdowaclub.net/khm175, KHM175 | 2026-05-14 |
 <!-- 出典追加時にここへ行を追加 -->
