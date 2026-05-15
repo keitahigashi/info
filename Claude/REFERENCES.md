@@ -312,3 +312,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_small_business_9to5mac.md | 2026-05-14 |
 | reference_claude_third_party_reinstate_itmedia.md | 2026-05-14 |
 | reference_claude_subscrip_restructure_technoedge.md | 2026-05-14 |
+| reference_tohoho_claude_code_intro_madonomori.md | 2026-05-15 |
+| reference_claude_code_techniques_book_impress_2026.md | 2026-05-15 |
+| reference_claude_code_may_updates_async_http_hooks_qiita.md | 2026-05-15 |
+| reference_claude_md_agents_md_5lines_template_ennagara.md | 2026-05-15 |
+| reference_claude_code_planmode_project_vibcode7_madonomori.md | 2026-05-15 |
