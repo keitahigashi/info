@@ -99,4 +99,9 @@
 | chinese-090 | 鼎の軽重を問う | kotobank.jp, ja.wikipedia.org（九鼎） | 2026-05-07 |
 | chinese-091 | 韋編三絶 | kotobank.jp, idiom-encyclopedia.com | 2026-05-07 |
 
+| chinese-092 | 燕雀安んぞ鴻鵠の志を知らんや | kanbun.info/koji/enjaku.html, tanoshi-kobunkanbun.com/enjyaku-goyaku | 2026-05-15 |
+| chinese-093 | 泣いて馬謖を斬る | biz.trans-suite.jp/5856, kotobank.jp | 2026-05-15 |
+| chinese-094 | 白眉 | dqff.sakura.ne.jp/japanese/sentagendai/kabu-2-42.html, sangokushirs.com/articles/733 | 2026-05-15 |
+| chinese-095 | 虎穴に入らずんば虎子を得ず | kotobank.jp, chugokugo-script.net/koji/koketsu-koji.html | 2026-05-15 |
+| chinese-096 | 李下に冠を正さず | ats5396.xsrv.jp/2153-2, proverb-encyclopedia.com/rikanikanmuri | 2026-05-15 |
 <!-- 出典追加時にここへ行を追加 -->

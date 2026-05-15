@@ -95,4 +95,9 @@
 | [chinese-089](../fables/chinese/chinese-089-a-single-hair-from-nine-oxen.md) | 九牛一毛 | どれほど広大な全体の中でも、ごく小さな一部の損失は全体に影響を与えない |
 | [chinese-090](../fables/chinese/chinese-090-questioning-the-weight-of-the-cauldron.md) | 鼎の軽重を問う | 真の権威は武力ではなく徳によって成り立ち、力だけで権威に挑む者は正当性を得られない |
 | [chinese-091](../fables/chinese/chinese-091-leather-binding-broke-three-times.md) | 韋編三絶 | 真の学びは飽くことなき反復と努力によってのみ達成され、深い理解に近道はない |
+| [chinese-092](../fables/chinese/chinese-092-the-ambition-of-the-great-swan.md) | 燕雀安んぞ鴻鵠の志を知らんや | 小さな者には大きな者の志は理解できない。大望を持つ者は周囲の嘲笑にひるまず己の使命を信じ続けるべきである |
+| [chinese-093](../fables/chinese/chinese-093-weeping-to-execute-ma-su.md) | 泣いて馬謖を斬る | 組織の規律を守るためにはどれほど親しい者であっても私情を排して処断しなければならない |
+| [chinese-094](../fables/chinese/chinese-094-the-white-eyebrow.md) | 白眉 | 多くの優れた者の中でもひときわ傑出した存在は、その特質によって自然と周囲から認められる |
+| [chinese-095](../fables/chinese/chinese-095-into-the-tigers-den.md) | 虎穴に入らずんば虎子を得ず | 大きな成果を得るためには相応の危険を冒す勇気が必要であり、安全ばかりを求めていては大きな成功はつかめない |
+| [chinese-096](../fables/chinese/chinese-096-do-not-adjust-your-crown-under-a-plum-tree.md) | 李下に冠を正さず | 実際に悪いことをしていなくても疑われるような行動は慎み、他者からの誤解を招く状況を自ら作らないことが大切である |
 <!-- 寓話追加時にここへ行を追加 -->
