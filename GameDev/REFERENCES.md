@@ -456,3 +456,8 @@
 | reference_story-bible-game.md | 2026-05-14 |
 | reference_hud-immersion-hide-numbers.md | 2026-05-14 |
 | reference_80-days-narrative-design.md | 2026-05-14 |
+| reference_ssm-framework-game-design.md | 2026-05-15 |
+| reference_player-psychology-game-theories.md | 2026-05-15 |
+| reference_deterministic-strategy-cooldown-design.md | 2026-05-15 |
+| reference_data-driven-ai-npc-open-world.md | 2026-05-15 |
+| reference_affordance-natural-mapping-game-ux.md | 2026-05-15 |
