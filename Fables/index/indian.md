@@ -1,4 +1,4 @@
-# インド寓話（104話）
+# インド寓話（109話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -108,4 +108,9 @@
 | [indian-102](../fables/indian/indian-102-the-poisonous-sapling.md) | 毒の苗木 | 悪い性質は小さいうちに矯正せよ。毒の木も苗木のうちに引き抜けば害は少ないが、育ち切れば手がつけられなくなる |
 | [indian-103](../fables/indian/indian-103-testing-ones-own-virtue.md) | 徳を試した僧正 | 真の名誉は血筋や家柄ではなく、徳と行いによって得られる。欲望を手放すことで、真の安らぎが訪れる |
 | [indian-104](../fables/indian/indian-104-the-jackal-mahachaturaka.md) | 大賢者ジャッカルの策 | 強者には頭を下げ、弱者には機略を使い、同等の者とは正面から渡り合え。状況を見極めた柔軟な対応が生き抜く知恵である |
+| [indian-105](../fables/indian/indian-105-grateful-animals-ungrateful-man.md) | 感謝する動物と恩知らずの人間 | 動物は本能的に恩義を知るが、人間は知性を持ちながら恩を忘れ裏切ることがある。恩義こそが人の徳の根本である |
+| [indian-106](../fables/indian/indian-106-the-barber-and-the-monk.md) | 商人と床屋の愚行 | 物事の真相を理解せずに他人の行為をそのまま模倣することは、取り返しのつかない災いを招く |
+| [indian-107](../fables/indian/indian-107-temiya-the-mute-prince.md) | テミヤ王子の出家 | 世俗の権力や快楽を捨て、精神的な道を選ぶ「放棄の徳（出離）」こそが真の自由をもたらす |
+| [indian-108](../fables/indian/indian-108-king-nimi-heaven-and-hell.md) | ニミ王の天国地獄巡り | 善行は天上の報いをもたらし、悪行は地獄の苦しみを招く。徳ある生き方の積み重ねが来世を決める |
+| [indian-109](../fables/indian/indian-109-ghata-jataka-grief-and-acceptance.md) | ガタ王子と嘆きの兄王 | 死者を嘆いても命は戻らない。変えられない現実を受け入れることが、真の智慧である |
 <!-- 寓話追加時にここへ行を追加 -->
