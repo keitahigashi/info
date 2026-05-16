@@ -461,3 +461,8 @@
 | reference_deterministic-strategy-cooldown-design.md | 2026-05-15 |
 | reference_data-driven-ai-npc-open-world.md | 2026-05-15 |
 | reference_affordance-natural-mapping-game-ux.md | 2026-05-15 |
+| reference_combat-encounter-pacing-sequencing.md | 2026-05-16 |
+| reference_environment-layout-difficulty.md | 2026-05-16 |
+| reference_milestones-development-schedule.md | 2026-05-16 |
+| reference_game-tools-usability-pipeline.md | 2026-05-16 |
+| reference_scrum-indie-game-development.md | 2026-05-16 |
