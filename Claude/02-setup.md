@@ -1,5 +1,16 @@
 # 基本設定・構成ファイル
 
+## 目次
+
+- [CLAUDE.md（指示ファイル）](#claudemd指示ファイル)
+- [settings.json（設定ファイル）](#settingsjson設定ファイル)
+- [keybindings.json（キーバインド）](#keybindingsjsonキーバインド)
+- [権限モード](#権限モード)
+- [環境変数](#環境変数)
+- [実践メモ](#実践メモ)
+
+---
+
 ## CLAUDE.md（指示ファイル）
 
 Claudeへの永続的な指示を記述するMarkdownファイル。3段階のスコープがある。
