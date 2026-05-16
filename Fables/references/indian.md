@@ -112,4 +112,10 @@
 | indian-103 | 徳を試した僧正 | thejatakatales.com/silavimamsa-jataka-330/ | 2026-05-08 |
 | indian-104 | 大賢者ジャッカルの策 | talesofpanchatantra.com/the-jackals-strategy | 2026-05-08 |
 
+| indian-105 | 感謝する動物と恩知らずの人間 | renaissance.aurosociety.org, sites.pitt.edu/~dash/type0160.html | 2026-05-16 |
+| indian-106 | 商人と床屋の愚行 | en.wikisource.org（パンチャタントラ第5巻）, talesofpanchatantra.com | 2026-05-16 |
+| indian-107 | テミヤ王子の出家 | thejatakatales.com/muga-pakkha-jataka-538/, sacred-texts.com | 2026-05-16 |
+| indian-108 | ニミ王の天国地獄巡り | thejatakatales.com/nimi-jataka-541/, ancient-buddhist-texts.net | 2026-05-16 |
+| indian-109 | ガタ王子と嘆きの兄王 | thejatakatales.com/ghata-jataka-454/, sacred-texts.com（ジャータカ第454話） | 2026-05-16 |
+
 <!-- 出典追加時にここへ行を追加 -->
