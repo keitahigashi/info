@@ -99,4 +99,9 @@
 | [african-093](../fables/african/african-093-how-the-crocodile-got-its-skin.md) | ワニの肌が荒れた理由 | 傲慢と虚栄心は、自分が最も誇りにしているものをも滅ぼす |
 | [african-094](../fables/african/african-094-why-the-hippo-lives-in-water.md) | なぜカバは水の中に住むのか | 約束は必ず守らなければならない――誠実さこそが信頼と共存の基盤となる |
 | [african-095](../fables/african/african-095-the-orphan-boy-and-the-magic-stone.md) | 孤児の少年と魔法の石 | 富を誇示してはならない――羨望と強欲はつねに隣り合わせにある |
+| [african-096](../fables/african/african-096-the-tortoise-and-the-dove.md) | カメとハトの話 | 自分に有利なだけの規則は不公平を生む――相手の立場に立つ思いやりこそが、真の公平な関係を築く |
+| [african-097](../fables/african/african-097-the-snake-the-farmer-and-the-heron.md) | ヘビと農夫とサギ | 善意はつねに施した者に返るとは限らない――慈悲の行為が予期せぬ悲劇の連鎖を生むこともある |
+| [african-098](../fables/african/african-098-the-leopard-and-the-ram.md) | ヒョウとヒツジ | 誤解と恐怖は最良の友情さえも壊す――確かめる勇気があれば、失わずに済むものがある |
+| [african-099](../fables/african/african-099-nana-miriam.md) | ナナ・ミリアム | 真の力は外見や性別に宿るのではなく、勇気と与えられた使命を信じる心の中にある |
+| [african-100](../fables/african/african-100-wanjiru-the-beauty-of-the-hills.md) | 丘の美女ワンジル | 美しい外見は本性を隠す仮面にすぎない――大切な決断は家族の知恵と守りのもとで行うべきだ |
 <!-- 寓話追加時にここへ行を追加 -->
