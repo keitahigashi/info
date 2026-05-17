@@ -108,4 +108,9 @@
 | african-093 | ワニの肌が荒れた理由 | gateway-africa.com/stories/How_the_Crocodile_Got_Its_Skin.html, afrolegends.com (ナミビア口承) | 2026-05-09 |
 | african-094 | なぜカバは水の中に住むのか | artsandculture.google.com (Project FUEL), subsaharanstories.com (マサイ族口承) | 2026-05-09 |
 | african-095 | 孤児の少年と魔法の石 | worldoftales.com/African_folktales/Nigerian_folktale_33.html, sacred-texts.com/afr/fssn/fsn35.htm (Dayrell 1910) | 2026-05-09 |
+| african-096 | カメとハトの話 | oiroegbu.com/african-folklore/the-tortoise-and-the-dove/, イボ族口承 | 2026-05-17 |
+| african-097 | ヘビと農夫とサギ | wordandsorcery.com/the-snake-the-farmer-and-the-heron-fable/, ハウサ族口承 | 2026-05-17 |
+| african-098 | ヒョウとヒツジ | gutenberg.org/files/66923/66923-h/66923-h.htm, Barker『West African Folk-Tales』(1917) | 2026-05-17 |
+| african-099 | ナナ・ミリアム | Courlander『A Treasury of African Folklore』(1975), ザルマ／ソンガイ族口承 | 2026-05-17 |
+| african-100 | 丘の美女ワンジル | bluegecko.org/kenya/tribes/kikuyu/stories-wanjiru.htm, Mwangi『Kikuyu Folktales』(1970) | 2026-05-17 |
 <!-- 出典追加時にここへ行を追加 -->
