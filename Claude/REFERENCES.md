@@ -317,3 +317,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_may_updates_async_http_hooks_qiita.md | 2026-05-15 |
 | reference_claude_md_agents_md_5lines_template_ennagara.md | 2026-05-15 |
 | reference_claude_code_planmode_project_vibcode7_madonomori.md | 2026-05-15 |
+| reference_claude_code_pricing_shift_june2026.md | 2026-05-17 |
+| reference_claude_code_news_may2026_qiita.md | 2026-05-17 |
+| reference_claude_code_official_updates_may_note.md | 2026-05-17 |
+| reference_claude_code_local_security_guide_zenn.md | 2026-05-17 |
+| reference_claude_code_mcp_ads_monitoring_f2t.md | 2026-05-17 |
