@@ -466,3 +466,8 @@
 | reference_milestones-development-schedule.md | 2026-05-16 |
 | reference_game-tools-usability-pipeline.md | 2026-05-16 |
 | reference_scrum-indie-game-development.md | 2026-05-16 |
+| reference_slay-princess-narrative-design.md | 2026-05-17 |
+| reference_character-inhabitation-storytelling.md | 2026-05-17 |
+| reference_accessibility-ux-features-design.md | 2026-05-17 |
+| reference_why-people-play-games-player-journey.md | 2026-05-17 |
+| reference_narrative-designer-npc-approach.md | 2026-05-17 |
