@@ -322,3 +322,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_official_updates_may_note.md | 2026-05-17 |
 | reference_claude_code_local_security_guide_zenn.md | 2026-05-17 |
 | reference_claude_code_mcp_ads_monitoring_f2t.md | 2026-05-17 |
+| reference_claude_platform_aws_vscode_litera.md | 2026-05-18 |
+| reference_claude_code_agent_view_weel.md | 2026-05-18 |
+| reference_claude_code_weekly_limit_tothinks.md | 2026-05-18 |
+| reference_claude_credit_split_june2026_qiita.md | 2026-05-18 |
+| reference_claude_code_ai_secretary_miyan.md | 2026-05-18 |
