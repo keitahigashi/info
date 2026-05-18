@@ -1,4 +1,4 @@
-# アンデルセン童話（80話）
+# アンデルセン童話（95話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -94,4 +94,9 @@
 | [andersen-088](../fables/andersen/andersen-088-the-farm-yard-cock-and-the-weather-cock.md) | 農場の雄鶏と風見鶏 | 高みから世界を見下す傲慢な者は自らの重みで折れるが、地道に自分の役割を果たす誠実な者こそが長く輝き続ける |
 | [andersen-089](../fables/andersen/andersen-089-the-porters-son.md) | 門番の息子 | 才能と誠実な努力は生まれの身分を超え、真の愛と人格はいかなる階級の壁も乗り越えることができる |
 | [andersen-090](../fables/andersen/andersen-090-the-swans-nest.md) | 白鳥の巣 | 小さな国であっても偉大な精神と文化の遺産はそこから世界へ羽ばたき、永遠に輝き続ける |
+| [andersen-091](../fables/andersen/andersen-091-little-tuk.md) | リトル・タック | 人に親切にする善行は必ず報われ、誠実な心が思いがけない恵みをもたらす |
+| [andersen-092](../fables/andersen/andersen-092-the-metal-pig.md) | 金属の豚 | 純粋な心で美と芸術に触れた者は、どれほど貧しくとも魂を輝かせ偉大な創造者となれる |
+| [andersen-093](../fables/andersen/andersen-093-the-psyche.md) | プシュケ | 地上のものはすべて朽ちて忘れられるが、魂（プシュケ）の美は永遠に輝き続ける |
+| [andersen-094](../fables/andersen/andersen-094-the-windmill.md) | 風車 | 自分の傲慢さを認めず「謙虚だ」と主張する者は真の自己欺瞞に陥っており、破壊と再生を経てこそ真に成長できる |
+| [andersen-095](../fables/andersen/andersen-095-the-dryad.md) | ドライアド | 自らの本質を捨てて叶わぬ欲望を追い求める者は、警告を無視した報いとして自己を滅ぼすことになる |
 <!-- 寓話追加時にここへ行を追加 -->

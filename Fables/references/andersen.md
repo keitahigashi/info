@@ -97,4 +97,9 @@
 | andersen-088 | 農場の雄鶏と風見鶏 | andersenstories.com/en/andersen_fairy-tales/the_farm-yard_cock_and_the_weather-cock, hca.gilead.org.il/cock.html | 2026-05-10 |
 | andersen-089 | 門番の息子 | andersen.sdu.dk/vaerk/hersholt/ThePortersSon_e.html, andersenstories.com/en/andersen_fairy-tales/the_porters_son | 2026-05-10 |
 | andersen-090 | 白鳥の巣 | andersen.sdu.dk/vaerk/hersholt/TheSwansNest_e.html, hcandersen-homepage.dk/?page_id=2199 | 2026-05-10 |
+| andersen-091 | リトル・タック | andersenstories.com/en/andersen_fairy-tales/little_tuk, andersen.sdu.dk/vaerk/hersholt/LittleTuk_e.html, アンデルセン(1847) | 2026-05-18 |
+| andersen-092 | 金属の豚 | andersen.sdu.dk/vaerk/hersholt/TheMetalPig_e.html, andersenstories.com/en/andersen_fairy-tales/the_metal_pig, アンデルセン(1842) | 2026-05-18 |
+| andersen-093 | プシュケ | andersen.sdu.dk/vaerk/hersholt/ThePsyche_e.html, アンデルセン(1861) | 2026-05-18 |
+| andersen-094 | 風車 | andersen.sdu.dk/vaerk/hersholt/TheWindmill_e.html, andersenstories.com/en/andersen_fairy-tales/the_windmill, アンデルセン(1865) | 2026-05-18 |
+| andersen-095 | ドライアド | andersen.sdu.dk/vaerk/hersholt/TheDryad_e.html, アンデルセン(1868) | 2026-05-18 |
 <!-- 出典追加時にここへ行を追加 -->
