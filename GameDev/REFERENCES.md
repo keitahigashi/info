@@ -471,3 +471,8 @@
 | reference_accessibility-ux-features-design.md | 2026-05-17 |
 | reference_why-people-play-games-player-journey.md | 2026-05-17 |
 | reference_narrative-designer-npc-approach.md | 2026-05-17 |
+| reference_evaluating-game-mechanics-depth.md | 2026-05-18 |
+| reference_joy-pain-game-mastery.md | 2026-05-18 |
+| reference_realism-legibility-open-world-level-design.md | 2026-05-18 |
+| reference_active-ragdoll-animation-tips.md | 2026-05-18 |
+| reference_combat-system-design-logic-violence.md | 2026-05-18 |
