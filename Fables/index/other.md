@@ -1,4 +1,4 @@
-# その他（92話）
+# その他（97話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -96,4 +96,9 @@
 | [other-090](../fables/other/other-090-feherlofia-son-of-the-white-mare.md) | フェヘールローフィア——白い牝馬の息子 | ハンガリー民話 | 真の英雄的強さは肉体の力だけに宿るのではなく、忠誠・勇気・奉仕の心にこそある。仲間に裏切られても誠実であり続ける者が最後に光のある場所へと戻ってくる |
 | [other-091](../fables/other/other-091-legend-of-the-fifth-sun-nanahuatzin.md) | 第五の太陽の伝説——ナナワツィンとテクシステカトル | アステカ神話 | 外見の貧しさや地位の低さは本質的な価値を決めない。真の勇気とは躊躇せず自ら炎に飛び込む覚悟であり、謙虚な者の自己犠牲が世界を照らす太陽となる |
 | [other-092](../fables/other/other-092-kae-and-the-whale-longopoa.md) | カエとクジラ・ロンゴポア | トンガ民話 | 誠実な客人として受けた恩義を踏みにじる者には必ず報いが来る。他者の大切なものを奪い食らう裏切りは、どれほど遠く逃げても追い込まれる運命を招く |
+| [other-093](../fables/other/other-093-jurate-and-kastytis.md) | ユーラテとカスティティス | リトアニア民話 | 神の定めた秩序に逆らう恋は悲劇をもたらし、その悲しみは永遠に世界へと刻まれる |
+| [other-094](../fables/other/other-094-nine-peahens-and-golden-apples.md) | 九羽の孔雀と黄金のリンゴ | セルビア民話 | 愛を守るために試練を乗り越える忍耐と献身こそが、真実の絆を結ぶ |
+| [other-095](../fables/other/other-095-aldar-kose-and-the-greedy-rich-man.md) | アルダル・コセと貪欲な金持ち | カザフスタン民話 | 知恵と正直さは富や権力に勝り、貪欲と傲慢は必ず自身の破滅を招く |
+| [other-096](../fables/other/other-096-iktomi-and-the-coyote.md) | イクトミとコヨーテ | ラコタ族民話 | 早合点して物事を当然視すると、逆に自分が笑い者になる |
+| [other-097](../fables/other/other-097-hitar-petar-outwits-the-rich.md) | ヒタル・ペタルと金持ち地主 | ブルガリア民話 | 知恵と機転は権力や財力に勝る武器であり、民衆の知恵は圧政を笑い飛ばす |
 <!-- 寓話追加時にここへ行を追加 -->
