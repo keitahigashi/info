@@ -327,3 +327,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_weekly_limit_tothinks.md | 2026-05-18 |
 | reference_claude_credit_split_june2026_qiita.md | 2026-05-18 |
 | reference_claude_code_ai_secretary_miyan.md | 2026-05-18 |
+| reference_anthropic_stainless_itmedia.md | 2026-05-19 |
+| reference_anthropic_stainless_gigazine.md | 2026-05-19 |
+| reference_anthropic_gates_foundation_itmedia.md | 2026-05-19 |
+| reference_claude_code_recognition_not_stop_qiita.md | 2026-05-19 |
+| reference_accenture_anthropic_japan_2026.md | 2026-05-19 |
