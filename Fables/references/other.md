@@ -100,4 +100,9 @@
 | other-090 | フェヘールローフィア——白い牝馬の息子 | ハンガリー民話 | europeanfolktales.com/feherlofia, en.wikipedia.org/wiki/Fehérlófia | 2026-05-11 |
 | other-091 | 第五の太陽の伝説——ナナワツィンとテクシステカトル | アステカ神話（フローレンティン写本） | storytellingdb.com/aztec-creation-myth/, tosea.net/the-creation-of-the-sun-and-the-moon/ | 2026-05-11 |
 | other-092 | カエとクジラ・ロンゴポア | トンガ民話（ポリネシア） | en.wikipedia.org/wiki/Kae_and_Longopoa, archive.org/details/tonganmythstales0000giff | 2026-05-11 |
+| other-093 | ユーラテとカスティティス | リトアニア民話（バルト神話） | en.wikipedia.org/wiki/J%C5%ABrat%C4%97_and_Kastytis, lithaz.org/legends/jurate_legend.html, balticrun.com/the-legend-of-jurate-and-kastytis/ | 2026-05-19 |
+| other-094 | 九羽の孔雀と黄金のリンゴ | セルビア民話（カラジッチ採話、1853年） | en.wikipedia.org/wiki/The_Nine_Peahens_and_the_Golden_Apples, ebsco.com/research-starters/literature-and-writing/golden-apple-tree-and-nine-peahens-serbian-folktale | 2026-05-19 |
+| other-095 | アルダル・コセと貪欲な金持ち | カザフスタン民話（中央アジア口承文学） | en.wikipedia.org/wiki/Aldar_kose, asianfolktales.com/aldar-kose-and-the-greedy-rich-man-kazakh-folktale-teaching-cleverness-over-greed/ | 2026-05-19 |
+| other-096 | イクトミとコヨーテ | ラコタ族民話（ネイティブアメリカン） | worldhistory.org/article/2443/iktomi-tales/, en.wikipedia.org/wiki/Iktomi | 2026-05-19 |
+| other-097 | ヒタル・ペタルと金持ち地主 | ブルガリア民話（バルカン半島口承文学） | en.wikipedia.org/wiki/Hitar_Petar, priscillahowe.com/blog-five/2021/10/15/clever-kind-tricky-and-sly-a-bulgarian-folktale-sampler | 2026-05-19 |
 <!-- 出典追加時にここへ行を追加 -->

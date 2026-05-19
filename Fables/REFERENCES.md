@@ -13,5 +13,5 @@
 | アンデルセン童話 | 95 | [出典を見る](references/andersen.md) |
 | インド寓話 | 109 | [出典を見る](references/indian.md) |
 | アフリカ民話 | 100 | [出典を見る](references/african.md) |
-| その他 | 92 | [出典を見る](references/other.md) |
-| **合計** | **1018** | |
+| その他 | 97 | [出典を見る](references/other.md) |
+| **合計** | **1023** | |
