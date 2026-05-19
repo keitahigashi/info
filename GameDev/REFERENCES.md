@@ -476,3 +476,8 @@
 | reference_realism-legibility-open-world-level-design.md | 2026-05-18 |
 | reference_active-ragdoll-animation-tips.md | 2026-05-18 |
 | reference_combat-system-design-logic-violence.md | 2026-05-18 |
+| reference_designer-friendly-programming-101.md | 2026-05-19 |
+| reference_writing-game-engine-scratch-messaging.md | 2026-05-19 |
+| reference_postmortem-inkbound-early-access.md | 2026-05-19 |
+| reference_grow-framework-game-design.md | 2026-05-19 |
+| reference_dual-process-theory-game-design.md | 2026-05-19 |
