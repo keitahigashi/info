@@ -16,6 +16,7 @@
 | [07-technical-systems.md](07-technical-systems.md) | 技術システム（物理、AI、ネットワーク、手続き生成） |
 | [08-production.md](08-production.md) | プロダクション（プロトタイピング、プレイテスト） |
 | [09-genre-studies.md](09-genre-studies.md) | ジャンル別分析（アクション、RPG、ストラテジー等） |
+| [10-social-game-systems.md](10-social-game-systems.md) | ソーシャルゲーム共通システム（ガチャ、スタミナ、課金設計、LiveOps） |
 | [**REFERENCES.md**](REFERENCES.md) | **参照記事・収集記事一覧** |
 
 ## 更新方針
