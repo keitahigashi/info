@@ -481,3 +481,8 @@
 | reference_postmortem-inkbound-early-access.md | 2026-05-19 |
 | reference_grow-framework-game-design.md | 2026-05-19 |
 | reference_dual-process-theory-game-design.md | 2026-05-19 |
+| reference_4-layers-narrative-design-approach.md | 2026-05-20 |
+| reference_cairn-prickly-protagonist-narrative.md | 2026-05-20 |
+| reference_data-driven-ui-ux-game.md | 2026-05-20 |
+| reference_6-ui-design-examples-study.md | 2026-05-20 |
+| reference_generative-ai-game-development.md | 2026-05-20 |
