@@ -1,4 +1,4 @@
-# イソップ寓話（341話）
+# イソップ寓話（346話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -345,4 +345,9 @@
 | [aesop-341](../fables/aesop/aesop-341-the-vainglorious-jackdaw-and-the-peacock.md) | 虚栄のカラスと孔雀 | 借り物の飾りで身を飾り高みを目指しても、正体が露見すれば両側から排除される |
 | [aesop-342](../fables/aesop/aesop-342-the-dog-the-sheep-and-the-wolf.md) | 犬と羊とオオカミ | 偽りの証言と腐敗した裁きは無実の者を苦しめるが、天の正義は必ず裏切り者に報いる |
 | [aesop-343](../fables/aesop/aesop-343-the-bullock-the-lion-and-the-robber.md) | 雄牛とライオンと強盗 | 傲慢な要求は報いられず、謙虚な振る舞いこそが強者の寛大さを引き出す |
+| [aesop-344](../fables/aesop/aesop-344-the-eagle-the-crow-and-the-tortoise.md) | 鷲とカラスと亀 | 権力ある者の暴力に悪意ある助言者が加われば、どんな防御も通用しない |
+| [aesop-345](../fables/aesop/aesop-345-the-two-mules-and-the-robbers.md) | 二頭のラバと追いはぎ | 富を誇示することは危険を招き、地味で謙虚な者こそが難を免れる |
+| [aesop-346](../fables/aesop/aesop-346-the-panther-and-the-shepherds.md) | ヒョウと羊飼いたち | 苦境にある者を傷つけた者は必ず報いを受け、慈悲を示した者は守られる |
+| [aesop-347](../fables/aesop/aesop-347-aesop-and-the-soothsayers.md) | イソップと占い師たち | 迷信や権威に惑わされず、現実を直視する実践的な知恵こそが問題を解決する |
+| [aesop-348](../fables/aesop/aesop-348-aesop-and-the-insolent-man.md) | イソップと無礼者 | 小さな成功に調子に乗って傲慢な行為を繰り返す者は、やがて身を滅ぼす |
 <!-- 寓話追加時にここへ行を追加 -->

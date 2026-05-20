@@ -128,4 +128,10 @@
 | aesop-342 | 犬と羊とオオカミ | Perry Index #478, タウンゼント版, fablesofaesop.com/dog-sheep-wolf.html | 2026-05-12 |
 | aesop-343 | 雄牛とライオンと強盗 | Perry Index #487, タウンゼント版, fablesofaesop.com/generous-lion.html | 2026-05-12 |
 
+| aesop-344 | 鷲とカラスと亀 | Perry Index #490, パイドロス版 II-6, Perseus Digital Library, gutenberg.org/files/25512 | 2026-05-20 |
+| aesop-345 | 二頭のラバと追いはぎ | Perry Index #491, パイドロス版 II-7, Perseus Digital Library, gutenberg.org/files/25512 | 2026-05-20 |
+| aesop-346 | ヒョウと羊飼いたち | Perry Index #494, パイドロス版 III-2, fablesofaesop.com, gutenberg.org/files/25512 | 2026-05-20 |
+| aesop-347 | イソップと占い師たち | Perry Index #495, パイドロス版 III-3, gutenberg.org/files/25512 | 2026-05-20 |
+| aesop-348 | イソップと無礼者 | Perry Index #497, パイドロス版 III-5, fablesofaesop.com, gutenberg.org/files/25512 | 2026-05-20 |
+
 <!-- 出典追加時にここへ行を追加 -->
