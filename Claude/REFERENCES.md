@@ -332,3 +332,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_anthropic_gates_foundation_itmedia.md | 2026-05-19 |
 | reference_claude_code_recognition_not_stop_qiita.md | 2026-05-19 |
 | reference_accenture_anthropic_japan_2026.md | 2026-05-19 |
+| reference_anthropic_pwc_enterprise_2026.md | 2026-05-20 |
+| reference_claude_code_goal_command_zenn.md | 2026-05-20 |
+| reference_claude_code_may2026_updates_kazu.md | 2026-05-20 |
+| reference_logly_mureo_mcp_ads.md | 2026-05-20 |
+| reference_stainless_acquisition_projectdesign.md | 2026-05-20 |
