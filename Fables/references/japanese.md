@@ -96,4 +96,9 @@
 | japanese-088 | 猫檀家 | folktalesjpn.com/folktale/0094/, 佐々木喜善『聴耳草紙』 | 2026-05-13 |
 | japanese-089 | 足長手長 | arasuji-m.com/ashinagatenaga/, 磐梯山伝承（福島県） | 2026-05-13 |
 | japanese-090 | 芋ほり長者 | folktalesjpn.com/folktale/0134/, 『石川県の民話』（偕成社） | 2026-05-13 |
+| japanese-091 | 一休さんのとんち（屏風の虎） | ja.wikipedia.org/wiki/一休さん, folktalesjpn.com/folktale/0038/, 『一休咄』（元禄年間） | 2026-05-21 |
+| japanese-092 | 月の兎（つきのうさぎ） | ja.wikipedia.org/wiki/月の兎, 『ジャータカ』第316話, 『今昔物語集』巻第五, j-theravada.com | 2026-05-21 |
+| japanese-093 | 蛇女房（へびにょうぼう） | folktalesjpn.com/folktale/0122/, 『川副町誌』（佐賀市）, まんが日本昔ばなし第0122話（1977年） | 2026-05-21 |
+| japanese-094 | 河童の詫び証文（かっぱのわびしょうもん） | uminominwa.jp/animation/20/, 『川崎風土記』（伊藤葦天, 1963年）, ja.wikipedia.org/wiki/河童 | 2026-05-21 |
+| japanese-095 | 継子と魚（ままこと魚） | 関敬吾編『日本昔話大成 第5巻』（角川書店, 1978年）分類番号222, minwanoheya.jp/genre/mamako/ | 2026-05-21 |
 <!-- 出典追加時にここへ行を追加 -->

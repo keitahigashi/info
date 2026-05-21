@@ -1,4 +1,4 @@
-# 日本昔話（90話）
+# 日本昔話（95話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -94,4 +94,9 @@
 | [japanese-088](../fables/japanese/japanese-088-neko-danka.md) | 猫檀家 | 動物への慈悲と誠実な思いやりは必ず恩返しとして実を結ぶ。 |
 | [japanese-089](../fables/japanese/japanese-089-ashinaga-tenaga.md) | 足長手長 | 力に力で立ち向かわず、知恵と信仰心をもって対処すれば、どんな強大な脅威も退けられる。 |
 | [japanese-090](../fables/japanese/japanese-090-imohori-choja.md) | 芋ほり長者 | 欲を持たず他者へ惜しみなく与える心こそが真の豊かさであり、そのような人のもとにこそ幸運は訪れる。 |
+| [japanese-091](../fables/japanese/japanese-091-ikkyu-tiger-screen.md) | 一休さんのとんち（屏風の虎） | 不可能な要求には、その前提の矛盾を冷静に指摘することが最善の答えである。権威に臆することなく、論理的な知恵と機転を働かせることの大切さを説く。 |
+| [japanese-092](../fables/japanese/japanese-092-rabbit-on-the-moon.md) | 月の兎（つきのうさぎ） | 自らの命をも惜しまない純粋な自己犠牲と慈悲の心こそが最高の善行であり、その徳はいつまでも人々の記憶に刻まれる。 |
+| [japanese-093](../fables/japanese/japanese-093-the-snake-wife.md) | 蛇女房（へびにょうぼう） | 禁じられた約束を破ることは取り返しのつかない別離を招く。同時に、盲目になりながらも我が子に目玉を与え続けた母の、底知れぬ慈愛と自己犠牲を描く。 |
+| [japanese-094](../fables/japanese/japanese-094-kappa-written-apology.md) | 河童の詫び証文（かっぱのわびしょうもん） | 過ちを率直に認め、誓いを立てて誠実に守り続けることが信頼の回復につながる。また水辺の危険を伝える警告として、欲深い行いは必ず戒めを受けるという教訓を含む。 |
+| [japanese-095](../fables/japanese/japanese-095-stepchild-and-fish.md) | 継子と魚（ままこと魚） | 不当な扱いを受けても不平を言わず、知恵と忍耐で困難を乗り越える者には幸運が訪れる。身内の者を不当に差別することの道徳的な誤りを示す。 |
 <!-- 寓話追加時にここへ行を追加 -->
