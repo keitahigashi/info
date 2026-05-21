@@ -486,3 +486,8 @@
 | reference_data-driven-ui-ux-game.md | 2026-05-20 |
 | reference_6-ui-design-examples-study.md | 2026-05-20 |
 | reference_generative-ai-game-development.md | 2026-05-20 |
+| reference_depth-complexity-uniqueness-struggle.md | 2026-05-21 |
+| reference_level-design-paradigms-toolkit.md | 2026-05-21 |
+| reference_playgrounds-level-design.md | 2026-05-21 |
+| reference_patricks-parabox-puzzle-design.md | 2026-05-21 |
+| reference_pupperazzi-postmortem.md | 2026-05-21 |
