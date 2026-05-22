@@ -1,4 +1,4 @@
-# グリム童話 — 出典一覧（95話）
+# グリム童話 — 出典一覧（100話）
 
 [< 出典一覧に戻る](../REFERENCES.md)
 
@@ -102,4 +102,9 @@
 | grimm-093 | ガラスの棺 | grimmstories.com/ja/grimm_dowa/garasu_no_hitsugi, grimmdowaclub.net/khm163, KHM163 | 2026-05-14 |
 | grimm-094 | ものぐさハインツ | grimmstories.com/ja/grimm_dowa/monogusa_haintsu, en.wikipedia.org/wiki/Lazy_Henry, KHM164 | 2026-05-14 |
 | grimm-095 | 月 | grimmstories.com/ja/grimm_dowa/tsuki, grimmdowaclub.net/khm175, KHM175 | 2026-05-14 |
+| grimm-096 | 水の精 | sites.pitt.edu/~dash/grimm079.html, en.wikipedia.org/wiki/The_Water_Nixie, KHM79 | 2026-05-22 |
+| grimm-097 | 歌って跳ねる雲雀 | grimmstories.com/language.php?grimm=088&l=en, de.wikipedia.org/wiki/Das_singende_springende_Löweneckerchen, KHM88 | 2026-05-22 |
+| grimm-098 | 黄金の山の王 | grimmstories.com/en/grimm_fairy-tales/the_king_of_the_golden_mountain, en.wikipedia.org/wiki/The_King_of_the_Golden_Mountain, KHM92 | 2026-05-22 |
+| grimm-099 | カラス | americanliterature.com/author/the-brothers-grimm/fairy-tale/the-raven, en.wikipedia.org/wiki/The_Raven_(Brothers_Grimm), KHM93 | 2026-05-22 |
+| grimm-100 | 三羽の小鳥 | grimmstories.com/en/grimm_fairy-tales/the_three_little_birds, en.wikipedia.org/wiki/The_Three_Little_Birds, KHM96 | 2026-05-22 |
 <!-- 出典追加時にここへ行を追加 -->
