@@ -1,4 +1,4 @@
-# グリム童話（95話）
+# グリム童話（100話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -99,4 +99,9 @@
 | [grimm-093](../fables/grimm/grimm-093-the-glass-coffin.md) | ガラスの棺 | 身分の低い者でも勇気と誠実さを持って行動すれば大きな幸運と報いを得られる |
 | [grimm-094](../fables/grimm/grimm-094-lazy-heinz.md) | ものぐさハインツ | 怠惰と安易な計画は何も生み出さず、楽をしようとするたびに状況が悪化する |
 | [grimm-095](../fables/grimm/grimm-095-the-moon.md) | 月 | 共同体の恵みを私物化して持ち去ることは生者と死者の世界の秩序を乱す |
+| [grimm-096](../fables/grimm/grimm-096-the-water-nixie.md) | 水の精 | 知恵と機知を合わせ使えば、たとえ力ある支配者のもとに囚われていても自由を手に入れることができる |
+| [grimm-097](../fables/grimm/grimm-097-the-singing-springing-lark.md) | 歌って跳ねる雲雀 | 真の愛は試練や長い別離にも揺るがず、献身と忍耐によって必ず報われる |
+| [grimm-098](../fables/grimm/grimm-098-the-king-of-the-golden-mountain.md) | 黄金の山の王 | 試練を黙して耐え忍ぶことで真の実力が磨かれ、裏切りは必ず報いを受ける |
+| [grimm-099](../fables/grimm/grimm-099-the-raven.md) | カラス | 誘惑と怠惰に三度敗れても諦めずに立ち上がる忍耐こそが、最終的な救済への道を開く |
+| [grimm-100](../fables/grimm/grimm-100-the-three-little-birds.md) | 三羽の小鳥 | どれほど巧みに隠された嘘であっても真実は必ず明かされ、無実の者は守られ、悪意ある者は裁きを受ける |
 <!-- 寓話追加時にここへ行を追加 -->
