@@ -491,3 +491,8 @@
 | reference_playgrounds-level-design.md | 2026-05-21 |
 | reference_patricks-parabox-puzzle-design.md | 2026-05-21 |
 | reference_pupperazzi-postmortem.md | 2026-05-21 |
+| reference_curating-game-system-design.md | 2026-05-22 |
+| reference_agential-structure-model-fun.md | 2026-05-22 |
+| reference_from-mda-to-dde.md | 2026-05-22 |
+| reference_dream-casting-character-voice.md | 2026-05-22 |
+| reference_videogame-dialogues-writing-tools.md | 2026-05-22 |
