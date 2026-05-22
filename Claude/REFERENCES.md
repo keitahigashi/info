@@ -342,3 +342,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_aws_japan_claude_code_workshop.md | 2026-05-21 |
 | reference_claude_code_sandbox_vuln_socks5.md | 2026-05-21 |
 | reference_anthropic_spacex_cloud_payment_itmedia.md | 2026-05-21 |
+| reference_anthropic_sales_cowork_gigazine.md | 2026-05-22 |
+| reference_claude_managed_agents_sandboxes_tunnels_official.md | 2026-05-22 |
+| reference_claude_managed_agents_sandbox_tunnels_qiita.md | 2026-05-22 |
+| reference_claude_code_v21144_release_notes_qiita.md | 2026-05-22 |
+| reference_claude_compliance_api_cloudflare_casb.md | 2026-05-22 |
