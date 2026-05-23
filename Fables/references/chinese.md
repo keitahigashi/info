@@ -104,4 +104,9 @@
 | chinese-094 | 白眉 | dqff.sakura.ne.jp/japanese/sentagendai/kabu-2-42.html, sangokushirs.com/articles/733 | 2026-05-15 |
 | chinese-095 | 虎穴に入らずんば虎子を得ず | kotobank.jp, chugokugo-script.net/koji/koketsu-koji.html | 2026-05-15 |
 | chinese-096 | 李下に冠を正さず | ats5396.xsrv.jp/2153-2, proverb-encyclopedia.com/rikanikanmuri | 2026-05-15 |
+| chinese-097 | 一飯千金 | kotobank.jp/word/一飯千金-439430, ja.wikipedia.org/wiki/韓信 | 2026-05-23 |
+| chinese-098 | 程門立雪 | kotobank.jp/word/立雪程門-897660, ja.wikipedia.org/wiki/楊時 | 2026-05-23 |
+| chinese-099 | 囲魏救趙 | ja.wikipedia.org/wiki/囲魏救趙, ja.wikipedia.org/wiki/桂陵の戦い | 2026-05-23 |
+| chinese-100 | 東施効顰 | kotobank.jp/word/西施の顰みに倣う-545191, kanbun.info/koji/hisomi.html | 2026-05-23 |
+| chinese-101 | 鳥尽弓蔵 | idiom-encyclopedia.com/tyouzinkyuzou, kotobank.jp/word/飛鳥尽きて良弓蔵る-610643 | 2026-05-23 |
 <!-- 出典追加時にここへ行を追加 -->

@@ -100,4 +100,9 @@
 | [chinese-094](../fables/chinese/chinese-094-the-white-eyebrow.md) | 白眉 | 多くの優れた者の中でもひときわ傑出した存在は、その特質によって自然と周囲から認められる |
 | [chinese-095](../fables/chinese/chinese-095-into-the-tigers-den.md) | 虎穴に入らずんば虎子を得ず | 大きな成果を得るためには相応の危険を冒す勇気が必要であり、安全ばかりを求めていては大きな成功はつかめない |
 | [chinese-096](../fables/chinese/chinese-096-do-not-adjust-your-crown-under-a-plum-tree.md) | 李下に冠を正さず | 実際に悪いことをしていなくても疑われるような行動は慎み、他者からの誤解を招く状況を自ら作らないことが大切である |
+| [chinese-097](../fables/chinese/chinese-097-one-meal-a-thousand-gold.md) | 一飯千金 | いかに小さな恩でも、受けた恩は必ず誠実に返すべきである。真の大人物は地位や名声を得た後も、かつての恩を忘れず行動で示す |
+| [chinese-098](../fables/chinese/chinese-098-standing-in-snow-at-chengs-gate.md) | 程門立雪 | 師を敬い学問に真摯に向き合う姿勢が、真の学びを可能にする。礼と誠実さをもって師に接することが学問の基本である |
+| [chinese-099](../fables/chinese/chinese-099-relieve-zhao-by-surrounding-wei.md) | 囲魏救趙 | 問題に正面から当たるより、敵の手薄な急所を突くことで状況を有利に転じる。直接対決を避けた迂回戦略が難局を打開する |
+| [chinese-100](../fables/chinese/chinese-100-dongshi-imitates-a-frown.md) | 東施効顰 | 本質を理解せず形だけを真似ることは、かえって滑稽な結果を招く。自分の本質を知り、それを活かすことが大切である |
+| [chinese-101](../fables/chinese/chinese-101-when-birds-are-gone-the-bow-is-stored.md) | 鳥尽弓蔵 | 役割を果たした者が用済みとして排除される権力の非情さを示す。功績を立てた後こそ、引き際を誤らない洞察と決断が生死を分ける |
 <!-- 寓話追加時にここへ行を追加 -->
