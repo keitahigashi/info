@@ -496,3 +496,8 @@
 | reference_from-mda-to-dde.md | 2026-05-22 |
 | reference_dream-casting-character-voice.md | 2026-05-22 |
 | reference_videogame-dialogues-writing-tools.md | 2026-05-22 |
+| reference_gestalt-laws-game-design.md | 2026-05-23 |
+| reference_design-axioms-ui-data.md | 2026-05-23 |
+| reference_rts-economics-player-agency.md | 2026-05-23 |
+| reference_machinations-game-mechanics.md | 2026-05-23 |
+| reference_negative-game-mechanics.md | 2026-05-23 |
