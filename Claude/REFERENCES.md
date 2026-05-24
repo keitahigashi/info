@@ -352,3 +352,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_local_llm_qwen3_yokoe.md | 2026-05-23 |
 | reference_claude_code_beginner_guide_kddi_inose.md | 2026-05-23 |
 | reference_claude_code_intro_digirise.md | 2026-05-23 |
+| reference_claude_code_large_codebase_taigo.md | 2026-05-24 |
+| reference_claude_code_book_mynavi_2026.md | 2026-05-24 |
+| reference_claude_code_pricing_guide_aisouken_may2026.md | 2026-05-24 |
+| reference_claude_mythos_japan_cloudnative.md | 2026-05-24 |
+| reference_claude_code_workflows_mystery_yurukusa.md | 2026-05-24 |
