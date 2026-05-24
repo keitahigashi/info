@@ -501,3 +501,8 @@
 | reference_rts-economics-player-agency.md | 2026-05-23 |
 | reference_machinations-game-mechanics.md | 2026-05-23 |
 | reference_negative-game-mechanics.md | 2026-05-23 |
+| reference_intrinsic-extrinsic-motivation.md | 2026-05-24 |
+| reference_rational-design-part1-player.md | 2026-05-24 |
+| reference_gameplay-fundamentals-pacing-structure.md | 2026-05-24 |
+| reference_secrets-sages-level-design.md | 2026-05-24 |
+| reference_building-indie-game-team.md | 2026-05-24 |
