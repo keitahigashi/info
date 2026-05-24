@@ -118,4 +118,10 @@
 | indian-108 | ニミ王の天国地獄巡り | thejatakatales.com/nimi-jataka-541/, ancient-buddhist-texts.net | 2026-05-16 |
 | indian-109 | ガタ王子と嘆きの兄王 | thejatakatales.com/ghata-jataka-454/, sacred-texts.com（ジャータカ第454話） | 2026-05-16 |
 
+| indian-110 | 王と愚かな猿 | talesofpanchatantra.com/the-king-and-the-foolish-monkey | 2026-05-24 |
+| indian-111 | 正しい心と間違った心 | talesofpanchatantra.com/right-mind-and-wrong-mind, en.wikisource.org（パンチャタントラ第1巻） | 2026-05-24 |
+| indian-112 | 黒猿物語 | j-theravada.com/jataka/jataka123/ | 2026-05-24 |
+| indian-113 | 雄鶏物語 | j-theravada.com/jataka/jataka109/ | 2026-05-24 |
+| indian-114 | 象と犬の友情 | india-a2z.com/elephant-and-the-dog.html, etc.usf.edu/lit2go, thejatakatales.com/abhinha-jataka-27/ | 2026-05-24 |
+
 <!-- 出典追加時にここへ行を追加 -->

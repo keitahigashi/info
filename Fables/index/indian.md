@@ -1,4 +1,4 @@
-# インド寓話（109話）
+# インド寓話（114話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -113,4 +113,9 @@
 | [indian-107](../fables/indian/indian-107-temiya-the-mute-prince.md) | テミヤ王子の出家 | 世俗の権力や快楽を捨て、精神的な道を選ぶ「放棄の徳（出離）」こそが真の自由をもたらす |
 | [indian-108](../fables/indian/indian-108-king-nimi-heaven-and-hell.md) | ニミ王の天国地獄巡り | 善行は天上の報いをもたらし、悪行は地獄の苦しみを招く。徳ある生き方の積み重ねが来世を決める |
 | [indian-109](../fables/indian/indian-109-ghata-jataka-grief-and-acceptance.md) | ガタ王子と嘆きの兄王 | 死者を嘆いても命は戻らない。変えられない現実を受け入れることが、真の智慧である |
+| [indian-110](../fables/indian/indian-110-the-king-and-the-foolish-monkey.md) | 王と愚かな猿 | 愚かな友人は悪意ある敵よりも大きな害をもたらす |
+| [indian-111](../fables/indian/indian-111-right-mind-and-wrong-mind.md) | 正しい心と間違った心 | 悪意を持つ者は欺きによって他者を陥れようとするが、その欺きは必ず露見し自らを滅ぼす |
+| [indian-112](../fables/indian/indian-112-the-black-monkey-kalabahu-jataka.md) | 黒猿物語 | 世の栄辱・得失は常に移ろうものであり、それに心を揺らさない平静こそが真の智慧である |
+| [indian-113](../fables/indian/indian-113-the-rooster-and-the-hawk-kukkuta-jataka.md) | 雄鶏物語 | 危険な意図を持つ者を素早く見抜き、偽りの友好を毅然と断ることで身を守れる |
+| [indian-114](../fables/indian/indian-114-the-elephant-and-the-dog-abhinha-jataka.md) | 象と犬の友情 | 真の友情は種や身分を超え、友を失った悲しみは生命の根幹を揺るがすほどに深い |
 <!-- 寓話追加時にここへ行を追加 -->
