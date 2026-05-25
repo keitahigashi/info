@@ -357,3 +357,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_pricing_guide_aisouken_may2026.md | 2026-05-24 |
 | reference_claude_mythos_japan_cloudnative.md | 2026-05-24 |
 | reference_claude_code_workflows_mystery_yurukusa.md | 2026-05-24 |
+| reference_claude_code_mcp_server_mynavi_0525.md | 2026-05-25 |
+| reference_aws_mcp_server_ga_future_architect.md | 2026-05-25 |
+| reference_claude_code_weekly_updates_0523_saitoko.md | 2026-05-25 |
+| reference_project_glasswing_vulnerabilities_technoisy.md | 2026-05-25 |
+| reference_anthropic_surpasses_openai_technoisy.md | 2026-05-25 |
