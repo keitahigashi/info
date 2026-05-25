@@ -104,4 +104,9 @@
 | [african-098](../fables/african/african-098-the-leopard-and-the-ram.md) | ヒョウとヒツジ | 誤解と恐怖は最良の友情さえも壊す――確かめる勇気があれば、失わずに済むものがある |
 | [african-099](../fables/african/african-099-nana-miriam.md) | ナナ・ミリアム | 真の力は外見や性別に宿るのではなく、勇気と与えられた使命を信じる心の中にある |
 | [african-100](../fables/african/african-100-wanjiru-the-beauty-of-the-hills.md) | 丘の美女ワンジル | 美しい外見は本性を隠す仮面にすぎない――大切な決断は家族の知恵と守りのもとで行うべきだ |
+| [african-101](../fables/african/african-101-the-fish-and-the-leopards-wife.md) | 魚とヒョウの妻――なぜ魚は水に住むのか | 親友の信頼を裏切る背信は、社会的・物理的に取り返しのつかない罰を招く。友情と誠実さを守ることがいかに重要かを起源譚の形で伝える |
+| [african-102](../fables/african/african-102-why-the-bat-is-ashamed-in-the-daytime.md) | コウモリが昼間に姿を隠す理由 | 弱者を欺く不正は必ず露見し因果応報をもたらす。知恵と公正な復讐は力に勝り、「人を欺けば必ず同じ目に遭う」というアフリカ的な正義観が凝縮されている |
+| [african-103](../fables/african/african-103-the-fat-woman-who-melted-away.md) | 溶けてしまった太った女 | 他者の嫉妬や社会的な圧力に屈して自分の本質から引き離されることは消滅を招く。愛情深い者の守りと忍耐は失われたものを取り戻す力を持つ |
+| [african-104](../fables/african/african-104-the-pretty-girl-and-seven-jealous-women.md) | 美しい娘と7人の嫉妬深い女たち | 他者の美しさへの嫉妬は欺きと陰謀を生み出し、最終的には欺いた者自身の破滅を招く。正義は被害者の救済と加害者への厳しい報いという形で実現される |
+| [african-105](../fables/african/african-105-the-couple-and-the-lion.md) | 夫婦とライオン | 機知と過去の教訓は物理的な力に勝る。一度手痛い経験をした者はその原因を生涯恐れ、状況判断と知恵は数の力を凌駕することがある |
 <!-- 寓話追加時にここへ行を追加 -->
