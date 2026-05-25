@@ -113,4 +113,9 @@
 | african-098 | ヒョウとヒツジ | gutenberg.org/files/66923/66923-h/66923-h.htm, Barker『West African Folk-Tales』(1917) | 2026-05-17 |
 | african-099 | ナナ・ミリアム | Courlander『A Treasury of African Folklore』(1975), ザルマ／ソンガイ族口承 | 2026-05-17 |
 | african-100 | 丘の美女ワンジル | bluegecko.org/kenya/tribes/kikuyu/stories-wanjiru.htm, Mwangi『Kikuyu Folktales』(1970) | 2026-05-17 |
+| african-101 | 魚とヒョウの妻――なぜ魚は水に住むのか | worldoftales.com/African_folktales/Nigerian_folktale_11.html, Dayrell『Folk Stories from Southern Nigeria』(1910) 第11話 | 2026-05-25 |
+| african-102 | コウモリが昼間に姿を隠す理由 | worldoftales.com/African_folktales/Nigerian_folktale_12.html, Dayrell『Folk Stories from Southern Nigeria』(1910) 第12話 | 2026-05-25 |
+| african-103 | 溶けてしまった太った女 | worldoftales.com/African_folktales/Nigerian_folktale_24.html, Dayrell『Folk Stories from Southern Nigeria』(1910) 第24話 | 2026-05-25 |
+| african-104 | 美しい娘と7人の嫉妬深い女たち | worldoftales.com/African_folktales/Nigerian_folktale_30.html, Dayrell『Folk Stories from Southern Nigeria』(1910) 第30話 | 2026-05-25 |
+| african-105 | 夫婦とライオン | anikefoundation.org/african-folktales/the-couple-and-the-lion, ケニア・マンデラ地方口承 | 2026-05-25 |
 <!-- 出典追加時にここへ行を追加 -->
