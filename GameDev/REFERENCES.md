@@ -506,3 +506,8 @@
 | reference_gameplay-fundamentals-pacing-structure.md | 2026-05-24 |
 | reference_secrets-sages-level-design.md | 2026-05-24 |
 | reference_building-indie-game-team.md | 2026-05-24 |
+| reference_ecw-architecture-massive-online-games.md | 2026-05-25 |
+| reference_design-patterns-game-programming.md | 2026-05-25 |
+| reference_choice-as-metric-narrative-design.md | 2026-05-25 |
+| reference_systemic-narrative-dear-simulator.md | 2026-05-25 |
+| reference_practical-procedural-generation-compton.md | 2026-05-25 |
