@@ -511,3 +511,8 @@
 | reference_choice-as-metric-narrative-design.md | 2026-05-25 |
 | reference_systemic-narrative-dear-simulator.md | 2026-05-25 |
 | reference_practical-procedural-generation-compton.md | 2026-05-25 |
+| reference_player-feedback-heart-of-game.md | 2026-05-26 |
+| reference_advanced-ux-prototyping-type8.md | 2026-05-26 |
+| reference_fundamentals-game-economy-design.md | 2026-05-26 |
+| reference_emergent-mechanic-design-pcg.md | 2026-05-26 |
+| reference_how-game-developers-choose-leaders.md | 2026-05-26 |
