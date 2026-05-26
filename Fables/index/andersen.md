@@ -99,4 +99,9 @@
 | [andersen-093](../fables/andersen/andersen-093-the-psyche.md) | プシュケ | 地上のものはすべて朽ちて忘れられるが、魂（プシュケ）の美は永遠に輝き続ける |
 | [andersen-094](../fables/andersen/andersen-094-the-windmill.md) | 風車 | 自分の傲慢さを認めず「謙虚だ」と主張する者は真の自己欺瞞に陥っており、破壊と再生を経てこそ真に成長できる |
 | [andersen-095](../fables/andersen/andersen-095-the-dryad.md) | ドライアド | 自らの本質を捨てて叶わぬ欲望を追い求める者は、警告を無視した報いとして自己を滅ぼすことになる |
+| [andersen-096](../fables/andersen/andersen-096-the-elf-mound.md) | 妖精の丘 | 華やかな魔法の技よりも、言葉で人の心を動かす物語の力こそが最高の才能である |
+| [andersen-097](../fables/andersen/andersen-097-a-rose-from-homers-grave.md) | ホメロスの墓のバラ | 傲慢な誇りは周囲に悲しみをもたらすが、真の美は詩と芸術を通じて時を超えて生き続ける |
+| [andersen-098](../fables/andersen/andersen-098-a-leaf-from-heaven.md) | 天国からの葉 | 無知と傲慢は神からの贈り物を見過ごすが、清らかな信仰を持つ魂だけが真の価値を見いだすことができる |
+| [andersen-099](../fables/andersen/andersen-099-the-bell-deep.md) | 鐘の淵 | 人の行いや思いは消えることなく、空気という目に見えない媒体を通じて永遠に響き渡り、天まで伝わる |
+| [andersen-100](../fables/andersen/andersen-100-the-comet.md) | 彗星 | 善く生き、学び続けた時間の積み重ねは魂を彗星よりも高い場所へ運ぶ |
 <!-- 寓話追加時にここへ行を追加 -->

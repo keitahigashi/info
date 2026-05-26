@@ -102,4 +102,9 @@
 | andersen-093 | プシュケ | andersen.sdu.dk/vaerk/hersholt/ThePsyche_e.html, アンデルセン(1861) | 2026-05-18 |
 | andersen-094 | 風車 | andersen.sdu.dk/vaerk/hersholt/TheWindmill_e.html, andersenstories.com/en/andersen_fairy-tales/the_windmill, アンデルセン(1865) | 2026-05-18 |
 | andersen-095 | ドライアド | andersen.sdu.dk/vaerk/hersholt/TheDryad_e.html, アンデルセン(1868) | 2026-05-18 |
+| andersen-096 | 妖精の丘 | andersen.sdu.dk/vaerk/hersholt/TheElfMound.html, andersenstories.com/en/andersen_fairy-tales/the_elf_mound, アンデルセン(1845) | 2026-05-26 |
+| andersen-097 | ホメロスの墓のバラ | andersen.sdu.dk/vaerk/hersholt/ARoseFromHomersGrave.html, andersenstories.com/en/andersen_fairy-tales/a_rose_from_homers_grave, アンデルセン(1842) | 2026-05-26 |
+| andersen-098 | 天国からの葉 | andersen.sdu.dk/vaerk/hersholt/ALeafFromHeaven.html, andersenstories.com/en/andersen_fairy-tales/a_leaf_from_heaven, アンデルセン(1853) | 2026-05-26 |
+| andersen-099 | 鐘の淵 | andersen.sdu.dk/vaerk/hersholt/TheBellDeep.html, hca.gilead.org.il/bell_dep.html, アンデルセン(1856) | 2026-05-26 |
+| andersen-100 | 彗星 | andersen.sdu.dk/vaerk/hersholt/TheComet.html, andersenstories.com/en/andersen_fairy-tales/the_comet, アンデルセン(1874) | 2026-05-26 |
 <!-- 出典追加時にここへ行を追加 -->
