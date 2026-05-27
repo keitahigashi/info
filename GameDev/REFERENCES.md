@@ -516,3 +516,8 @@
 | reference_fundamentals-game-economy-design.md | 2026-05-26 |
 | reference_emergent-mechanic-design-pcg.md | 2026-05-26 |
 | reference_how-game-developers-choose-leaders.md | 2026-05-26 |
+| reference_difficulty-motivation-game-design.md | 2026-05-27 |
+| reference_player-psychology-theory-framework.md | 2026-05-27 |
+| reference_level-design-art-principles.md | 2026-05-27 |
+| reference_level-design-procedural-integration.md | 2026-05-27 |
+| reference_factory-pattern-game-programming.md | 2026-05-27 |
