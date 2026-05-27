@@ -105,4 +105,9 @@
 | other-095 | アルダル・コセと貪欲な金持ち | カザフスタン民話（中央アジア口承文学） | en.wikipedia.org/wiki/Aldar_kose, asianfolktales.com/aldar-kose-and-the-greedy-rich-man-kazakh-folktale-teaching-cleverness-over-greed/ | 2026-05-19 |
 | other-096 | イクトミとコヨーテ | ラコタ族民話（ネイティブアメリカン） | worldhistory.org/article/2443/iktomi-tales/, en.wikipedia.org/wiki/Iktomi | 2026-05-19 |
 | other-097 | ヒタル・ペタルと金持ち地主 | ブルガリア民話（バルカン半島口承文学） | en.wikipedia.org/wiki/Hitar_Petar, priscillahowe.com/blog-five/2021/10/15/clever-kind-tricky-and-sly-a-bulgarian-folktale-sampler | 2026-05-19 |
+| other-098 | ポポカテペトルとイクスタシウアトル | メキシコ民話（アステカ／ナワトル族口承伝説） | en.wikipedia.org/wiki/Popocatépetl_and_Iztaccíhuatl, ancient-origins.net/myths-legends/popocatepetl-and-iztaccihuatl-tragic-romance-aztec-legend-005779 | 2026-05-27 |
+| other-099 | ガルーダと蛇の奴隷 | ヒンドゥー神話（マハーバーラタ第1巻「アーディパルヴァ」） | en.wikipedia.org/wiki/Garuda, ebsco.com/research-starters/religion-and-philosophy/myth-garuda | 2026-05-27 |
+| other-100 | プロメテウスの火 | 古代ギリシャ神話（ヘシオドス『神統記』・『仕事と日』、紀元前700年頃） | en.wikipedia.org/wiki/Prometheus, theoi.com/Titan/TitanPrometheus.html | 2026-05-27 |
+| other-101 | フィオンと知恵のサーモン | アイルランド神話（フィオナ・サイクル、中世ゲール語写本「ブオイレアン・フィオン」） | en.wikipedia.org/wiki/Salmon_of_Knowledge, irelandsmythsandlegends.com/the-salmon-of-knowledge | 2026-05-27 |
+| other-102 | ロキとドワーフの宝物 | 北欧神話（散文エッダ「スカルドスカパルマール」、スノッリ・ストゥルルソン、1220年頃） | en.wikipedia.org/wiki/Gifts_of_the_Dwarves, norse-mythology.org/tales/loki-and-the-dwarves/ | 2026-05-27 |
 <!-- 出典追加時にここへ行を追加 -->
