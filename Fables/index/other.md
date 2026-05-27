@@ -1,4 +1,4 @@
-# その他（97話）
+# その他（102話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -101,4 +101,9 @@
 | [other-095](../fables/other/other-095-aldar-kose-and-the-greedy-rich-man.md) | アルダル・コセと貪欲な金持ち | カザフスタン民話 | 知恵と正直さは富や権力に勝り、貪欲と傲慢は必ず自身の破滅を招く |
 | [other-096](../fables/other/other-096-iktomi-and-the-coyote.md) | イクトミとコヨーテ | ラコタ族民話 | 早合点して物事を当然視すると、逆に自分が笑い者になる |
 | [other-097](../fables/other/other-097-hitar-petar-outwits-the-rich.md) | ヒタル・ペタルと金持ち地主 | ブルガリア民話 | 知恵と機転は権力や財力に勝る武器であり、民衆の知恵は圧政を笑い飛ばす |
+| [other-098](../fables/other/other-098-popocatepetl-and-iztaccihuatl.md) | ポポカテペトルとイクスタシウアトル | メキシコ（アステカ/ナワトル伝承） | 真の愛は死をも超えて永遠に続くが、誤った知らせが悲劇を招く |
+| [other-099](../fables/other/other-099-garuda-and-the-serpents.md) | ガルーダと蛇の奴隷 | ヒンドゥー神話（マハーバーラタ） | 愛する者の自由のためならどんな試練にも立ち向かう勇気が、本当の強さである |
+| [other-100](../fables/other/other-100-prometheus-and-the-fire.md) | プロメテウスの火 | 古代ギリシャ神話（ヘシオドス） | 人類への深い愛から不義を冒した者は、その代償として永遠の苦しみを受ける |
+| [other-101](../fables/other/other-101-fionn-and-the-salmon-of-knowledge.md) | フィオンと知恵のサーモン | アイルランド神話（フィアナ・サイクル） | 真の知恵は意図せぬ契機から訪れ、素直に受け入れた者の運命を変える |
+| [other-102](../fables/other/other-102-loki-and-the-dwarves-treasures.md) | ロキとドワーフの宝物 | 北欧神話（散文エッダ） | 悪ふざけや欺きは賠償を迫られ、それを果たそうとする道程で思わぬ恵みが生まれる |
 <!-- 寓話追加時にここへ行を追加 -->
