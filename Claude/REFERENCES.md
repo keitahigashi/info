@@ -362,3 +362,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_weekly_updates_0523_saitoko.md | 2026-05-25 |
 | reference_project_glasswing_vulnerabilities_technoisy.md | 2026-05-25 |
 | reference_anthropic_surpasses_openai_technoisy.md | 2026-05-25 |
+| reference_claude_code_mcp_context_overload_laozhang.md | 2026-05-27 |
+| reference_claude_code_security_guidance_official_docs.md | 2026-05-27 |
+| reference_code_w_claude_london_2026_blog.md | 2026-05-27 |
+| reference_claude_code_security_guidance_zenn_shirochan.md | 2026-05-27 |
+| reference_claude_code_security_guidance_note_zephel01.md | 2026-05-27 |
