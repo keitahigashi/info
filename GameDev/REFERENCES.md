@@ -521,3 +521,8 @@
 | reference_level-design-art-principles.md | 2026-05-27 |
 | reference_level-design-procedural-integration.md | 2026-05-27 |
 | reference_factory-pattern-game-programming.md | 2026-05-27 |
+| reference_narrative-design-tips-i-wish-id-known.md | 2026-05-28 |
+| reference_dont-act-behave-neural-networks-game-ai.md | 2026-05-28 |
+| reference_fundamental-pillars-combat-system.md | 2026-05-28 |
+| reference_on-making-good-combat-mechanics-part1.md | 2026-05-28 |
+| reference_game-design-vs-story-playing-referee.md | 2026-05-28 |
