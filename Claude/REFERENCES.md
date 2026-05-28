@@ -367,3 +367,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_code_w_claude_london_2026_blog.md | 2026-05-27 |
 | reference_claude_code_security_guidance_zenn_shirochan.md | 2026-05-27 |
 | reference_claude_code_security_guidance_note_zephel01.md | 2026-05-27 |
+| reference_runway_mcp_gigazine_0528.md | 2026-05-28 |
+| reference_orcarouter_mcp_server_prtimes_0528.md | 2026-05-28 |
+| reference_claude_opus_48_release_zephel01.md | 2026-05-28 |
+| reference_claude_plan_change_june2026_aiadvisors.md | 2026-05-28 |
+| reference_claude_desktop_complete_guide_acntechjp.md | 2026-05-28 |
