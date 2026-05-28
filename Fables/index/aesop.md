@@ -1,4 +1,4 @@
-# イソップ寓話（346話）
+# イソップ寓話（353話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -350,4 +350,9 @@
 | [aesop-346](../fables/aesop/aesop-346-the-panther-and-the-shepherds.md) | ヒョウと羊飼いたち | 苦境にある者を傷つけた者は必ず報いを受け、慈悲を示した者は守られる |
 | [aesop-347](../fables/aesop/aesop-347-aesop-and-the-soothsayers.md) | イソップと占い師たち | 迷信や権威に惑わされず、現実を直視する実践的な知恵こそが問題を解決する |
 | [aesop-348](../fables/aesop/aesop-348-aesop-and-the-insolent-man.md) | イソップと無礼者 | 小さな成功に調子に乗って傲慢な行為を繰り返す者は、やがて身を滅ぼす |
+| [aesop-349](../fables/aesop/aesop-349-the-ass-and-the-priests-of-cybele.md) | ロバとキュベレーの神官たち | 不運な運命のもとに生まれた者は、生きているあいだも死んだあとも、過酷な宿命から逃れられない |
+| [aesop-350](../fables/aesop/aesop-350-socrates-and-his-friends.md) | ソクラテスの小さな家 | 真に信頼できる友人は極めて少なく、小さな家さえ真の友人で満たすことは難しい |
+| [aesop-351](../fables/aesop/aesop-351-the-fox-and-the-dragon.md) | キツネと竜 | 財宝を独り占めして使わない者は、その富から何も得ておらず、ただ番人をしているに過ぎない |
+| [aesop-352](../fables/aesop/aesop-352-the-bees-the-drones-and-the-wasp.md) | ミツバチと雄バチとスズメバチ | 真の能力は言葉ではなく行動で証明される。正当な試練から逃げる者は、その無力さを自ら証明している |
+| [aesop-353](../fables/aesop/aesop-353-the-two-bald-men.md) | 二人の禿頭 | 運が向いてきたと喜んでも、それが自分には何の役にも立たないものであれば、幸運は幸運ではない |
 <!-- 寓話追加時にここへ行を追加 -->

@@ -134,4 +134,10 @@
 | aesop-347 | イソップと占い師たち | Perry Index #495, パイドロス版 III-3, gutenberg.org/files/25512 | 2026-05-20 |
 | aesop-348 | イソップと無礼者 | Perry Index #497, パイドロス版 III-5, fablesofaesop.com, gutenberg.org/files/25512 | 2026-05-20 |
 
+| aesop-349 | ロバとキュベレーの神官たち | パイドロス版 IV-1（Asinus et Galli）, gutenberg.org/files/25512, roger-pearse.com | 2026-05-28 |
+| aesop-350 | ソクラテスの小さな家 | Perry Index #500, パイドロス版 III-9, mythfolklore.net/aesopica/oxford/94, gutenberg.org/files/25512 | 2026-05-28 |
+| aesop-351 | キツネと竜 | Perry Index #518, パイドロス版 IV-21, mythfolklore.net/aesopica/oxford/406, gutenberg.org/files/25512 | 2026-05-28 |
+| aesop-352 | ミツバチと雄バチとスズメバチ | Perry Index #504, パイドロス版 III-13, fablesofaesop.com/bees-drones-wasp, gutenberg.org/files/25512 | 2026-05-28 |
+| aesop-353 | 二人の禿頭 | Perry Index #528, パイドロス版 V-6, mythfolklore.net/aesopica/phaedrus/56, gutenberg.org/files/25512 | 2026-05-28 |
+
 <!-- 出典追加時にここへ行を追加 -->
