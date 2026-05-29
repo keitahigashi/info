@@ -526,3 +526,8 @@
 | reference_fundamental-pillars-combat-system.md | 2026-05-28 |
 | reference_on-making-good-combat-mechanics-part1.md | 2026-05-28 |
 | reference_game-design-vs-story-playing-referee.md | 2026-05-28 |
+| reference_designing-ui-hybrid-genre-games.md | 2026-05-29 |
+| reference_adaptive-ui-video-games.md | 2026-05-29 |
+| reference_dissecting-postmortem-two-years.md | 2026-05-29 |
+| reference_space-to-ground-level-design-scale.md | 2026-05-29 |
+| reference_affordance-design-half-life-2.md | 2026-05-29 |
