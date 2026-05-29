@@ -1,4 +1,4 @@
-# 日本昔話（95話）
+# 日本昔話（100話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -99,4 +99,9 @@
 | [japanese-093](../fables/japanese/japanese-093-the-snake-wife.md) | 蛇女房（へびにょうぼう） | 禁じられた約束を破ることは取り返しのつかない別離を招く。同時に、盲目になりながらも我が子に目玉を与え続けた母の、底知れぬ慈愛と自己犠牲を描く。 |
 | [japanese-094](../fables/japanese/japanese-094-kappa-written-apology.md) | 河童の詫び証文（かっぱのわびしょうもん） | 過ちを率直に認め、誓いを立てて誠実に守り続けることが信頼の回復につながる。また水辺の危険を伝える警告として、欲深い行いは必ず戒めを受けるという教訓を含む。 |
 | [japanese-095](../fables/japanese/japanese-095-stepchild-and-fish.md) | 継子と魚（ままこと魚） | 不当な扱いを受けても不平を言わず、知恵と忍耐で困難を乗り越える者には幸運が訪れる。身内の者を不当に差別することの道徳的な誤りを示す。 |
+| [japanese-096](../fables/japanese/japanese-096-kashiki-choja.md) | かしき長者 | 食べ物を粗末にしない「もったいない」の精神と、見返りを求めない無欲の善行が奇跡を呼ぶ。 |
+| [japanese-097](../fables/japanese/japanese-097-ryugu-doji.md) | 竜宮童子 | 外見の醜さに惑わされず誠実に向き合った者が福を得る一方、恩義を忘れて追い出した者はすべてを失う。 |
+| [japanese-098](../fables/japanese/japanese-098-torokashi-gusa.md) | とろかし草 | 根拠のない思い込みで行動する無謀さは取り返しのつかない結果を招く。大蛇の知恵が人間にも通用すると早合点した浅はかさが破滅を招く。 |
+| [japanese-099](../fables/japanese/japanese-099-sanboneda-no-kamisori-kitsune.md) | 三本枝のかみそり狐 | 「自分は騙されない」という過信こそが最大の隙になる。根拠のない思い込みで行動する短絡さは無実の者を傷つけかねず、見栄や強がりは視野を狭め判断を歪める。 |
+| [japanese-100](../fables/japanese/japanese-100-tano-kyu.md) | たのきゅう | 危機的状況でも冷静に相手の弱点を見極め、それを活かす行動力が報われる。身分や境遇を超えた機転の才覚こそが人を救い、福をもたらす。 |
 <!-- 寓話追加時にここへ行を追加 -->

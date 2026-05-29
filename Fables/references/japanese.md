@@ -101,4 +101,9 @@
 | japanese-093 | 蛇女房（へびにょうぼう） | folktalesjpn.com/folktale/0122/, 『川副町誌』（佐賀市）, まんが日本昔ばなし第0122話（1977年） | 2026-05-21 |
 | japanese-094 | 河童の詫び証文（かっぱのわびしょうもん） | uminominwa.jp/animation/20/, 『川崎風土記』（伊藤葦天, 1963年）, ja.wikipedia.org/wiki/河童 | 2026-05-21 |
 | japanese-095 | 継子と魚（ままこと魚） | 関敬吾編『日本昔話大成 第5巻』（角川書店, 1978年）分類番号222, minwanoheya.jp/genre/mamako/ | 2026-05-21 |
+| japanese-096 | かしき長者 | folktalesjpn.com/folktale/0049/, nihon.syoukoukai.com | 2026-05-29 |
+| japanese-097 | 竜宮童子 | www.city.tome.miyagi.jp/koshitu/tourism/library/mukashibanashi/tm_03.html, ja.wikipedia.org/wiki/竜宮童子 | 2026-05-29 |
+| japanese-098 | とろかし草 | arasuji-m.com/torokashigusa/, nihon.syoukoukai.com | 2026-05-29 |
+| japanese-099 | 三本枝のかみそり狐 | arasuji-m.com/sanbonedanokamisorigitsune/, nihon.syoukoukai.com | 2026-05-29 |
+| japanese-100 | たのきゅう | folktalesjpn.com/folktale/0006/, nihon.syoukoukai.com | 2026-05-29 |
 <!-- 出典追加時にここへ行を追加 -->
