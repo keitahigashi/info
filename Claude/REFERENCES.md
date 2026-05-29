@@ -372,3 +372,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_opus_48_release_zephel01.md | 2026-05-28 |
 | reference_claude_plan_change_june2026_aiadvisors.md | 2026-05-28 |
 | reference_claude_desktop_complete_guide_acntechjp.md | 2026-05-28 |
+| reference_claude_opus_48_gigazine_0529.md | 2026-05-29 |
+| reference_claude_opus_48_impress_0529.md | 2026-05-29 |
+| reference_claude_opus_48_weel_0529.md | 2026-05-29 |
+| reference_claude_opus_48_qiita_kaichan.md | 2026-05-29 |
+| reference_claude_opus_48_npaka_0529.md | 2026-05-29 |
