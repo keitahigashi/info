@@ -531,3 +531,8 @@
 | reference_dissecting-postmortem-two-years.md | 2026-05-29 |
 | reference_space-to-ground-level-design-scale.md | 2026-05-29 |
 | reference_affordance-design-half-life-2.md | 2026-05-29 |
+| reference_game-design-as-experience.md | 2026-05-30 |
+| reference_player-experience-centered-design.md | 2026-05-30 |
+| reference_design-101-design-goals.md | 2026-05-30 |
+| reference_emotional-storytelling-roki.md | 2026-05-30 |
+| reference_multithreaded-engine-architectures.md | 2026-05-30 |
