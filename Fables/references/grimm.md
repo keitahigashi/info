@@ -1,4 +1,4 @@
-# グリム童話 — 出典一覧（100話）
+# グリム童話 — 出典一覧（105話）
 
 [< 出典一覧に戻る](../REFERENCES.md)
 
@@ -107,4 +107,9 @@
 | grimm-098 | 黄金の山の王 | grimmstories.com/en/grimm_fairy-tales/the_king_of_the_golden_mountain, en.wikipedia.org/wiki/The_King_of_the_Golden_Mountain, KHM92 | 2026-05-22 |
 | grimm-099 | カラス | americanliterature.com/author/the-brothers-grimm/fairy-tale/the-raven, en.wikipedia.org/wiki/The_Raven_(Brothers_Grimm), KHM93 | 2026-05-22 |
 | grimm-100 | 三羽の小鳥 | grimmstories.com/en/grimm_fairy-tales/the_three_little_birds, en.wikipedia.org/wiki/The_Three_Little_Birds, KHM96 | 2026-05-22 |
+| grimm-101 | ハンスぼっちゃんはりねずみ | grimmdowaclub.net/khm108/, sites.pitt.edu/~dash/grimm108.html, en.wikipedia.org/wiki/Hans_My_Hedgehog, KHM108 | 2026-05-30 |
+| grimm-102 | 青いランプ | grimmdowaclub.net/khm116/, sites.pitt.edu/~dash/grimm116.html, en.wikipedia.org/wiki/The_Blue_Light_(fairy_tale), KHM116 | 2026-05-30 |
+| grimm-103 | キャベツろば | grimmdowaclub.net/khm122/, en.wikipedia.org/wiki/Donkey_Cabbages, americanliterature.com/author/the-brothers-grimm/fairy-tale/donkey-cabbages, KHM122 | 2026-05-30 |
+| grimm-104 | 狐と馬 | greenelement.xsrv.jp/kitsuneto-uma/, sites.pitt.edu/~dash/grimm132.html, grimmstories.com/ja/grimm_dowa/kitsune_to_uma, KHM132 | 2026-05-30 |
+| grimm-105 | どろぼうの名人 | grimmdowaclub.net/khm192/, en.wikipedia.org/wiki/The_Master_Thief, grimmstories.com/en/grimm_fairy-tales/the_master-thief, KHM192 | 2026-05-30 |
 <!-- 出典追加時にここへ行を追加 -->

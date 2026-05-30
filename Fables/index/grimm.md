@@ -1,4 +1,4 @@
-# グリム童話（100話）
+# グリム童話（105話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -104,4 +104,9 @@
 | [grimm-098](../fables/grimm/grimm-098-the-king-of-the-golden-mountain.md) | 黄金の山の王 | 試練を黙して耐え忍ぶことで真の実力が磨かれ、裏切りは必ず報いを受ける |
 | [grimm-099](../fables/grimm/grimm-099-the-raven.md) | カラス | 誘惑と怠惰に三度敗れても諦めずに立ち上がる忍耐こそが、最終的な救済への道を開く |
 | [grimm-100](../fables/grimm/grimm-100-the-three-little-birds.md) | 三羽の小鳥 | どれほど巧みに隠された嘘であっても真実は必ず明かされ、無実の者は守られ、悪意ある者は裁きを受ける |
+| [grimm-101](../fables/grimm/grimm-101-hans-my-hedgehog.md) | ハンスぼっちゃんはりねずみ | 約束を誠実に守る者は幸福を得るが、約束を破る者には相応の報いが訪れる |
+| [grimm-102](../fables/grimm/grimm-102-the-blue-light.md) | 青いランプ | 忠実に尽くした者が不当に切り捨てられた時、正義の回復は正当化される |
+| [grimm-103](../fables/grimm/grimm-103-donkey-cabbages.md) | キャベツろば | 欲に駆られた裏切りは相応の報いをもたらすが、真に改心した者には赦しと和解の可能性が残されている |
+| [grimm-104](../fables/grimm/grimm-104-the-fox-and-the-horse.md) | 狐と馬 | 長年の忠義を使い捨てにする者は恥じるべきであり、知恵ある友の助けを借りれば老いた弱者も試練を乗り越えられる |
+| [grimm-105](../fables/grimm/grimm-105-the-master-thief.md) | どろぼうの名人 | 並外れた知恵と技巧は賞賛に値するが、法の外で生きる者には社会の承認は与えられない |
 <!-- 寓話追加時にここへ行を追加 -->
