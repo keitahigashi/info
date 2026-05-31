@@ -1,4 +1,4 @@
-# 中国故事（91話）
+# 中国故事（106話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -105,4 +105,9 @@
 | [chinese-099](../fables/chinese/chinese-099-relieve-zhao-by-surrounding-wei.md) | 囲魏救趙 | 問題に正面から当たるより、敵の手薄な急所を突くことで状況を有利に転じる。直接対決を避けた迂回戦略が難局を打開する |
 | [chinese-100](../fables/chinese/chinese-100-dongshi-imitates-a-frown.md) | 東施効顰 | 本質を理解せず形だけを真似ることは、かえって滑稽な結果を招く。自分の本質を知り、それを活かすことが大切である |
 | [chinese-101](../fables/chinese/chinese-101-when-birds-are-gone-the-bow-is-stored.md) | 鳥尽弓蔵 | 役割を果たした者が用済みとして排除される権力の非情さを示す。功績を立てた後こそ、引き際を誤らない洞察と決断が生死を分ける |
+| [chinese-102](../fables/chinese/chinese-102-tian-ji-horse-race.md) | 田忌賽馬 | 同じ戦力でも配置の工夫次第で勝敗は逆転する。資源の優劣ではなく、戦略的な組み合わせこそが勝利を決定する |
+| [chinese-103](../fables/chinese/chinese-103-axe-before-lu-ban.md) | 班門弄斧 | 大家・名人の前で未熟な技を得意げに披露する愚かさを戒める。自分の実力を正しく知り、高みを前にして分をわきまえる謙虚さが大切である |
+| [chinese-104](../fables/chinese/chinese-104-crane-among-chickens.md) | 鶏群の一鶴 | 凡庸な多数の中にひときわ秀でた人物が存在することの喩え。容姿・人格・才能が群を抜く者の際立つ存在感を示す |
+| [chinese-105](../fables/chinese/chinese-105-repaying-kindness-tying-grass.md) | 結草報恩 | 受けた恩は死後でも必ず報いるという恩義の絶対性を説く。冷静な判断と人道的行為が、のちに予期せぬ形で報われることを示す |
+| [chinese-106](../fables/chinese/chinese-106-worry-before-enjoying.md) | 先憂後楽 | 指導者・公人は民の苦しみを先に心配し、民が楽しんだ後にはじめて自らが楽しむべきだという公共奉仕と自己犠牲の精神を説く |
 <!-- 寓話追加時にここへ行を追加 -->
