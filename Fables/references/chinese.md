@@ -109,4 +109,9 @@
 | chinese-099 | 囲魏救趙 | ja.wikipedia.org/wiki/囲魏救趙, ja.wikipedia.org/wiki/桂陵の戦い | 2026-05-23 |
 | chinese-100 | 東施効顰 | kotobank.jp/word/西施の顰みに倣う-545191, kanbun.info/koji/hisomi.html | 2026-05-23 |
 | chinese-101 | 鳥尽弓蔵 | idiom-encyclopedia.com/tyouzinkyuzou, kotobank.jp/word/飛鳥尽きて良弓蔵る-610643 | 2026-05-23 |
+| chinese-102 | 田忌賽馬 | ja.wikipedia.org/wiki/孫臏, syakaika-dojo.com/?p=1834 | 2026-05-31 |
+| chinese-103 | 班門弄斧 | dict.idioms.moe.edu.tw（成語典）, kotobank.jp | 2026-05-31 |
+| chinese-104 | 鶏群の一鶴 | kanbun.info/koji/keigun.html, proverb-encyclopedia.com/keigunnoikaku/ | 2026-05-31 |
+| chinese-105 | 結草報恩 | epochtimes.com/b5/8/10/16/n2298901.htm, 『春秋左氏伝』宣公十五年 | 2026-05-31 |
+| chinese-106 | 先憂後楽 | ja.wikipedia.org/wiki/范仲淹, ats5396.xsrv.jp/5945-2/ | 2026-05-31 |
 <!-- 出典追加時にここへ行を追加 -->
