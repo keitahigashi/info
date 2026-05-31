@@ -384,3 +384,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_dynamic_workflows_kai_kou.md | 2026-05-30 |
 | reference_dynamic_workflows_intro_arufian.md | 2026-05-30 |
 | reference_claude_md_karpathy_operation_4qsano.md | 2026-05-30 |
+| reference_claude_opus_48_effort_context_classmethod.md | 2026-05-31 |
+| reference_claude_code_dynamic_workflows_npaka.md | 2026-05-31 |
+| reference_claude_code_dynamic_workflows_canly.md | 2026-05-31 |
+| reference_dynamic_workflows_env_var_pitfall_leven_e.md | 2026-05-31 |
+| reference_claude_opus_48_effort_api_kai_kou.md | 2026-05-31 |
