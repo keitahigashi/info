@@ -536,3 +536,8 @@
 | reference_design-101-design-goals.md | 2026-05-30 |
 | reference_emotional-storytelling-roki.md | 2026-05-30 |
 | reference_multithreaded-engine-architectures.md | 2026-05-30 |
+| reference_effective-procgen-kazemi.md | 2026-05-31 |
+| reference_procgen-primer-for-devs.md | 2026-05-31 |
+| reference_elegance-engagement-design.md | 2026-05-31 |
+| reference_postmortem-toem.md | 2026-05-31 |
+| reference_meaningful-engaging-mechanics.md | 2026-05-31 |
