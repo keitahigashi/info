@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(rm \"D:/020_Work/05_environment/01_active/Info/Claude/.claude/skills/collect/SKILL.md\")",
-      "Bash(rmdir \"D:/020_Work/05_environment/01_active/Info/Claude/.claude/skills/collect\")"
-    ]
-  }
-}
