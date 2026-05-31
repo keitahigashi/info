@@ -382,3 +382,5 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_ultracode_beginners_tolove.md | 2026-05-30 |
 | reference_claude_opus_48_whatsnew_nolanlover.md | 2026-05-30 |
 | reference_claude_code_dynamic_workflows_kai_kou.md | 2026-05-30 |
+| reference_dynamic_workflows_intro_arufian.md | 2026-05-30 |
+| reference_claude_md_karpathy_operation_4qsano.md | 2026-05-30 |
