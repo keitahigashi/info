@@ -541,3 +541,8 @@
 | reference_elegance-engagement-design.md | 2026-05-31 |
 | reference_postmortem-toem.md | 2026-05-31 |
 | reference_meaningful-engaging-mechanics.md | 2026-05-31 |
+| reference_ux-alleviating-interface-burdens.md | 2026-06-01 |
+| reference_basic-ui-ux-principles-game-designers.md | 2026-06-01 |
+| reference_composition-in-level-design.md | 2026-06-01 |
+| reference_examining-game-pace-levels.md | 2026-06-01 |
+| reference_three-ds-narrative-design.md | 2026-06-01 |
