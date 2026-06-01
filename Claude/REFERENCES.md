@@ -389,3 +389,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_dynamic_workflows_canly.md | 2026-05-31 |
 | reference_dynamic_workflows_env_var_pitfall_leven_e.md | 2026-05-31 |
 | reference_claude_opus_48_effort_api_kai_kou.md | 2026-05-31 |
+| reference_claude_opus48_nogataka_design_philosophy.md | 2026-06-01 |
+| reference_dynamic_workflows_1000agents_emi_ndk.md | 2026-06-01 |
+| reference_claude_code_pricing_shift_june2026_sanpi34.md | 2026-06-01 |
+| reference_claude_code_weekly_update_0530_saitoko.md | 2026-06-01 |
+| reference_claude_opus48_summary_may2026_htani0817.md | 2026-06-01 |
