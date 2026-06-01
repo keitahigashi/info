@@ -1,4 +1,4 @@
-# インド寓話（114話）
+# インド寓話（119話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -118,4 +118,9 @@
 | [indian-112](../fables/indian/indian-112-the-black-monkey-kalabahu-jataka.md) | 黒猿物語 | 世の栄辱・得失は常に移ろうものであり、それに心を揺らさない平静こそが真の智慧である |
 | [indian-113](../fables/indian/indian-113-the-rooster-and-the-hawk-kukkuta-jataka.md) | 雄鶏物語 | 危険な意図を持つ者を素早く見抜き、偽りの友好を毅然と断ることで身を守れる |
 | [indian-114](../fables/indian/indian-114-the-elephant-and-the-dog-abhinha-jataka.md) | 象と犬の友情 | 真の友情は種や身分を超え、友を失った悲しみは生命の根幹を揺るがすほどに深い |
+| [indian-115](../fables/indian/indian-115-kisa-gotami-and-the-mustard-seed.md) | キサ・ゴータミーとからしの種 | 死は万人に平等に訪れる普遍の真理であり、その受容こそが悲嘆からの解放への第一歩である |
+| [indian-116](../fables/indian/indian-116-the-ass-in-the-tigers-skin.md) | ライオンの皮をかぶったロバ | どれほど巧みに偽りの衣をまとっても、本性は必ずどこかで露呈し、その瞬間に破滅を招く |
+| [indian-117](../fables/indian/indian-117-the-brahmin-goat-and-three-rogues.md) | バラモンとヤギと三人の詐欺師 | 同じ嘘を異なる者から繰り返し聞かされると、たとえ賢い者でも疑念に負けて真実を見失う |
+| [indian-118](../fables/indian/indian-118-angulimala-the-reformed-killer.md) | アンガリマーラ（指鬘の殺人者の改悔） | どれほど深い罪を犯した者でも、真に悔い改め正しい道に入れば救済の道は開かれている |
+| [indian-119](../fables/indian/indian-119-churning-of-the-ocean-of-milk.md) | 乳海撹拌 | 真の利益は敵対する者同士でさえ力を合わせなければ得られないことがあるが、協力の果実を独り占めしようとする欲は必ず裏切りを生む |
 <!-- 寓話追加時にここへ行を追加 -->

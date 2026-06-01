@@ -124,4 +124,10 @@
 | indian-113 | 雄鶏物語 | j-theravada.com/jataka/jataka109/ | 2026-05-24 |
 | indian-114 | 象と犬の友情 | india-a2z.com/elephant-and-the-dog.html, etc.usf.edu/lit2go, thejatakatales.com/abhinha-jataka-27/ | 2026-05-24 |
 
+| indian-115 | キサ・ゴータミーとからしの種 | true-buddhism.com/founder/kisagotami/, sujaata.net/terakoya/post-1690/ | 2026-06-01 |
+| indian-116 | ライオンの皮をかぶったロバ | en.wikisource.org（パンチャタントラ第4巻）, ancient-buddhist-texts.net/English-Texts/Jataka/189.htm | 2026-06-01 |
+| indian-117 | バラモンとヤギと三人の詐欺師 | talesofpanchatantra.com/the-brahmin-and-the-crooks, mythfolklore.blogspot.com | 2026-06-01 |
+| indian-118 | アンガリマーラ（指鬘の殺人者の改悔） | ja.wikipedia.org/wiki/アングリマーラ, true-buddhism.com/founder/angulimala/ | 2026-06-01 |
+| indian-119 | 乳海撹拌 | ja.wikipedia.org/wiki/乳海攪拌, pitt.jp/report/cbd-som.php | 2026-06-01 |
+
 <!-- 出典追加時にここへ行を追加 -->
