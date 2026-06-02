@@ -118,4 +118,9 @@
 | african-103 | 溶けてしまった太った女 | worldoftales.com/African_folktales/Nigerian_folktale_24.html, Dayrell『Folk Stories from Southern Nigeria』(1910) 第24話 | 2026-05-25 |
 | african-104 | 美しい娘と7人の嫉妬深い女たち | worldoftales.com/African_folktales/Nigerian_folktale_30.html, Dayrell『Folk Stories from Southern Nigeria』(1910) 第30話 | 2026-05-25 |
 | african-105 | 夫婦とライオン | anikefoundation.org/african-folktales/the-couple-and-the-lion, ケニア・マンデラ地方口承 | 2026-05-25 |
+| african-106 | ジャッカルが縞模様を持つ理由 | worldoftales.com/African_folktales/African_Folktale_19.html, fairytalez.com/how-the-jackal-got-his-stripe/ (Metelerkamp『Outa Karel's Stories』1914) | 2026-06-02 |
+| african-107 | 医師の息子とヘビの王 | worldoftales.com/African_folktales/African_Folktale_48.html, en.wikisource.org/wiki/Swahili_Tales/The_Story_of_Hasseebu_Kareem_ed_Deen_and_the_King_of_the_Snakes (Bateman『Zanzibar Tales』1901) | 2026-06-02 |
+| african-108 | 二つの町の戦いを引き起こした雄鶏 | sacred-texts.com/afr/fssn/fsn23.htm, fairytalez.com（Dayrell『Folk Stories from Southern Nigeria』1910） | 2026-06-02 |
+| african-109 | サギが曲がった首を持つ理由 | worldoftales.com/African_folktales/African_Folktale_23.html, fairytalez.com/why-the-heron-has-a-crooked-neck/ (Metelerkamp『Outa Karel's Stories』1914) | 2026-06-02 |
+| african-110 | 教師ゴソ | worldoftales.com/African_folktales/African_Folktale_43.html, en.wikisource.org/wiki/Swahili_Tales/Goso_the_Teacher (Bateman『Zanzibar Tales』1901) | 2026-06-02 |
 <!-- 出典追加時にここへ行を追加 -->

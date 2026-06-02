@@ -1,4 +1,4 @@
-# アフリカ民話（95話）
+# アフリカ民話（110話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -109,4 +109,9 @@
 | [african-103](../fables/african/african-103-the-fat-woman-who-melted-away.md) | 溶けてしまった太った女 | 他者の嫉妬や社会的な圧力に屈して自分の本質から引き離されることは消滅を招く。愛情深い者の守りと忍耐は失われたものを取り戻す力を持つ |
 | [african-104](../fables/african/african-104-the-pretty-girl-and-seven-jealous-women.md) | 美しい娘と7人の嫉妬深い女たち | 他者の美しさへの嫉妬は欺きと陰謀を生み出し、最終的には欺いた者自身の破滅を招く。正義は被害者の救済と加害者への厳しい報いという形で実現される |
 | [african-105](../fables/african/african-105-the-couple-and-the-lion.md) | 夫婦とライオン | 機知と過去の教訓は物理的な力に勝る。一度手痛い経験をした者はその原因を生涯恐れ、状況判断と知恵は数の力を凌駕することがある |
+| [african-106](../fables/african/african-106-how-the-jackal-got-his-stripe.md) | ジャッカルが縞模様を持つ理由 | 貪欲な企みは必ず自分に返ってくる。欺こうとする者は永遠にその代償を負う |
+| [african-107](../fables/african/african-107-the-physicians-son-and-the-king-of-the-snakes.md) | 医師の息子とヘビの王 | 恩を受けた者への忠誠と警告を守ること。裏切りや不誠実は必ず滅びをもたらす |
+| [african-108](../fables/african/african-108-the-cock-who-caused-a-fight-between-two-towns.md) | 二つの町の戦いを引き起こした雄鶏 | 悪意ある嘘と嫉妬は、些細な誤解を取り返しのつかない惨禍へと変える |
+| [african-109](../fables/african/african-109-why-the-heron-has-a-crooked-neck.md) | サギが曲がった首を持つ理由 | 危険な相手に対しては用心を怠るな。親切心も油断を許す隙になりうる |
+| [african-110](../fables/african/african-110-goso-the-teacher.md) | 教師ゴソ | 一つの軽率な行為が思わぬ連鎖を生み、取り返しのつかない結果をもたらすことがある |
 <!-- 寓話追加時にここへ行を追加 -->
