@@ -445,4 +445,12 @@ Zenn Book「コードを書けない私が、AIに『チーム』を持たせる
 Routinesは「プロンプト＋リポジトリ＋コネクター」をクラウドで自動実行（ローカル不要）。①スケジュール（最小1時間間隔・ワンショット機能あり）②GitHubイベント（PR作成/ラベル・リリース、条件フィルタ可）③APIトリガー（POSTリクエストで即時起動）の3種。プラン別上限: Pro=5回/日・Max=15回/日・Team/Enterprise=25回/日（超過は従量課金）。実務パターン5選: 朝のバックログ整理・デプロイ後スモークテスト・PR自動レビュー・週次ドキュメント鮮度チェック・SDK並行ポート。Desktop Appリデザイン（Week 16-17）でセッションサイドバー・ルーティンズビュー・カスタムテーマが追加。ガバナンス設計: CLAUDE.mdに「本番ブランチpush禁止・500行超でドラフト停止」を明記、Individual accountに紐付くため専用サービスアカウント推奨。
 > 詳細: references/reference_claude_code_routines_desktop_redesign_uravation.md を参照
 
+### Dynamic Workflows を技術的に整理：JS生成・1,000並列・別エージェント検証の3層構造（自動収集 2026-06-02）
+Claude Code Dynamic WorkflowsはClaudeが自動生成したJavaScriptオーケストレーションスクリプトで最大1,000サブエージェントを並列実行する仕組み。①複雑計画のJS化（コンテキスト外に移管しメイン圧迫を回避）②独立サブエージェントの並列処理 ③別エージェントによる検証レビュー、の3層構造。適用領域：コードベース監査・大規模マイグレーション・クリティカルな検証。実績：BunのZig→Rustポート約75万行を約6日で完了。制限：Research Preview・Max/Team/Enterprise限定・高コスト。利用開始はUltracodeモード有効化→確認ダイアログ→小規模スコープから開始を推奨。
+> 詳細: references/reference_claude_code_dw_technical_octopool.md を参照
+
+### Dynamic WorkflowsとSubagentsの違い：「処理構造をコードで宣言する」本質と使い分け基準（自動収集 2026-06-02）
+Dynamic Workflowsの本質は「処理構造をコードで宣言する」こと。Subagentsが「Claudeがその場で判断・柔軟実行」なのに対し、Dynamic Workflowsは「段取りはコードで確定、中身はAIで柔軟」という確信度向上が主な価値（速度は副産物）。使い分け：スキル=繰り返し定型処理、サブエージェント=単発・探索的、Dynamic Workflows=大規模並列・品質保証必要。コスト削減の観点では「タスクが明確に分解可能かつ独立性が高い場合のみ選択」し、探索的タスクはSubagentsで十分。
+> 詳細: references/reference_claude_code_dw_vs_subagents_morphox.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
