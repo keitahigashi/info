@@ -546,3 +546,8 @@
 | reference_composition-in-level-design.md | 2026-06-01 |
 | reference_examining-game-pace-levels.md | 2026-06-01 |
 | reference_three-ds-narrative-design.md | 2026-06-01 |
+| reference_gdc-2012-ocean-psychology-game-design.md | 2026-06-02 |
+| reference_case-for-game-design-patterns.md | 2026-06-02 |
+| reference_depth-mastery-game-mechanics.md | 2026-06-02 |
+| reference_asymmetrical-overbalance-game-design.md | 2026-06-02 |
+| reference_compelling-core-mechanics-design.md | 2026-06-02 |
