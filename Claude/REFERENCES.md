@@ -394,3 +394,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_pricing_shift_june2026_sanpi34.md | 2026-06-01 |
 | reference_claude_code_weekly_update_0530_saitoko.md | 2026-06-01 |
 | reference_claude_opus48_summary_may2026_htani0817.md | 2026-06-01 |
+| reference_anthropic_ipo_s1_impress_0602.md | 2026-06-02 |
+| reference_fujitsu_anthropic_partnership_itmedia.md | 2026-06-02 |
+| reference_claude_code_dw_technical_octopool.md | 2026-06-02 |
+| reference_ai_updates_june2026_uravation.md | 2026-06-02 |
+| reference_claude_code_dw_vs_subagents_morphox.md | 2026-06-02 |
