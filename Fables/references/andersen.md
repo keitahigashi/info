@@ -107,4 +107,9 @@
 | andersen-098 | 天国からの葉 | andersen.sdu.dk/vaerk/hersholt/ALeafFromHeaven.html, andersenstories.com/en/andersen_fairy-tales/a_leaf_from_heaven, アンデルセン(1853) | 2026-05-26 |
 | andersen-099 | 鐘の淵 | andersen.sdu.dk/vaerk/hersholt/TheBellDeep.html, hca.gilead.org.il/bell_dep.html, アンデルセン(1856) | 2026-05-26 |
 | andersen-100 | 彗星 | andersen.sdu.dk/vaerk/hersholt/TheComet.html, andersenstories.com/en/andersen_fairy-tales/the_comet, アンデルセン(1874) | 2026-05-26 |
+| andersen-101 | フェニックス鳥 | andersen.sdu.dk/vaerk/hersholt/ThePhoenixBird_e.html, andersenstories.com/en/andersen_fairy-tales/the_phoenix_bird, アンデルセン(1850) | 2026-06-03 |
+| andersen-102 | 嵐が看板を動かした | andersenstories.com/en/andersen_fairy-tales/the_storm_shifts_the_signboards, en.wikisource.org/wiki/Fairy_tales_and_stories_(Andersen,_Tegner)/The_Storm_Shifts_the_Sign-boards, アンデルセン(1865) | 2026-06-03 |
+| andersen-103 | アヒルの庭で | andersenstories.com/en/andersen_fairy-tales/in_the_duck_yard, gutenberg.ca/ebooks/andersen-duck/andersen-duck-00-h.html, アンデルセン(1861) | 2026-06-03 |
+| andersen-104 | 曜日たち | andersen.sdu.dk/vaerk/hersholt/TheDaysOfTheWeek_e.html, hcandersen-homepage.dk/?page_id=2271, アンデルセン(1868) | 2026-06-03 |
+| andersen-105 | 名付け親の絵本 | andersen.sdu.dk/vaerk/hersholt/GodfathersPictureBook_e.html, hcandersen-homepage.dk/?page_id=2401, アンデルセン(1868) | 2026-06-03 |
 <!-- 出典追加時にここへ行を追加 -->
