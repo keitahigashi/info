@@ -1,4 +1,4 @@
-# アンデルセン童話（95話）
+# アンデルセン童話（105話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -104,4 +104,9 @@
 | [andersen-098](../fables/andersen/andersen-098-a-leaf-from-heaven.md) | 天国からの葉 | 無知と傲慢は神からの贈り物を見過ごすが、清らかな信仰を持つ魂だけが真の価値を見いだすことができる |
 | [andersen-099](../fables/andersen/andersen-099-the-bell-deep.md) | 鐘の淵 | 人の行いや思いは消えることなく、空気という目に見えない媒体を通じて永遠に響き渡り、天まで伝わる |
 | [andersen-100](../fables/andersen/andersen-100-the-comet.md) | 彗星 | 善く生き、学び続けた時間の積み重ねは魂を彗星よりも高い場所へ運ぶ |
+| [andersen-101](../fables/andersen/andersen-101-the-phoenix-bird.md) | フェニックス鳥 | 詩や芸術は死と再生を繰り返しながら永遠に生き続ける。創造の炎が燃え尽きても、そこから必ず新しい美しさが生まれる |
+| [andersen-102](../fables/andersen/andersen-102-the-storm-shifts-the-signboards.md) | 嵐が看板を動かした | 外見や肩書きだけで物事や人を判断することの危うさを諷刺する。社会的ラベルがいかに恣意的で脆いかを嵐が暴き出す |
+| [andersen-103](../fables/andersen/andersen-103-in-the-duck-yard.md) | アヒルの庭で | 善意を装いながら支配しようとする傲慢さは真の親切とは無縁である。社会の偽善と弱者への無関心が鋭く批判されている |
+| [andersen-104](../fables/andersen/andersen-104-the-days-of-the-week.md) | 曜日たち | それぞれ異なる個性を持つ存在が役割を担いながら協調することで社会は成り立つ。多様性と調和の価値を軽やかに謳う |
+| [andersen-105](../fables/andersen/andersen-105-godfathers-picture-book.md) | 名付け親の絵本 | 歴史を語り継ぐことは文化的記憶を次世代へ渡す崇高な行為である。苦難と再生を繰り返すなかで「真・善・美は必ず勝つ」という希望が人々を結び付ける |
 <!-- 寓話追加時にここへ行を追加 -->
