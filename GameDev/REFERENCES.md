@@ -551,3 +551,8 @@
 | reference_depth-mastery-game-mechanics.md | 2026-06-02 |
 | reference_asymmetrical-overbalance-game-design.md | 2026-06-02 |
 | reference_compelling-core-mechanics-design.md | 2026-06-02 |
+| reference_ai-in-games-depth.md | 2026-06-03 |
+| reference_point-based-storytelling-implied-narrative.md | 2026-06-03 |
+| reference_practical-guide-game-writing.md | 2026-06-03 |
+| reference_last-humble-bee-postmortem-solo-dev.md | 2026-06-03 |
+| reference_implicit-explicit-narrative-case-study.md | 2026-06-03 |
