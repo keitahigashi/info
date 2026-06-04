@@ -1,4 +1,4 @@
-# 日本の格言・名言（38件）
+# 日本の格言・名言（40件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -42,3 +42,5 @@
 | [japanese-036](../maxims/japanese/japanese-036-worship-of-the-imperfect.md) | 茶道の要義は不完全なるものを崇拝するにある | 岡倉天心 | 『茶の本』（1906年）第一章 |
 | [japanese-037](../maxims/japanese/japanese-037-no-path-but-this-one.md) | この道より我を生かす道なし この道を歩く | 武者小路実篤 | 詩「この道」（『武者小路実篤詩集』所収） |
 | [japanese-038](../maxims/japanese/japanese-038-greatest-legacy-to-posterity.md) | 後世への最大遺物は、勇ましい高尚なる生涯である | 内村鑑三 | 『後世への最大遺物』（1894年講演／1897年刊） |
+| [japanese-039](../maxims/japanese/japanese-039-show-tell-let-them-do-praise.md) | やってみせ、言って聞かせて、させてみせ、ほめてやらねば、人は動かじ | 山本五十六（伝） | 山本五十六の言葉として伝わる（一次典拠不確実・原型は上杉鷹山の教え） |
+| [japanese-040](../maxims/japanese/japanese-040-the-diligent-speak-of-hope.md) | 努力する人は希望を語り、怠ける人は不満を語る | 井上靖 | 井上靖の言葉として伝わる（『氷壁』由来とする説あり・一次典拠未確認） |

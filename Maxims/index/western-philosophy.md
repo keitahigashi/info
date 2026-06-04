@@ -1,4 +1,4 @@
-# 西洋哲学（50件）
+# 西洋哲学（51件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -54,3 +54,4 @@
 | [western-philosophy-048](../maxims/western-philosophy/western-philosophy-048-falsifiability-criterion.md) | 考えうる出来事によって反駁されえない理論は非科学的である | カール・ポパー | 『推測と反駁』第1章 |
 | [western-philosophy-049](../maxims/western-philosophy/western-philosophy-049-amor-fati.md) | 人間の偉大さについての私の定式は運命愛である | フリードリヒ・ニーチェ | 『この人を見よ』第10節 |
 | [western-philosophy-050](../maxims/western-philosophy/western-philosophy-050-citizen-of-the-world.md) | どこの出身かと問われて、彼は「世界市民である」と答えた | ディオゲネス（シノペの） | ディオゲネス・ラエルティオス『哲学者列伝』第6巻63節 |
+| [western-philosophy-051](../maxims/western-philosophy/western-philosophy-051-the-snake-which-cannot-shed-its-skin.md) | 脱皮できない蛇は滅びる | フリードリヒ・ニーチェ | 『曙光』第573番 |

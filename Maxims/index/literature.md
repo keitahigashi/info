@@ -1,4 +1,4 @@
-# 文学の名言（40件）
+# 文学の名言（41件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -44,3 +44,4 @@
 | [literature-038](../maxims/literature/literature-038-puedo-escribir-los-versos.md) | 今夜、私はもっとも悲しい詩を書くことができる。 | パブロ・ネルーダ | 『二十の愛の詩と一つの絶望の歌』詩20 |
 | [literature-039](../maxims/literature/literature-039-takekurabe-opening.md) | 廻れば大門の見返り柳いと長けれど。 | 樋口一葉 | 『たけくらべ』冒頭 |
 | [literature-040](../maxims/literature/literature-040-lamor-che-move-il-sole.md) | 太陽とその他の星々を動かす愛。 | ダンテ・アリギエーリ | 『神曲』天国篇 第33歌 |
+| [literature-041](../maxims/literature/literature-041-la-perfection-est-atteinte.md) | 完璧とは、付け加えるべきものが何もなくなった時ではなく、取り去るべきものが何もなくなった時に達成される | アントワーヌ・ド・サン＝テグジュペリ | 『人間の土地』第3章 |

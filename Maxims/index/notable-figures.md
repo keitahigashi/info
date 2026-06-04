@@ -1,4 +1,4 @@
-# 著名人の言葉（38件）
+# 著名人の言葉（51件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -42,3 +42,16 @@
 | [notable-figures-036](../maxims/notable-figures/notable-figures-036-i-will-be-a-hummingbird.md) | 私はハチドリになろう。できる限りのことをするのだ | ワンガリ・マータイ | ドキュメンタリー『DIRT! The Movie』（2009年） |
 | [notable-figures-037](../maxims/notable-figures/notable-figures-037-courage-is-the-price.md) | 勇気とは、安らぎを得るために人生が課す代償である | アメリア・イアハート | 詩「勇気」（1928年） |
 | [notable-figures-038](../maxims/notable-figures/notable-figures-038-no-courage-to-attempt-anything.md) | もし何かを試みる勇気がなかったら、人生とはいったい何だろう | フィンセント・ファン・ゴッホ | 弟テオ宛書簡（1881年） |
+| [notable-figures-039](../maxims/notable-figures/notable-figures-039-poor-poorer-rich-less-rich.md) | 貧者がより貧しくなろうとも、富者がより富まないほうがよい——彼らはそう考えている | マーガレット・サッチャー | 英国下院 最後の演説（1990年） |
+| [notable-figures-040](../maxims/notable-figures/notable-figures-040-done-is-better-than-perfect.md) | 完璧を目指すより、まず終わらせろ | マーク・ザッカーバーグ | Facebook「The Hacker Way」（2012年, S-1株主宛書簡） |
+| [notable-figures-041](../maxims/notable-figures/notable-figures-041-take-a-lot-of-words-give-it-more-thought.md) | もし考えていることを伝えるのに沢山の言葉を必要とするなら、もっと深く考えなさい | デニス・ロシュ | 帰属未確定（引用サイトで流布） |
+| [notable-figures-042](../maxims/notable-figures/notable-figures-042-nation-gets-the-government-it-deserves.md) | すべての国民は、その身の丈に合った政府を持つ | ジョゼフ・ド・メーストル | 書簡（1811年）／カーライル等への帰属は誤り |
+| [notable-figures-043](../maxims/notable-figures/notable-figures-043-meeting-of-two-personalities.md) | 二つの人格の出会いは、二つの化学物質の接触のようなものだ | カール・グスタフ・ユング | 『現代人の魂の探求』（1933年） |
+| [notable-figures-044](../maxims/notable-figures/notable-figures-044-where-love-rules-no-will-to-power.md) | 愛の支配するところに権力欲は存在しない。両者はお互いの影なのだ | カール・グスタフ・ユング | 『無意識の心理学について』（1917年） |
+| [notable-figures-045](../maxims/notable-figures/notable-figures-045-children-educated-by-what-grownup-is.md) | 子供たちは、大人の話ではなく、大人のあり方によって教えられる | カール・グスタフ・ユング | 帰属広く流布（一次典拠は諸説あり） |
+| [notable-figures-046](../maxims/notable-figures/notable-figures-046-cannot-change-until-we-accept.md) | 受け入れることなしに、何も変えることはできない | カール・グスタフ・ユング | 帰属広く流布（一次典拠は諸説あり） |
+| [notable-figures-047](../maxims/notable-figures/notable-figures-047-everything-that-irritates-us-about-others.md) | 私たちを苛つかせる他人の行動は、私たち自身についての理解を深めてくれる | カール・グスタフ・ユング | 『思い出・夢・思想』とされる（諸説あり） |
+| [notable-figures-048](../maxims/notable-figures/notable-figures-048-world-ruthless-cruel-divine-beauty.md) | われわれの生まれてきた世界は無慈悲で残酷であり、そして同時に神聖な美しさを持っている | カール・グスタフ・ユング | 自伝『思い出・夢・思想』（1962年） |
+| [notable-figures-049](../maxims/notable-figures/notable-figures-049-shoe-that-fits-one-pinches-another.md) | ある人に合う靴も、別の人には窮屈なものである | カール・グスタフ・ユング | 『現代人の魂の探求』（1933年） |
+| [notable-figures-050](../maxims/notable-figures/notable-figures-050-problem-you-do-not-face-meets-you-as-fate.md) | あなたが向き合わなかった問題は、いずれ運命として出会うことになる | カール・グスタフ・ユング | 通俗的言い換え（原典『アイオーン』） |
+| [notable-figures-051](../maxims/notable-figures/notable-figures-051-in-all-chaos-there-is-a-cosmos.md) | 全ての混沌には調和が、無秩序の中には秘められた秩序がある | カール・グスタフ・ユング | 『元型論』（Collected Works vol.9i） |

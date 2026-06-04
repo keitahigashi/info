@@ -44,3 +44,4 @@
 | literature-038 | 今夜、私はもっとも悲しい詩を書くことができる。 | パブロ・ネルーダ | poesi.as, culturagenial.com | 2026-06-04 |
 | literature-039 | 廻れば大門の見返り柳いと長けれど。 | 樋口一葉 | aozora.gr.jp, jun-bungaku.jp | 2026-06-04 |
 | literature-040 | 太陽とその他の星々を動かす愛。 | ダンテ・アリギエーリ | dantelab.dartmouth.edu, it.wikipedia.org | 2026-06-04 |
+| literature-041 | 完璧とは、付け加えるべきものが何もなくなった時ではなく、取り去るべきものが何もなくなった時に達成される | アントワーヌ・ド・サン＝テグジュペリ | fr.wikisource.org, en.wikiquote.org | 2026-06-04 |

@@ -54,3 +54,4 @@
 | western-philosophy-048 | 考えうる出来事によって反駁されえない理論は非科学的である | カール・ポパー | iep.utm.edu, plato.stanford.edu | 2026-06-04 |
 | western-philosophy-049 | 人間の偉大さについての私の定式は運命愛である | フリードリヒ・ニーチェ | zeno.org, en.wikipedia.org | 2026-06-04 |
 | western-philosophy-050 | どこの出身かと問われて、彼は「世界市民である」と答えた | ディオゲネス（シノペの） | perseus.tufts.edu, plato.stanford.edu | 2026-06-04 |
+| western-philosophy-051 | 脱皮できない蛇は滅びる | フリードリヒ・ニーチェ | zeno.org, en.wikiquote.org | 2026-06-04 |
