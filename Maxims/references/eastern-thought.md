@@ -44,3 +44,13 @@
 | eastern-thought-038 | 蓮は泥より出でて泥に染まらず | 周敦頤 | zh.wikisource.org, dugushici.com | 2026-06-04 |
 | eastern-thought-039 | 読書に三到あり、心到・眼到・口到と謂う | 朱熹 | gushiwen.cn, dugushici.com | 2026-06-04 |
 | eastern-thought-040 | 平常心是れ道 | 南泉普願 | nakano-zenjuku.com, rinnou.net | 2026-06-04 |
+| eastern-thought-041 | 朝に道を聞かば、夕べに死すとも可なり | 孔子 | ctext.org, ja.wikisource.org | 2026-06-04 |
+| eastern-thought-042 | 君子は和して同ぜず、小人は同じて和せず | 孔子 | ctext.org, ja.wikisource.org | 2026-06-04 |
+| eastern-thought-043 | 富貴も淫する能わず、貧賤も移す能わず、威武も屈する能わず | 孟子（孟軻） | ctext.org, zh.wikisource.org | 2026-06-04 |
+| eastern-thought-044 | 学を為せば日に益し、道を為せば日に損す（無為而無不為） | 老子 | ctext.org, zh.wikisource.org | 2026-06-04 |
+| eastern-thought-045 | 至人は己無く、神人は功無く、聖人は名無し | 荘子（荘周） | ctext.org, zh.wikisource.org | 2026-06-04 |
+| eastern-thought-046 | 諸行は無常なり、是れ生滅の法なり（諸行無常偈） | 曇無讖（漢訳） | ja.wikipedia.org, cbetaonline.dila.edu.tw | 2026-06-04 |
+| eastern-thought-047 | 一切衆生、悉く仏性有り | 曇無讖（漢訳） | ja.wiktionary.org, cbetaonline.dila.edu.tw | 2026-06-04 |
+| eastern-thought-048 | 吾が心の良知を事事物物に致す（致良知） | 王陽明（王守仁） | taolibrary.com, e-yangming.com | 2026-06-04 |
+| eastern-thought-049 | 知者は惑わず、仁者は憂えず、勇者は懼れず | 孔子 | ctext.org, ja.wikisource.org | 2026-06-04 |
+| eastern-thought-050 | 知を致すは物に格るに在り（格物致知） | 作者不詳（大学） | ctext.org, zh.wikisource.org | 2026-06-04 |
