@@ -34,3 +34,13 @@
 | latin-028 | Nemo me impune lacessit. | 作者不詳 | スコットランド国家標語・アザミ勲章の標語、ジェームズ6世治世のメルク銀貨（1578・1580） / en.wikipedia.org | 2026-06-04 |
 | latin-029 | Cui bono? | カッシウス・ロンギヌス・ラウィッラ（キケロ引用） | キケロ『ロスキウス・アメリヌス弁護』（カッシウスの格言として）、『ミロー弁護』32 / en.wikipedia.org | 2026-06-04 |
 | latin-030 | Bis dat qui cito dat. | プブリリウス・シュルス | プブリリウス・シュルス『箴言集』274「Inopi beneficium bis dat qui dat celeriter」 / en.wikiquote.org | 2026-06-04 |
+| latin-031 | Fiat lux. | 作者不詳 | ウルガタ訳聖書『創世記』1:3「Dixitque Deus: Fiat lux. Et facta est lux.」 / en.wikipedia.org, blueletterbible.org | 2026-06-04 |
+| latin-032 | Gutta cavat lapidem. | オウィディウス | オウィディウス『黒海からの手紙』4.10.5「gutta cavat lapidem, consumitur anulus usu」 / en.wikipedia.org, latin-is-simple.com | 2026-06-04 |
+| latin-033 | Nil desperandum. | ホラティウス | ホラティウス『歌集』1.7.27「nil desperandum Teucro duce et auspice Teucro」 / en.wiktionary.org, en.wikipedia.org | 2026-06-04 |
+| latin-034 | Mens agitat molem. | ウェルギリウス | ウェルギリウス『アエネーイス』6.727「totamque infusa per artus mens agitat molem」 / en.wikipedia.org, en.wikiquote.org | 2026-06-04 |
+| latin-035 | Vivere est cogitare. | キケロ | キケロ『トゥスクルム荘対談集』5.111「cui vivere est cogitare」 / thelatinlibrary.com, perseus.tufts.edu | 2026-06-04 |
+| latin-036 | Veritas odium parit. | テレンティウス | テレンティウス『アンドロスの女』68「obsequium amicos, veritas odium parit」 / en.wikiquote.org, wordinfo.info | 2026-06-04 |
+| latin-037 | Fortuna caeca est. | キケロ | キケロ『友情について（ラエリウス）』15.54「non enim solum ipsa Fortuna caeca est...」 / loebclassics.com, it.wikipedia.org | 2026-06-04 |
+| latin-038 | Aut viam inveniam aut faciam. | 作者不詳 | セネカ『狂えるヘラクレス』276「inveniet viam aut faciet」に由来。ハンニバル帰属は後世の伝承 / en.wikipedia.org（Inveniam viam） | 2026-06-04 |
+| latin-039 | Vivamus, mea Lesbia, atque amemus. | カトゥルス | カトゥルス『詩集』5.1 / en.wikipedia.org（Catullus 5）, perseus.tufts.edu | 2026-06-04 |
+| latin-040 | Quod erat demonstrandum. | 作者不詳 | ユークリッド『原論』等のギリシア語句「ὅπερ ἔδει δεῖξαι」のラテン訳。活字早期例ザンベルティ訳（1505） / en.wikipedia.org（Q.E.D.）, mathshistory.st-andrews.ac.uk | 2026-06-04 |

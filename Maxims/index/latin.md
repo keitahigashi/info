@@ -1,4 +1,4 @@
-# ラテン語の格言（30件）
+# ラテン語の格言（40件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -34,3 +34,13 @@
 | [latin-028](../maxims/latin/latin-028-nemo-me-impune-lacessit.md) | 誰も私を侵して無事ではすまない（Nemo me impune lacessit） | 作者不詳 | スコットランド王室の標語 |
 | [latin-029](../maxims/latin/latin-029-cui-bono.md) | 誰の利益になるのか（Cui bono?） | カッシウス・ロンギヌス（キケロ引用） | キケロ『ミロー弁護』32ほか |
 | [latin-030](../maxims/latin/latin-030-bis-dat-qui-cito-dat.md) | 速やかに与える者は二倍を与える（Bis dat qui cito dat） | プブリリウス・シュルス | 『箴言集』274 |
+| [latin-031](../maxims/latin/latin-031-fiat-lux.md) | 光あれ（Fiat lux） | 作者不詳 | ウルガタ訳『創世記』1:3 |
+| [latin-032](../maxims/latin/latin-032-gutta-cavat-lapidem.md) | 水滴は石を穿つ（Gutta cavat lapidem） | オウィディウス | 『黒海からの手紙』4.10.5 |
+| [latin-033](../maxims/latin/latin-033-nil-desperandum.md) | 決して絶望するな（Nil desperandum） | ホラティウス | 『歌集』1.7.27 |
+| [latin-034](../maxims/latin/latin-034-mens-agitat-molem.md) | 精神が物質を動かす（Mens agitat molem） | ウェルギリウス | 『アエネーイス』6.727 |
+| [latin-035](../maxims/latin/latin-035-vivere-est-cogitare.md) | 生きるとは考えることである（Vivere est cogitare） | キケロ | 『トゥスクルム荘対談集』5.111 |
+| [latin-036](../maxims/latin/latin-036-veritas-odium-parit.md) | 真実は憎しみを生む（Veritas odium parit） | テレンティウス | 『アンドロスの女』68 |
+| [latin-037](../maxims/latin/latin-037-fortuna-caeca-est.md) | 運命の女神は盲目である（Fortuna caeca est） | キケロ | 『友情について』54 |
+| [latin-038](../maxims/latin/latin-038-aut-viam-inveniam-aut-faciam.md) | 道を見つけるか、さもなくば道を切り開く（Aut viam inveniam aut faciam） | 作者不詳 | セネカ『狂えるヘラクレス』に由来 |
+| [latin-039](../maxims/latin/latin-039-vivamus-mea-lesbia-atque-amemus.md) | 生きよう、わがレスビアよ、そして愛し合おう（Vivamus, mea Lesbia, atque amemus） | カトゥルス | 『詩集』5.1 |
+| [latin-040](../maxims/latin/latin-040-quod-erat-demonstrandum.md) | 以上が証明すべきことであった（Quod erat demonstrandum） | 作者不詳 | ユークリッド『原論』のギリシア語句のラテン訳 |
