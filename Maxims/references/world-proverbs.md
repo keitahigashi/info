@@ -34,3 +34,12 @@
 | world-proverbs-028 | 働かざる者に菓子なし。 | 作者不詳（チェコ語） | en.wiktionary.org, en.wikiquote.org | 2026-06-04 |
 | world-proverbs-029 | 長老が市場にいながら、新生児の頭が曲がるままにはしておかない。 | 作者不詳（ヨルバ語） | discoveryoruba.com, hqwords.com | 2026-06-04 |
 | world-proverbs-030 | 早く起きる者は黄金を見つける。 | 作者不詳（ハンガリー語） | proverbicals.com, szolasok.hu | 2026-06-04 |
+| world-proverbs-031 | 旅もよいが、わが家がいちばん。 | 作者不詳（スウェーデン語） | en.wiktionary.org, en.wikiquote.org | 2026-06-04 |
+| world-proverbs-032 | 果実を食べるときは、木を植えた人を思え。 | 作者不詳（ベトナム語） | vlstudies.com, spokenvietnamese.com | 2026-06-04 |
+| world-proverbs-033 | この世でもっとも大切なものは何か。それは人、人、人である。 | 作者不詳（マオリ語） | natlib.govt.nz, tepou.co.nz | 2026-06-04 |
+| world-proverbs-034 | 来た道を振り返れない者は、行く先にたどり着けない。 | 作者不詳（タガログ語） | fluentfilipino.com, en.wikibooks.org | 2026-06-04 |
+| world-proverbs-035 | 家に客あれば、家に神あり。 | 作者不詳（ポーランド語） | en.wiktionary.org, polski.directory | 2026-06-04 |
+| world-proverbs-036 | 水は流れ去り、石は残る。 | 作者不詳（ルーマニア語） | en.wiktionary.org, lyricstranslate.com | 2026-06-04 |
+| world-proverbs-037 | 何ごとも、過ぎたるは避けよ。 | 作者不詳（サンスクリット語） | vedaboys.com, wisdomlib.org | 2026-06-04 |
+| world-proverbs-038 | 人は誰しも、自分の幸福を鍛える鍛冶屋である。 | 作者不詳（デンマーク語） | en.wiktionary.org, en.wikiquote.org | 2026-06-04 |
+| world-proverbs-039 | 知っている言語の数だけ、あなたは人である。 | 作者不詳（アルメニア語） | adventuresinarmenia.wordpress.com, digitaldaybook.com | 2026-06-04 |

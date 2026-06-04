@@ -1,4 +1,4 @@
-# 世界のことわざ（30件）
+# 世界のことわざ（39件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -34,3 +34,12 @@
 | [world-proverbs-028](../maxims/world-proverbs/world-proverbs-028-bez-prace-nejsou-kolace.md) | 働かざる者に菓子なし。 | 作者不詳（チェコ語） | Bez práce nejsou koláče |
 | [world-proverbs-029](../maxims/world-proverbs/world-proverbs-029-agba-kii-wa-loja.md) | 長老が市場にいながら、新生児の頭が曲がるままにはしておかない。 | 作者不詳（ヨルバ語） | Àgbà kì í wà lọ́jà kí orí ọmọ tuntun ó wọ́ |
 | [world-proverbs-030](../maxims/world-proverbs/world-proverbs-030-aki-koran-kel-aranyat-lel.md) | 早く起きる者は黄金を見つける。 | 作者不詳（ハンガリー語） | Aki korán kel, aranyat lel |
+| [world-proverbs-031](../maxims/world-proverbs/world-proverbs-031-borta-bra-men-hemma-bast.md) | 旅もよいが、わが家がいちばん。 | 作者不詳（スウェーデン語） | Borta bra men hemma bäst |
+| [world-proverbs-032](../maxims/world-proverbs/world-proverbs-032-an-qua-nho-ke-trong-cay.md) | 果実を食べるときは、木を植えた人を思え。 | 作者不詳（ベトナム語） | Ăn quả nhớ kẻ trồng cây |
+| [world-proverbs-033](../maxims/world-proverbs/world-proverbs-033-he-aha-te-mea-nui-o-te-ao.md) | この世でもっとも大切なものは何か。それは人、人、人である。 | 作者不詳（マオリ語） | He aha te mea nui o te ao? He tangata, he tangata, he tangata |
+| [world-proverbs-034](../maxims/world-proverbs/world-proverbs-034-ang-hindi-marunong-lumingon.md) | 来た道を振り返れない者は、行く先にたどり着けない。 | 作者不詳（タガログ語） | Ang hindi marunong lumingon sa pinanggalingan ay hindi makararating sa paroroonan |
+| [world-proverbs-035](../maxims/world-proverbs/world-proverbs-035-gosc-w-dom-bog-w-dom.md) | 家に客あれば、家に神あり。 | 作者不詳（ポーランド語） | Gość w dom, Bóg w dom |
+| [world-proverbs-036](../maxims/world-proverbs/world-proverbs-036-apa-trece-pietrele-raman.md) | 水は流れ去り、石は残る。 | 作者不詳（ルーマニア語） | Apa trece, pietrele rămân |
+| [world-proverbs-037](../maxims/world-proverbs/world-proverbs-037-ati-sarvatra-varjayet.md) | 何ごとも、過ぎたるは避けよ。 | 作者不詳（サンスクリット語） | अति सर्वत्र वर्जयेत् (ati sarvatra varjayet) |
+| [world-proverbs-038](../maxims/world-proverbs/world-proverbs-038-enhver-er-sin-egen-lykkes-smed.md) | 人は誰しも、自分の幸福を鍛える鍛冶屋である。 | 作者不詳（デンマーク語） | Enhver er sin egen lykkes smed |
+| [world-proverbs-039](../maxims/world-proverbs/world-proverbs-039-inchkan-lezu-gites-aynkan-mard-es.md) | 知っている言語の数だけ、あなたは人である。 | 作者不詳（アルメニア語） | Ինչքան լեզու գիտես, այնքան մարդ ես |
