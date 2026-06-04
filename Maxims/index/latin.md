@@ -1,4 +1,4 @@
-# ラテン語の格言（20件）
+# ラテン語の格言（30件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -24,3 +24,13 @@
 | [latin-018](../maxims/latin/latin-018-vox-populi-vox-dei.md) | 民の声は神の声（Vox populi, vox Dei） | アルクィヌス | カール大帝宛書簡（798年） |
 | [latin-019](../maxims/latin/latin-019-divide-et-impera.md) | 分割して統治せよ（Divide et impera） | 作者不詳 | 近世の政治格言 |
 | [latin-020](../maxims/latin/latin-020-dulce-et-decorum-est.md) | 祖国のために死ぬのは甘美にして名誉（Dulce et decorum est pro patria mori） | ホラティウス | 『歌集』3.2.13 |
+| [latin-021](../maxims/latin/latin-021-ars-longa-vita-brevis.md) | 学術は長く、人生は短い（Ars longa, vita brevis） | ヒポクラテス／セネカ | ヒポクラテス『箴言』1.1／セネカ『人生の短さについて』 |
+| [latin-022](../maxims/latin/latin-022-homo-homini-lupus.md) | 人間は人間にとって狼である（Homo homini lupus） | プラウトゥス | 『アシナリア』495行 |
+| [latin-023](../maxims/latin/latin-023-pecunia-non-olet.md) | 金銭は匂わない（Pecunia non olet） | ウェスパシアヌス | スエトニウス『ローマ皇帝伝』 |
+| [latin-024](../maxims/latin/latin-024-si-vis-amari-ama.md) | 愛されたいなら、愛しなさい（Si vis amari, ama） | セネカ（小） | 『倫理書簡集』1.9.6（ヘカトンの言葉） |
+| [latin-025](../maxims/latin/latin-025-de-gustibus-non-est-disputandum.md) | 趣味については議論すべきでない（De gustibus non est disputandum） | 作者不詳 | スコラ学に由来する中世格言 |
+| [latin-026](../maxims/latin/latin-026-verba-volant-scripta-manent.md) | 話された言葉は飛び去り、書かれた言葉は残る（Verba volant, scripta manent） | 作者不詳 | 中世ヨーロッパの定着格言 |
+| [latin-027](../maxims/latin/latin-027-acta-non-verba.md) | 言葉ではなく行動を（Acta non verba） | 作者不詳 | 古代ローマの修辞に由来する成句 |
+| [latin-028](../maxims/latin/latin-028-nemo-me-impune-lacessit.md) | 誰も私を侵して無事ではすまない（Nemo me impune lacessit） | 作者不詳 | スコットランド王室の標語 |
+| [latin-029](../maxims/latin/latin-029-cui-bono.md) | 誰の利益になるのか（Cui bono?） | カッシウス・ロンギヌス（キケロ引用） | キケロ『ミロー弁護』32ほか |
+| [latin-030](../maxims/latin/latin-030-bis-dat-qui-cito-dat.md) | 速やかに与える者は二倍を与える（Bis dat qui cito dat） | プブリリウス・シュルス | 『箴言集』274 |

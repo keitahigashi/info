@@ -24,3 +24,13 @@
 | latin-018 | Vox populi, vox Dei. | アルクィヌス | アルクィヌス『カール大帝宛書簡』132（798年） / en.wikipedia.org | 2026-06-04 |
 | latin-019 | Divide et impera. | 作者不詳 | 近世の政治格言（古代の単一典拠なし） / en.wikipedia.org | 2026-06-04 |
 | latin-020 | Dulce et decorum est pro patria mori. | ホラティウス | ホラティウス『歌集』3.2.13 / en.wikipedia.org, thelatinlibrary.com | 2026-06-04 |
+| latin-021 | Ars longa, vita brevis. | ヒポクラテス／セネカ | ヒポクラテス『箴言』1.1（ギリシア語原典）、セネカ『人生の短さについて』1.1（ラテン訳の早期使用例） / en.wikipedia.org | 2026-06-04 |
+| latin-022 | Homo homini lupus. | プラウトゥス | プラウトゥス『アシナリア』495行「Lupus est homo homini...」、エラスムス／ホッブズで定着 / en.wikipedia.org | 2026-06-04 |
+| latin-023 | Pecunia non olet. | ウェスパシアヌス（帝） | スエトニウス『ローマ皇帝伝』ウェスパシアヌス23（尿税の逸話）、定型句は後世の要約 / en.wikipedia.org | 2026-06-04 |
+| latin-024 | Si vis amari, ama. | セネカ（小）（ヘカトン引用） | セネカ『倫理書簡集』1.9.6（ロドスのヘカトンの言葉として引用） / en.wikipedia.org | 2026-06-04 |
+| latin-025 | De gustibus non est disputandum. | 作者不詳 | スコラ学に由来する中世以降の格言、活字早期例ホラティウス・モンタヌス（1628） / en.wikipedia.org | 2026-06-04 |
+| latin-026 | Verba volant, scripta manent. | 作者不詳 | 中世ヨーロッパの定着格言、カイウス・ティトゥス帰属は伝承で典拠未確認 / en.wikipedia.org | 2026-06-04 |
+| latin-027 | Acta non verba. | 作者不詳 | 古代ローマの修辞に由来、大カトー「res, non verba」・ストア派「facta, non verba」と同系統 / en.wiktionary.org | 2026-06-04 |
+| latin-028 | Nemo me impune lacessit. | 作者不詳 | スコットランド国家標語・アザミ勲章の標語、ジェームズ6世治世のメルク銀貨（1578・1580） / en.wikipedia.org | 2026-06-04 |
+| latin-029 | Cui bono? | カッシウス・ロンギヌス・ラウィッラ（キケロ引用） | キケロ『ロスキウス・アメリヌス弁護』（カッシウスの格言として）、『ミロー弁護』32 / en.wikipedia.org | 2026-06-04 |
+| latin-030 | Bis dat qui cito dat. | プブリリウス・シュルス | プブリリウス・シュルス『箴言集』274「Inopi beneficium bis dat qui dat celeriter」 / en.wikiquote.org | 2026-06-04 |
