@@ -14,3 +14,33 @@
 | western-philosophy-008 | 万人の万人に対する闘争 | トマス・ホッブズ | en.wikipedia.org, plato.stanford.edu | 2026-06-04 |
 | western-philosophy-009 | すべての人間は生まれつき知ることを欲する | アリストテレス | perseus.tufts.edu, classics.mit.edu | 2026-06-04 |
 | western-philosophy-010 | 人間は考える葦である | ブレーズ・パスカル | gallica.bnf.fr, en.wikiquote.org | 2026-06-04 |
+| western-philosophy-011 | 何事においても始めが最も大切である | プラトン | perseus.tufts.edu, plato.stanford.edu | 2026-06-04 |
+| western-philosophy-012 | 人を乱すのは出来事そのものではなく、出来事についての判断である | エピクテトス | perseus.tufts.edu, plato.stanford.edu | 2026-06-04 |
+| western-philosophy-013 | 人生は、われわれの思考がつくり上げるものである | マルクス・アウレリウス | perseus.tufts.edu, en.wikisource.org | 2026-06-04 |
+| western-philosophy-014 | 人は教えることによって学ぶ | セネカ | thelatinlibrary.com, en.wikisource.org | 2026-06-04 |
+| western-philosophy-015 | 嘆かず、笑わず、呪わず、ただ理解すること | バールーフ・デ・スピノザ | en.wikisource.org, plato.stanford.edu | 2026-06-04 |
+| western-philosophy-016 | 理性は情念の奴隷である | デイヴィッド・ヒューム | davidhume.org, plato.stanford.edu | 2026-06-04 |
+| western-philosophy-017 | 万物は流転する。同じ川に二度入ることはできない | ヘラクレイトス | plato.stanford.edu, en.wikisource.org | 2026-06-04 |
+| western-philosophy-018 | 世界はわたしの表象である | アルトゥル・ショーペンハウアー | zeno.org, plato.stanford.edu | 2026-06-04 |
+| western-philosophy-019 | 人生は後ろ向きにしか理解できない | セーレン・キェルケゴール | sks.dk, en.wikiquote.org | 2026-06-04 |
+| western-philosophy-020 | 人間は万物の尺度である | プロタゴラス | perseus.tufts.edu, plato.stanford.edu | 2026-06-04 |
+| western-philosophy-021 | 人間は自由なものとして生まれた。しかも、いたるところで鎖につながれている | ジャン＝ジャック・ルソー | marxists.org, plato.stanford.edu, en.wikiquote.org | 2026-06-04 |
+| western-philosophy-022 | 私は何を知っているというのか | ミシェル・ド・モンテーニュ | en.wikipedia.org, hyperessays.net | 2026-06-04 |
+| western-philosophy-023 | この世界はあらゆる可能な世界のうちで最善のものである | ゴットフリート・ライプニッツ | en.wikipedia.org, plato.stanford.edu, britannica.com | 2026-06-04 |
+| western-philosophy-024 | 理性的であるものは現実的であり、現実的であるものは理性的である | G・W・F・ヘーゲル | en.wikipedia.org, cambridge.org | 2026-06-04 |
+| western-philosophy-025 | 心は、いかなる文字も観念も書き込まれていない白紙のようなものだとしよう | ジョン・ロック | en.wikipedia.org, britannica.com | 2026-06-04 |
+| western-philosophy-026 | 満足した豚であるより、不満足な人間であるほうがよい | ジョン・スチュアート・ミル | utilitarianism.com, en.wikiquote.org | 2026-06-04 |
+| western-philosophy-027 | わたしたちの心はあなたのうちに憩うまで安らぎを得ません | アウグスティヌス | corfidelis.wordpress.com, crossroadsinitiative.com | 2026-06-04 |
+| western-philosophy-028 | 愛されるよりも恐れられるほうがはるかに安全である | ニッコロ・マキャヴェッリ | it.wikisource.org, litcharts.com | 2026-06-04 |
+| western-philosophy-029 | いかにして確実性なしに、しかも逡巡に麻痺させられることなく生きるかを教えること | バートランド・ラッセル | en.wikiquote.org, goodreads.com | 2026-06-04 |
+| western-philosophy-030 | 悪の陳腐さ | ハンナ・アーレント | en.wikipedia.org, aeon.co | 2026-06-04 |
+| western-philosophy-031 | 死はわれわれにとって何ものでもない | エピクロス | classics.mit.edu, plato.stanford.edu | 2026-06-04 |
+| western-philosophy-032 | われわれは自分の庭を耕さねばならない | ヴォルテール | openculture.com, theschooloflife.com | 2026-06-04 |
+| western-philosophy-033 | 存在するとは知覚されることである | ジョージ・バークリー | plato.stanford.edu, iep.utm.edu | 2026-06-04 |
+| western-philosophy-034 | 哲学者たちは世界を解釈してきたにすぎない。肝心なのはそれを変えることである | カール・マルクス | en.wikipedia.org, marxists.org | 2026-06-04 |
+| western-philosophy-035 | 言語は存在の家である | マルティン・ハイデガー | philopedia.org, beyng.com | 2026-06-04 |
+| western-philosophy-036 | 人は女に生まれるのではない、女になるのだ | シモーヌ・ド・ボーヴォワール | fr.wikipedia.org, ina.fr | 2026-06-04 |
+| western-philosophy-037 | 彼は見えざる手に導かれ、自分の意図にはなかった目的を促進する | アダム・スミス | oll.libertyfund.org, en.wikiquote.org | 2026-06-04 |
+| western-philosophy-038 | 権力の濫用を防ぐには、権力が権力を抑制するようにせねばならない | モンテスキュー | fr.wikisource.org, constitutioncenter.org | 2026-06-04 |
+| western-philosophy-039 | 権力のあるところには、抵抗がある | ミシェル・フーコー | plato.stanford.edu, onwork.edu.au | 2026-06-04 |
+| western-philosophy-040 | 存在するとは変化することであり、成熟するとは終わりなく自己を創造し続けることである | アンリ・ベルクソン | gutenberg.org, plato.stanford.edu | 2026-06-04 |

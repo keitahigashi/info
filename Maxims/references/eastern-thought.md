@@ -4,3 +4,43 @@
 
 | id | 格言 | 著者 | 参照元 | 追加日 |
 |----|------|------|--------|--------|
+| eastern-thought-001 | 学びて時に之を習ふ、亦た説ばしからずや | 孔子 | ja.wikisource.org, kanbun.info | 2026-06-04 |
+| eastern-thought-002 | 道の道とすべきは、常の道に非ず | 老子 | ja.wikipedia.org, rousi.kyukyodo.work | 2026-06-04 |
+| eastern-thought-003 | 胡蝶の夢 | 荘子 | ja.wikipedia.org, frkoten.jp | 2026-06-04 |
+| eastern-thought-004 | 惻隠の心は仁の端なり | 孟子 | ctext.org, ja.wikisource.org | 2026-06-04 |
+| eastern-thought-005 | 彼を知り己を知れば百戦殆うからず | 孫子（孫武） | kanbun.info, ja.wikipedia.org | 2026-06-04 |
+| eastern-thought-006 | 怨みは怨みによりて息まず | 釈迦（ブッダ） | ja.wikipedia.org, true-buddhism.com | 2026-06-04 |
+| eastern-thought-007 | 日日是れ好日 | 雲門文偃 | ja.wikipedia.org, rinnou.net | 2026-06-04 |
+| eastern-thought-008 | 己の欲せざる所は人に施すこと勿れ | 孔子 | kanbun.info, blog.mage8.com | 2026-06-04 |
+| eastern-thought-009 | 千里の行も足下より始まる | 老子 | daodejing.org, baike.baidu.com | 2026-06-04 |
+| eastern-thought-010 | 戦わずして人の兵を屈するは善の善なる者なり | 孫子（孫武） | kanbun.info, sonshi.roudokus.com | 2026-06-04 |
+| eastern-thought-011 | 青は藍より出でて藍より青し | 荀子（荀況） | sybrma.sakura.ne.jp, kanbun.info | 2026-06-04 |
+| eastern-thought-012 | 人の性は悪なり、其の善なる者は偽なり | 荀子（荀況） | ja.wikibooks.org, kanbunjuku.com | 2026-06-04 |
+| eastern-thought-013 | 上善は水の如し（上善若水） | 老子 | ctext.org, ja.wikisource.org | 2026-06-04 |
+| eastern-thought-014 | 兼相愛、交相利 | 墨子（墨翟） | ctext.org, note.com | 2026-06-04 |
+| eastern-thought-015 | 知は是れ行の始にして、行は是れ知の成なり | 王陽明（王守仁） | ja.wikipedia.org, kanbun.info | 2026-06-04 |
+| eastern-thought-016 | 身を修め家を斉え国を治め天下を平らかにす | 作者不詳（大学） | kanbun.info, kotobank.jp | 2026-06-04 |
+| eastern-thought-017 | 天行健なり、君子以て自強して息まず | 作者不詳（易経） | baike.baidu.com, centralwonder.com | 2026-06-04 |
+| eastern-thought-018 | 三人行けば、必ず我が師有り（三人行必有我師） | 孔子 | kanbun.info, ja.wikisource.org | 2026-06-04 |
+| eastern-thought-019 | 径路の窄き処は一歩を留めて人と行かしむ | 洪自誠 | fusuihoui.jp, ja.wikipedia.org | 2026-06-04 |
+| eastern-thought-020 | 諸法は意を先導とし、意を主とし、意より成る | 釈迦（ブッダ） | true-buddhism.com, ancient-buddhist-texts.net | 2026-06-04 |
+| eastern-thought-021 | 喜怒哀楽の未だ発せざる、これを中と謂う | 子思（孔伋） | gushiwen.cn, edb.gov.hk | 2026-06-04 |
+| eastern-thought-022 | 誠は天の道なり、これを誠にするは人の道なり | 子思（孔伋） | ctext.org, gushiwen.cn | 2026-06-04 |
+| eastern-thought-023 | 天地の為に心を立て、生民の為に命を立つ | 張載 | baike.baidu.com, theory.people.com.cn | 2026-06-04 |
+| eastern-thought-024 | 吾が生や涯有り、而して知や涯無し | 荘子（荘周） | ja.wikisource.org, rei08.com | 2026-06-04 |
+| eastern-thought-025 | 色即是空、空即是色 | 玄奘（漢訳） | ja.wikipedia.org, jodoshuzensho.jp | 2026-06-04 |
+| eastern-thought-026 | 維摩の一黙、雷の如し（默然無言） | 鳩摩羅什（漢訳） | ja.wikipedia.org, engakuji.or.jp | 2026-06-04 |
+| eastern-thought-027 | 足るを知る者は富む | 老子 | daodejing.org, 5000yan.com | 2026-06-04 |
+| eastern-thought-028 | 天の将に大任を是の人に降さんとするや | 孟子（孟軻） | ctext.org, zh.wikisource.org | 2026-06-04 |
+| eastern-thought-029 | 義を見て為さざるは、勇無きなり | 孔子 | kanbun.info, ja.wikisource.org | 2026-06-04 |
+| eastern-thought-030 | 己こそ己の主なり | 釈迦（ブッダ） | ancient-buddhist-texts.net, true-buddhism.com | 2026-06-04 |
+| eastern-thought-031 | これを知る者はこれを好む者に如かず | 孔子 | kanbun.info, rongo.roudokus.com | 2026-06-04 |
+| eastern-thought-032 | 過ちて改めざる、これを過ちと謂う | 孔子 | kanbun.info, rongo.roudokus.com | 2026-06-04 |
+| eastern-thought-033 | 人を知る者は智、自ら知る者は明なり | 老子 | daodejing.org, edb.gov.hk | 2026-06-04 |
+| eastern-thought-034 | 民を貴しと為し、社稷これに次ぎ、君を軽しと為す | 孟子（孟軻） | ctext.org, gushiwen.cn | 2026-06-04 |
+| eastern-thought-035 | 天の行いには常あり、堯の為に存せず、桀の為に亡びず | 荀子（荀況） | zh.wikisource.org, ctext.org | 2026-06-04 |
+| eastern-thought-036 | 学とは、性を修むる所以なり | 揚雄 | ctext.org, gj.zdic.net | 2026-06-04 |
+| eastern-thought-037 | 智能の士も、学ばざれば成らず、問わざれば知らず | 王充 | gushiwen.cn, kxue.com | 2026-06-04 |
+| eastern-thought-038 | 蓮は泥より出でて泥に染まらず | 周敦頤 | zh.wikisource.org, dugushici.com | 2026-06-04 |
+| eastern-thought-039 | 読書に三到あり、心到・眼到・口到と謂う | 朱熹 | gushiwen.cn, dugushici.com | 2026-06-04 |
+| eastern-thought-040 | 平常心是れ道 | 南泉普願 | nakano-zenjuku.com, rinnou.net | 2026-06-04 |
