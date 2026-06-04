@@ -1,4 +1,4 @@
-# 東洋思想（10件）
+# 東洋思想（20件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -14,3 +14,13 @@
 | [eastern-thought-008](../maxims/eastern-thought/eastern-thought-008-do-not-impose-on-others.md) | 己の欲せざる所は、人に施すこと勿れ | 孔子 | 『論語』衛霊公第十五・24 |
 | [eastern-thought-009](../maxims/eastern-thought/eastern-thought-009-a-journey-of-a-thousand-li.md) | 千里の行も足下より始まる | 老子 | 『老子道徳経』第六十四章 |
 | [eastern-thought-010](../maxims/eastern-thought/eastern-thought-010-subdue-the-enemy-without-fighting.md) | 戦わずして人の兵を屈するは、善の善なる者なり | 孫子（孫武） | 『孫子』謀攻篇 |
+| [eastern-thought-011](../maxims/eastern-thought/eastern-thought-011-blue-from-indigo.md) | 青は藍より出でて藍より青し | 荀子（荀況） | 『荀子』勧学篇第一 |
+| [eastern-thought-012](../maxims/eastern-thought/eastern-thought-012-human-nature-is-evil.md) | 人の性は悪なり、其の善なる者は偽なり | 荀子（荀況） | 『荀子』性悪篇 |
+| [eastern-thought-013](../maxims/eastern-thought/eastern-thought-013-the-highest-good-is-like-water.md) | 上善は水の如し。水は善く万物を利して争わず | 老子 | 『老子道徳経』第八章 |
+| [eastern-thought-014](../maxims/eastern-thought/eastern-thought-014-universal-love-mutual-benefit.md) | 兼ねて相愛し、交ごも相利す | 墨子（墨翟） | 『墨子』兼愛中篇 |
+| [eastern-thought-015](../maxims/eastern-thought/eastern-thought-015-unity-of-knowledge-and-action.md) | 知は是れ行の始にして、行は是れ知の成なり（知行合一） | 王陽明（王守仁） | 『伝習録』巻上 |
+| [eastern-thought-016](../maxims/eastern-thought/eastern-thought-016-cultivate-self-govern-world.md) | 身を修め家を斉え国を治め天下を平らかにす | 作者不詳（大学） | 『大学』（『礼記』大学篇） |
+| [eastern-thought-017](../maxims/eastern-thought/eastern-thought-017-heaven-moves-with-vigor.md) | 天行健なり、君子以て自強して息まず | 作者不詳（易経） | 『易経』乾卦・象伝 |
+| [eastern-thought-018](../maxims/eastern-thought/eastern-thought-018-three-walking-must-have-my-teacher.md) | 三人行けば、必ず我が師有り | 孔子 | 『論語』述而第七 |
+| [eastern-thought-019](../maxims/eastern-thought/eastern-thought-019-leave-a-step-for-others.md) | 径路の窄き処は、一歩を留めて人と行かしむ | 洪自誠 | 『菜根譚』前集・第13条 |
+| [eastern-thought-020](../maxims/eastern-thought/eastern-thought-020-mind-precedes-all-things.md) | 諸法は意を先導とし、意を主とし、意より成る | 釈迦（ブッダ） | 『ダンマパダ（法句経）』第1偈 |
