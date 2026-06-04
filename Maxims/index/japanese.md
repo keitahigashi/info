@@ -1,4 +1,4 @@
-# 日本の格言・名言（30件）
+# 日本の格言・名言（38件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -34,3 +34,11 @@
 | [japanese-028](../maxims/japanese/japanese-028-not-saying-is-the-flower.md) | 言わぬが花 | 作者不詳 | 日本のことわざ（『ぎんかなめ』に用例） |
 | [japanese-029](../maxims/japanese/japanese-029-wherever-you-live-becomes-the-capital.md) | 住めば都 | 作者不詳 | 日本のことわざ |
 | [japanese-030](../maxims/japanese/japanese-030-freedom-is-to-be-seized.md) | 自由は取る可き物なり、貰う可き品に非ず | 中江兆民 | 『放談』 |
+| [japanese-031](../maxims/japanese/japanese-031-doing-is-easier-than-worrying.md) | 案ずるより産むが易し | 作者不詳 | 日本のことわざ（『春色梅児誉美』1832-1833年に用例） |
+| [japanese-032](../maxims/japanese/japanese-032-three-heads-are-better-than-one.md) | 三人寄れば文殊の知恵 | 作者不詳 | 日本のことわざ（『俳諧・世話尽』1656年） |
+| [japanese-033](../maxims/japanese/japanese-033-the-nail-that-sticks-out.md) | 出る杭は打たれる | 作者不詳 | 日本のことわざ（『北条五代記』1641年刊） |
+| [japanese-034](../maxims/japanese/japanese-034-no-demons-in-this-world.md) | 渡る世間に鬼はない | 作者不詳 | 日本のことわざ（歌舞伎『五十三駅扇宿附』1887年初演） |
+| [japanese-035](../maxims/japanese/japanese-035-maximum-efficiency-mutual-welfare.md) | 精力善用・自他共栄 | 嘉納治五郎 | 講道館文化会の標語（1922年発表） |
+| [japanese-036](../maxims/japanese/japanese-036-worship-of-the-imperfect.md) | 茶道の要義は不完全なるものを崇拝するにある | 岡倉天心 | 『茶の本』（1906年）第一章 |
+| [japanese-037](../maxims/japanese/japanese-037-no-path-but-this-one.md) | この道より我を生かす道なし この道を歩く | 武者小路実篤 | 詩「この道」（『武者小路実篤詩集』所収） |
+| [japanese-038](../maxims/japanese/japanese-038-greatest-legacy-to-posterity.md) | 後世への最大遺物は、勇ましい高尚なる生涯である | 内村鑑三 | 『後世への最大遺物』（1894年講演／1897年刊） |

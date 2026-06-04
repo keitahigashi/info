@@ -34,3 +34,11 @@
 | japanese-028 | 言わぬが花 | 作者不詳 | kotobank.jp, proverb-encyclopedia.com, kotowaza-dictionary.jp | 2026-06-04 |
 | japanese-029 | 住めば都 | 作者不詳 | kotobank.jp, kotowaza-dictionary.jp, proverb-encyclopedia.com | 2026-06-04 |
 | japanese-030 | 自由は取る可き物なり、貰う可き品に非ず | 中江兆民 | ja.wikipedia.org「中江兆民」, kotobank.jp, soul-brighten.com | 2026-06-04 |
+| japanese-031 | 案ずるより産むが易し | 作者不詳 | kotobank.jp, kotowaza-dictionary.jp, proverb-encyclopedia.com | 2026-06-04 |
+| japanese-032 | 三人寄れば文殊の知恵 | 作者不詳 | kotobank.jp, ja.wiktionary.org, proverb-encyclopedia.com | 2026-06-04 |
+| japanese-033 | 出る杭は打たれる | 作者不詳 | kotobank.jp, kotowaza-dictionary.jp, proverb-encyclopedia.com | 2026-06-04 |
+| japanese-034 | 渡る世間に鬼はない | 作者不詳 | kotobank.jp, kotowaza-dictionary.jp, proverb-encyclopedia.com | 2026-06-04 |
+| japanese-035 | 精力善用・自他共栄 | 嘉納治五郎 | ja.wikipedia.org「嘉納治五郎」, judo.or.jp（全日本柔道連盟）, kdkjudo.org（講道館） | 2026-06-04 |
+| japanese-036 | 茶道の要義は不完全なるものを崇拝するにある | 岡倉天心 | aozora.gr.jp（村岡博訳『茶の本』）, ja.wikipedia.org「茶の本」, 1000ya.isis.ne.jp | 2026-06-04 |
+| japanese-037 | この道より我を生かす道なし この道を歩く | 武者小路実篤 | chichi.co.jp（致知出版社）, showa-g.org, crd.ndl.go.jp（レファレンス協同DB） | 2026-06-04 |
+| japanese-038 | 後世への最大遺物は、勇ましい高尚なる生涯である | 内村鑑三 | aozora.gr.jp『後世への最大遺物』, ja.wikipedia.org「内村鑑三」, president.jp | 2026-06-04 |
