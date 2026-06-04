@@ -1,4 +1,4 @@
-# 著名人の言葉（30件）
+# 著名人の言葉（38件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -34,3 +34,11 @@
 | [notable-figures-028](../maxims/notable-figures/notable-figures-028-smile-is-the-beginning-of-love.md) | 微笑みは愛の始まりです | マザー・テレサ | ノーベル平和賞 受賞講演（1979年） |
 | [notable-figures-029](../maxims/notable-figures/notable-figures-029-no-struggle-no-progress.md) | 闘いがなければ、進歩はない | フレデリック・ダグラス | 「西インド諸島の奴隷解放」演説（1857年） |
 | [notable-figures-030](../maxims/notable-figures/notable-figures-030-untold-story-inside-you.md) | 語られぬ物語を内に抱えていることほど、大きな苦しみはない | マヤ・アンジェロウ | 自伝『I Know Why the Caged Bird Sings』（1969年） |
+| [notable-figures-031](../maxims/notable-figures/notable-figures-031-analytical-engine-no-pretensions.md) | 解析機関は、何かを自ら生み出すなどという思い上がりとは無縁である | エイダ・ラブレス | 解析機関の訳者注 Note G（1843年） |
+| [notable-figures-032](../maxims/notable-figures/notable-figures-032-never-gave-or-took-an-excuse.md) | 私が成功できたのは、決して言い訳をせず、また言い訳を受け入れなかったからです | フローレンス・ナイチンゲール | H・ボナム・カーター宛書簡（1861年） |
+| [notable-figures-033](../maxims/notable-figures/notable-figures-033-we-think-too-much-and-feel-too-little.md) | 我々はあまりに多く考え、あまりに少なく感じている | チャールズ・チャップリン | 映画『独裁者』ラストの演説（1940年） |
+| [notable-figures-034](../maxims/notable-figures/notable-figures-034-reverence-for-life.md) | 倫理とは、生命への畏敬にほかならない | アルベルト・シュヴァイツァー | 『文化と倫理』（1923年） |
+| [notable-figures-035](../maxims/notable-figures/notable-figures-035-failure-is-impossible.md) | 失敗などありえません | スーザン・B・アンソニー | 86歳誕生日祝賀での演説（1906年） |
+| [notable-figures-036](../maxims/notable-figures/notable-figures-036-i-will-be-a-hummingbird.md) | 私はハチドリになろう。できる限りのことをするのだ | ワンガリ・マータイ | ドキュメンタリー『DIRT! The Movie』（2009年） |
+| [notable-figures-037](../maxims/notable-figures/notable-figures-037-courage-is-the-price.md) | 勇気とは、安らぎを得るために人生が課す代償である | アメリア・イアハート | 詩「勇気」（1928年） |
+| [notable-figures-038](../maxims/notable-figures/notable-figures-038-no-courage-to-attempt-anything.md) | もし何かを試みる勇気がなかったら、人生とはいったい何だろう | フィンセント・ファン・ゴッホ | 弟テオ宛書簡（1881年） |

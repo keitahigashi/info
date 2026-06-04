@@ -34,3 +34,11 @@
 | notable-figures-028 | 微笑みは愛の始まりです | マザー・テレサ | ノーベル平和賞 受賞講演 1979-12-11（オスロ大学講堂）/ nobelprize.org（公式講演テキスト） | 2026-06-04 |
 | notable-figures-029 | 闘いがなければ、進歩はない | フレデリック・ダグラス | 「西インド諸島の奴隷解放（West India Emancipation）」演説 1857-08-03（NY州カナンデーグア）/ blackpast.org, gilderlehrman.org, frederickdouglasspapersproject.com | 2026-06-04 |
 | notable-figures-030 | 語られぬ物語を内に抱えていることほど、大きな苦しみはない | マヤ・アンジェロウ | 自伝『I Know Why the Caged Bird Sings』Random House, 1969年 / goodreads.com, en.wikipedia.org | 2026-06-04 |
+| notable-figures-031 | 解析機関は、何かを自ら生み出すなどという思い上がりとは無縁である | エイダ・ラブレス | 「解析機関のスケッチ」訳者注 Note G（Taylor's Scientific Memoirs 第3巻, 1843年）/ en.wikiquote.org, en.wikipedia.org | 2026-06-04 |
+| notable-figures-032 | 私が成功できたのは、決して言い訳をせず、また言い訳を受け入れなかったからです | フローレンス・ナイチンゲール | H・ボナム・カーター宛書簡 1861年（E.Cook『The Life of Florence Nightingale』vol.1 p.506, 1913年所収）/ quoteinvestigator.com | 2026-06-04 |
+| notable-figures-033 | 我々はあまりに多く考え、あまりに少なく感じている | チャールズ・チャップリン | 映画『独裁者（The Great Dictator）』ラストの演説 1940年 / charliechaplin.com（公式テキスト） | 2026-06-04 |
+| notable-figures-034 | 倫理とは、生命への畏敬にほかならない | アルベルト・シュヴァイツァー | 『文化と倫理（Kultur und Ethik / Civilization and Ethics）』1923年（標語 Ehrfurcht vor dem Leben は1915年着想）/ en.wikipedia.org, schweitzer.org | 2026-06-04 |
+| notable-figures-035 | 失敗などありえません | スーザン・B・アンソニー | 86歳誕生日祝賀での演説 1906-02-15（ワシントンD.C.、公の場での最後の演説）/ nps.gov, L.Sherr『Failure Is Impossible』p.324 | 2026-06-04 |
+| notable-figures-036 | 私はハチドリになろう。できる限りのことをするのだ | ワンガリ・マータイ | ドキュメンタリー映画『DIRT! The Movie』2009年での語り（ハチドリの寓話）/ greenbeltmovement.org | 2026-06-04 |
+| notable-figures-037 | 勇気とは、安らぎを得るために人生が課す代償である | アメリア・イアハート | 詩「勇気（Courage）」Survey Graphic 誌, 1928年 / futilitycloset.com | 2026-06-04 |
+| notable-figures-038 | もし何かを試みる勇気がなかったら、人生とはいったい何だろう | フィンセント・ファン・ゴッホ | 弟テオ宛書簡 1881-12-29（ハーグ）/ en.wikiquote.org, 『Dear Theo』p.83 | 2026-06-04 |
