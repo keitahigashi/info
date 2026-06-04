@@ -404,3 +404,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_dynamic_workflows_guide_fyve.md | 2026-06-03 |
 | reference_claude_code_dw_1000parallel_uravation.md | 2026-06-03 |
 | reference_uravation_mcp_agent_service_prtimes.md | 2026-06-03 |
+| reference_claude_code_dw_comparison_syusodo.md | 2026-06-04 |
+| reference_homula_agens_release_prtimes.md | 2026-06-04 |
+| reference_opus48_multiagent_model_comparison_tanaka.md | 2026-06-04 |
+| reference_claude_code_v21162_releasebot_june2026.md | 2026-06-04 |
+| reference_dynamic_workflows_textbook_soh_note.md | 2026-06-04 |
