@@ -47,9 +47,10 @@
 | `notable-figures` | 著名人の言葉 |
 | `latin` | ラテン語の格言 |
 | `literature` | 文学の名言 |
+| `fiction` | 創作の名言（漫画・ラノベ・ゲーム等） |
 
 **ローテーション順**:
-`western-philosophy` → `eastern-thought` → `japanese` → `chinese-idioms` → `world-proverbs` → `notable-figures` → `latin` → `literature` → `western-philosophy` …
+`western-philosophy` → `eastern-thought` → `japanese` → `chinese-idioms` → `world-proverbs` → `notable-figures` → `latin` → `literature` → `fiction` → `western-philosophy` …
 
 ## 格言ファイルのフォーマット
 
