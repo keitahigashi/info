@@ -24,3 +24,13 @@
 | notable-figures-018 | それでもなお私は、人間は心の底では善良なのだと信じている | アンネ・フランク | 『アンネの日記』1944-07-15（バージョンA）/ en.wikiquote.org, annefrank.org | 2026-06-04 |
 | notable-figures-019 | 神が授けた感覚・理性・知性の使用を断念せよとは思えない | ガリレオ・ガリレイ | 『トスカーナ大公妃クリスティーナへの手紙』1615年 / web.stanford.edu, hti.osu.edu | 2026-06-04 |
 | notable-figures-020 | 一時間を無駄にして平気な者は、人生の価値を見出していない | チャールズ・ダーウィン | 妹スーザン宛書簡 1836-08-04（『The Life and Letters of Charles Darwin』vol.1 ch.6）/ en.wikiquote.org, darwinproject.ac.uk | 2026-06-04 |
+| notable-figures-021 | 観察の領域において、偶然は準備された心にのみ味方する | ルイ・パスツール | リール大学理学部 学部長就任講演 1854-12-07（原文「Dans les champs de l'observation, le hasard ne favorise que les esprits préparés.」）/ en.wikiquote.org, nhlbi.nih.gov | 2026-06-04 |
+| notable-figures-022 | 私が唯一疲れていたのは、屈することに疲れていたということだ | ローザ・パークス | 自伝『Rosa Parks: My Story』（Jim Haskins共著）Dial Books, 1992年 / en.wikiquote.org, blog.oup.com | 2026-06-04 |
+| notable-figures-023 | 一人の子ども、一人の教師、一冊の本、そして一本のペンが、世界を変えることができる | マララ・ユスフザイ | 国連ユース・アセンブリ演説 2013-07-12（ニューヨーク・国連本部）/ rev.com（公式トランスクリプト）, speakola.com, un.org | 2026-06-04 |
+| notable-figures-024 | 足元ではなく、星空を見上げることを忘れないように | スティーブン・ホーキング | ABCニュース「World News Tonight」ダイアン・ソーヤーによるインタビュー 2010年 / abcnews.com, time.com | 2026-06-04 |
+| notable-figures-025 | 私は本なしでは生きられない | トーマス・ジェファソン | ジョン・アダムズ宛書簡 1815-06-10（モンティチェロ）/ monticello.org, tjrs.monticello.org, loc.gov | 2026-06-04 |
+| notable-figures-026 | 自分にはできないと思うことを、やりなさい | エレノア・ルーズベルト | 『You Learn by Living』Harper & Brothers, 1960年（pp.29–30）/ quoteinvestigator.com, goodreads.com | 2026-06-04 |
+| notable-figures-027 | 現在は彼らのものだ。だが私が真に取り組んできた未来は、私のものである | ニコラ・テスラ | D.ペトコヴィッチ「テスラ訪問記」『Politika』紙 1927年4月（M.Cheney『Tesla: Master of Lightning』1999 p.73, 『Man Out of Time』2001 p.230所収）/ teslauniverse.com, en.wikiquote.org | 2026-06-04 |
+| notable-figures-028 | 微笑みは愛の始まりです | マザー・テレサ | ノーベル平和賞 受賞講演 1979-12-11（オスロ大学講堂）/ nobelprize.org（公式講演テキスト） | 2026-06-04 |
+| notable-figures-029 | 闘いがなければ、進歩はない | フレデリック・ダグラス | 「西インド諸島の奴隷解放（West India Emancipation）」演説 1857-08-03（NY州カナンデーグア）/ blackpast.org, gilderlehrman.org, frederickdouglasspapersproject.com | 2026-06-04 |
+| notable-figures-030 | 語られぬ物語を内に抱えていることほど、大きな苦しみはない | マヤ・アンジェロウ | 自伝『I Know Why the Caged Bird Sings』Random House, 1969年 / goodreads.com, en.wikipedia.org | 2026-06-04 |

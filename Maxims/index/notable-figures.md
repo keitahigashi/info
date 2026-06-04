@@ -1,4 +1,4 @@
-# 著名人の言葉（20件）
+# 著名人の言葉（30件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -24,3 +24,13 @@
 | [notable-figures-018](../maxims/notable-figures/notable-figures-018-people-are-good-at-heart.md) | それでもなお私は、人間は心の底では善良なのだと信じている | アンネ・フランク | 『アンネの日記』（1944年7月15日） |
 | [notable-figures-019](../maxims/notable-figures/notable-figures-019-sense-reason-and-intellect.md) | 神が授けた感覚・理性・知性の使用を断念せよとは思えない | ガリレオ・ガリレイ | 『大公妃クリスティーナへの手紙』（1615年） |
 | [notable-figures-020](../maxims/notable-figures/notable-figures-020-waste-one-hour-of-time.md) | 一時間を無駄にして平気な者は、人生の価値を見出していない | チャールズ・ダーウィン | 妹宛書簡（1836年）／『生涯と書簡』 |
+| [notable-figures-021](../maxims/notable-figures/notable-figures-021-chance-favors-the-prepared-mind.md) | 観察の領域において、偶然は準備された心にのみ味方する | ルイ・パスツール | リール大学 学部長就任講演（1854年） |
+| [notable-figures-022](../maxims/notable-figures/notable-figures-022-tired-of-giving-in.md) | 私が唯一疲れていたのは、屈することに疲れていたということだ | ローザ・パークス | 自伝『Rosa Parks: My Story』（1992年） |
+| [notable-figures-023](../maxims/notable-figures/notable-figures-023-one-child-one-teacher-one-pen.md) | 一人の子ども、一人の教師、一冊の本、そして一本のペンが、世界を変えることができる | マララ・ユスフザイ | 国連ユース・アセンブリ演説（2013年） |
+| [notable-figures-024](../maxims/notable-figures/notable-figures-024-look-up-at-the-stars.md) | 足元ではなく、星空を見上げることを忘れないように | スティーブン・ホーキング | ダイアン・ソーヤーによるインタビュー（2010年） |
+| [notable-figures-025](../maxims/notable-figures/notable-figures-025-cannot-live-without-books.md) | 私は本なしでは生きられない | トーマス・ジェファソン | ジョン・アダムズ宛書簡（1815年） |
+| [notable-figures-026](../maxims/notable-figures/notable-figures-026-do-the-thing-you-think-you-cannot-do.md) | 自分にはできないと思うことを、やりなさい | エレノア・ルーズベルト | 『You Learn by Living』（1960年） |
+| [notable-figures-027](../maxims/notable-figures/notable-figures-027-the-future-is-mine.md) | 現在は彼らのものだ。だが私が真に取り組んできた未来は、私のものである | ニコラ・テスラ | 『Politika』紙インタビュー（1927年） |
+| [notable-figures-028](../maxims/notable-figures/notable-figures-028-smile-is-the-beginning-of-love.md) | 微笑みは愛の始まりです | マザー・テレサ | ノーベル平和賞 受賞講演（1979年） |
+| [notable-figures-029](../maxims/notable-figures/notable-figures-029-no-struggle-no-progress.md) | 闘いがなければ、進歩はない | フレデリック・ダグラス | 「西インド諸島の奴隷解放」演説（1857年） |
+| [notable-figures-030](../maxims/notable-figures/notable-figures-030-untold-story-inside-you.md) | 語られぬ物語を内に抱えていることほど、大きな苦しみはない | マヤ・アンジェロウ | 自伝『I Know Why the Caged Bird Sings』（1969年） |
