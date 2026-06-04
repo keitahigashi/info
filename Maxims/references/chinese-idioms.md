@@ -14,3 +14,13 @@
 | chinese-idioms-008 | 五十歩百歩 | 孟子 | ja.wikipedia.org, kanbun.info | 2026-06-04 |
 | chinese-idioms-009 | 杞憂 | 列子（伝） | ja.wikipedia.org, kanbun.info | 2026-06-04 |
 | chinese-idioms-010 | 朝三暮四 | 荘子 | ja.wikipedia.org, kanbun.info | 2026-06-04 |
+| chinese-idioms-011 | 推敲 | 計有功（編） | ja.wikipedia.org, dictionary.sanseido-publ.co.jp | 2026-06-04 |
+| chinese-idioms-012 | 蛍雪の功 | 房玄齢ほか（編） | ja.wikipedia.org, kanbun.info | 2026-06-04 |
+| chinese-idioms-013 | 画竜点睛 | 張彦遠 | ja.wiktionary.org, kanbun.info | 2026-06-04 |
+| chinese-idioms-014 | 完璧 | 司馬遷 | ja.wikipedia.org, kanbun.info | 2026-06-04 |
+| chinese-idioms-015 | 守株 | 韓非 | kanbun.info, ctext.org | 2026-06-04 |
+| chinese-idioms-016 | 呉越同舟 | 孫武 | kanbun.info, ja.wikipedia.org | 2026-06-04 |
+| chinese-idioms-017 | 助長 | 孟子 | ctext.org, ja.wikipedia.org | 2026-06-04 |
+| chinese-idioms-018 | 杯中の蛇影 | 房玄齢ほか（編） | ja.wikipedia.org, kanbun.info | 2026-06-04 |
+| chinese-idioms-019 | 鶏口牛後 | 司馬遷 | ja.wikipedia.org, ja.wikibooks.org | 2026-06-04 |
+| chinese-idioms-020 | 虎の威を借る狐 | 劉向（編） | ja.wikipedia.org, kanbun.info | 2026-06-04 |
