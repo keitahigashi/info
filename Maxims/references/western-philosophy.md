@@ -24,3 +24,13 @@
 | western-philosophy-018 | 世界はわたしの表象である | アルトゥル・ショーペンハウアー | zeno.org, plato.stanford.edu | 2026-06-04 |
 | western-philosophy-019 | 人生は後ろ向きにしか理解できない | セーレン・キェルケゴール | sks.dk, en.wikiquote.org | 2026-06-04 |
 | western-philosophy-020 | 人間は万物の尺度である | プロタゴラス | perseus.tufts.edu, plato.stanford.edu | 2026-06-04 |
+| western-philosophy-021 | 人間は自由なものとして生まれた。しかも、いたるところで鎖につながれている | ジャン＝ジャック・ルソー | marxists.org, plato.stanford.edu, en.wikiquote.org | 2026-06-04 |
+| western-philosophy-022 | 私は何を知っているというのか | ミシェル・ド・モンテーニュ | en.wikipedia.org, hyperessays.net | 2026-06-04 |
+| western-philosophy-023 | この世界はあらゆる可能な世界のうちで最善のものである | ゴットフリート・ライプニッツ | en.wikipedia.org, plato.stanford.edu, britannica.com | 2026-06-04 |
+| western-philosophy-024 | 理性的であるものは現実的であり、現実的であるものは理性的である | G・W・F・ヘーゲル | en.wikipedia.org, cambridge.org | 2026-06-04 |
+| western-philosophy-025 | 心は、いかなる文字も観念も書き込まれていない白紙のようなものだとしよう | ジョン・ロック | en.wikipedia.org, britannica.com | 2026-06-04 |
+| western-philosophy-026 | 満足した豚であるより、不満足な人間であるほうがよい | ジョン・スチュアート・ミル | utilitarianism.com, en.wikiquote.org | 2026-06-04 |
+| western-philosophy-027 | わたしたちの心はあなたのうちに憩うまで安らぎを得ません | アウグスティヌス | corfidelis.wordpress.com, crossroadsinitiative.com | 2026-06-04 |
+| western-philosophy-028 | 愛されるよりも恐れられるほうがはるかに安全である | ニッコロ・マキャヴェッリ | it.wikisource.org, litcharts.com | 2026-06-04 |
+| western-philosophy-029 | いかにして確実性なしに、しかも逡巡に麻痺させられることなく生きるかを教えること | バートランド・ラッセル | en.wikiquote.org, goodreads.com | 2026-06-04 |
+| western-philosophy-030 | 悪の陳腐さ | ハンナ・アーレント | en.wikipedia.org, aeon.co | 2026-06-04 |

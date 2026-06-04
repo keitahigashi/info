@@ -1,4 +1,4 @@
-# 西洋哲学（20件）
+# 西洋哲学（30件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -24,3 +24,13 @@
 | [western-philosophy-018](../maxims/western-philosophy/western-philosophy-018-the-world-is-my-representation.md) | 世界はわたしの表象である | アルトゥル・ショーペンハウアー | 『意志と表象としての世界』第1巻1節 |
 | [western-philosophy-019](../maxims/western-philosophy/western-philosophy-019-life-can-only-be-understood-backwards.md) | 人生は後ろ向きにしか理解できない。しかし、前向きに生きなければならない | セーレン・キェルケゴール | 『日記』1843年（JJ:167） |
 | [western-philosophy-020](../maxims/western-philosophy/western-philosophy-020-man-is-the-measure-of-all-things.md) | 人間は万物の尺度である | プロタゴラス | 『テアイテトス』152a / 断片 DK B1 |
+| [western-philosophy-021](../maxims/western-philosophy/western-philosophy-021-man-is-born-free-and-everywhere-he-is-in-chains.md) | 人間は自由なものとして生まれた。しかも、いたるところで鎖につながれている | ジャン＝ジャック・ルソー | 『社会契約論』第1編 第1章 |
+| [western-philosophy-022](../maxims/western-philosophy/western-philosophy-022-what-do-i-know.md) | 私は何を知っているというのか | ミシェル・ド・モンテーニュ | 『エセー』第2巻 第12章 |
+| [western-philosophy-023](../maxims/western-philosophy/western-philosophy-023-the-best-of-all-possible-worlds.md) | この世界はあらゆる可能な世界のうちで最善のものである | ゴットフリート・ライプニッツ | 『弁神論』 |
+| [western-philosophy-024](../maxims/western-philosophy/western-philosophy-024-what-is-rational-is-actual.md) | 理性的であるものは現実的であり、現実的であるものは理性的である | G・W・F・ヘーゲル | 『法の哲学』序文 |
+| [western-philosophy-025](../maxims/western-philosophy/western-philosophy-025-the-mind-is-white-paper.md) | 心は、いかなる文字も観念も書き込まれていない白紙のようなものだとしよう | ジョン・ロック | 『人間知性論』第2巻 第1章 §2 |
+| [western-philosophy-026](../maxims/western-philosophy/western-philosophy-026-better-to-be-socrates-dissatisfied.md) | 満足した豚であるより、不満足な人間であるほうがよい | ジョン・スチュアート・ミル | 『功利主義』第2章 |
+| [western-philosophy-027](../maxims/western-philosophy/western-philosophy-027-our-heart-is-restless-until-it-rests-in-you.md) | わたしたちの心はあなたのうちに憩うまで安らぎを得ません | アウグスティヌス | 『告白』第1巻 第1章 |
+| [western-philosophy-028](../maxims/western-philosophy/western-philosophy-028-safer-to-be-feared-than-loved.md) | 愛されるよりも恐れられるほうがはるかに安全である | ニッコロ・マキャヴェッリ | 『君主論』第17章 |
+| [western-philosophy-029](../maxims/western-philosophy/western-philosophy-029-to-live-without-certainty.md) | いかにして確実性なしに、しかも逡巡に麻痺させられることなく生きるかを教えること | バートランド・ラッセル | 『西洋哲学史』序論 |
+| [western-philosophy-030](../maxims/western-philosophy/western-philosophy-030-the-banality-of-evil.md) | 悪の陳腐さ | ハンナ・アーレント | 『エルサレムのアイヒマン』 |
