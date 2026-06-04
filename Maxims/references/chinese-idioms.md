@@ -34,3 +34,13 @@
 | chinese-idioms-028 | 月下氷人 | 李復言 | kotobank.jp, dictionary.goo.ne.jp | 2026-06-04 |
 | chinese-idioms-029 | 牛耳を執る | 左丘明（伝） | kanbun.info, kotobank.jp | 2026-06-04 |
 | chinese-idioms-030 | 朝令暮改 | 班固 | ja.wikipedia.org, weblio.jp | 2026-06-04 |
+| chinese-idioms-031 | 三顧の礼 | 陳寿 | ja.wikipedia.org, kotobank.jp | 2026-06-04 |
+| chinese-idioms-032 | 水魚の交わり | 陳寿 | ja.wikipedia.org, kotobank.jp | 2026-06-04 |
+| chinese-idioms-033 | 刎頸の交わり | 司馬遷 | ja.wikipedia.org, kanbun.info | 2026-06-04 |
+| chinese-idioms-034 | 泣いて馬謖を斬る | 陳寿 | ja.wikipedia.org, kotowaza-dictionary.jp | 2026-06-04 |
+| chinese-idioms-035 | 鶏鳴狗盗 | 司馬遷 | kotobank.jp, dictionary.sanseido-publ.co.jp | 2026-06-04 |
+| chinese-idioms-036 | 漱石枕流 | 房玄齢ほか（編） | idiom-encyclopedia.com, ja.wiktionary.org | 2026-06-04 |
+| chinese-idioms-037 | 換骨奪胎 | 恵洪 | kanbun.info, kotobank.jp | 2026-06-04 |
+| chinese-idioms-038 | 一網打尽 | 脱脱ほか（編） | ja.wikipedia.org, kanbun.info | 2026-06-04 |
+| chinese-idioms-039 | 出爾反爾 | 孟子 | ja.wikisource.org, mousi.kyukyodo.work | 2026-06-04 |
+| chinese-idioms-040 | 破竹の勢い | 房玄齢ほか（編） | kanbun.info, ja.wiktionary.org | 2026-06-04 |
