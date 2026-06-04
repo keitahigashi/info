@@ -110,4 +110,9 @@
 | other-100 | プロメテウスの火 | 古代ギリシャ神話（ヘシオドス『神統記』・『仕事と日』、紀元前700年頃） | en.wikipedia.org/wiki/Prometheus, theoi.com/Titan/TitanPrometheus.html | 2026-05-27 |
 | other-101 | フィオンと知恵のサーモン | アイルランド神話（フィオナ・サイクル、中世ゲール語写本「ブオイレアン・フィオン」） | en.wikipedia.org/wiki/Salmon_of_Knowledge, irelandsmythsandlegends.com/the-salmon-of-knowledge | 2026-05-27 |
 | other-102 | ロキとドワーフの宝物 | 北欧神話（散文エッダ「スカルドスカパルマール」、スノッリ・ストゥルルソン、1220年頃） | en.wikipedia.org/wiki/Gifts_of_the_Dwarves, norse-mythology.org/tales/loki-and-the-dwarves/ | 2026-05-27 |
+| other-103 | 美女と野獣 | フランス童話（ヴィルヌーヴ1740年、ボーモン1756年） | en.wikipedia.org/wiki/Beauty_and_the_Beast, theconversation.com/beauty-and-the-beast-was-originally-a-feminist-fable | 2026-06-04 |
+| other-104 | ギルガメシュの不死の探求 | メソポタミア（ギルガメシュ叙事詩、シュメール語粘土板紀元前2100年頃、アッカド語標準版紀元前1200年頃） | en.wikipedia.org/wiki/Epic_of_Gilgamesh, memorycherish.com/epic-of-gilgamesh-sumerian-myths/ | 2026-06-04 |
+| other-105 | タルタロとバスクの羊飼い | バスク民話（セルカン採話1875年、口承はさらに古い） | en.wikipedia.org/wiki/Tartalo, buber.net/Basque/2022/08/07/basque-fact-of-the-week-tartalo-the-basque-cyclops/ | 2026-06-04 |
+| other-106 | オシリス、イシス、セト | 古代エジプト神話（ピラミッド・テキスト紀元前2400年頃、プルタルコス1世紀） | en.wikipedia.org/wiki/Osiris_myth, laits.utexas.edu/cairo/teachers/osiris.pdf | 2026-06-04 |
+| other-107 | シバの女王のソロモン訪問 | 旧約聖書列王記上（紀元前900〜700年頃）・コーラン第27章（7世紀）・ケブラ・ナガスト（14世紀） | en.wikipedia.org/wiki/Queen_of_Sheba, britannica.com/biography/Queen-of-Sheba | 2026-06-04 |
 <!-- 出典追加時にここへ行を追加 -->

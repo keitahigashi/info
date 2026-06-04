@@ -106,4 +106,9 @@
 | [other-100](../fables/other/other-100-prometheus-and-the-fire.md) | プロメテウスの火 | 古代ギリシャ神話（ヘシオドス） | 人類への深い愛から不義を冒した者は、その代償として永遠の苦しみを受ける |
 | [other-101](../fables/other/other-101-fionn-and-the-salmon-of-knowledge.md) | フィオンと知恵のサーモン | アイルランド神話（フィアナ・サイクル） | 真の知恵は意図せぬ契機から訪れ、素直に受け入れた者の運命を変える |
 | [other-102](../fables/other/other-102-loki-and-the-dwarves-treasures.md) | ロキとドワーフの宝物 | 北欧神話（散文エッダ） | 悪ふざけや欺きは賠償を迫られ、それを果たそうとする道程で思わぬ恵みが生まれる |
+| [other-103](../fables/other/other-103-beauty-and-the-beast.md) | 美女と野獣 | フランス（ヴィルヌーヴ・ボーモン童話） | 真の美しさは外見ではなく内面の徳にあり、純粋な愛は呪いをも解く |
+| [other-104](../fables/other/other-104-gilgamesh-quest-for-immortality.md) | ギルガメシュの不死の探求 | メソポタミア（ギルガメシュ叙事詩） | 不死は人間の手の届かないものであり、真の永遠は友の記憶と後世に遺す功績の中にある |
+| [other-105](../fables/other/other-105-tartalo-and-the-basque-shepherd.md) | タルタロとバスクの羊飼い | バスク民話 | 知恵と機転は怪力に勝り、危機においても冷静な思考が生死を分ける |
+| [other-106](../fables/other/other-106-osiris-isis-and-set.md) | オシリス、イシス、セト | 古代エジプト神話 | 正義と秩序は嫉妬と混乱に打ち勝ち、真の愛は死をも超えて命を呼び戻す |
+| [other-107](../fables/other/other-107-the-queen-of-sheba-and-solomon.md) | シバの女王のソロモン訪問 | 中東・エチオピア伝承 | 真の知恵は謙虚に求めることで得られ、その探求者は自らも変容する |
 <!-- 寓話追加時にここへ行を追加 -->
