@@ -34,3 +34,13 @@
 | literature-028 | 生は夏の花のごとく美しく、死は秋の葉のごとくあれ。 | ラビンドラナート・タゴール | ibiblio.org, en.wikisource.org | 2026-06-04 |
 | literature-029 | ネリー、私はヒースクリフなの。彼はいつだって、いつだって私の心の中にいる。 | エミリー・ブロンテ | goodreads.com, wuthering-heights.co.uk | 2026-06-04 |
 | literature-030 | 幼時から父は、私によく、金閣のことを語った。 | 三島由紀夫 | read-beginning.com, jun-bungaku.jp | 2026-06-04 |
+| literature-031 | 明日、また明日、また明日と、時は小きざみな足どりで一日一日を這い進んでいく。 | ウィリアム・シェイクスピア | en.wikipedia.org, folger.edu | 2026-06-04 |
+| literature-032 | この世はすべて一つの舞台、人は皆そこで役を演じる役者にすぎない。 | ウィリアム・シェイクスピア | poets.org, folger.edu | 2026-06-04 |
+| literature-033 | 人間は誰でも猛獣使であり、その猛獣に当るのが、各人の性情だという。 | 中島敦 | aozora.gr.jp, bunlabo.com | 2026-06-04 |
+| literature-034 | 石炭をば早や積み果てつ。 | 森鴎外 | aozora.gr.jp, koten.sk46.com | 2026-06-04 |
+| literature-035 | 雨ニモマケズ 風ニモマケズ 雪ニモ夏ノ暑サニモマケヌ 丈夫ナカラダヲモチ。 | 宮沢賢治 | aozora.gr.jp, ja.wikipedia.org | 2026-06-04 |
+| literature-036 | おお、船長、わが船長よ、われらの恐ろしい航海は終わった。 | ウォルト・ホイットマン | poetryfoundation.org, en.wikipedia.org | 2026-06-04 |
+| literature-037 | 「希望」とは羽根をもつもの──魂にとまり、言葉なき調べを歌いつづける。 | エミリー・ディキンソン | poetryfoundation.org, en.wikipedia.org | 2026-06-04 |
+| literature-038 | 今夜、私はもっとも悲しい詩を書くことができる。 | パブロ・ネルーダ | poesi.as, culturagenial.com | 2026-06-04 |
+| literature-039 | 廻れば大門の見返り柳いと長けれど。 | 樋口一葉 | aozora.gr.jp, jun-bungaku.jp | 2026-06-04 |
+| literature-040 | 太陽とその他の星々を動かす愛。 | ダンテ・アリギエーリ | dantelab.dartmouth.edu, it.wikipedia.org | 2026-06-04 |

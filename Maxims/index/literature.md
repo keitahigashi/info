@@ -1,4 +1,4 @@
-# 文学の名言（30件）
+# 文学の名言（40件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -34,3 +34,13 @@
 | [literature-028](../maxims/literature/literature-028-life-summer-flowers.md) | 生は夏の花のごとく美しく、死は秋の葉のごとくあれ。 | ラビンドラナート・タゴール | 『迷い鳥』第82番 |
 | [literature-029](../maxims/literature/literature-029-i-am-heathcliff.md) | ネリー、私はヒースクリフなの。彼はいつだって、いつだって私の心の中にいる。 | エミリー・ブロンテ | 『嵐が丘』第9章 |
 | [literature-030](../maxims/literature/literature-030-kinkakuji-opening.md) | 幼時から父は、私によく、金閣のことを語った。 | 三島由紀夫 | 『金閣寺』冒頭 |
+| [literature-031](../maxims/literature/literature-031-tomorrow-and-tomorrow.md) | 明日、また明日、また明日と、時は小きざみな足どりで一日一日を這い進んでいく。 | ウィリアム・シェイクスピア | 『マクベス』第5幕第5場 |
+| [literature-032](../maxims/literature/literature-032-all-the-worlds-a-stage.md) | この世はすべて一つの舞台、人は皆そこで役を演じる役者にすぎない。 | ウィリアム・シェイクスピア | 『お気に召すまま』第2幕第7場 |
+| [literature-033](../maxims/literature/literature-033-okubyona-jisonshin.md) | 人間は誰でも猛獣使であり、その猛獣に当るのが、各人の性情だという。 | 中島敦 | 『山月記』 |
+| [literature-034](../maxims/literature/literature-034-maihime-opening.md) | 石炭をば早や積み果てつ。 | 森鴎外 | 『舞姫』冒頭 |
+| [literature-035](../maxims/literature/literature-035-ame-nimo-makezu.md) | 雨ニモマケズ 風ニモマケズ 雪ニモ夏ノ暑サニモマケヌ 丈夫ナカラダヲモチ。 | 宮沢賢治 | 『雨ニモマケズ』 |
+| [literature-036](../maxims/literature/literature-036-o-captain-my-captain.md) | おお、船長、わが船長よ、われらの恐ろしい航海は終わった。 | ウォルト・ホイットマン | 『草の葉』所収「おお、船長、わが船長よ」 |
+| [literature-037](../maxims/literature/literature-037-hope-is-the-thing-with-feathers.md) | 「希望」とは羽根をもつもの──魂にとまり、言葉なき調べを歌いつづける。 | エミリー・ディキンソン | 詩「『希望』とは羽根をもつもの」（F314） |
+| [literature-038](../maxims/literature/literature-038-puedo-escribir-los-versos.md) | 今夜、私はもっとも悲しい詩を書くことができる。 | パブロ・ネルーダ | 『二十の愛の詩と一つの絶望の歌』詩20 |
+| [literature-039](../maxims/literature/literature-039-takekurabe-opening.md) | 廻れば大門の見返り柳いと長けれど。 | 樋口一葉 | 『たけくらべ』冒頭 |
+| [literature-040](../maxims/literature/literature-040-lamor-che-move-il-sole.md) | 太陽とその他の星々を動かす愛。 | ダンテ・アリギエーリ | 『神曲』天国篇 第33歌 |
