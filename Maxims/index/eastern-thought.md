@@ -1,4 +1,4 @@
-# 東洋思想（40件）
+# 東洋思想（50件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -44,3 +44,13 @@
 | [eastern-thought-038](../maxims/eastern-thought/eastern-thought-038-rising-from-mud-unstained.md) | 蓮は泥より出でて泥に染まらず | 周敦頤 | 『愛蓮説』 |
 | [eastern-thought-039](../maxims/eastern-thought/eastern-thought-039-three-arrivals-of-reading.md) | 読書に三到あり、心到・眼到・口到と謂う | 朱熹 | 『訓学斎規』 |
 | [eastern-thought-040](../maxims/eastern-thought/eastern-thought-040-ordinary-mind-is-the-way.md) | 平常心是れ道 | 南泉普願 | 『無門関』第十九則 |
+| [eastern-thought-041](../maxims/eastern-thought/eastern-thought-041-hearing-the-way-in-the-morning.md) | 朝に道を聞かば、夕べに死すとも可なり | 孔子 | 『論語』里仁第四・8 |
+| [eastern-thought-042](../maxims/eastern-thought/eastern-thought-042-harmony-without-uniformity.md) | 君子は和して同ぜず、小人は同じて和せず | 孔子 | 『論語』子路第十三・23 |
+| [eastern-thought-043](../maxims/eastern-thought/eastern-thought-043-the-true-great-man.md) | 富貴も淫する能わず、貧賤も移す能わず、威武も屈する能わず | 孟子（孟軻） | 『孟子』滕文公章句下・2 |
+| [eastern-thought-044](../maxims/eastern-thought/eastern-thought-044-doing-nothing-yet-nothing-undone.md) | 学を為せば日に益し、道を為せば日に損す | 老子 | 『老子道徳経』第四十八章 |
+| [eastern-thought-045](../maxims/eastern-thought/eastern-thought-045-perfect-man-has-no-self.md) | 至人は己無く、神人は功無く、聖人は名無し | 荘子（荘周） | 『荘子』内篇・逍遥遊 |
+| [eastern-thought-046](../maxims/eastern-thought/eastern-thought-046-all-things-are-impermanent.md) | 諸行は無常なり、是れ生滅の法なり | 曇無讖（漢訳） | 『大般涅槃経』（北本）巻第十四・聖行品 |
+| [eastern-thought-047](../maxims/eastern-thought/eastern-thought-047-all-beings-have-buddha-nature.md) | 一切衆生、悉く仏性有り | 曇無讖（漢訳） | 『大般涅槃経』（北本）巻第七・如来性品 |
+| [eastern-thought-048](../maxims/eastern-thought/eastern-thought-048-extending-innate-knowledge.md) | 吾が心の良知を事事物物に致す | 王陽明（王守仁） | 『伝習録』中巻・答顧東橋書 |
+| [eastern-thought-049](../maxims/eastern-thought/eastern-thought-049-the-wise-the-benevolent-the-brave.md) | 知者は惑わず、仁者は憂えず、勇者は懼れず | 孔子 | 『論語』子罕第九・29 |
+| [eastern-thought-050](../maxims/eastern-thought/eastern-thought-050-investigating-things-extending-knowledge.md) | 知を致すは物に格るに在り | 作者不詳（大学） | 『大学』（『礼記』大学篇） |
