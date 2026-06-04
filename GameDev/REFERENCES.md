@@ -556,3 +556,8 @@
 | reference_practical-guide-game-writing.md | 2026-06-03 |
 | reference_last-humble-bee-postmortem-solo-dev.md | 2026-06-03 |
 | reference_implicit-explicit-narrative-case-study.md | 2026-06-03 |
+| reference_classic-gameloop-to-ecs-architecture.md | 2026-06-04 |
+| reference_game-programming-patterns-common-language.md | 2026-06-04 |
+| reference_upping-game-usability.md | 2026-06-04 |
+| reference_metrics-of-space-molecule-design.md | 2026-06-04 |
+| reference_navigation-nodes-3d-level-design.md | 2026-06-04 |
