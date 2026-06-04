@@ -44,3 +44,13 @@
 | western-philosophy-038 | 権力の濫用を防ぐには、権力が権力を抑制するようにせねばならない | モンテスキュー | fr.wikisource.org, constitutioncenter.org | 2026-06-04 |
 | western-philosophy-039 | 権力のあるところには、抵抗がある | ミシェル・フーコー | plato.stanford.edu, onwork.edu.au | 2026-06-04 |
 | western-philosophy-040 | 存在するとは変化することであり、成熟するとは終わりなく自己を創造し続けることである | アンリ・ベルクソン | gutenberg.org, plato.stanford.edu | 2026-06-04 |
+| western-philosophy-041 | 我々はシーシュポスが幸福であると想像せねばならない | アルベール・カミュ | en.wikipedia.org, en.wikiquote.org | 2026-06-04 |
+| western-philosophy-042 | 君の格率が普遍的法則となることを同時に意志しうる格率のみに従って行為せよ | イマヌエル・カント | de.wikipedia.org, projekt-gutenberg.org | 2026-06-04 |
+| western-philosophy-043 | 真理は観念に生起する。観念は出来事によって真にされる | ウィリアム・ジェイムズ | gutenberg.org, plato.stanford.edu | 2026-06-04 |
+| western-philosophy-044 | 思惟することと存在することとは、同じ一つのことである | パルメニデス | plato.stanford.edu, en.wikipedia.org | 2026-06-04 |
+| western-philosophy-045 | 我々は汝を天上のものとも地上のものとも造らなかった | ピコ・デラ・ミランドラ | en.wikipedia.org, en.wikiquote.org | 2026-06-04 |
+| western-philosophy-046 | 恩寵は自然を廃棄せず、かえってこれを完成させる | トマス・アクィナス | newadvent.org, en.wikipedia.org | 2026-06-04 |
+| western-philosophy-047 | ヨーロッパ哲学の伝統は、プラトンへの一連の脚注から成る | A・N・ホワイトヘッド | footnotes2plato.com, encyclopedia.whiteheadresearch.org | 2026-06-04 |
+| western-philosophy-048 | 考えうる出来事によって反駁されえない理論は非科学的である | カール・ポパー | iep.utm.edu, plato.stanford.edu | 2026-06-04 |
+| western-philosophy-049 | 人間の偉大さについての私の定式は運命愛である | フリードリヒ・ニーチェ | zeno.org, en.wikipedia.org | 2026-06-04 |
+| western-philosophy-050 | どこの出身かと問われて、彼は「世界市民である」と答えた | ディオゲネス（シノペの） | perseus.tufts.edu, plato.stanford.edu | 2026-06-04 |

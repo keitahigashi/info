@@ -1,4 +1,4 @@
-# 西洋哲学（40件）
+# 西洋哲学（50件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -44,3 +44,13 @@
 | [western-philosophy-038](../maxims/western-philosophy/western-philosophy-038-power-must-check-power.md) | 権力の濫用を防ぐには、権力が権力を抑制するようにせねばならない | モンテスキュー | 『法の精神』第11編第4章 |
 | [western-philosophy-039](../maxims/western-philosophy/western-philosophy-039-where-there-is-power-there-is-resistance.md) | 権力のあるところには、抵抗がある | ミシェル・フーコー | 『性の歴史Ⅰ 知への意志』 |
 | [western-philosophy-040](../maxims/western-philosophy/western-philosophy-040-to-exist-is-to-change.md) | 存在するとは変化することであり、成熟するとは終わりなく自己を創造し続けることである | アンリ・ベルクソン | 『創造的進化』第1章 |
+| [western-philosophy-041](../maxims/western-philosophy/western-philosophy-041-one-must-imagine-sisyphus-happy.md) | 我々はシーシュポスが幸福であると想像せねばならない | アルベール・カミュ | 『シーシュポスの神話』結章 |
+| [western-philosophy-042](../maxims/western-philosophy/western-philosophy-042-act-only-on-that-maxim.md) | 君の格率が普遍的法則となることを同時に意志しうる格率のみに従って行為せよ | イマヌエル・カント | 『道徳形而上学の基礎づけ』第2章 |
+| [western-philosophy-043](../maxims/western-philosophy/western-philosophy-043-truth-happens-to-an-idea.md) | 真理は観念に生起する。観念は出来事によって真にされる | ウィリアム・ジェイムズ | 『プラグマティズム』第6講 |
+| [western-philosophy-044](../maxims/western-philosophy/western-philosophy-044-thinking-and-being-are-the-same.md) | 思惟することと存在することとは、同じ一つのことである | パルメニデス | 断片 DK B3 |
+| [western-philosophy-045](../maxims/western-philosophy/western-philosophy-045-neither-heavenly-nor-earthly.md) | 我々は汝を天上のものとも地上のものとも造らなかった。汝が自らを望むままの形に造形しうるためである | ピコ・デラ・ミランドラ | 『人間の尊厳について』 |
+| [western-philosophy-046](../maxims/western-philosophy/western-philosophy-046-grace-does-not-destroy-nature.md) | 恩寵は自然を廃棄せず、かえってこれを完成させる | トマス・アクィナス | 『神学大全』第一部第1問第8項 |
+| [western-philosophy-047](../maxims/western-philosophy/western-philosophy-047-footnotes-to-plato.md) | ヨーロッパ哲学の伝統は、プラトンへの一連の脚注から成る | A・N・ホワイトヘッド | 『過程と実在』第2部第1章 |
+| [western-philosophy-048](../maxims/western-philosophy/western-philosophy-048-falsifiability-criterion.md) | 考えうる出来事によって反駁されえない理論は非科学的である | カール・ポパー | 『推測と反駁』第1章 |
+| [western-philosophy-049](../maxims/western-philosophy/western-philosophy-049-amor-fati.md) | 人間の偉大さについての私の定式は運命愛である | フリードリヒ・ニーチェ | 『この人を見よ』第10節 |
+| [western-philosophy-050](../maxims/western-philosophy/western-philosophy-050-citizen-of-the-world.md) | どこの出身かと問われて、彼は「世界市民である」と答えた | ディオゲネス（シノペの） | ディオゲネス・ラエルティオス『哲学者列伝』第6巻63節 |
