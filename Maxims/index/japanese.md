@@ -1,4 +1,4 @@
-# 日本の格言・名言（20件）
+# 日本の格言・名言（30件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -24,3 +24,13 @@
 | [japanese-018](../maxims/japanese/japanese-018-three-years-on-a-stone.md) | 石の上にも三年 | 作者不詳 | 『毛吹草』（1638年） |
 | [japanese-019](../maxims/japanese/japanese-019-even-monkeys-fall-from-trees.md) | 猿も木から落ちる | 作者不詳 | 『枕草子』／『鷹筑波集』（1638年） |
 | [japanese-020](../maxims/japanese/japanese-020-make-the-dull-world-fun.md) | おもしろきこともなき世をおもしろく | 高杉晋作 | 高杉晋作の和歌（下の句は野村望東尼） |
+| [japanese-021](../maxims/japanese/japanese-021-never-forget-the-beginners-mind.md) | 初心忘るべからず | 世阿弥 | 『花鏡』奥段 |
+| [japanese-022](../maxims/japanese/japanese-022-the-unchanging-and-the-ever-changing.md) | 不易を知らざれば基立ちがたく、流行を知らざれば風新たならず（不易流行） | 松尾芭蕉 | 向井去来『去来抄』修行 |
+| [japanese-023](../maxims/japanese/japanese-023-meet-calamity-when-it-is-time.md) | 災難に逢う時節には災難に逢うがよく候、死ぬ時節には死ぬがよく候 | 良寛 | 山田杜皐宛書簡（1828年・三条地震後） |
+| [japanese-024](../maxims/japanese/japanese-024-everyone-has-their-own-given-path.md) | 自分には自分に与えられた道がある。天与の尊い道がある | 松下幸之助 | 『道をひらく』（1968年）「道」 |
+| [japanese-025](../maxims/japanese/japanese-025-perseverance-is-strength.md) | 継続は力なり | 作者不詳 | 由来諸説（住岡夜晃『讃嘆の詩』説が有力） |
+| [japanese-026](../maxims/japanese/japanese-026-a-clever-hawk-hides-its-talons.md) | 能ある鷹は爪を隠す | 作者不詳 | 日本のことわざ（『花鳥余情』に用例） |
+| [japanese-027](../maxims/japanese/japanese-027-the-ripest-rice-bows-its-head.md) | 実るほど頭を垂れる稲穂かな | 作者不詳 | 日本のことわざ（詠み人知らず） |
+| [japanese-028](../maxims/japanese/japanese-028-not-saying-is-the-flower.md) | 言わぬが花 | 作者不詳 | 日本のことわざ（『ぎんかなめ』に用例） |
+| [japanese-029](../maxims/japanese/japanese-029-wherever-you-live-becomes-the-capital.md) | 住めば都 | 作者不詳 | 日本のことわざ |
+| [japanese-030](../maxims/japanese/japanese-030-freedom-is-to-be-seized.md) | 自由は取る可き物なり、貰う可き品に非ず | 中江兆民 | 『放談』 |

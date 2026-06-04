@@ -24,3 +24,13 @@
 | japanese-018 | 石の上にも三年 | 作者不詳 | ja.wikipedia.org「石の上にも三年」, コトバンク, proverb-encyclopedia.com | 2026-06-04 |
 | japanese-019 | 猿も木から落ちる | 作者不詳 | コトバンク, proverb-encyclopedia.com, kotobank.jp | 2026-06-04 |
 | japanese-020 | おもしろきこともなき世をおもしろく | 高杉晋作 | jpreki.com, bakumatsu.org, ohakakiwame.jp | 2026-06-04 |
+| japanese-021 | 初心忘るべからず | 世阿弥 | ja.wikipedia.org「花鏡」, 文化デジタルライブラリー, sybrma.sakura.ne.jp | 2026-06-04 |
+| japanese-022 | 不易を知らざれば基立ちがたく、流行を知らざれば風新たならず（不易流行） | 松尾芭蕉 | ja.wikipedia.org「去来抄」, kotobank.jp, jphaiku.jp | 2026-06-04 |
+| japanese-023 | 災難に逢う時節には災難に逢うがよく候、死ぬ時節には死ぬがよく候 | 良寛 | gakuen.koka.ac.jp（光華学園）, nobunsha.jp, zen-essay.com | 2026-06-04 |
+| japanese-024 | 自分には自分に与えられた道がある。天与の尊い道がある | 松下幸之助 | php.co.jp（PHP研究所 公式書誌）, shuchi.php.co.jp, konosuke-matsushita.com | 2026-06-04 |
+| japanese-025 | 継続は力なり | 作者不詳 | ja.wikipedia.org「継続は力なり」, weblio.jp, hugkum.sho.jp | 2026-06-04 |
+| japanese-026 | 能ある鷹は爪を隠す | 作者不詳 | ja.wikipedia.org「能ある鷹は爪を隠す」, kotobank.jp, proverb-encyclopedia.com | 2026-06-04 |
+| japanese-027 | 実るほど頭を垂れる稲穂かな | 作者不詳 | kotobank.jp, proverb-encyclopedia.com, haiku-textbook.com | 2026-06-04 |
+| japanese-028 | 言わぬが花 | 作者不詳 | kotobank.jp, proverb-encyclopedia.com, kotowaza-dictionary.jp | 2026-06-04 |
+| japanese-029 | 住めば都 | 作者不詳 | kotobank.jp, kotowaza-dictionary.jp, proverb-encyclopedia.com | 2026-06-04 |
+| japanese-030 | 自由は取る可き物なり、貰う可き品に非ず | 中江兆民 | ja.wikipedia.org「中江兆民」, kotobank.jp, soul-brighten.com | 2026-06-04 |
