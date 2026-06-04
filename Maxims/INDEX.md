@@ -4,12 +4,12 @@
 
 | カテゴリ | 件数 | 一覧 |
 |---------|------|------|
-| 西洋哲学 | 20 | [一覧を見る](index/western-philosophy.md) |
-| 東洋思想 | 20 | [一覧を見る](index/eastern-thought.md) |
-| 日本の格言・名言 | 20 | [一覧を見る](index/japanese.md) |
-| 中国故事成語 | 20 | [一覧を見る](index/chinese-idioms.md) |
-| 世界のことわざ | 20 | [一覧を見る](index/world-proverbs.md) |
-| 著名人の言葉 | 20 | [一覧を見る](index/notable-figures.md) |
-| ラテン語の格言 | 20 | [一覧を見る](index/latin.md) |
-| 文学の名言 | 20 | [一覧を見る](index/literature.md) |
-| **合計** | **160** | |
+| 西洋哲学 | 30 | [一覧を見る](index/western-philosophy.md) |
+| 東洋思想 | 30 | [一覧を見る](index/eastern-thought.md) |
+| 日本の格言・名言 | 30 | [一覧を見る](index/japanese.md) |
+| 中国故事成語 | 30 | [一覧を見る](index/chinese-idioms.md) |
+| 世界のことわざ | 30 | [一覧を見る](index/world-proverbs.md) |
+| 著名人の言葉 | 30 | [一覧を見る](index/notable-figures.md) |
+| ラテン語の格言 | 30 | [一覧を見る](index/latin.md) |
+| 文学の名言 | 30 | [一覧を見る](index/literature.md) |
+| **合計** | **240** | |
