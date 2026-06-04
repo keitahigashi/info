@@ -14,3 +14,13 @@
 | latin-008 | Mens sana in corpore sano. | ユウェナリス | ユウェナリス『風刺詩』10.356 / en.wikipedia.org, thelatinlibrary.com | 2026-06-04 |
 | latin-009 | Sic transit gloria mundi. | 作者不詳 | トマス・ア・ケンピス『キリストにならいて』1.3.6、教皇戴冠儀礼 / en.wikipedia.org | 2026-06-04 |
 | latin-010 | Dum spiro, spero. | 作者不詳 | キケロ『アッティクス宛書簡』9.10（類想） / en.wikipedia.org | 2026-06-04 |
+| latin-011 | In vino veritas. | 作者不詳 | プリニウス（大）『博物誌』14.141、ギリシア語起源・エラスムス『格言集』 / en.wikipedia.org, thelatinlibrary.com | 2026-06-04 |
+| latin-012 | Tempus fugit. | ウェルギリウス | ウェルギリウス『農耕詩』3.284「fugit irreparabile tempus」 / en.wikipedia.org, thelatinlibrary.com | 2026-06-04 |
+| latin-013 | Errare humanum est. | セネカ（小） | キケロ『ピリッピカ』12.5「cuiusvis hominis est errare」（類想）、後世の定着形 / en.wikipedia.org | 2026-06-04 |
+| latin-014 | Si vis pacem, para bellum. | ウェゲティウス | ウェゲティウス『軍事論』第3巻序文「qui desiderat pacem, praeparet bellum」 / en.wikipedia.org, thelatinlibrary.com | 2026-06-04 |
+| latin-015 | Panem et circenses. | ユウェナリス | ユウェナリス『風刺詩』10.81 / en.wikipedia.org, thelatinlibrary.com | 2026-06-04 |
+| latin-016 | Omnia vincit Amor. | ウェルギリウス | ウェルギリウス『牧歌』10.69 / en.wikipedia.org, thelatinlibrary.com | 2026-06-04 |
+| latin-017 | Veritas vos liberabit. | 作者不詳 | 新約聖書『ヨハネによる福音書』8:32（ウルガタ訳） / en.wikipedia.org | 2026-06-04 |
+| latin-018 | Vox populi, vox Dei. | アルクィヌス | アルクィヌス『カール大帝宛書簡』132（798年） / en.wikipedia.org | 2026-06-04 |
+| latin-019 | Divide et impera. | 作者不詳 | 近世の政治格言（古代の単一典拠なし） / en.wikipedia.org | 2026-06-04 |
+| latin-020 | Dulce et decorum est pro patria mori. | ホラティウス | ホラティウス『歌集』3.2.13 / en.wikipedia.org, thelatinlibrary.com | 2026-06-04 |
