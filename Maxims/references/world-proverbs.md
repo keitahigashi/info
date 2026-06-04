@@ -24,3 +24,13 @@
 | world-proverbs-018 | 小さなものを敬えない者は、大きなものを得る値打ちがない。 | 作者不詳（オランダ語） | ensie.nl | 2026-06-04 |
 | world-proverbs-019 | 危険を冒さぬ者は、ご馳走にありつけない。 | 作者不詳（ポルトガル語） | en.wiktionary.org, dicionario.priberam.org | 2026-06-04 |
 | world-proverbs-020 | 魚を釣るのに、海より遠くまで行くには及ばない。 | 作者不詳（フィンランド語） | en.wikiquote.org | 2026-06-04 |
+| world-proverbs-021 | 一滴一滴が集まって、やがて海となる。 | 作者不詳（ペルシャ語） | tatoeba.org, lyricstranslate.com | 2026-06-04 |
+| world-proverbs-022 | すべての始まりは難しい。 | 作者不詳（ヘブライ語） | hebrewcollege.edu, chabad.org, sefaria.org | 2026-06-04 |
+| world-proverbs-023 | 潮が満ちたら、急いで水を汲め。 | 作者不詳（タイ語） | orst.go.th, thaispire.com | 2026-06-04 |
+| world-proverbs-024 | 少しずつ、やがて丘になる。 | 作者不詳（インドネシア語・マレー語） | en.wiktionary.org | 2026-06-04 |
+| world-proverbs-025 | 人は、他者を通じて人となる。 | 作者不詳（ズールー語） | en.wikipedia.org（Ubuntu philosophy）, en.wiktionary.org | 2026-06-04 |
+| world-proverbs-026 | 頭たらんと欲する者は、橋となれ。 | 作者不詳（ウェールズ語・マビノギオン） | en.wikiquote.org, haverfordwestheritage.org.uk | 2026-06-04 |
+| world-proverbs-027 | みなで力を合わせれば、大きすぎる仕事などない。 | 作者不詳（ハワイ語） | Pukui『ʻŌlelo Noʻeau』, kawaiola.news | 2026-06-04 |
+| world-proverbs-028 | 働かざる者に菓子なし。 | 作者不詳（チェコ語） | en.wiktionary.org, en.wikiquote.org | 2026-06-04 |
+| world-proverbs-029 | 長老が市場にいながら、新生児の頭が曲がるままにはしておかない。 | 作者不詳（ヨルバ語） | discoveryoruba.com, hqwords.com | 2026-06-04 |
+| world-proverbs-030 | 早く起きる者は黄金を見つける。 | 作者不詳（ハンガリー語） | proverbicals.com, szolasok.hu | 2026-06-04 |

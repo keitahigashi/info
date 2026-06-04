@@ -1,4 +1,4 @@
-# 世界のことわざ（20件）
+# 世界のことわざ（30件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -24,3 +24,13 @@
 | [world-proverbs-018](../maxims/world-proverbs/world-proverbs-018-wie-het-kleine-niet-eert.md) | 小さなものを敬えない者は、大きなものを得る値打ちがない。 | 作者不詳（オランダ語） | Wie het kleine niet eert, is het grote niet waard |
 | [world-proverbs-019](../maxims/world-proverbs/world-proverbs-019-quem-nao-arrisca-nao-petisca.md) | 危険を冒さぬ者は、ご馳走にありつけない。 | 作者不詳（ポルトガル語） | Quem não arrisca não petisca |
 | [world-proverbs-020](../maxims/world-proverbs/world-proverbs-020-ei-kannata-menna-merta-edemmas-kalaan.md) | 魚を釣るのに、海より遠くまで行くには及ばない。 | 作者不詳（フィンランド語） | Ei kannata mennä merta edemmäs kalaan |
+| [world-proverbs-021](../maxims/world-proverbs/world-proverbs-021-qatreh-qatreh-darya.md) | 一滴一滴が集まって、やがて海となる。 | 作者不詳（ペルシャ語） | قطره قطره جمع گردد، وانگهی دریا شود |
+| [world-proverbs-022](../maxims/world-proverbs/world-proverbs-022-kol-hahatchalot-kashot.md) | すべての始まりは難しい。 | 作者不詳（ヘブライ語） | כל ההתחלות קשות |
+| [world-proverbs-023](../maxims/world-proverbs/world-proverbs-023-nam-khuen-hai-rip-tak.md) | 潮が満ちたら、急いで水を汲め。 | 作者不詳（タイ語） | น้ำขึ้นให้รีบตัก |
+| [world-proverbs-024](../maxims/world-proverbs/world-proverbs-024-sedikit-sedikit-jadi-bukit.md) | 少しずつ、やがて丘になる。 | 作者不詳（インドネシア語・マレー語） | Sedikit-sedikit, lama-lama menjadi bukit |
+| [world-proverbs-025](../maxims/world-proverbs/world-proverbs-025-umuntu-ngumuntu-ngabantu.md) | 人は、他者を通じて人となる。 | 作者不詳（ズールー語） | Umuntu ngumuntu ngabantu |
+| [world-proverbs-026](../maxims/world-proverbs/world-proverbs-026-a-fo-ben-bid-bont.md) | 頭たらんと欲する者は、橋となれ。 | 作者不詳（ウェールズ語） | A fo ben, bid bont |
+| [world-proverbs-027](../maxims/world-proverbs/world-proverbs-027-aohe-hana-nui-ke-alu-ia.md) | みなで力を合わせれば、大きすぎる仕事などない。 | 作者不詳（ハワイ語） | ʻAʻohe hana nui ke alu ʻia |
+| [world-proverbs-028](../maxims/world-proverbs/world-proverbs-028-bez-prace-nejsou-kolace.md) | 働かざる者に菓子なし。 | 作者不詳（チェコ語） | Bez práce nejsou koláče |
+| [world-proverbs-029](../maxims/world-proverbs/world-proverbs-029-agba-kii-wa-loja.md) | 長老が市場にいながら、新生児の頭が曲がるままにはしておかない。 | 作者不詳（ヨルバ語） | Àgbà kì í wà lọ́jà kí orí ọmọ tuntun ó wọ́ |
+| [world-proverbs-030](../maxims/world-proverbs/world-proverbs-030-aki-koran-kel-aranyat-lel.md) | 早く起きる者は黄金を見つける。 | 作者不詳（ハンガリー語） | Aki korán kel, aranyat lel |
