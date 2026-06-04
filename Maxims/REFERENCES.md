@@ -6,12 +6,12 @@
 
 | カテゴリ | 件数 | 出典 |
 |---------|------|------|
-| 西洋哲学 | 10 | [出典を見る](references/western-philosophy.md) |
-| 東洋思想 | 10 | [出典を見る](references/eastern-thought.md) |
-| 日本の格言・名言 | 10 | [出典を見る](references/japanese.md) |
-| 中国故事成語 | 10 | [出典を見る](references/chinese-idioms.md) |
-| 世界のことわざ | 10 | [出典を見る](references/world-proverbs.md) |
-| 著名人の言葉 | 10 | [出典を見る](references/notable-figures.md) |
-| ラテン語の格言 | 10 | [出典を見る](references/latin.md) |
-| 文学の名言 | 10 | [出典を見る](references/literature.md) |
-| **合計** | **80** | |
+| 西洋哲学 | 20 | [出典を見る](references/western-philosophy.md) |
+| 東洋思想 | 20 | [出典を見る](references/eastern-thought.md) |
+| 日本の格言・名言 | 20 | [出典を見る](references/japanese.md) |
+| 中国故事成語 | 20 | [出典を見る](references/chinese-idioms.md) |
+| 世界のことわざ | 20 | [出典を見る](references/world-proverbs.md) |
+| 著名人の言葉 | 20 | [出典を見る](references/notable-figures.md) |
+| ラテン語の格言 | 20 | [出典を見る](references/latin.md) |
+| 文学の名言 | 20 | [出典を見る](references/literature.md) |
+| **合計** | **160** | |
