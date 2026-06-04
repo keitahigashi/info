@@ -14,3 +14,13 @@
 | japanese-008 | 小を積めば大と為る（積小為大） | 二宮尊徳 | ninomiya.or.jp, hotoku.jp, ja.wikipedia.org「二宮尊徳」 | 2026-06-04 |
 | japanese-009 | 一期一会 | 千利休 | ja.wikipedia.org「一期一会」, mame-sadou.com | 2026-06-04 |
 | japanese-010 | 千日の稽古を鍛とし、万日の稽古を錬とす | 宮本武蔵 | soul-brighten.com, nippon.com, tekito-otome.com | 2026-06-04 |
+| japanese-011 | 日本を今一度せんたくいたし申し候 | 坂本龍馬 | ja.wikisource.org「坂本龍馬の手紙」, 京都国立博物館 館蔵品データベース, 文化遺産オンライン | 2026-06-04 |
+| japanese-012 | 論語と算盤とは一致すべきものである（道徳経済合一） | 渋沢栄一 | ja.wikipedia.org「論語と算盤」, 二松学舎大学, toyokeizai.net | 2026-06-04 |
+| japanese-013 | 物の興廃は必ず人に由り、人の昇沈は定んで道に在り | 空海 | ja.wikipedia.org「空海」「性霊集」, mikkyo21f.gr.jp | 2026-06-04 |
+| japanese-014 | 秘すれば花なり、秘せずば花なるべからず | 世阿弥 | ja.wikipedia.org「風姿花伝」, 観世文庫, 文化デジタルライブラリー | 2026-06-04 |
+| japanese-015 | 仏道をならふといふは、自己をならふなり | 道元 | ja.wikipedia.org「正法眼蔵」, soto-kanto.net, 東京大学 UTokyo BiblioPlaza | 2026-06-04 |
+| japanese-016 | 行蔵は我に存す、毀誉は他人の主張 | 勝海舟 | aozora.gr.jp「瘠我慢の説」, serai.jp, 中国新聞デジタル | 2026-06-04 |
+| japanese-017 | 急がば回れ | 作者不詳 | gogen-yurai.jp, 国会図書館レファレンス協同DB, 語源由来辞典 | 2026-06-04 |
+| japanese-018 | 石の上にも三年 | 作者不詳 | ja.wikipedia.org「石の上にも三年」, コトバンク, proverb-encyclopedia.com | 2026-06-04 |
+| japanese-019 | 猿も木から落ちる | 作者不詳 | コトバンク, proverb-encyclopedia.com, kotobank.jp | 2026-06-04 |
+| japanese-020 | おもしろきこともなき世をおもしろく | 高杉晋作 | jpreki.com, bakumatsu.org, ohakakiwame.jp | 2026-06-04 |
