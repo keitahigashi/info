@@ -24,3 +24,13 @@
 | chinese-idioms-018 | 杯中の蛇影 | 房玄齢ほか（編） | ja.wikipedia.org, kanbun.info | 2026-06-04 |
 | chinese-idioms-019 | 鶏口牛後 | 司馬遷 | ja.wikipedia.org, ja.wikibooks.org | 2026-06-04 |
 | chinese-idioms-020 | 虎の威を借る狐 | 劉向（編） | ja.wikipedia.org, kanbun.info | 2026-06-04 |
+| chinese-idioms-021 | 白眉 | 陳寿 | ja.wikipedia.org, kotobank.jp | 2026-06-04 |
+| chinese-idioms-022 | 登竜門 | 范曄 | ja.wikipedia.org, ja.wiktionary.org | 2026-06-04 |
+| chinese-idioms-023 | 覆水盆に返らず | 王嘉 | ja.wikipedia.org, kotowaza-dictionary.jp | 2026-06-04 |
+| chinese-idioms-024 | 断腸の思い | 劉義慶 | ja.wiktionary.org, kotowaza-dictionary.jp | 2026-06-04 |
+| chinese-idioms-025 | 鼎の軽重を問う | 左丘明（伝） | ja.wiktionary.org, kanbun.info | 2026-06-04 |
+| chinese-idioms-026 | 病膏肓に入る | 左丘明（伝） | kanbun.info, weblio.jp | 2026-06-04 |
+| chinese-idioms-027 | 嚆矢 | 荘子（伝） | kotobank.jp, ja.wiktionary.org | 2026-06-04 |
+| chinese-idioms-028 | 月下氷人 | 李復言 | kotobank.jp, dictionary.goo.ne.jp | 2026-06-04 |
+| chinese-idioms-029 | 牛耳を執る | 左丘明（伝） | kanbun.info, kotobank.jp | 2026-06-04 |
+| chinese-idioms-030 | 朝令暮改 | 班固 | ja.wikipedia.org, weblio.jp | 2026-06-04 |

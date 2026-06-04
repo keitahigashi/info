@@ -1,4 +1,4 @@
-# 中国故事成語（20件）
+# 中国故事成語（30件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -24,3 +24,13 @@
 | [chinese-idioms-018](../maxims/chinese-idioms/chinese-idioms-018-haichu-no-daei.md) | 杯中の蛇影 | 房玄齢ほか（編） | 『晋書』楽広伝 |
 | [chinese-idioms-019](../maxims/chinese-idioms/chinese-idioms-019-keiko-gyugo.md) | 鶏口牛後 | 司馬遷 | 『史記』蘇秦列伝 |
 | [chinese-idioms-020](../maxims/chinese-idioms/chinese-idioms-020-tora-no-i-wo-karu-kitsune.md) | 虎の威を借る狐 | 劉向（編） | 『戦国策』楚策 |
+| [chinese-idioms-021](../maxims/chinese-idioms/chinese-idioms-021-hakubi.md) | 白眉 | 陳寿 | 『三国志』蜀志・馬良伝 |
+| [chinese-idioms-022](../maxims/chinese-idioms/chinese-idioms-022-toryumon.md) | 登竜門 | 范曄 | 『後漢書』李膺伝 |
+| [chinese-idioms-023](../maxims/chinese-idioms/chinese-idioms-023-fukusui-bon-ni-kaerazu.md) | 覆水盆に返らず | 王嘉 | 『拾遺記』 |
+| [chinese-idioms-024](../maxims/chinese-idioms/chinese-idioms-024-dancho-no-omoi.md) | 断腸の思い | 劉義慶 | 『世説新語』黜免篇 |
+| [chinese-idioms-025](../maxims/chinese-idioms/chinese-idioms-025-kanae-no-keicho-wo-tou.md) | 鼎の軽重を問う | 左丘明（伝） | 『春秋左氏伝』宣公三年 |
+| [chinese-idioms-026](../maxims/chinese-idioms/chinese-idioms-026-yamai-koko-ni-iru.md) | 病膏肓に入る | 左丘明（伝） | 『春秋左氏伝』成公十年 |
+| [chinese-idioms-027](../maxims/chinese-idioms/chinese-idioms-027-koshi.md) | 嚆矢 | 荘子（伝） | 『荘子』在宥篇 |
+| [chinese-idioms-028](../maxims/chinese-idioms/chinese-idioms-028-gekka-hyojin.md) | 月下氷人 | 李復言 | 『続幽怪録』 |
+| [chinese-idioms-029](../maxims/chinese-idioms/chinese-idioms-029-gyuji-wo-toru.md) | 牛耳を執る | 左丘明（伝） | 『春秋左氏伝』哀公十七年 |
+| [chinese-idioms-030](../maxims/chinese-idioms/chinese-idioms-030-chorei-bokai.md) | 朝令暮改 | 班固 | 『漢書』食貨志 |
