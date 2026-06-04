@@ -1,35 +1,66 @@
-# Maxims ── 世界の格言ナレッジベース
+# 格言データベース
 
-世界の格言・名言・ことわざを収集・整理するナレッジベース。1格言1ファイルのmarkdown形式（充実型：原文・出典・背景・解説つき）で管理する。
+古今東西の格言・名言・箴言を収集・整理するナレッジベース。
 
-## 収録状況
+## 構成
 
-| カテゴリ | 件数 |
+| ファイル | 内容 |
 |---------|------|
-| 西洋哲学 | 5 |
-| 東洋思想 | 0 |
-| 日本 | 0 |
-| 中国故事成語 | 0 |
-| 世界のことわざ | 0 |
-| 著名人 | 0 |
-| ラテン語金言 | 0 |
-| 文学作品の名言 | 0 |
-| **合計** | **5** |
+| [**INDEX.md**](INDEX.md) | **格言一覧（カテゴリ別）** |
+| [REFERENCES.md](REFERENCES.md) | 出典・参照一覧 |
+| [_template.md](_template.md) | 新規追加用テンプレート |
+| `maxims/` | 格言本体（1格言1ファイル） |
 
-## 使い方
+## 格言自動収集システム
 
-- 一覧を見る → [INDEX.md](INDEX.md)
-- 出典を確認する → [REFERENCES.md](REFERENCES.md)
-- 自動収集 → 「格言収集して」「集積を続けて」（`.claude/skills/maxim-collector/SKILL.md` 参照）
-- 新規追加テンプレート → [_template.md](_template.md)
+Claude Code のスキル機能を使い、Web検索で格言を出典確認しながら自動収集・登録する仕組みが組み込まれている。
 
-## ディレクトリ構成
+```
+セッション開始（「格言収集して」等）
+  ↓
+CLAUDE.md → スキル発火 → SKILL.md読み込み
+  ↓
+references/{category}.md → 収集済み格言で重複チェック
+  ↓
+Web検索（カテゴリローテーション） → 重複フィルタ
+  ↓
+出典検証（誤帰属の排除・典拠確認）
+  ↓
+maxims/*.md 作成 → INDEX・REFERENCES 更新 → ログ記録
+```
 
-| パス | 役割 |
-|------|------|
-| `maxims/{category}/` | 格言本体（1格言1ファイル） |
-| `index/` | カテゴリ別の格言一覧 |
-| `references/` | カテゴリ別の出典一覧（重複チェック源） |
-| `log/` | デイリー収集ログ |
-| `_template.md` | 新規追加用テンプレート |
-| `CLAUDE.md` | リポジトリ規約 |
+### 使い方
+
+```bash
+# 1. このディレクトリで Claude Code を起動
+cd Maxims
+claude
+
+# 2. 格言収集を指示
+> 格言収集して
+> 集積を続けて
+
+# 3. 特定の格言を指定して追加
+> カントの「我が上なる星空…」を追加して
+
+# 4. デイリー自動実行
+> /loop 24h で格言収集を設定して
+```
+
+## 命名規則
+
+ファイル名: `{category}-{3桁連番}-{english-slug}.md`
+
+| category | テーマ |
+|----------|--------|
+| `western-philosophy` | 西洋哲学 |
+| `eastern-thought` | 東洋思想 |
+| `japanese` | 日本の格言・名言 |
+| `chinese-idioms` | 中国故事成語 |
+| `world-proverbs` | 世界のことわざ |
+| `notable-figures` | 著名人の言葉 |
+| `latin` | ラテン語の格言 |
+| `literature` | 文学の名言 |
+
+**ローテーション順**:
+`western-philosophy` → `eastern-thought` → `japanese` → `chinese-idioms` → `world-proverbs` → `notable-figures` → `latin` → `literature` → 先頭へ
