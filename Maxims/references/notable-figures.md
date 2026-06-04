@@ -42,3 +42,16 @@
 | notable-figures-036 | 私はハチドリになろう。できる限りのことをするのだ | ワンガリ・マータイ | ドキュメンタリー映画『DIRT! The Movie』2009年での語り（ハチドリの寓話）/ greenbeltmovement.org | 2026-06-04 |
 | notable-figures-037 | 勇気とは、安らぎを得るために人生が課す代償である | アメリア・イアハート | 詩「勇気（Courage）」Survey Graphic 誌, 1928年 / futilitycloset.com | 2026-06-04 |
 | notable-figures-038 | もし何かを試みる勇気がなかったら、人生とはいったい何だろう | フィンセント・ファン・ゴッホ | 弟テオ宛書簡 1881-12-29（ハーグ）/ en.wikiquote.org, 『Dear Theo』p.83 | 2026-06-04 |
+| notable-figures-039 | 貧者がより貧しくなろうとも、富者がより富まないほうがよい——彼らはそう考えている | マーガレット・サッチャー | 英国下院 最後の演説 1990-11-22（Hansard vol.181「Confidence in Her Majesty's Government」）/ publications.parliament.uk, margaretthatcher.org（doc.108256）。日本流布の短縮形「お金持ちを貧乏にしても貧乏な人はお金持ちにならない」は趣旨の要約 | 2026-06-04 |
+| notable-figures-040 | 完璧を目指すより、まず終わらせろ | マーク・ザッカーバーグ | Facebook S-1（IPO目論見書）株主宛書簡「The Hacker Way」2012年（社内の壁に掲示）/ cnbc.com, SEC Form S-1。独自造語ではなく従来の言い回しを社是化したもの（諸説あり） | 2026-06-04 |
+| notable-figures-041 | もし考えていることを伝えるのに沢山の言葉を必要とするなら、もっと深く考えなさい | デニス・ロシュ | 帰属未確定（諸説あり）。quotefancy.com, quotery.com, picturequotes.com に「Dennis Roch」名義で流布。写真家 Denis Roche（1937–2015）への帰属には確証なし | 2026-06-04 |
+| notable-figures-042 | すべての国民は、その身の丈に合った政府を持つ | ジョゼフ・ド・メーストル | 書簡 1811-08-27（書簡番号76、ロシアの新立法に関する）/『Lettres et opuscules inédits』vol.1(1851)所収。fr.wikiquote.org, en.wikiquote.org。**誤帰属に注意**: カーライル／トクヴィル／リンカーンへの帰属は誤り。日付は8/15・8/27・8/13と諸説あり | 2026-06-04 |
+| notable-figures-043 | 二つの人格の出会いは、二つの化学物質の接触のようなものだ。もし何らかの反応が起きれば、両方が変質する | カール・グスタフ・ユング | 『Modern Man in Search of a Soul』1933年 p.49 / goodreads.com, libquotes.com, quotepark.com | 2026-06-04 |
+| notable-figures-044 | 愛の支配するところに権力欲は存在しない。権力が幅をきかせるところに愛はない。両者はお互いの影なのだ | カール・グスタフ・ユング | 『Über die Psychologie des Unbewussten（無意識の心理学について）』1917年（Two Essays on Analytical Psychology / CW vol.7）/ quotepark.com, azquotes.com（独文・英訳） | 2026-06-04 |
+| notable-figures-045 | 子供たちは、大人の話ではなく、大人のあり方によって教えられる | カール・グスタフ・ユング | 帰属広く流布（諸説あり）。Collected Works のどの巻かは資料により異同（『Psyche and Symbol』1958 / CW vol.17 等）/ libquotes.com, goodreads.com, brainyquote.com | 2026-06-04 |
+| notable-figures-046 | 受け入れることなしに、何も変えることはできない。非難は精神を解放するどころか、抑圧するだけだ | カール・グスタフ・ユング | 帰属広く流布（諸説あり）。一次典拠は未確認 / goodnewsnetwork.org, azquotes.com, brainyquote.com | 2026-06-04 |
+| notable-figures-047 | 私たちを苛つかせる他人の行動は、私たち自身についての理解を深めてくれる | カール・グスタフ・ユング | 帰属広く流布（諸説あり）。『Memories, Dreams, Reflections』由来とされるが一次典拠は確認困難 / goodreads.com, brainyquote.com, buboquote.com | 2026-06-04 |
+| notable-figures-048 | われわれの生まれてきた世界は無慈悲で残酷であり、そして同時に神聖な美しさを持っている | カール・グスタフ・ユング | 自伝『Memories, Dreams, Reflections（思い出・夢・思想）』1962年「Retrospect（回顧）」の章 / en.wikiquote.org, themarginalian.org | 2026-06-04 |
+| notable-figures-049 | ある人に合う靴も、別の人には窮屈なものである。あらゆるケースに適用する人生の秘訣などない | カール・グスタフ・ユング | 『Modern Man in Search of a Soul』1933年 / goodreads.com, quotepark.com, brainyquote.com | 2026-06-04 |
+| notable-figures-050 | あなたが向き合わなかった問題は、いずれ運命として出会うことになる | カール・グスタフ・ユング | 通俗的言い換え（諸説あり）。原典は『Aion（アイオーン）』CW vol.9ii §126「内的状況が意識化されないとき外側で運命として起こる」/ quozio.com, goodreads.com | 2026-06-04 |
+| notable-figures-051 | 全ての混沌には調和が、無秩序の中には秘められた秩序がある | カール・グスタフ・ユング | 『The Archetypes and the Collective Unconscious（元型論）』CW vol.9i p.32 / libquotes.com, quotepark.com, azquotes.com | 2026-06-04 |

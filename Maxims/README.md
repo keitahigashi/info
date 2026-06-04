@@ -61,6 +61,7 @@ claude
 | `notable-figures` | 著名人の言葉 |
 | `latin` | ラテン語の格言 |
 | `literature` | 文学の名言 |
+| `fiction` | 創作の名言（漫画・ラノベ・ゲーム等） |
 
 **ローテーション順**:
-`western-philosophy` → `eastern-thought` → `japanese` → `chinese-idioms` → `world-proverbs` → `notable-figures` → `latin` → `literature` → 先頭へ
+`western-philosophy` → `eastern-thought` → `japanese` → `chinese-idioms` → `world-proverbs` → `notable-figures` → `latin` → `literature` → `fiction` → 先頭へ
