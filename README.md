@@ -13,8 +13,11 @@
 
 ## ルーチン実行
 
+時刻は JST（cron は UTC）。
+
 | ルーチン名 | 実行タイミング | 実行時間 | リンク |
 | --- | --- | --- | --- |
-| Claude | 毎日 6:30 | 5〜10分 | [trig_012YSocHQBCvR9cmk1R3xrAt](https://claude.ai/code/routines/trig_012YSocHQBCvR9cmk1R3xrAt) |
-| Fables | 毎日 7:00 | 5〜10分 | [trig_01BVHWZxe3f95QcjQbi3uyn5](https://claude.ai/code/scheduled/trig_01BVHWZxe3f95QcjQbi3uyn5) |
-| GameDev | 毎日 7:30 | 5〜10分 | [trig_01NC6yvLBS43taUL9UnmiLEY](https://claude.ai/code/routines/trig_01NC6yvLBS43taUL9UnmiLEY) |
+| Claude | 毎日 3:00 | 5〜10分 | [trig_012YSocHQBCvR9cmk1R3xrAt](https://claude.ai/code/routines/trig_012YSocHQBCvR9cmk1R3xrAt) |
+| GameDev | 毎日 4:00 | 5〜10分 | [trig_01NC6yvLBS43taUL9UnmiLEY](https://claude.ai/code/routines/trig_01NC6yvLBS43taUL9UnmiLEY) |
+| Maxims | 毎日 5:00 | 5〜10分 | [trig_016UCNM2bj9Rotc5dHCMr8Cj](https://claude.ai/code/routines/trig_016UCNM2bj9Rotc5dHCMr8Cj) |
+| Fables | 毎日 6:00 | 5〜10分 | [trig_01BVHWZxe3f95QcjQbi3uyn5](https://claude.ai/code/routines/trig_01BVHWZxe3f95QcjQbi3uyn5) |
