@@ -14,3 +14,13 @@
 | notable-figures-008 | 勇気とは恐れがないことではなく、恐れに打ち克つことだ | ネルソン・マンデラ | 自伝『Long Walk to Freedom』1995年 / goodreads.com, libquotes.com | 2026-06-04 |
 | notable-figures-009 | 我々は世界を映す鏡にすぎない。自分を変えれば世界の傾向も変わる | マハトマ・ガンディー | 『Indian Opinion』1913-08-09（Collected Works of Mahatma Gandhi vol.12 p.158）/ quoteinvestigator.com | 2026-06-04 |
 | notable-figures-010 | 人生とは、思い切った冒険か、さもなくば無である | ヘレン・ケラー | 『The Open Door』Doubleday, 1957年 / goodreads.com, en.wikiquote.org | 2026-06-04 |
+| notable-figures-011 | 栄誉は実際に闘技場に立つ者にこそ与えられる | セオドア・ルーズベルト | ソルボンヌ大学講演「Citizenship in a Republic」1910-04-23 / theodorerooseveltcenter.org, presidency.ucsb.edu | 2026-06-04 |
+| notable-figures-012 | 我々が恐れるべき唯一のものは、恐れそのものである | フランクリン・D・ルーズベルト | 第一次大統領就任演説 1933-03-04 / archives.gov, fdrlibrary.org, avalon.law.yale.edu | 2026-06-04 |
+| notable-figures-013 | 私がさらに遠くを見渡せたのは、巨人の肩の上に立っていたからだ | アイザック・ニュートン | ロバート・フック宛書簡 1675-02-05（旧暦1675/6）/ en.wikipedia.org, americanscientist.org | 2026-06-04 |
+| notable-figures-014 | 天才とは、一パーセントのひらめきと、九十九パーセントの努力である | トーマス・エジソン | ロザノフ『Harper's Magazine』1932年（本人書簡1927年で承認）/ quoteinvestigator.com | 2026-06-04 |
+| notable-figures-015 | 自分で創り出せないものを、私は理解していない | リチャード・ファインマン | 死去時（1988-02）の黒板書き込み・Caltechアーカイブ所蔵 / en.wikiquote.org | 2026-06-04 |
+| notable-figures-016 | もう一度、あの点を見てほしい。あれが我が家だ | カール・セーガン | 『Pale Blue Dot』Random House, 1994年 / planetary.org, en.wikipedia.org | 2026-06-04 |
+| notable-figures-017 | 人民の、人民による、人民のための政治を、この地上から決して滅ぼさないために | エイブラハム・リンカーン | ゲティスバーグ演説 1863-11-19（ブリス稿）/ loc.gov, abrahamlincolnonline.org | 2026-06-04 |
+| notable-figures-018 | それでもなお私は、人間は心の底では善良なのだと信じている | アンネ・フランク | 『アンネの日記』1944-07-15（バージョンA）/ en.wikiquote.org, annefrank.org | 2026-06-04 |
+| notable-figures-019 | 神が授けた感覚・理性・知性の使用を断念せよとは思えない | ガリレオ・ガリレイ | 『トスカーナ大公妃クリスティーナへの手紙』1615年 / web.stanford.edu, hti.osu.edu | 2026-06-04 |
+| notable-figures-020 | 一時間を無駄にして平気な者は、人生の価値を見出していない | チャールズ・ダーウィン | 妹スーザン宛書簡 1836-08-04（『The Life and Letters of Charles Darwin』vol.1 ch.6）/ en.wikiquote.org, darwinproject.ac.uk | 2026-06-04 |

@@ -1,4 +1,4 @@
-# 著名人の言葉（10件）
+# 著名人の言葉（20件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -14,3 +14,13 @@
 | [notable-figures-008](../maxims/notable-figures/notable-figures-008-courage-was-not-the-absence-of-fear.md) | 勇気とは恐れがないことではなく、恐れに打ち克つことだ | ネルソン・マンデラ | 自伝『自由への長い道』（1995年） |
 | [notable-figures-009](../maxims/notable-figures/notable-figures-009-we-but-mirror-the-world.md) | 我々は世界を映す鏡にすぎない。自分を変えれば世界の傾向も変わる | マハトマ・ガンディー | 『インディアン・オピニオン』（1913年） |
 | [notable-figures-010](../maxims/notable-figures/notable-figures-010-life-is-either-a-daring-adventure-or-nothing.md) | 人生とは、思い切った冒険か、さもなくば無である | ヘレン・ケラー | 『The Open Door』（1957年） |
+| [notable-figures-011](../maxims/notable-figures/notable-figures-011-the-man-in-the-arena.md) | 栄誉は実際に闘技場に立つ者にこそ与えられる | セオドア・ルーズベルト | ソルボンヌ大学講演（1910年） |
+| [notable-figures-012](../maxims/notable-figures/notable-figures-012-the-only-thing-we-have-to-fear.md) | 我々が恐れるべき唯一のものは、恐れそのものである | フランクリン・D・ルーズベルト | 第一次大統領就任演説（1933年） |
+| [notable-figures-013](../maxims/notable-figures/notable-figures-013-shoulders-of-giants.md) | 私がさらに遠くを見渡せたのは、巨人の肩の上に立っていたからだ | アイザック・ニュートン | ロバート・フック宛書簡（1675年） |
+| [notable-figures-014](../maxims/notable-figures/notable-figures-014-genius-inspiration-perspiration.md) | 天才とは、一パーセントのひらめきと、九十九パーセントの努力である | トーマス・エジソン | Harper's Magazine（1932年）／本人書簡（1927年） |
+| [notable-figures-015](../maxims/notable-figures/notable-figures-015-what-i-cannot-create.md) | 自分で創り出せないものを、私は理解していない | リチャード・ファインマン | 死去時の黒板（1988年、Caltech所蔵） |
+| [notable-figures-016](../maxims/notable-figures/notable-figures-016-pale-blue-dot.md) | もう一度、あの点を見てほしい。あれが我が家だ | カール・セーガン | 『Pale Blue Dot』（1994年） |
+| [notable-figures-017](../maxims/notable-figures/notable-figures-017-government-of-the-people.md) | 人民の、人民による、人民のための政治を、この地上から決して滅ぼさないために | エイブラハム・リンカーン | ゲティスバーグ演説（1863年） |
+| [notable-figures-018](../maxims/notable-figures/notable-figures-018-people-are-good-at-heart.md) | それでもなお私は、人間は心の底では善良なのだと信じている | アンネ・フランク | 『アンネの日記』（1944年7月15日） |
+| [notable-figures-019](../maxims/notable-figures/notable-figures-019-sense-reason-and-intellect.md) | 神が授けた感覚・理性・知性の使用を断念せよとは思えない | ガリレオ・ガリレイ | 『大公妃クリスティーナへの手紙』（1615年） |
+| [notable-figures-020](../maxims/notable-figures/notable-figures-020-waste-one-hour-of-time.md) | 一時間を無駄にして平気な者は、人生の価値を見出していない | チャールズ・ダーウィン | 妹宛書簡（1836年）／『生涯と書簡』 |
