@@ -34,3 +34,13 @@
 | eastern-thought-028 | 天の将に大任を是の人に降さんとするや | 孟子（孟軻） | ctext.org, zh.wikisource.org | 2026-06-04 |
 | eastern-thought-029 | 義を見て為さざるは、勇無きなり | 孔子 | kanbun.info, ja.wikisource.org | 2026-06-04 |
 | eastern-thought-030 | 己こそ己の主なり | 釈迦（ブッダ） | ancient-buddhist-texts.net, true-buddhism.com | 2026-06-04 |
+| eastern-thought-031 | これを知る者はこれを好む者に如かず | 孔子 | kanbun.info, rongo.roudokus.com | 2026-06-04 |
+| eastern-thought-032 | 過ちて改めざる、これを過ちと謂う | 孔子 | kanbun.info, rongo.roudokus.com | 2026-06-04 |
+| eastern-thought-033 | 人を知る者は智、自ら知る者は明なり | 老子 | daodejing.org, edb.gov.hk | 2026-06-04 |
+| eastern-thought-034 | 民を貴しと為し、社稷これに次ぎ、君を軽しと為す | 孟子（孟軻） | ctext.org, gushiwen.cn | 2026-06-04 |
+| eastern-thought-035 | 天の行いには常あり、堯の為に存せず、桀の為に亡びず | 荀子（荀況） | zh.wikisource.org, ctext.org | 2026-06-04 |
+| eastern-thought-036 | 学とは、性を修むる所以なり | 揚雄 | ctext.org, gj.zdic.net | 2026-06-04 |
+| eastern-thought-037 | 智能の士も、学ばざれば成らず、問わざれば知らず | 王充 | gushiwen.cn, kxue.com | 2026-06-04 |
+| eastern-thought-038 | 蓮は泥より出でて泥に染まらず | 周敦頤 | zh.wikisource.org, dugushici.com | 2026-06-04 |
+| eastern-thought-039 | 読書に三到あり、心到・眼到・口到と謂う | 朱熹 | gushiwen.cn, dugushici.com | 2026-06-04 |
+| eastern-thought-040 | 平常心是れ道 | 南泉普願 | nakano-zenjuku.com, rinnou.net | 2026-06-04 |

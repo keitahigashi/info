@@ -1,4 +1,4 @@
-# 東洋思想（30件）
+# 東洋思想（40件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -34,3 +34,13 @@
 | [eastern-thought-028](../maxims/eastern-thought/eastern-thought-028-heaven-tempers-with-hardship.md) | 天の将に大任を是の人に降さんとするや | 孟子（孟軻） | 『孟子』告子章句下・15 |
 | [eastern-thought-029](../maxims/eastern-thought/eastern-thought-029-seeing-right-and-not-doing.md) | 義を見て為さざるは、勇無きなり | 孔子 | 『論語』為政第二・24 |
 | [eastern-thought-030](../maxims/eastern-thought/eastern-thought-030-oneself-is-ones-own-master.md) | 己こそ己の主なり | 釈迦（ブッダ） | 『ダンマパダ（法句経）』第160偈 |
+| [eastern-thought-031](../maxims/eastern-thought/eastern-thought-031-knowing-loving-enjoying.md) | これを知る者はこれを好む者に如かず、これを好む者はこれを楽しむ者に如かず | 孔子 | 『論語』雍也第六・18 |
+| [eastern-thought-032](../maxims/eastern-thought/eastern-thought-032-not-correcting-a-fault.md) | 過ちて改めざる、これを過ちと謂う | 孔子 | 『論語』衛霊公第十五・30 |
+| [eastern-thought-033](../maxims/eastern-thought/eastern-thought-033-knowing-others-knowing-self.md) | 人を知る者は智、自ら知る者は明なり | 老子 | 『老子道徳経』第三十三章 |
+| [eastern-thought-034](../maxims/eastern-thought/eastern-thought-034-people-are-most-precious.md) | 民を貴しと為し、社稷これに次ぎ、君を軽しと為す | 孟子（孟軻） | 『孟子』尽心章句下・14 |
+| [eastern-thought-035](../maxims/eastern-thought/eastern-thought-035-heaven-has-constant-laws.md) | 天の行いには常あり、堯の為に存せず、桀の為に亡びず | 荀子（荀況） | 『荀子』天論篇第十七 |
+| [eastern-thought-036](../maxims/eastern-thought/eastern-thought-036-learning-cultivates-nature.md) | 学とは、性を修むる所以なり | 揚雄 | 『法言』学行篇第一 |
+| [eastern-thought-037](../maxims/eastern-thought/eastern-thought-037-without-learning-no-mastery.md) | 智能の士も、学ばざれば成らず、問わざれば知らず | 王充 | 『論衡』実知篇第七十八 |
+| [eastern-thought-038](../maxims/eastern-thought/eastern-thought-038-rising-from-mud-unstained.md) | 蓮は泥より出でて泥に染まらず | 周敦頤 | 『愛蓮説』 |
+| [eastern-thought-039](../maxims/eastern-thought/eastern-thought-039-three-arrivals-of-reading.md) | 読書に三到あり、心到・眼到・口到と謂う | 朱熹 | 『訓学斎規』 |
+| [eastern-thought-040](../maxims/eastern-thought/eastern-thought-040-ordinary-mind-is-the-way.md) | 平常心是れ道 | 南泉普願 | 『無門関』第十九則 |
