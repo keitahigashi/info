@@ -1,4 +1,4 @@
-# 西洋哲学（10件）
+# 西洋哲学（20件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -14,3 +14,13 @@
 | [western-philosophy-008](../maxims/western-philosophy/western-philosophy-008-the-war-of-all-against-all.md) | 万人の万人に対する闘争 | トマス・ホッブズ | 『市民論』序文 §14 |
 | [western-philosophy-009](../maxims/western-philosophy/western-philosophy-009-all-men-by-nature-desire-to-know.md) | すべての人間は、生まれつき知ることを欲する | アリストテレス | 『形而上学』980a21 |
 | [western-philosophy-010](../maxims/western-philosophy/western-philosophy-010-man-is-a-thinking-reed.md) | 人間は考える葦である | ブレーズ・パスカル | 『パンセ』断章 |
+| [western-philosophy-011](../maxims/western-philosophy/western-philosophy-011-the-beginning-is-the-most-important-part-of-the-work.md) | 何事においても始めが最も大切である | プラトン | 『国家』第2巻 377b |
+| [western-philosophy-012](../maxims/western-philosophy/western-philosophy-012-men-are-disturbed-not-by-things-but-by-their-judgments.md) | 人を乱すのは出来事そのものではなく、出来事についての判断である | エピクテトス | 『提要』第5章 |
+| [western-philosophy-013](../maxims/western-philosophy/western-philosophy-013-our-life-is-what-our-thoughts-make-it.md) | 人生は、われわれの思考がつくり上げるものである | マルクス・アウレリウス | 『自省録』第4巻3節 |
+| [western-philosophy-014](../maxims/western-philosophy/western-philosophy-014-while-we-teach-we-learn.md) | 人は教えることによって学ぶ | セネカ | 『道徳書簡』第7書簡8節 |
+| [western-philosophy-015](../maxims/western-philosophy/western-philosophy-015-not-to-weep-not-to-laugh-but-to-understand.md) | 嘆かず、笑わず、呪わず、ただ理解すること | バールーフ・デ・スピノザ | 『政治論』第1章4節 |
+| [western-philosophy-016](../maxims/western-philosophy/western-philosophy-016-reason-is-the-slave-of-the-passions.md) | 理性は情念の奴隷であり、ただそうあるべきものにすぎない | デイヴィッド・ヒューム | 『人間本性論』第2巻3部3節 |
+| [western-philosophy-017](../maxims/western-philosophy/western-philosophy-017-everything-flows.md) | 万物は流転する。同じ川に二度入ることはできない | ヘラクレイトス | 断片 DK B12 / 『クラテュロス』402a |
+| [western-philosophy-018](../maxims/western-philosophy/western-philosophy-018-the-world-is-my-representation.md) | 世界はわたしの表象である | アルトゥル・ショーペンハウアー | 『意志と表象としての世界』第1巻1節 |
+| [western-philosophy-019](../maxims/western-philosophy/western-philosophy-019-life-can-only-be-understood-backwards.md) | 人生は後ろ向きにしか理解できない。しかし、前向きに生きなければならない | セーレン・キェルケゴール | 『日記』1843年（JJ:167） |
+| [western-philosophy-020](../maxims/western-philosophy/western-philosophy-020-man-is-the-measure-of-all-things.md) | 人間は万物の尺度である | プロタゴラス | 『テアイテトス』152a / 断片 DK B1 |
