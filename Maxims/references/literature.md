@@ -24,3 +24,13 @@
 | literature-018 | 恥の多い生涯を送って来ました。 | 太宰治 | aozora.gr.jp, ja.wikipedia.org | 2026-06-04 |
 | literature-019 | 希望とは地上の道のようなもの。歩く人が多くなれば、それが道になる。 | 魯迅 | zh.wikisource.org, ja.wikipedia.org | 2026-06-04 |
 | literature-020 | 七月初めの異常に暑い夕方、一人の青年が小部屋から通りへ出て、ためらいがちにK橋の方へ歩き出した。 | フョードル・ドストエフスキー | ru.wikisource.org, en.wikipedia.org | 2026-06-04 |
+| literature-021 | 四月の、晴れて寒い一日で、時計が十三時を打っていた。 | ジョージ・オーウェル | george-orwell.org, en.wikipedia.org | 2026-06-04 |
+| literature-022 | 地上に無知と貧困が存在するかぎり、本書のような書物も無益ではあるまい。 | ヴィクトル・ユゴー | mon-poeme.fr, fr.wikipedia.org | 2026-06-04 |
+| literature-023 | 長いあいだ、私は早くから寝たものだった。 | マルセル・プルースト | fr.wikipedia.org, marcelproust.org | 2026-06-04 |
+| literature-024 | ある日の暮方の事である。一人の下人が、羅生門の下で雨やみを待っていた。 | 芥川龍之介 | aozora.gr.jp, ja.wikipedia.org | 2026-06-04 |
+| literature-025 | 道徳的な本も不道徳な本もない。よく書けた本か、まずく書けた本か、それだけのことだ。 | オスカー・ワイルド | interestingliterature.com, allgreatquotes.com | 2026-06-04 |
+| literature-026 | 人間は滅ぼされることはあっても、負けはしないのだ。 | アーネスト・ヘミングウェイ | ja.wikipedia.org, aozora.gr.jp | 2026-06-04 |
+| literature-027 | どの帝の御代のことであったか、女御や更衣が大勢お仕えしていた中に、格別に帝の寵愛を受けていらっしゃる方があった。 | 紫式部 | sybrma.sakura.ne.jp, manapedia.jp | 2026-06-04 |
+| literature-028 | 生は夏の花のごとく美しく、死は秋の葉のごとくあれ。 | ラビンドラナート・タゴール | ibiblio.org, en.wikisource.org | 2026-06-04 |
+| literature-029 | ネリー、私はヒースクリフなの。彼はいつだって、いつだって私の心の中にいる。 | エミリー・ブロンテ | goodreads.com, wuthering-heights.co.uk | 2026-06-04 |
+| literature-030 | 幼時から父は、私によく、金閣のことを語った。 | 三島由紀夫 | read-beginning.com, jun-bungaku.jp | 2026-06-04 |

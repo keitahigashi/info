@@ -1,4 +1,4 @@
-# 文学の名言（20件）
+# 文学の名言（30件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -24,3 +24,13 @@
 | [literature-018](../maxims/literature/literature-018-ningen-shikkaku-shame.md) | 恥の多い生涯を送って来ました。 | 太宰治 | 『人間失格』第一の手記 |
 | [literature-019](../maxims/literature/literature-019-hope-is-like-a-road.md) | 希望とは地上の道のようなもの。歩く人が多くなれば、それが道になる。 | 魯迅 | 『故郷』結び |
 | [literature-020](../maxims/literature/literature-020-crime-and-punishment-opening.md) | 七月初めの異常に暑い夕方、一人の青年が小部屋から通りへ出て、ためらいがちにK橋の方へ歩き出した。 | フョードル・ドストエフスキー | 『罪と罰』第1部 第1章 |
+| [literature-021](../maxims/literature/literature-021-clocks-striking-thirteen.md) | 四月の、晴れて寒い一日で、時計が十三時を打っていた。 | ジョージ・オーウェル | 『一九八四年』第1部 第1章 |
+| [literature-022](../maxims/literature/literature-022-tant-quil-existera.md) | 地上に無知と貧困が存在するかぎり、本書のような書物も無益ではあるまい。 | ヴィクトル・ユゴー | 『レ・ミゼラブル』序文 |
+| [literature-023](../maxims/literature/literature-023-longtemps-bonne-heure.md) | 長いあいだ、私は早くから寝たものだった。 | マルセル・プルースト | 『失われた時を求めて』第一篇『スワン家のほうへ』冒頭 |
+| [literature-024](../maxims/literature/literature-024-rashomon-opening.md) | ある日の暮方の事である。一人の下人が、羅生門の下で雨やみを待っていた。 | 芥川龍之介 | 『羅生門』冒頭 |
+| [literature-025](../maxims/literature/literature-025-no-moral-immoral-book.md) | 道徳的な本も不道徳な本もない。よく書けた本か、まずく書けた本か、それだけのことだ。 | オスカー・ワイルド | 『ドリアン・グレイの肖像』序文 |
+| [literature-026](../maxims/literature/literature-026-destroyed-not-defeated.md) | 人間は滅ぼされることはあっても、負けはしないのだ。 | アーネスト・ヘミングウェイ | 『老人と海』 |
+| [literature-027](../maxims/literature/literature-027-izure-no-ohontoki-nika.md) | どの帝の御代のことであったか、女御や更衣が大勢お仕えしていた中に、格別に帝の寵愛を受けていらっしゃる方があった。 | 紫式部 | 『源氏物語』桐壺巻 冒頭 |
+| [literature-028](../maxims/literature/literature-028-life-summer-flowers.md) | 生は夏の花のごとく美しく、死は秋の葉のごとくあれ。 | ラビンドラナート・タゴール | 『迷い鳥』第82番 |
+| [literature-029](../maxims/literature/literature-029-i-am-heathcliff.md) | ネリー、私はヒースクリフなの。彼はいつだって、いつだって私の心の中にいる。 | エミリー・ブロンテ | 『嵐が丘』第9章 |
+| [literature-030](../maxims/literature/literature-030-kinkakuji-opening.md) | 幼時から父は、私によく、金閣のことを語った。 | 三島由紀夫 | 『金閣寺』冒頭 |
