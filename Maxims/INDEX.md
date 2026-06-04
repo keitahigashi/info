@@ -12,5 +12,5 @@
 | 著名人の言葉 | 51 | [一覧を見る](index/notable-figures.md) |
 | ラテン語の格言 | 40 | [一覧を見る](index/latin.md) |
 | 文学の名言 | 41 | [一覧を見る](index/literature.md) |
-| 創作の名言 | 14 | [一覧を見る](index/fiction.md) |
-| **合計** | **356** | |
+| 創作の名言 | 34 | [一覧を見る](index/fiction.md) |
+| **合計** | **376** | |
