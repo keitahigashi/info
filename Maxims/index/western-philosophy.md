@@ -1,4 +1,4 @@
-# 西洋哲学（30件）
+# 西洋哲学（40件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -34,3 +34,13 @@
 | [western-philosophy-028](../maxims/western-philosophy/western-philosophy-028-safer-to-be-feared-than-loved.md) | 愛されるよりも恐れられるほうがはるかに安全である | ニッコロ・マキャヴェッリ | 『君主論』第17章 |
 | [western-philosophy-029](../maxims/western-philosophy/western-philosophy-029-to-live-without-certainty.md) | いかにして確実性なしに、しかも逡巡に麻痺させられることなく生きるかを教えること | バートランド・ラッセル | 『西洋哲学史』序論 |
 | [western-philosophy-030](../maxims/western-philosophy/western-philosophy-030-the-banality-of-evil.md) | 悪の陳腐さ | ハンナ・アーレント | 『エルサレムのアイヒマン』 |
+| [western-philosophy-031](../maxims/western-philosophy/western-philosophy-031-death-is-nothing-to-us.md) | 死はわれわれにとって何ものでもない | エピクロス | 『メノイケウス宛書簡』／『主要教説』第2章 |
+| [western-philosophy-032](../maxims/western-philosophy/western-philosophy-032-we-must-cultivate-our-garden.md) | われわれは自分の庭を耕さねばならない | ヴォルテール | 『カンディード』第30章 |
+| [western-philosophy-033](../maxims/western-philosophy/western-philosophy-033-to-be-is-to-be-perceived.md) | 存在するとは知覚されることである | ジョージ・バークリー | 『人知原理論』第3節 |
+| [western-philosophy-034](../maxims/western-philosophy/western-philosophy-034-philosophers-have-only-interpreted-the-world.md) | 哲学者たちは世界をさまざまに解釈してきたにすぎない。肝心なのは、それを変えることである | カール・マルクス | 「フォイエルバッハに関するテーゼ」第11テーゼ |
+| [western-philosophy-035](../maxims/western-philosophy/western-philosophy-035-language-is-the-house-of-being.md) | 言語は存在の家である | マルティン・ハイデガー | 『ヒューマニズムについて』 |
+| [western-philosophy-036](../maxims/western-philosophy/western-philosophy-036-one-is-not-born-but-becomes-a-woman.md) | 人は女に生まれるのではない、女になるのだ | シモーヌ・ド・ボーヴォワール | 『第二の性』第2部冒頭 |
+| [western-philosophy-037](../maxims/western-philosophy/western-philosophy-037-led-by-an-invisible-hand.md) | 彼は見えざる手に導かれ、自分の意図にはなかった目的を促進する | アダム・スミス | 『国富論』第4編第2章 |
+| [western-philosophy-038](../maxims/western-philosophy/western-philosophy-038-power-must-check-power.md) | 権力の濫用を防ぐには、権力が権力を抑制するようにせねばならない | モンテスキュー | 『法の精神』第11編第4章 |
+| [western-philosophy-039](../maxims/western-philosophy/western-philosophy-039-where-there-is-power-there-is-resistance.md) | 権力のあるところには、抵抗がある | ミシェル・フーコー | 『性の歴史Ⅰ 知への意志』 |
+| [western-philosophy-040](../maxims/western-philosophy/western-philosophy-040-to-exist-is-to-change.md) | 存在するとは変化することであり、成熟するとは終わりなく自己を創造し続けることである | アンリ・ベルクソン | 『創造的進化』第1章 |

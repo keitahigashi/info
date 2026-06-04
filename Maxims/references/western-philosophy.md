@@ -34,3 +34,13 @@
 | western-philosophy-028 | 愛されるよりも恐れられるほうがはるかに安全である | ニッコロ・マキャヴェッリ | it.wikisource.org, litcharts.com | 2026-06-04 |
 | western-philosophy-029 | いかにして確実性なしに、しかも逡巡に麻痺させられることなく生きるかを教えること | バートランド・ラッセル | en.wikiquote.org, goodreads.com | 2026-06-04 |
 | western-philosophy-030 | 悪の陳腐さ | ハンナ・アーレント | en.wikipedia.org, aeon.co | 2026-06-04 |
+| western-philosophy-031 | 死はわれわれにとって何ものでもない | エピクロス | classics.mit.edu, plato.stanford.edu | 2026-06-04 |
+| western-philosophy-032 | われわれは自分の庭を耕さねばならない | ヴォルテール | openculture.com, theschooloflife.com | 2026-06-04 |
+| western-philosophy-033 | 存在するとは知覚されることである | ジョージ・バークリー | plato.stanford.edu, iep.utm.edu | 2026-06-04 |
+| western-philosophy-034 | 哲学者たちは世界を解釈してきたにすぎない。肝心なのはそれを変えることである | カール・マルクス | en.wikipedia.org, marxists.org | 2026-06-04 |
+| western-philosophy-035 | 言語は存在の家である | マルティン・ハイデガー | philopedia.org, beyng.com | 2026-06-04 |
+| western-philosophy-036 | 人は女に生まれるのではない、女になるのだ | シモーヌ・ド・ボーヴォワール | fr.wikipedia.org, ina.fr | 2026-06-04 |
+| western-philosophy-037 | 彼は見えざる手に導かれ、自分の意図にはなかった目的を促進する | アダム・スミス | oll.libertyfund.org, en.wikiquote.org | 2026-06-04 |
+| western-philosophy-038 | 権力の濫用を防ぐには、権力が権力を抑制するようにせねばならない | モンテスキュー | fr.wikisource.org, constitutioncenter.org | 2026-06-04 |
+| western-philosophy-039 | 権力のあるところには、抵抗がある | ミシェル・フーコー | plato.stanford.edu, onwork.edu.au | 2026-06-04 |
+| western-philosophy-040 | 存在するとは変化することであり、成熟するとは終わりなく自己を創造し続けることである | アンリ・ベルクソン | gutenberg.org, plato.stanford.edu | 2026-06-04 |
