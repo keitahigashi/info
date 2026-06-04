@@ -24,3 +24,13 @@
 | eastern-thought-018 | 三人行けば、必ず我が師有り（三人行必有我師） | 孔子 | kanbun.info, ja.wikisource.org | 2026-06-04 |
 | eastern-thought-019 | 径路の窄き処は一歩を留めて人と行かしむ | 洪自誠 | fusuihoui.jp, ja.wikipedia.org | 2026-06-04 |
 | eastern-thought-020 | 諸法は意を先導とし、意を主とし、意より成る | 釈迦（ブッダ） | true-buddhism.com, ancient-buddhist-texts.net | 2026-06-04 |
+| eastern-thought-021 | 喜怒哀楽の未だ発せざる、これを中と謂う | 子思（孔伋） | gushiwen.cn, edb.gov.hk | 2026-06-04 |
+| eastern-thought-022 | 誠は天の道なり、これを誠にするは人の道なり | 子思（孔伋） | ctext.org, gushiwen.cn | 2026-06-04 |
+| eastern-thought-023 | 天地の為に心を立て、生民の為に命を立つ | 張載 | baike.baidu.com, theory.people.com.cn | 2026-06-04 |
+| eastern-thought-024 | 吾が生や涯有り、而して知や涯無し | 荘子（荘周） | ja.wikisource.org, rei08.com | 2026-06-04 |
+| eastern-thought-025 | 色即是空、空即是色 | 玄奘（漢訳） | ja.wikipedia.org, jodoshuzensho.jp | 2026-06-04 |
+| eastern-thought-026 | 維摩の一黙、雷の如し（默然無言） | 鳩摩羅什（漢訳） | ja.wikipedia.org, engakuji.or.jp | 2026-06-04 |
+| eastern-thought-027 | 足るを知る者は富む | 老子 | daodejing.org, 5000yan.com | 2026-06-04 |
+| eastern-thought-028 | 天の将に大任を是の人に降さんとするや | 孟子（孟軻） | ctext.org, zh.wikisource.org | 2026-06-04 |
+| eastern-thought-029 | 義を見て為さざるは、勇無きなり | 孔子 | kanbun.info, ja.wikisource.org | 2026-06-04 |
+| eastern-thought-030 | 己こそ己の主なり | 釈迦（ブッダ） | ancient-buddhist-texts.net, true-buddhism.com | 2026-06-04 |

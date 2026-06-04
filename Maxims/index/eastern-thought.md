@@ -1,4 +1,4 @@
-# 東洋思想（20件）
+# 東洋思想（30件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -24,3 +24,13 @@
 | [eastern-thought-018](../maxims/eastern-thought/eastern-thought-018-three-walking-must-have-my-teacher.md) | 三人行けば、必ず我が師有り | 孔子 | 『論語』述而第七 |
 | [eastern-thought-019](../maxims/eastern-thought/eastern-thought-019-leave-a-step-for-others.md) | 径路の窄き処は、一歩を留めて人と行かしむ | 洪自誠 | 『菜根譚』前集・第13条 |
 | [eastern-thought-020](../maxims/eastern-thought/eastern-thought-020-mind-precedes-all-things.md) | 諸法は意を先導とし、意を主とし、意より成る | 釈迦（ブッダ） | 『ダンマパダ（法句経）』第1偈 |
+| [eastern-thought-021](../maxims/eastern-thought/eastern-thought-021-equilibrium-before-emotion.md) | 喜怒哀楽の未だ発せざる、これを中と謂う | 子思（孔伋） | 『中庸』第一章 |
+| [eastern-thought-022](../maxims/eastern-thought/eastern-thought-022-sincerity-is-the-way-of-heaven.md) | 誠は天の道なり、これを誠にするは人の道なり | 子思（孔伋） | 『中庸』第二十章 |
+| [eastern-thought-023](../maxims/eastern-thought/eastern-thought-023-establish-the-mind-for-heaven-and-earth.md) | 天地の為に心を立て、生民の為に命を立つ | 張載 | 『横渠語録』（横渠四句） |
+| [eastern-thought-024](../maxims/eastern-thought/eastern-thought-024-life-is-limited-knowledge-is-not.md) | 吾が生や涯有り、而して知や涯無し | 荘子（荘周） | 『荘子』内篇・養生主 |
+| [eastern-thought-025](../maxims/eastern-thought/eastern-thought-025-form-is-emptiness.md) | 色即是空、空即是色 | 玄奘（漢訳） | 『般若波羅蜜多心経』（玄奘訳） |
+| [eastern-thought-026](../maxims/eastern-thought/eastern-thought-026-vimalakirtis-silence.md) | 維摩の一黙、雷の如し（默然無言） | 鳩摩羅什（漢訳） | 『維摩経』入不二法門品 |
+| [eastern-thought-027](../maxims/eastern-thought/eastern-thought-027-knowing-contentment-is-wealth.md) | 足るを知る者は富む | 老子 | 『老子道徳経』第三十三章 |
+| [eastern-thought-028](../maxims/eastern-thought/eastern-thought-028-heaven-tempers-with-hardship.md) | 天の将に大任を是の人に降さんとするや | 孟子（孟軻） | 『孟子』告子章句下・15 |
+| [eastern-thought-029](../maxims/eastern-thought/eastern-thought-029-seeing-right-and-not-doing.md) | 義を見て為さざるは、勇無きなり | 孔子 | 『論語』為政第二・24 |
+| [eastern-thought-030](../maxims/eastern-thought/eastern-thought-030-oneself-is-ones-own-master.md) | 己こそ己の主なり | 釈迦（ブッダ） | 『ダンマパダ（法句経）』第160偈 |
