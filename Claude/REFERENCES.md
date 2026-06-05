@@ -409,3 +409,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_opus48_multiagent_model_comparison_tanaka.md | 2026-06-04 |
 | reference_claude_code_v21162_releasebot_june2026.md | 2026-06-04 |
 | reference_dynamic_workflows_textbook_soh_note.md | 2026-06-04 |
+| reference_claude_code_agents_md_workarounds_yurukusa.md | 2026-06-05 |
+| reference_claude_code_team_claude_md_siromiya.md | 2026-06-05 |
+| reference_anthropic_mythos_guide_uravation_june2026.md | 2026-06-05 |
+| reference_claude_pro_max_limit_reset_pcwatch_june2026.md | 2026-06-05 |
+| reference_claude_code_dw_token_consumption_leomarokun.md | 2026-06-05 |
