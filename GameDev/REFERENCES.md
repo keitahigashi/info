@@ -561,3 +561,8 @@
 | reference_upping-game-usability.md | 2026-06-04 |
 | reference_metrics-of-space-molecule-design.md | 2026-06-04 |
 | reference_navigation-nodes-3d-level-design.md | 2026-06-04 |
+| reference_hidden-costs-extrinsic-rewards.md | 2026-06-05 |
+| reference_design-101-complexity-vs-depth.md | 2026-06-05 |
+| reference_stellaris-postmortem.md | 2026-06-05 |
+| reference_lets-revolution-prototyping-postmortem.md | 2026-06-05 |
+| reference_hierarchy-of-needs-game-rewards.md | 2026-06-05 |
