@@ -140,4 +140,10 @@
 | aesop-352 | ミツバチと雄バチとスズメバチ | Perry Index #504, パイドロス版 III-13, fablesofaesop.com/bees-drones-wasp, gutenberg.org/files/25512 | 2026-05-28 |
 | aesop-353 | 二人の禿頭 | Perry Index #528, パイドロス版 V-6, mythfolklore.net/aesopica/phaedrus/56, gutenberg.org/files/25512 | 2026-05-28 |
 
+| aesop-354 | 禿げ頭の男とハエ | Perry Index #525, パイドロス版（Phaedrus V-3）, en.wikipedia.org/wiki/The_Bald_Man_and_the_Fly, gutenberg.org/files/25512 | 2026-06-05 |
+| aesop-355 | 笛吹きプリンケプス | Perry Index #529, パイドロス版（Phaedrus V-7）, gutenberg.org/files/25512 | 2026-06-05 |
+| aesop-356 | 機会の象徴 | Perry Index #530, パイドロス版（Phaedrus V-8）, en.wikipedia.org/wiki/Phaedrus_(fabulist), wordhistories.net/2017/10/01/time-by-forelock-origin/, gutenberg.org/files/25512 | 2026-06-05 |
+| aesop-357 | 牛と子牛 | Perry Index #531, パイドロス版（Phaedrus V-9）, gutenberg.org/files/25512 | 2026-06-05 |
+| aesop-358 | 老犬と狩人 | Perry Index #532, パイドロス版（Phaedrus V-10・最終話）, perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0119:book%3D5:poem%3D10, gutenberg.org/files/25512 | 2026-06-05 |
+
 <!-- 出典追加時にここへ行を追加 -->

@@ -355,4 +355,9 @@
 | [aesop-351](../fables/aesop/aesop-351-the-fox-and-the-dragon.md) | キツネと竜 | 財宝を独り占めして使わない者は、その富から何も得ておらず、ただ番人をしているに過ぎない |
 | [aesop-352](../fables/aesop/aesop-352-the-bees-the-drones-and-the-wasp.md) | ミツバチと雄バチとスズメバチ | 真の能力は言葉ではなく行動で証明される。正当な試練から逃げる者は、その無力さを自ら証明している |
 | [aesop-353](../fables/aesop/aesop-353-the-two-bald-men.md) | 二人の禿頭 | 運が向いてきたと喜んでも、それが自分には何の役にも立たないものであれば、幸運は幸運ではない |
+| [aesop-354](../fables/aesop/aesop-354-the-bald-man-and-the-fly.md) | 禿げ頭の男とハエ | 過失による害は許されうるが、意図的に害を与える者には厳しい罰が相応しい。感情に任せた行動は自分自身を傷つける |
+| [aesop-355](../fables/aesop/aesop-355-princeps-the-flute-player.md) | 笛吹きプリンケプス | 虚栄心や思い上がりは恥辱を招く。自分への賞賛と勘違いして得意になる者は、やがて周囲の嘲笑にさらされる |
+| [aesop-356](../fables/aesop/aesop-356-the-emblem-of-opportunity.md) | 機会の象徴 | 好機は訪れた瞬間にしか掴めない。一度過ぎ去った機会は二度と取り戻せないため、好機は即座に捉えるべきである |
+| [aesop-357](../fables/aesop/aesop-357-the-bull-and-the-calf.md) | 牛と子牛 | 自分より知恵と経験のある者に対して、生意気に教訓を垂れようとする者は恥をかく。年長者の経験を敬い謙虚であるべきである |
+| [aesop-358](../fables/aesop/aesop-358-the-old-dog-and-the-huntsman.md) | 老犬と狩人 | 年老いて力が衰えた者を現在の能力だけで評価してはならない。過去に忠実に仕えた者の功績を忘れずに敬うべきである |
 <!-- 寓話追加時にここへ行を追加 -->
