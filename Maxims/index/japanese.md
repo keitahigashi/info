@@ -1,4 +1,4 @@
-# 日本の格言・名言（40件）
+# 日本の格言・名言（50件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -44,3 +44,13 @@
 | [japanese-038](../maxims/japanese/japanese-038-greatest-legacy-to-posterity.md) | 後世への最大遺物は、勇ましい高尚なる生涯である | 内村鑑三 | 『後世への最大遺物』（1894年講演／1897年刊） |
 | [japanese-039](../maxims/japanese/japanese-039-show-tell-let-them-do-praise.md) | やってみせ、言って聞かせて、させてみせ、ほめてやらねば、人は動かじ | 山本五十六（伝） | 山本五十六の言葉として伝わる（一次典拠不確実・原型は上杉鷹山の教え） |
 | [japanese-040](../maxims/japanese/japanese-040-the-diligent-speak-of-hope.md) | 努力する人は希望を語り、怠ける人は不満を語る | 井上靖 | 井上靖の言葉として伝わる（『氷壁』由来とする説あり・一次典拠未確認） |
+| [japanese-041](../maxims/japanese/japanese-041-the-flowing-river-never-ceases.md) | ゆく河の流れは絶えずして、しかももとの水にあらず | 鴨長明 | 『方丈記』冒頭（1212年） |
+| [japanese-042](../maxims/japanese/japanese-042-idly-facing-the-inkstone.md) | つれづれなるままに、日暮らし、硯にむかひて…あやしうこそものぐるほしけれ | 兼好法師 | 『徒然草』序段（14世紀前半） |
+| [japanese-043](../maxims/japanese/japanese-043-in-spring-the-dawn.md) | 春はあけぼの | 清少納言 | 『枕草子』第一段（1000年頃） |
+| [japanese-044](../maxims/japanese/japanese-044-learn-when-young-act-when-grown.md) | 少にして学べば、則ち壮にして為すことあり… | 佐藤一斎 | 『言志晩録』第六十条（1850年） |
+| [japanese-045](../maxims/japanese/japanese-045-the-mind-should-be-joyful.md) | 心は楽しむべし、苦しむべからず。身は労すべし、やすめ過すべからず | 貝原益軒 | 『養生訓』巻第二（1713年） |
+| [japanese-046](../maxims/japanese/japanese-046-even-a-good-person-attains-rebirth.md) | 善人なをもて往生をとぐ、いはんや悪人をや | 親鸞（唯円編） | 『歎異抄』第三条（1300年前後） |
+| [japanese-047](../maxims/japanese/japanese-047-self-centered-standpoint.md) | 自己本位という言葉を自分の手に握ってから大変強くなりました | 夏目漱石 | 『私の個人主義』（1914年講演） |
+| [japanese-048](../maxims/japanese/japanese-048-the-spirit-of-yamato.md) | 敷島の大和心を人問はば朝日に匂ふ山桜花 | 本居宣長 | 「六十一歳自画自賛像」賛（寛政2年／1790年） |
+| [japanese-049](../maxims/japanese/japanese-049-art-is-an-explosion.md) | 芸術は爆発だ | 岡本太郎 | 『自分の中に毒を持て』（1993年）ほか |
+| [japanese-050](../maxims/japanese/japanese-050-one-person-independent-nation-independent.md) | 一身独立して一国独立す | 福沢諭吉 | 『学問のすゝめ』第三編（1873年） |
