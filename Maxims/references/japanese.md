@@ -1,4 +1,4 @@
-# 日本の格言・名言 — 出典一覧
+# 日本の格言・名言 — 出典一覧（50件）
 
 [< 出典一覧に戻る](../REFERENCES.md)
 
@@ -44,3 +44,13 @@
 | japanese-038 | 後世への最大遺物は、勇ましい高尚なる生涯である | 内村鑑三 | aozora.gr.jp『後世への最大遺物』, ja.wikipedia.org「内村鑑三」, president.jp | 2026-06-04 |
 | japanese-039 | やってみせ、言って聞かせて、させてみせ、ほめてやらねば、人は動かじ | 山本五十六（伝） | 山本五十六の言葉として伝承（一次典拠不確実）, 原型は上杉鷹山の教え「してみせて 言って聞かせて させてみる」 | 2026-06-04 |
 | japanese-040 | 努力する人は希望を語り、怠ける人は不満を語る | 井上靖 | toshin.com（東進 名言）, motivation-up.com, compass-point.jp（『氷壁』由来説・一次典拠未確認） | 2026-06-04 |
+| japanese-041 | ゆく河の流れは絶えずして、しかももとの水にあらず | 鴨長明 | aozora.gr.jp「鴨長明 方丈記」, ja.wikipedia.org「方丈記」, ja.wikibooks.org「方丈記」 | 2026-06-05 |
+| japanese-042 | つれづれなるままに、日暮らし、硯にむかひて… | 兼好法師 | ja.wikisource.org「徒然草」, ja.wikipedia.org「徒然草」, tsurezuregusa.com | 2026-06-05 |
+| japanese-043 | 春はあけぼの | 清少納言 | ja.wikipedia.org「枕草子」, ja.wikisource.org「枕草子」, kotobank.jp | 2026-06-05 |
+| japanese-044 | 少にして学べば、則ち壮にして為すことあり… | 佐藤一斎 | ja.wikipedia.org「言志四録」, ja.wikisource.org「言志四録」, kotobank.jp | 2026-06-05 |
+| japanese-045 | 心は楽しむべし、苦しむべからず。身は労すべし、やすめ過すべからず | 貝原益軒 | ja.wikipedia.org「養生訓」, 中村学園大学 貝原益軒アーカイブ, kotobank.jp | 2026-06-05 |
+| japanese-046 | 善人なをもて往生をとぐ、いはんや悪人をや | 親鸞（唯円編） | ja.wikipedia.org「歎異抄」, 歎異抄.jp（永正本原文）, kotobank.jp | 2026-06-05 |
+| japanese-047 | 自己本位という言葉を自分の手に握ってから大変強くなりました | 夏目漱石 | aozora.gr.jp「私の個人主義」, ja.wikipedia.org「私の個人主義」, kotobank.jp | 2026-06-05 |
+| japanese-048 | 敷島の大和心を人問はば朝日に匂ふ山桜花 | 本居宣長 | norinagakinenkan.com（本居宣長記念館 公式）, ja.wikipedia.org「本居宣長」 | 2026-06-05 |
+| japanese-049 | 芸術は爆発だ | 岡本太郎 | taromuseum.jp（岡本太郎記念館 公式名言資料）, ja.wikipedia.org「岡本太郎」, kotobank.jp | 2026-06-05 |
+| japanese-050 | 一身独立して一国独立す | 福沢諭吉 | ja.wikisource.org「学問のすゝめ」, aozora.gr.jp「学問のすすめ」, ja.wikipedia.org「学問のすゝめ」 | 2026-06-05 |
