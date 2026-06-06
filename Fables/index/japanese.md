@@ -1,4 +1,4 @@
-# 日本昔話（100話）
+# 日本昔話（105話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -104,4 +104,9 @@
 | [japanese-098](../fables/japanese/japanese-098-torokashi-gusa.md) | とろかし草 | 根拠のない思い込みで行動する無謀さは取り返しのつかない結果を招く。大蛇の知恵が人間にも通用すると早合点した浅はかさが破滅を招く。 |
 | [japanese-099](../fables/japanese/japanese-099-sanboneda-no-kamisori-kitsune.md) | 三本枝のかみそり狐 | 「自分は騙されない」という過信こそが最大の隙になる。根拠のない思い込みで行動する短絡さは無実の者を傷つけかねず、見栄や強がりは視野を狭め判断を歪める。 |
 | [japanese-100](../fables/japanese/japanese-100-tano-kyu.md) | たのきゅう | 危機的状況でも冷静に相手の弱点を見極め、それを活かす行動力が報われる。身分や境遇を超えた機転の才覚こそが人を救い、福をもたらす。 |
+| [japanese-101](../fables/japanese/japanese-101-shojo.md) | 猩々 | 親孝行と誠実な心には神霊が感応し、尽きることのない恵みがもたらされる。 |
+| [japanese-102](../fables/japanese/japanese-102-ushiwakamaru-benkei-gojo-bridge.md) | 牛若丸と弁慶（五条橋の出会い） | 真の武勇は腕力の大きさにあらず、知恵・身軽さ・器の大きさにあり、勝者は敗者の誠実な帰服を温かく受け入れるべきである。 |
+| [japanese-103](../fables/japanese/japanese-103-tawara-toda-mukade-taiji.md) | 俵藤太の百足退治 | 恐れを知らぬ勇気と他者の苦しみを救う義侠心には、天の加護と豊かな報いがもたらされる。 |
+| [japanese-104](../fables/japanese/japanese-104-miruna-no-zashiki.md) | 見るなの座敷 | 相手の禁を破る好奇心は取り返しのつかない喪失をもたらし、信頼と約束を守ることの大切さを教える。 |
+| [japanese-105](../fables/japanese/japanese-105-miwa-mountain-legend.md) | 三輪山伝説 | 神の正体に気づくことの畏れと、神と人の縁から生まれる血筋が社会の基盤となることを伝える起源神話である。 |
 <!-- 寓話追加時にここへ行を追加 -->
