@@ -414,3 +414,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_anthropic_mythos_guide_uravation_june2026.md | 2026-06-05 |
 | reference_claude_pro_max_limit_reset_pcwatch_june2026.md | 2026-06-05 |
 | reference_claude_code_dw_token_consumption_leomarokun.md | 2026-06-05 |
+| reference_claude_code_week21_official.md | 2026-06-06 |
+| reference_claude_code_week22_official.md | 2026-06-06 |
+| reference_claude_code_v21163_version_lock_picnic.md | 2026-06-06 |
+| reference_claude_code_dw_what_is_alpha123.md | 2026-06-06 |
+| reference_claude_code_v21165_bugfix_moha0918.md | 2026-06-06 |
