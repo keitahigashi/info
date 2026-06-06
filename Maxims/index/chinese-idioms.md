@@ -1,4 +1,4 @@
-# 中国故事成語（40件）
+# 中国故事成語（50件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -44,3 +44,13 @@
 | [chinese-idioms-038](../maxims/chinese-idioms/chinese-idioms-038-ichimo-dajin.md) | 一網打尽 | 脱脱ほか（編） | 『宋史』范純仁伝 |
 | [chinese-idioms-039](../maxims/chinese-idioms/chinese-idioms-039-shutsuji-hanji.md) | 出爾反爾 | 孟子 | 『孟子』梁恵王下 |
 | [chinese-idioms-040](../maxims/chinese-idioms/chinese-idioms-040-hachiku-no-ikioi.md) | 破竹の勢い | 房玄齢ほか（編） | 『晋書』杜預伝 |
+| [chinese-idioms-041](../maxims/chinese-idioms/chinese-idioms-041-gekirin.md) | 逆鱗 | 韓非 | 『韓非子』説難篇 |
+| [chinese-idioms-042](../maxims/chinese-idioms/chinese-idioms-042-gori-muchu.md) | 五里霧中 | 范曄 | 『後漢書』張楷伝 |
+| [chinese-idioms-043](../maxims/chinese-idioms/chinese-idioms-043-bojaku-bujin.md) | 傍若無人 | 司馬遷 | 『史記』刺客列伝 |
+| [chinese-idioms-044](../maxims/chinese-idioms/chinese-idioms-044-ryojo-no-kunshi.md) | 梁上の君子 | 范曄 | 『後漢書』陳寔伝 |
+| [chinese-idioms-045](../maxims/chinese-idioms/chinese-idioms-045-kantan-no-yume.md) | 邯鄲の夢 | 沈既済 | 『枕中記』 |
+| [chinese-idioms-046](../maxims/chinese-idioms/chinese-idioms-046-hatenko.md) | 破天荒 | 孫光憲 | 『北夢瑣言』巻四 |
+| [chinese-idioms-047](../maxims/chinese-idioms/chinese-idioms-047-toro-no-ono.md) | 蟷螂の斧 | 韓嬰 | 『韓詩外伝』巻八 |
+| [chinese-idioms-048](../maxims/chinese-idioms/chinese-idioms-048-zusan.md) | 杜撰 | 王楙 | 『野客叢書』 |
+| [chinese-idioms-049](../maxims/chinese-idioms/chinese-idioms-049-gyoseki-konko.md) | 玉石混淆 | 葛洪 | 『抱朴子』外篇・尚博 |
+| [chinese-idioms-050](../maxims/chinese-idioms/chinese-idioms-050-gogyu-zengetsu.md) | 呉牛喘月 | 劉義慶 | 『世説新語』言語篇 |

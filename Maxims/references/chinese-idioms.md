@@ -44,3 +44,13 @@
 | chinese-idioms-038 | 一網打尽 | 脱脱ほか（編） | ja.wikipedia.org, kanbun.info | 2026-06-04 |
 | chinese-idioms-039 | 出爾反爾 | 孟子 | ja.wikisource.org, mousi.kyukyodo.work | 2026-06-04 |
 | chinese-idioms-040 | 破竹の勢い | 房玄齢ほか（編） | kanbun.info, ja.wiktionary.org | 2026-06-04 |
+| chinese-idioms-041 | 逆鱗 | 韓非 | kanbun.info, ja.wiktionary.org | 2026-06-06 |
+| chinese-idioms-042 | 五里霧中 | 范曄 | kanbun.info, kotobank.jp | 2026-06-06 |
+| chinese-idioms-043 | 傍若無人 | 司馬遷 | ja.wikipedia.org, chugokugo-script.net | 2026-06-06 |
+| chinese-idioms-044 | 梁上の君子 | 范曄 | kanbun.info, dictionary.goo.ne.jp | 2026-06-06 |
+| chinese-idioms-045 | 邯鄲の夢 | 沈既済 | ja.wikipedia.org, kotobank.jp | 2026-06-06 |
+| chinese-idioms-046 | 破天荒 | 孫光憲 | kanbun.info, ja.wikipedia.org | 2026-06-06 |
+| chinese-idioms-047 | 蟷螂の斧 | 韓嬰 | kanbun.info, manapedia.jp | 2026-06-06 |
+| chinese-idioms-048 | 杜撰 | 王楙 | kanbun.info, ja.wiktionary.org | 2026-06-06 |
+| chinese-idioms-049 | 玉石混淆 | 葛洪 | kanbun.info, ctext.org | 2026-06-06 |
+| chinese-idioms-050 | 呉牛喘月 | 劉義慶 | kotobank.jp, idiom-encyclopedia.com | 2026-06-06 |
