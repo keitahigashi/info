@@ -106,4 +106,9 @@
 | japanese-098 | とろかし草 | arasuji-m.com/torokashigusa/, nihon.syoukoukai.com | 2026-05-29 |
 | japanese-099 | 三本枝のかみそり狐 | arasuji-m.com/sanbonedanokamisorigitsune/, nihon.syoukoukai.com | 2026-05-29 |
 | japanese-100 | たのきゅう | folktalesjpn.com/folktale/0006/, nihon.syoukoukai.com | 2026-05-29 |
+| japanese-101 | 猩々 | the-noh.com/jp/plays/data/program_053.html, ja.wikipedia.org/wiki/猩猩, www2.ntj.jac.go.jp/dglib/ | 2026-06-06 |
+| japanese-102 | 牛若丸と弁慶（五条橋） | ja.wikipedia.org/wiki/橋弁慶, ja.wikipedia.org/wiki/五条大橋 | 2026-06-06 |
+| japanese-103 | 俵藤太の百足退治 | ja.wikipedia.org/wiki/藤原秀郷, www.rekihaku.otsu.shiga.jp/db/jiten/data/169.html, kotobank.jp | 2026-06-06 |
+| japanese-104 | 見るなの座敷 | ja.wikipedia.org/wiki/見るなの座敷, kotobank.jp/word/見るなの座敷-139936 | 2026-06-06 |
+| japanese-105 | 三輪山伝説 | ja.wikipedia.org/wiki/三輪山, oomiwa.or.jp/jinja/kamigatari/ | 2026-06-06 |
 <!-- 出典追加時にここへ行を追加 -->
