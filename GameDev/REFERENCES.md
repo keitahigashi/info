@@ -566,3 +566,8 @@
 | reference_stellaris-postmortem.md | 2026-06-05 |
 | reference_lets-revolution-prototyping-postmortem.md | 2026-06-05 |
 | reference_hierarchy-of-needs-game-rewards.md | 2026-06-05 |
+| reference_writing-in-games-trinity-plot.md | 2026-06-06 |
+| reference_narrative-fallacy-aristotle.md | 2026-06-06 |
+| reference_subtext-feedback-game-narrative.md | 2026-06-06 |
+| reference_ux-research-game-dev-explainer.md | 2026-06-06 |
+| reference_shader-myths-tech-art.md | 2026-06-06 |
