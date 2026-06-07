@@ -1,4 +1,4 @@
-# グリム童話 — 出典一覧（105話）
+# グリム童話 — 出典一覧（110話）
 
 [< 出典一覧に戻る](../REFERENCES.md)
 
@@ -112,4 +112,9 @@
 | grimm-103 | キャベツろば | grimmdowaclub.net/khm122/, en.wikipedia.org/wiki/Donkey_Cabbages, americanliterature.com/author/the-brothers-grimm/fairy-tale/donkey-cabbages, KHM122 | 2026-05-30 |
 | grimm-104 | 狐と馬 | greenelement.xsrv.jp/kitsuneto-uma/, sites.pitt.edu/~dash/grimm132.html, grimmstories.com/ja/grimm_dowa/kitsune_to_uma, KHM132 | 2026-05-30 |
 | grimm-105 | どろぼうの名人 | grimmdowaclub.net/khm192/, en.wikipedia.org/wiki/The_Master_Thief, grimmstories.com/en/grimm_fairy-tales/the_master-thief, KHM192 | 2026-05-30 |
+| grimm-106 | 養い子の鳥 | sites.pitt.edu/~dash/grimm051.html, grimmdowaclub.net/khm051/, en.wikipedia.org/wiki/Foundling_Bird, KHM51 | 2026-06-07 |
+| grimm-107 | 貧しい粉ひきの若者と猫 | sites.pitt.edu/~dash/grimm106.html, grimmdowaclub.net/khm106/, en.wikipedia.org/wiki/The_Poor_Miller%27s_Boy_and_the_Cat, KHM106 | 2026-06-07 |
+| grimm-108 | 白い花嫁と黒い花嫁 | sites.pitt.edu/~dash/grimm135.html, grimmdowaclub.net/khm135/, en.wikipedia.org/wiki/The_White_Bride_and_the_Black_Bride, KHM135 | 2026-06-07 |
+| grimm-109 | 池の水の精 | sites.pitt.edu/~dash/grimm181.html, grimmdowaclub.net/khm181/, en.wikipedia.org/wiki/The_Nixie_of_the_Mill_Pond, KHM181 | 2026-06-07 |
+| grimm-110 | 悪魔と祖母 | sites.pitt.edu/~dash/grimm125.html, grimmdowaclub.net/khm125/, en.wikipedia.org/wiki/The_Devil_and_His_Grandmother, KHM125 | 2026-06-07 |
 <!-- 出典追加時にここへ行を追加 -->
