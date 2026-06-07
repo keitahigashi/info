@@ -571,3 +571,8 @@
 | reference_subtext-feedback-game-narrative.md | 2026-06-06 |
 | reference_ux-research-game-dev-explainer.md | 2026-06-06 |
 | reference_shader-myths-tech-art.md | 2026-06-06 |
+| reference_level-design-patterns-2d-games.md | 2026-06-07 |
+| reference_action-adventure-ld-pacing-mood.md | 2026-06-07 |
+| reference_wheres-design-level-design-part2.md | 2026-06-07 |
+| reference_game-design-framework-good-design.md | 2026-06-07 |
+| reference_efficient-game-code-console-architecture.md | 2026-06-07 |
