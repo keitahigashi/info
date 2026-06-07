@@ -414,3 +414,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_anthropic_mythos_guide_uravation_june2026.md | 2026-06-05 |
 | reference_claude_pro_max_limit_reset_pcwatch_june2026.md | 2026-06-05 |
 | reference_claude_code_dw_token_consumption_leomarokun.md | 2026-06-05 |
+| reference_claude_code_mcp_bigquery_souma2026.md | 2026-06-07 |
+| reference_anthropic_when_ai_builds_itself_gizmodo.md | 2026-06-07 |
+| reference_claude_code_vs_codex_config_chero.md | 2026-06-07 |
+| reference_anthropic_recursive_selfimprovement_innovatopia.md | 2026-06-07 |
+| reference_claude_code_hooks_zenn_books_yurukusa.md | 2026-06-07 |
