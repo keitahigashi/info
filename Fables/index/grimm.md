@@ -1,4 +1,4 @@
-# グリム童話（105話）
+# グリム童話（110話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -109,4 +109,9 @@
 | [grimm-103](../fables/grimm/grimm-103-donkey-cabbages.md) | キャベツろば | 欲に駆られた裏切りは相応の報いをもたらすが、真に改心した者には赦しと和解の可能性が残されている |
 | [grimm-104](../fables/grimm/grimm-104-the-fox-and-the-horse.md) | 狐と馬 | 長年の忠義を使い捨てにする者は恥じるべきであり、知恵ある友の助けを借りれば老いた弱者も試練を乗り越えられる |
 | [grimm-105](../fables/grimm/grimm-105-the-master-thief.md) | どろぼうの名人 | 並外れた知恵と技巧は賞賛に値するが、法の外で生きる者には社会の承認は与えられない |
+| [grimm-106](../fables/grimm/grimm-106-foundling-bird.md) | 養い子の鳥 | 真の友情と忠誠心は、どんな危難にあっても仲間を守り抜く知恵と力を与える |
+| [grimm-107](../fables/grimm/grimm-107-the-poor-millers-lad-and-the-cat.md) | 貧しい粉ひきの若者と猫 | 見た目で価値を侮ることなく、どんな相手にも誠実に仕える者には思いがけない豊かな報いが訪れる |
+| [grimm-108](../fables/grimm/grimm-108-the-white-and-black-bride.md) | 白い花嫁と黒い花嫁 | 親切と思いやりは神の祝福を呼び込み、悪意ある嫉妬と偽りは最終的に自滅する |
+| [grimm-109](../fables/grimm/grimm-109-the-nixie-in-the-pond.md) | 池の水の精 | 真の愛は長い別離と苦難にも揺るがず、諦めない献身と忍耐がどんな呪いをも最後には解く |
+| [grimm-110](../fables/grimm/grimm-110-the-devil-and-his-grandmother.md) | 悪魔と祖母 | 強大な力との不当な契約も、機転と情報収集を使えば必ず抜け出せる道が見つかる |
 <!-- 寓話追加時にここへ行を追加 -->
