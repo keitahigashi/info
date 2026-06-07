@@ -8,9 +8,9 @@
 | 東洋思想 | 50 | [一覧を見る](index/eastern-thought.md) |
 | 日本の格言・名言 | 50 | [一覧を見る](index/japanese.md) |
 | 中国故事成語 | 50 | [一覧を見る](index/chinese-idioms.md) |
-| 世界のことわざ | 39 | [一覧を見る](index/world-proverbs.md) |
+| 世界のことわざ | 49 | [一覧を見る](index/world-proverbs.md) |
 | 著名人の言葉 | 51 | [一覧を見る](index/notable-figures.md) |
 | ラテン語の格言 | 40 | [一覧を見る](index/latin.md) |
 | 文学の名言 | 41 | [一覧を見る](index/literature.md) |
 | 創作の名言 | 34 | [一覧を見る](index/fiction.md) |
-| **合計** | **406** | |
+| **合計** | **416** | |

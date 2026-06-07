@@ -43,3 +43,13 @@
 | world-proverbs-037 | 何ごとも、過ぎたるは避けよ。 | 作者不詳（サンスクリット語） | vedaboys.com, wisdomlib.org | 2026-06-04 |
 | world-proverbs-038 | 人は誰しも、自分の幸福を鍛える鍛冶屋である。 | 作者不詳（デンマーク語） | en.wiktionary.org, en.wikiquote.org | 2026-06-04 |
 | world-proverbs-039 | 知っている言語の数だけ、あなたは人である。 | 作者不詳（アルメニア語） | adventuresinarmenia.wordpress.com, digitaldaybook.com | 2026-06-04 |
+| world-proverbs-040 | りんごが樫の木から遠くに落ちることはめったにない。 | 作者不詳（アイスランド語） | is.wiktionary.org, blogs.transparent.com | 2026-06-07 |
+| world-proverbs-041 | その水を飲むなら、その地の慣わしに従え。 | 作者不詳（モンゴル語） | tatoeba.org, lingalot.com | 2026-06-07 |
+| world-proverbs-042 | 嘘をつくな、盗むな、怠けるな。 | 作者不詳（ケチュア語） | lingalot.com, revistas.pucsp.br | 2026-06-07 |
+| world-proverbs-043 | 蜘蛛の糸も、より合わされば獅子をも縛る。 | 作者不詳（アムハラ語） | talkinamharic.com, africasocialwork.net | 2026-06-07 |
+| world-proverbs-044 | 欲が過ぎれば、機織りは身を滅ぼす。 | 作者不詳（ベンガル語） | sobbanglay.com, advocatetanmoy.com | 2026-06-07 |
+| world-proverbs-045 | よい言葉は、鼠を穴から引き出す。 | 作者不詳（マルタ語） | ilmiklem.com, cogweb.ucla.edu | 2026-06-07 |
+| world-proverbs-046 | 風を蒔く者は、嵐を刈り取る。 | 作者不詳（スロバキア語） | zones.sk, glosbe.com | 2026-06-07 |
+| world-proverbs-047 | 狼を養うのは、その脚である。 | 作者不詳（ウクライナ語） | svitslova.com, slovnyk.me | 2026-06-07 |
+| world-proverbs-048 | 石また石を積めば、やがて壁となる。 | 作者不詳（アルバニア語） | en.wiktionary.org, en.wikiquote.org | 2026-06-07 |
+| world-proverbs-049 | 猿の手に椰子の実。 | 作者不詳（ネパール語） | hamrobarnamala.com, sarangi4peace.blogspot.com | 2026-06-07 |

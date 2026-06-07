@@ -1,4 +1,4 @@
-# 世界のことわざ（39件）
+# 世界のことわざ（49件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -43,3 +43,13 @@
 | [world-proverbs-037](../maxims/world-proverbs/world-proverbs-037-ati-sarvatra-varjayet.md) | 何ごとも、過ぎたるは避けよ。 | 作者不詳（サンスクリット語） | अति सर्वत्र वर्जयेत् (ati sarvatra varjayet) |
 | [world-proverbs-038](../maxims/world-proverbs/world-proverbs-038-enhver-er-sin-egen-lykkes-smed.md) | 人は誰しも、自分の幸福を鍛える鍛冶屋である。 | 作者不詳（デンマーク語） | Enhver er sin egen lykkes smed |
 | [world-proverbs-039](../maxims/world-proverbs/world-proverbs-039-inchkan-lezu-gites-aynkan-mard-es.md) | 知っている言語の数だけ、あなたは人である。 | 作者不詳（アルメニア語） | Ինչքան լեզու գիտես, այնքան մարդ ես |
+| [world-proverbs-040](../maxims/world-proverbs/world-proverbs-040-sjaldan-fellur-eplid-langt-fra-eikinni.md) | りんごが樫の木から遠くに落ちることはめったにない。 | 作者不詳（アイスランド語） | Sjaldan fellur eplið langt frá eikinni |
+| [world-proverbs-041](../maxims/world-proverbs/world-proverbs-041-usiig-ni-uuval-yosiig-ni-daga.md) | その水を飲むなら、その地の慣わしに従え。 | 作者不詳（モンゴル語） | Усыг нь уувал ёсыг нь дага |
+| [world-proverbs-042](../maxims/world-proverbs/world-proverbs-042-ama-llulla-ama-suwa-ama-qhilla.md) | 嘘をつくな、盗むな、怠けるな。 | 作者不詳（ケチュア語） | Ama llulla, ama suwa, ama qhilla |
+| [world-proverbs-043](../maxims/world-proverbs/world-proverbs-043-dir-biyabir-anbesa-yasir.md) | 蜘蛛の糸も、より合わされば獅子をも縛る。 | 作者不詳（アムハラ語） | ድር ቢያብር አንበሳ ያስር |
+| [world-proverbs-044](../maxims/world-proverbs/world-proverbs-044-ati-lobhe-tanti-noshto.md) | 欲が過ぎれば、機織りは身を滅ぼす。 | 作者不詳（ベンガル語） | অতি লোভে তাঁতি নষ্ট |
+| [world-proverbs-045](../maxims/world-proverbs/world-proverbs-045-bil-kelma-t-tajba-tohrog-il-far-mit-tqajba.md) | よい言葉は、鼠を穴から引き出す。 | 作者不詳（マルタ語） | Bil-kelma t-tajba toħroġ il-far mit-tqajba |
+| [world-proverbs-046](../maxims/world-proverbs/world-proverbs-046-kto-seje-vietor-zne-burku.md) | 風を蒔く者は、嵐を刈り取る。 | 作者不詳（スロバキア語） | Kto seje vietor, žne búrku |
+| [world-proverbs-047](../maxims/world-proverbs/world-proverbs-047-vovka-nohy-hoduyut.md) | 狼を養うのは、その脚である。 | 作者不詳（ウクライナ語） | Вовка ноги годують |
+| [world-proverbs-048](../maxims/world-proverbs/world-proverbs-048-gur-gur-behet-mur.md) | 石また石を積めば、やがて壁となる。 | 作者不詳（アルバニア語） | Gur gur bëhet mur |
+| [world-proverbs-049](../maxims/world-proverbs/world-proverbs-049-bandarko-hatma-nariwal.md) | 猿の手に椰子の実。 | 作者不詳（ネパール語） | बाँदरको हातमा नरिवल |
