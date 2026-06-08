@@ -576,3 +576,8 @@
 | reference_wheres-design-level-design-part2.md | 2026-06-07 |
 | reference_game-design-framework-good-design.md | 2026-06-07 |
 | reference_efficient-game-code-console-architecture.md | 2026-06-07 |
+| reference_teaching-game-mechanics-hierarchy.md | 2026-06-08 |
+| reference_how-many-mechanics-game-design.md | 2026-06-08 |
+| reference_insomniac-slow-down-bull-postmortem.md | 2026-06-08 |
+| reference_dance-central-harmonix-postmortem.md | 2026-06-08 |
+| reference_accessibility-heuristics-mobile-games.md | 2026-06-08 |
