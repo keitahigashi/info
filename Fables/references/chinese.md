@@ -114,4 +114,9 @@
 | chinese-104 | 鶏群の一鶴 | kanbun.info/koji/keigun.html, proverb-encyclopedia.com/keigunnoikaku/ | 2026-05-31 |
 | chinese-105 | 結草報恩 | epochtimes.com/b5/8/10/16/n2298901.htm, 『春秋左氏伝』宣公十五年 | 2026-05-31 |
 | chinese-106 | 先憂後楽 | ja.wikipedia.org/wiki/范仲淹, ats5396.xsrv.jp/5945-2/ | 2026-05-31 |
+| chinese-107 | 七歩成詩 | 南朝宋・劉義慶『世説新語』文學第四, kanbun.info/syubu/7honoshi.html | 2026-06-08 |
+| chinese-108 | 夜郎自大 | 前漢・司馬遷『史記』西南夷列伝, kanbun.info/koji/yaro.html | 2026-06-08 |
+| chinese-109 | 一字千金 | 前漢・司馬遷『史記』呂不韋列伝, kanbun.info/koji/ichiji.html | 2026-06-08 |
+| chinese-110 | 洛陽紙貴 | 唐・房玄齢ら編『晋書』左思伝, kanbun.info/koji/rakushika.html | 2026-06-08 |
+| chinese-111 | 請君入甕 | 唐・張鷟『朝野僉載』, 北宋・司馬光『資治通鑑』巻204, epochtimes.com | 2026-06-08 |
 <!-- 出典追加時にここへ行を追加 -->

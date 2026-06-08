@@ -1,4 +1,4 @@
-# 中国故事（106話）
+# 中国故事（111話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -110,4 +110,9 @@
 | [chinese-104](../fables/chinese/chinese-104-crane-among-chickens.md) | 鶏群の一鶴 | 凡庸な多数の中にひときわ秀でた人物が存在することの喩え。容姿・人格・才能が群を抜く者の際立つ存在感を示す |
 | [chinese-105](../fables/chinese/chinese-105-repaying-kindness-tying-grass.md) | 結草報恩 | 受けた恩は死後でも必ず報いるという恩義の絶対性を説く。冷静な判断と人道的行為が、のちに予期せぬ形で報われることを示す |
 | [chinese-106](../fables/chinese/chinese-106-worry-before-enjoying.md) | 先憂後楽 | 指導者・公人は民の苦しみを先に心配し、民が楽しんだ後にはじめて自らが楽しむべきだという公共奉仕と自己犠牲の精神を説く |
+| [chinese-107](../fables/chinese/chinese-107-composing-a-poem-in-seven-steps.md) | 七歩成詩 | たとえ権力者に命を脅かされても、才知と言葉で真実を伝えることができる。骨肉相争いの悲惨さを詩の力で諫めた曹植の故事 |
+| [chinese-108](../fables/chinese/chinese-108-yelang-arrogant-self-importance.md) | 夜郎自大 | 自分の狭い世界しか知らず、自らの力量や立場を過大評価してはならない。世間を広く知らずに傲慢にふるまうことの愚かさを戒める |
+| [chinese-109](../fables/chinese/chinese-109-one-character-worth-a-thousand-gold.md) | 一字千金 | 優れた言葉や文章は千金にも値する重みを持つ。入念な準備と多くの知恵を結集させた仕事は完璧に近い完成度を持ちうる |
+| [chinese-110](../fables/chinese/chinese-110-the-paper-of-luoyang-becomes-expensive.md) | 洛陽紙貴 | 真に優れた作品は当初は認められなくとも、正しく評価する者が現れることで世に広まる。優秀な仕事の価値は必ず正当に認められる |
+| [chinese-111](../fables/chinese/chinese-111-please-enter-the-urn-yourself.md) | 請君入甕 | 他人を陥れるために用いた方法は、やがて自分自身に返ってくる。他者を害する策略を弄することへの因果応報の戒め |
 <!-- 寓話追加時にここへ行を追加 -->
