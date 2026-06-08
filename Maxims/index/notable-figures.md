@@ -1,4 +1,4 @@
-# 著名人の言葉（51件）
+# 著名人の言葉（61件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -55,3 +55,13 @@
 | [notable-figures-049](../maxims/notable-figures/notable-figures-049-shoe-that-fits-one-pinches-another.md) | ある人に合う靴も、別の人には窮屈なものである | カール・グスタフ・ユング | 『現代人の魂の探求』（1933年） |
 | [notable-figures-050](../maxims/notable-figures/notable-figures-050-problem-you-do-not-face-meets-you-as-fate.md) | あなたが向き合わなかった問題は、いずれ運命として出会うことになる | カール・グスタフ・ユング | 通俗的言い換え（原典『アイオーン』） |
 | [notable-figures-051](../maxims/notable-figures/notable-figures-051-in-all-chaos-there-is-a-cosmos.md) | 全ての混沌には調和が、無秩序の中には秘められた秩序がある | カール・グスタフ・ユング | 『元型論』（Collected Works vol.9i） |
+| [notable-figures-052](../maxims/notable-figures/notable-figures-052-very-little-is-needed-for-happy-life.md) | 幸福な人生に必要なものはごくわずかである。それはすべて、あなた自身の内に、あなたの考え方の中にある | マルクス・アウレリウス | 『自省録』第7巻67節 |
+| [notable-figures-053](../maxims/notable-figures/notable-figures-053-i-went-to-the-woods-to-live-deliberately.md) | 私が森へ行ったのは、思慮深く生きたい、人生の本質的な事実だけと向き合いたいと願ったからだ | ヘンリー・デイヴィッド・ソロー | 『ウォールデン 森の生活』第2章 |
+| [notable-figures-054](../maxims/notable-figures/notable-figures-054-a-room-of-ones-own.md) | 女性が小説を書こうとするなら、お金と自分ひとりの部屋を持たねばならない | ヴァージニア・ウルフ | 『自分ひとりの部屋』第1章（1929年） |
+| [notable-figures-055](../maxims/notable-figures/notable-figures-055-fight-for-the-things-you-care-about.md) | 自分が大切に思うもののために闘いなさい。ただし、他の人々があなたに加わりたくなるようなやり方で | ルース・ベイダー・ギンズバーグ | ラドクリフ研究所での発言（2015年） |
+| [notable-figures-056](../maxims/notable-figures/notable-figures-056-man-who-dies-rich-dies-disgraced.md) | かくして富んだまま死ぬ者は、不名誉のうちに死ぬのである | アンドリュー・カーネギー | 「富（Wealth）」（1889年） |
+| [notable-figures-057](../maxims/notable-figures/notable-figures-057-this-is-for-everyone.md) | これは、すべての人のために | ティム・バーナーズ＝リー | ロンドン五輪開会式（2012年） |
+| [notable-figures-058](../maxims/notable-figures/notable-figures-058-nothing-can-be-changed-until-faced.md) | 直視したからといってすべてが変えられるわけではない。だが、直視しなければ何ひとつ変えられない | ジェイムズ・ボールドウィン | NYTブックレビュー（1962年） |
+| [notable-figures-059](../maxims/notable-figures/notable-figures-059-science-and-everyday-life.md) | 科学と日常生活は、切り離すことができないし、切り離すべきでもない | ロザリンド・フランクリン | 父宛の書簡（1940年） |
+| [notable-figures-060](../maxims/notable-figures/notable-figures-060-we-do-language.md) | 私たちは死ぬ。それが生の意味なのかもしれない。だが私たちは言葉を紡ぐ。それこそが私たちの生の尺度なのかもしれない | トニ・モリスン | ノーベル文学賞受賞講演（1993年） |
+| [notable-figures-061](../maxims/notable-figures/notable-figures-061-stupid-are-cocksure.md) | 今日の世界における問題の根本原因は、愚かな者ほど自信過剰で、賢い者ほど疑いに満ちていることにある | バートランド・ラッセル | 「愚かさの勝利」（1933年） |

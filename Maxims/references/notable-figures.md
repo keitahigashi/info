@@ -55,3 +55,13 @@
 | notable-figures-049 | ある人に合う靴も、別の人には窮屈なものである。あらゆるケースに適用する人生の秘訣などない | カール・グスタフ・ユング | 『Modern Man in Search of a Soul』1933年 / goodreads.com, quotepark.com, brainyquote.com | 2026-06-04 |
 | notable-figures-050 | あなたが向き合わなかった問題は、いずれ運命として出会うことになる | カール・グスタフ・ユング | 通俗的言い換え（諸説あり）。原典は『Aion（アイオーン）』CW vol.9ii §126「内的状況が意識化されないとき外側で運命として起こる」/ quozio.com, goodreads.com | 2026-06-04 |
 | notable-figures-051 | 全ての混沌には調和が、無秩序の中には秘められた秩序がある | カール・グスタフ・ユング | 『The Archetypes and the Collective Unconscious（元型論）』CW vol.9i p.32 / libquotes.com, quotepark.com, azquotes.com | 2026-06-04 |
+| notable-figures-052 | 幸福な人生に必要なものはごくわずかである。それはすべて、あなた自身の内に、あなたの考え方の中にある | マルクス・アウレリウス | 『自省録（Meditations）』第7巻67節 / en.wikiquote.org, buboquote.com | 2026-06-08 |
+| notable-figures-053 | 私が森へ行ったのは、思慮深く生きたい、人生の本質的な事実だけと向き合いたいと願ったからだ | ヘンリー・デイヴィッド・ソロー | 『Walden; or, Life in the Woods』第2章 (Ticknor and Fields, 1854) / en.wikipedia.org, sparknotes.com | 2026-06-08 |
+| notable-figures-054 | 女性が小説を書こうとするなら、お金と自分ひとりの部屋を持たねばならない | ヴァージニア・ウルフ | 『A Room of One's Own』第1章 (Hogarth Press, 1929) / gutenberg.net.au, en.wikipedia.org | 2026-06-08 |
+| notable-figures-055 | 自分が大切に思うもののために闘いなさい。ただし、他の人々があなたに加わりたくなるようなやり方で | ルース・ベイダー・ギンズバーグ | ハーバード大学ラドクリフ研究所での発言 2015-05-29 / radcliffe.harvard.edu, huffpost.com | 2026-06-08 |
+| notable-figures-056 | かくして富んだまま死ぬ者は、不名誉のうちに死ぬのである | アンドリュー・カーネギー | エッセイ「Wealth」『North American Review』vol.148, 1889年6月（後の「The Gospel of Wealth」）/ carnegie.org, en.wikipedia.org | 2026-06-08 |
+| notable-figures-057 | これは、すべての人のために | ティム・バーナーズ＝リー | ロンドン夏季オリンピック開会式 2012-07-27 / en.wikipedia.org, webfoundation.org | 2026-06-08 |
+| notable-figures-058 | 直視したからといってすべてが変えられるわけではない。だが、直視しなければ何ひとつ変えられない | ジェイムズ・ボールドウィン | エッセイ「As Much Truth As One Can Bear」『The New York Times Book Review』1962-01-14, p.BR38 / quoteinvestigator.com, snopes.com | 2026-06-08 |
+| notable-figures-059 | 科学と日常生活は、切り離すことができないし、切り離すべきでもない | ロザリンド・フランクリン | 父エリス・フランクリン宛書簡 1940年夏（B.Maddox『Rosalind Franklin』2002, ch.4 pp.60–61所収）/ quoteinvestigator.com, profiles.nlm.nih.gov | 2026-06-08 |
+| notable-figures-060 | 私たちは死ぬ。それが生の意味なのかもしれない。だが私たちは言葉を紡ぐ。それこそが私たちの生の尺度なのかもしれない | トニ・モリスン | ノーベル文学賞 受賞記念講演 1993-12-07 / nobelprize.org, en.wikiquote.org | 2026-06-08 |
+| notable-figures-061 | 今日の世界における問題の根本原因は、愚かな者ほど自信過剰で、賢い者ほど疑いに満ちていることにある | バートランド・ラッセル | エッセイ「The Triumph of Stupidity」『New York American』1933-05-10（『Mortals and Others』再録）/ quoteinvestigator.com, wist.info。**誤帰属注意**: 流布する "fools and fanatics" 版は本人原文ではない | 2026-06-08 |
