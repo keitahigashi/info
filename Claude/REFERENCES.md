@@ -419,3 +419,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_vs_codex_config_chero.md | 2026-06-07 |
 | reference_anthropic_recursive_selfimprovement_innovatopia.md | 2026-06-07 |
 | reference_claude_code_hooks_zenn_books_yurukusa.md | 2026-06-07 |
+| reference_claude_code_dw_6patterns_aria3.md | 2026-06-08 |
+| reference_claude_june15_plan_ocomoco.md | 2026-06-08 |
+| reference_claude_subscription_deprecation_june15_uravation.md | 2026-06-08 |
+| reference_claude_code_dw_handson_dearsystem.md | 2026-06-08 |
+| reference_notion_claude_outage_multiprovider_hashout.md | 2026-06-08 |
