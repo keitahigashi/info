@@ -44,3 +44,13 @@
 | latin-038 | Aut viam inveniam aut faciam. | 作者不詳 | セネカ『狂えるヘラクレス』276「inveniet viam aut faciet」に由来。ハンニバル帰属は後世の伝承 / en.wikipedia.org（Inveniam viam） | 2026-06-04 |
 | latin-039 | Vivamus, mea Lesbia, atque amemus. | カトゥルス | カトゥルス『詩集』5.1 / en.wikipedia.org（Catullus 5）, perseus.tufts.edu | 2026-06-04 |
 | latin-040 | Quod erat demonstrandum. | 作者不詳 | ユークリッド『原論』等のギリシア語句「ὅπερ ἔδει δεῖξαι」のラテン訳。活字早期例ザンベルティ訳（1505） / en.wikipedia.org（Q.E.D.）, mathshistory.st-andrews.ac.uk | 2026-06-04 |
+| latin-041 | Cogito, ergo sum. | ルネ・デカルト | 『哲学原理』第1部第7項（1644、原文 "ego cogito, ergo sum"）、仏語先行形は『方法序説』（1637） / en.wikipedia.org, newworldencyclopedia.org | 2026-06-09 |
+| latin-042 | Docendo discimus. | セネカ（小） | セネカ『倫理書簡集』7.8「homines dum docent discunt」に由来、定型は後世の要約形 / en.wikipedia.org | 2026-06-09 |
+| latin-043 | Summum ius, summa iniuria. | 作者不詳（キケロが伝える諺） | キケロ『義務について』1.33（キケロ自身が「使い古された諺」と紹介） / thelatinlibrary.com, loebclassics.com | 2026-06-09 |
+| latin-044 | Cedant arma togae. | キケロ | キケロ『義務について』1.77「cedant arma togae concedat laurea laudi」（キケロ自作の詩句） / thelatinlibrary.com, en.wikipedia.org | 2026-06-09 |
+| latin-045 | Salus populi suprema lex esto. | キケロ | キケロ『法律について』3.3.8「Ollis salus populi suprema lex esto」 / en.wikipedia.org, perseus.tufts.edu | 2026-06-09 |
+| latin-046 | Vivere militare est. | セネカ（小） | セネカ『倫理書簡集』96.5「Atqui vivere, Lucili, militare est」、簡略形は原文の凝縮 / thelatinlibrary.com, it.wikipedia.org | 2026-06-09 |
+| latin-047 | Ducunt volentem fata, nolentem trahunt. | セネカ（小）（クレアンテス訳） | セネカ『倫理書簡集』107.11（クレアンテス讃歌のラテン訳）、最終行の帰属に学術的議論あり / it.wikipedia.org, journals.uchicago.edu | 2026-06-09 |
+| latin-048 | Sapere aude. | ホラティウス | ホラティウス『書簡詩』1.2.40「sapere aude, incipe」、啓蒙的意味づけはカント由来 / en.wikipedia.org, perseus.tufts.edu | 2026-06-09 |
+| latin-049 | Virtus est medium vitiorum et utrimque reductum. | ホラティウス | ホラティウス『書簡詩』1.18.9、流布形「In medio stat virtus」は後世整形 / loebclassics.com, en.wikipedia.org | 2026-06-09 |
+| latin-050 | Rem tene, verba sequentur. | 大カトー（ユリウス・ウィクトルが伝える） | ユリウス・ウィクトル『弁論術』が大カトーの教えとして伝える（4世紀の伝承） / en.wikiquote.org, loebclassics.com | 2026-06-09 |
