@@ -129,5 +129,10 @@
 | indian-117 | バラモンとヤギと三人の詐欺師 | talesofpanchatantra.com/the-brahmin-and-the-crooks, mythfolklore.blogspot.com | 2026-06-01 |
 | indian-118 | アンガリマーラ（指鬘の殺人者の改悔） | ja.wikipedia.org/wiki/アングリマーラ, true-buddhism.com/founder/angulimala/ | 2026-06-01 |
 | indian-119 | 乳海撹拌 | ja.wikipedia.org/wiki/乳海攪拌, pitt.jp/report/cbd-som.php | 2026-06-01 |
+| indian-120 | シャンディリとゴマの種 | talesofpanchatantra.com/shandili-and-the-sesame-seeds | 2026-06-09 |
+| indian-121 | 許さない猿 | en.wikisource.org（パンチャタントラ第5巻）, talesofpanchatantra.com | 2026-06-09 |
+| indian-122 | 二匹の蛇の物語 | talesofpanchatantra.com/the-tale-of-two-snakes | 2026-06-09 |
+| indian-123 | 鳥とブルブル震える猿たち | culturalindia.net/indian-folktales/hitopadesha-tales/birds-and-shivering-monkeys.html | 2026-06-09 |
+| indian-124 | 飢えた雌虎と菩薩 | ancient-buddhist-texts.net/English-Texts/Garland-of-Birth-Stories/01-The-Story-of-the-Tigress.htm, india-a2z.com/hungry-tigress-and-bodhisattva.html | 2026-06-09 |
 
 <!-- 出典追加時にここへ行を追加 -->
