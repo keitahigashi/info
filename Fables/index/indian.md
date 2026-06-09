@@ -1,4 +1,4 @@
-# インド寓話（119話）
+# インド寓話（124話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -123,4 +123,9 @@
 | [indian-117](../fables/indian/indian-117-the-brahmin-goat-and-three-rogues.md) | バラモンとヤギと三人の詐欺師 | 同じ嘘を異なる者から繰り返し聞かされると、たとえ賢い者でも疑念に負けて真実を見失う |
 | [indian-118](../fables/indian/indian-118-angulimala-the-reformed-killer.md) | アンガリマーラ（指鬘の殺人者の改悔） | どれほど深い罪を犯した者でも、真に悔い改め正しい道に入れば救済の道は開かれている |
 | [indian-119](../fables/indian/indian-119-churning-of-the-ocean-of-milk.md) | 乳海撹拌 | 真の利益は敵対する者同士でさえ力を合わせなければ得られないことがあるが、協力の果実を独り占めしようとする欲は必ず裏切りを生む |
+| [indian-120](../fables/indian/indian-120-shandili-and-the-sesame-seeds.md) | シャンディリとゴマの種 | 相手にとって都合のよすぎる申し出には必ず隠れた動機がある。甘い話に飛びつかず、冷静に考える分別が大切だ |
+| [indian-121](../fables/indian/indian-121-the-unforgiving-monkey.md) | 許さない猿 | 善意の警告を笑い飛ばす者は自ら滅びを招き、不当な仕打ちを受けた者の恨みを軽く見てはならない |
+| [indian-122](../fables/indian/indian-122-the-tale-of-two-snakes.md) | 二匹の蛇の物語 | 敵同士が争うとき、そばで静かに聞き耳を立てる者が最大の利を得る |
+| [indian-123](../fables/indian/indian-123-birds-and-shivering-monkeys.md) | 鳥とブルブル震える猿たち | 求めてもいない忠告を愚か者に与えることは、自分の首を絞める行為である |
+| [indian-124](../fables/indian/indian-124-the-hungry-tigress-and-the-bodhisattva.md) | 飢えた雌虎と菩薩 | 真の慈悲とは自らの命さえ惜しまず、苦しむ命に施すことである |
 <!-- 寓話追加時にここへ行を追加 -->
