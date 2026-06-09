@@ -1,4 +1,4 @@
-# ラテン語の格言（40件）
+# ラテン語の格言（50件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -44,3 +44,13 @@
 | [latin-038](../maxims/latin/latin-038-aut-viam-inveniam-aut-faciam.md) | 道を見つけるか、さもなくば道を切り開く（Aut viam inveniam aut faciam） | 作者不詳 | セネカ『狂えるヘラクレス』に由来 |
 | [latin-039](../maxims/latin/latin-039-vivamus-mea-lesbia-atque-amemus.md) | 生きよう、わがレスビアよ、そして愛し合おう（Vivamus, mea Lesbia, atque amemus） | カトゥルス | 『詩集』5.1 |
 | [latin-040](../maxims/latin/latin-040-quod-erat-demonstrandum.md) | 以上が証明すべきことであった（Quod erat demonstrandum） | 作者不詳 | ユークリッド『原論』のギリシア語句のラテン訳 |
+| [latin-041](../maxims/latin/latin-041-cogito-ergo-sum.md) | 我思う、ゆえに我あり（Cogito, ergo sum） | ルネ・デカルト | 『哲学原理』第1部第7項 |
+| [latin-042](../maxims/latin/latin-042-docendo-discimus.md) | 教えることによって、我々は学ぶ（Docendo discimus） | セネカ（小） | 『倫理書簡集』7.8に由来 |
+| [latin-043](../maxims/latin/latin-043-summum-ius-summa-iniuria.md) | 最高の法は、最高の不正である（Summum ius, summa iniuria） | 作者不詳 | キケロ『義務について』1.33（諺として） |
+| [latin-044](../maxims/latin/latin-044-cedant-arma-togae.md) | 武器はトーガに道を譲れ（Cedant arma togae） | キケロ | 『義務について』1.77 |
+| [latin-045](../maxims/latin/latin-045-salus-populi-suprema-lex-esto.md) | 人民の安寧を最高の法とせよ（Salus populi suprema lex esto） | キケロ | 『法律について』3.3.8 |
+| [latin-046](../maxims/latin/latin-046-vivere-militare-est.md) | 生きることは戦うことである（Vivere militare est） | セネカ（小） | 『倫理書簡集』96.5 |
+| [latin-047](../maxims/latin/latin-047-ducunt-volentem-fata.md) | 運命は従う者を導き、抗う者を引きずってゆく（Ducunt volentem fata, nolentem trahunt） | セネカ（小） | 『倫理書簡集』107.11（クレアンテス訳） |
+| [latin-048](../maxims/latin/latin-048-sapere-aude.md) | 敢えて賢くあれ（Sapere aude） | ホラティウス | 『書簡詩』1.2.40 |
+| [latin-049](../maxims/latin/latin-049-virtus-est-medium-vitiorum.md) | 徳は両悪徳の中間にある（Virtus est medium vitiorum） | ホラティウス | 『書簡詩』1.18.9 |
+| [latin-050](../maxims/latin/latin-050-rem-tene-verba-sequentur.md) | 内容を把握せよ、言葉は後から従う（Rem tene, verba sequentur） | 大カトー | ユリウス・ウィクトル『弁論術』が伝える |
