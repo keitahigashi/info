@@ -581,3 +581,8 @@
 | reference_insomniac-slow-down-bull-postmortem.md | 2026-06-08 |
 | reference_dance-central-harmonix-postmortem.md | 2026-06-08 |
 | reference_accessibility-heuristics-mobile-games.md | 2026-06-08 |
+| reference_making-case-strong-narrative-editors.md | 2026-06-09 |
+| reference_ai-npcs-future-game-characters.md | 2026-06-09 |
+| reference_emergent-systems-interactive-storytelling.md | 2026-06-09 |
+| reference_diegesis-designing-immersion.md | 2026-06-09 |
+| reference_nature-of-immersion.md | 2026-06-09 |
