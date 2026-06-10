@@ -1,4 +1,4 @@
-# アフリカ民話（110話）
+# アフリカ民話（115話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -114,4 +114,9 @@
 | [african-108](../fables/african/african-108-the-cock-who-caused-a-fight-between-two-towns.md) | 二つの町の戦いを引き起こした雄鶏 | 悪意ある嘘と嫉妬は、些細な誤解を取り返しのつかない惨禍へと変える |
 | [african-109](../fables/african/african-109-why-the-heron-has-a-crooked-neck.md) | サギが曲がった首を持つ理由 | 危険な相手に対しては用心を怠るな。親切心も油断を許す隙になりうる |
 | [african-110](../fables/african/african-110-goso-the-teacher.md) | 教師ゴソ | 一つの軽率な行為が思わぬ連鎖を生み、取り返しのつかない結果をもたらすことがある |
+| [african-111](../fables/african/african-111-the-lucky-fisherman.md) | 運のいい漁師 | 勤勉と創意工夫は逆境を乗り越える力を持ち、その生涯の功績は死後も人々の口に語り継がれる |
+| [african-112](../fables/african/african-112-the-omanhene-who-liked-riddles.md) | 謎好きのオマンヘネ | 知恵と誠実さは権力の横暴に勝り、不正な手段で他者を出し抜こうとする者は最終的に自らの悪行によって滅びる |
+| [african-113](../fables/african/african-113-the-worlds-reward.md) | 世界の報い | 忠実に尽くした者が報われず捨てられることは世の常だが、同じ境遇の仲間が団結すれば逆境を乗り越え新たな安住の地を見つけることができる |
+| [african-114](../fables/african/african-114-the-woodcutter-and-his-donkey.md) | 木こりとロバ | 神の摂理への純粋な信頼は予期せぬ形で報われるが、欲深さは必ず自らを滅ぼす |
+| [african-115](../fables/african/african-115-farmer-mybrow-and-the-fairies.md) | 農夫マイブロウと精霊たち | 恩人との約束を誠実に守る者は繁栄を得るが、欲に目がくらんで約束を破る者は何も得られず報いを受ける |
 <!-- 寓話追加時にここへ行を追加 -->

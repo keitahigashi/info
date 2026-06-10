@@ -123,4 +123,9 @@
 | african-108 | 二つの町の戦いを引き起こした雄鶏 | sacred-texts.com/afr/fssn/fsn23.htm, fairytalez.com（Dayrell『Folk Stories from Southern Nigeria』1910） | 2026-06-02 |
 | african-109 | サギが曲がった首を持つ理由 | worldoftales.com/African_folktales/African_Folktale_23.html, fairytalez.com/why-the-heron-has-a-crooked-neck/ (Metelerkamp『Outa Karel's Stories』1914) | 2026-06-02 |
 | african-110 | 教師ゴソ | worldoftales.com/African_folktales/African_Folktale_43.html, en.wikisource.org/wiki/Swahili_Tales/Goso_the_Teacher (Bateman『Zanzibar Tales』1901) | 2026-06-02 |
+| african-111 | 運のいい漁師 | sacred-texts.com/afr/fssn/fsn34.htm, gutenberg.org/files/34655/34655-h/34655-h.htm (Dayrell『Folk Stories from Southern Nigeria』1910) | 2026-06-10 |
+| african-112 | 謎好きのオマンヘネ | gutenberg.org/ebooks/66923, afrolegends.com/2016/09/06/the-omanhene-who-liked-riddles/ (Barker & Sinclair『West African Folk-Tales』1917) | 2026-06-10 |
+| african-113 | 世界の報い | gutenberg.org/files/38339/38339-h/38339-h.htm, sacred-texts.com/afr/saft/sft10.htm (Honey『South-African Folk-Tales』1910) | 2026-06-10 |
+| african-114 | 木こりとロバ | gutenberg.org/files/38992/38992-h/38992-h.htm (Stigand『Black Tales for White Children』1914) | 2026-06-10 |
+| african-115 | 農夫マイブロウと精霊たち | gutenberg.org/ebooks/66923 (Barker & Sinclair『West African Folk-Tales』1917) | 2026-06-10 |
 <!-- 出典追加時にここへ行を追加 -->
