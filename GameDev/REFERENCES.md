@@ -586,3 +586,8 @@
 | reference_emergent-systems-interactive-storytelling.md | 2026-06-09 |
 | reference_diegesis-designing-immersion.md | 2026-06-09 |
 | reference_nature-of-immersion.md | 2026-06-09 |
+| reference_world-design-2d-action-adventures.md | 2026-06-10 |
+| reference_traversal-level-design-principles.md | 2026-06-10 |
+| reference_depth-from-complexity-pt1.md | 2026-06-10 |
+| reference_depth-from-complexity-pt2.md | 2026-06-10 |
+| reference_hidden-costs-scripting-game-behaviour.md | 2026-06-10 |
