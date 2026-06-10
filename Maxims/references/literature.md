@@ -45,3 +45,13 @@
 | literature-039 | 廻れば大門の見返り柳いと長けれど。 | 樋口一葉 | aozora.gr.jp, jun-bungaku.jp | 2026-06-04 |
 | literature-040 | 太陽とその他の星々を動かす愛。 | ダンテ・アリギエーリ | dantelab.dartmouth.edu, it.wikipedia.org | 2026-06-04 |
 | literature-041 | 完璧とは、付け加えるべきものが何もなくなった時ではなく、取り去るべきものが何もなくなった時に達成される | アントワーヌ・ド・サン＝テグジュペリ | fr.wikisource.org, en.wikiquote.org | 2026-06-04 |
+| literature-042 | ロリータ、わが命の光、わが腰の炎。わが罪、わが魂。 | ウラジーミル・ナボコフ | en.wikiquote.org, goodreads.com | 2026-06-10 |
+| literature-043 | その日は散歩に出かけられる見込みなどなかった。 | シャーロット・ブロンテ | etc.usf.edu, victorianweb.org | 2026-06-10 |
+| literature-044 | もし本当に聞きたいのなら…そういうデイヴィッド・カパーフィールド式のたわごとなんだろうけど。 | J・D・サリンジャー | penguin.co.uk, pen.org | 2026-06-10 |
+| literature-045 | えたいの知れない不吉な塊が私の心を始終圧えつけていた。 | 梶井基次郎 | aozora.gr.jp, kyototuu.jp | 2026-06-10 |
+| literature-046 | 私の心に涙が降る、町に雨が降るように。 | ポール・ヴェルレーヌ | fr.wikisource.org, fr.wikipedia.org | 2026-06-10 |
+| literature-047 | あなたは、あれほど不吉な予感を抱いていた事業の門出に、何の災いも起こらなかったと聞いて喜んでくれることでしょう。 | メアリー・シェリー | gutenberg.org, etc.usf.edu | 2026-06-10 |
+| literature-048 | 小諸なる古城のほとり、雲白く遊子悲しむ。 | 島崎藤村 | ja.wikipedia.org, crd.ndl.go.jp | 2026-06-10 |
+| literature-049 | 東海の小島の磯の白砂に、われ泣きぬれて蟹とたはむる。 | 石川啄木 | aozora.gr.jp, ja.wikipedia.org | 2026-06-10 |
+| literature-050 | あんたは僕のことを知らないだろうな、『トム・ソーヤーの冒険』って本を読んでなけりゃ。 | マーク・トウェイン | gutenberg.org, etc.usf.edu | 2026-06-10 |
+| literature-051 | むかし、ある陰鬱な真夜中、私が弱り疲れて思いに沈んでいたとき。 | エドガー・アラン・ポー | poetryfoundation.org, eapoe.org | 2026-06-10 |
