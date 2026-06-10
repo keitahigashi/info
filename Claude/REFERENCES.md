@@ -429,3 +429,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_fable5_investing_jp.md | 2026-06-09 |
 | reference_claude_fable5_benchmarks_digitalapplied.md | 2026-06-09 |
 | reference_ai_daily_digest_claude_iphone_june9.md | 2026-06-09 |
+| reference_claude_evolution_timeline_cryptul.md | 2026-06-10 |
+| reference_claude_code_update_operation_guide_uravation.md | 2026-06-10 |
+| reference_ai_major_updates_june2026_uravation.md | 2026-06-10 |
+| reference_claude_fable5_codewithclaude_codezine.md | 2026-06-10 |
+| reference_claude_fable5_aws_blog_june2026.md | 2026-06-10 |
