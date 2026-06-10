@@ -1,4 +1,4 @@
-# 文学の名言（41件）
+# 文学の名言（51件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -45,3 +45,13 @@
 | [literature-039](../maxims/literature/literature-039-takekurabe-opening.md) | 廻れば大門の見返り柳いと長けれど。 | 樋口一葉 | 『たけくらべ』冒頭 |
 | [literature-040](../maxims/literature/literature-040-lamor-che-move-il-sole.md) | 太陽とその他の星々を動かす愛。 | ダンテ・アリギエーリ | 『神曲』天国篇 第33歌 |
 | [literature-041](../maxims/literature/literature-041-la-perfection-est-atteinte.md) | 完璧とは、付け加えるべきものが何もなくなった時ではなく、取り去るべきものが何もなくなった時に達成される | アントワーヌ・ド・サン＝テグジュペリ | 『人間の土地』第3章 |
+| [literature-042](../maxims/literature/literature-042-lolita-light-of-my-life.md) | ロリータ、わが命の光、わが腰の炎。わが罪、わが魂。 | ウラジーミル・ナボコフ | 『ロリータ』第1部第1章 冒頭 |
+| [literature-043](../maxims/literature/literature-043-no-possibility-of-a-walk.md) | その日は散歩に出かけられる見込みなどなかった。 | シャーロット・ブロンテ | 『ジェイン・エア』第1章 冒頭 |
+| [literature-044](../maxims/literature/literature-044-if-you-really-want-to-hear.md) | もし本当に聞きたいのなら、まず知りたいのはたぶん、僕がどこで生まれたとか…そういうデイヴィッド・カパーフィールド式のたわごとなんだろうけど。 | J・D・サリンジャー | 『ライ麦畑でつかまえて』第1章 冒頭 |
+| [literature-045](../maxims/literature/literature-045-etai-no-shirenai-katamari.md) | えたいの知れない不吉な塊が私の心を始終圧えつけていた。 | 梶井基次郎 | 『檸檬』冒頭 |
+| [literature-046](../maxims/literature/literature-046-il-pleure-dans-mon-coeur.md) | 私の心に涙が降る、町に雨が降るように。 | ポール・ヴェルレーヌ | 『言葉なき恋歌』所収「私の心に涙が降る」 |
+| [literature-047](../maxims/literature/literature-047-you-will-rejoice-frankenstein.md) | あなたは、あれほど不吉な予感を抱いていた事業の門出に、何の災いも起こらなかったと聞いて喜んでくれることでしょう。 | メアリー・シェリー | 『フランケンシュタイン』第1の手紙 冒頭 |
+| [literature-048](../maxims/literature/literature-048-komoro-naru-kojo.md) | 小諸なる古城のほとり、雲白く遊子悲しむ。 | 島崎藤村 | 『落梅集』所収「千曲川旅情の歌（一）」 |
+| [literature-049](../maxims/literature/literature-049-tokai-no-kojima.md) | 東海の小島の磯の白砂に、われ泣きぬれて蟹とたはむる。 | 石川啄木 | 『一握の砂』巻頭歌 |
+| [literature-050](../maxims/literature/literature-050-you-dont-know-about-me.md) | あんたは僕のことを知らないだろうな、『トム・ソーヤーの冒険』って本を読んでなけりゃ。 | マーク・トウェイン | 『ハックルベリー・フィンの冒険』第1章 冒頭 |
+| [literature-051](../maxims/literature/literature-051-once-upon-a-midnight-dreary.md) | むかし、ある陰鬱な真夜中、私が弱り疲れて思いに沈んでいたとき。 | エドガー・アラン・ポー | 『大鴉』第1連 冒頭 |
