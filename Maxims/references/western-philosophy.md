@@ -55,3 +55,13 @@
 | western-philosophy-049 | 人間の偉大さについての私の定式は運命愛である | フリードリヒ・ニーチェ | zeno.org, en.wikipedia.org | 2026-06-04 |
 | western-philosophy-050 | どこの出身かと問われて、彼は「世界市民である」と答えた | ディオゲネス（シノペの） | perseus.tufts.edu, plato.stanford.edu | 2026-06-04 |
 | western-philosophy-051 | 脱皮できない蛇は滅びる | フリードリヒ・ニーチェ | zeno.org, en.wikiquote.org | 2026-06-04 |
+| western-philosophy-052 | 人間は本性上、ポリス（国家）的な動物である | アリストテレス | perseus.tufts.edu, topostext.org | 2026-06-11 |
+| western-philosophy-053 | 哲学者が国々において王とならぬ限り、国家にも人類にも災いの止む時はない | プラトン | perseus.tufts.edu, jtauber.github.io | 2026-06-11 |
+| western-philosophy-054 | わたしは理解するために信じるのであって、信じるために理解しようとするのではない | カンタベリーのアンセルムス | thelatinlibrary.com, plato.stanford.edu | 2026-06-11 |
+| western-philosophy-055 | （自然状態における）人間の生は、孤独で、貧しく、不潔で、残忍で、そして短い | トマス・ホッブズ | gutenberg.org, litcharts.com | 2026-06-11 |
+| western-philosophy-056 | クレオパトラの鼻、それがもっと低かったなら、大地の全表情は変わっていただろう | ブレーズ・パスカル | penseesdepascal.fr, en.wikipedia.org | 2026-06-11 |
+| western-philosophy-057 | しかし、すべて高貴なものは、稀であるのと同じだけ困難である | バールーフ・デ・スピノザ | thelatinlibrary.com, en.wikisource.org | 2026-06-11 |
+| western-philosophy-058 | モナドには、何かが出入りできるような窓は存在しない | ゴットフリート・ヴィルヘルム・ライプニッツ | fr.wikisource.org, en.wikisource.org, plato.stanford.edu | 2026-06-11 |
+| western-philosophy-059 | 二つのものが心を新たな崇敬の念で満たす ― 我が上なる星空と、我が内なる道徳法則である | イマヌエル・カント | de.wikisource.org, projekt-gutenberg.org | 2026-06-11 |
+| western-philosophy-060 | ミネルヴァの梟は、たそがれが訪れてはじめてその飛翔を始める | G・W・F・ヘーゲル | zeno.org, de.wikipedia.org | 2026-06-11 |
+| western-philosophy-061 | 私の言語の限界が、私の世界の限界を意味する | ルートヴィヒ・ウィトゲンシュタイン | wittgensteinproject.org, de.wikiquote.org | 2026-06-11 |
