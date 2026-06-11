@@ -591,3 +591,8 @@
 | reference_depth-from-complexity-pt1.md | 2026-06-10 |
 | reference_depth-from-complexity-pt2.md | 2026-06-10 |
 | reference_hidden-costs-scripting-game-behaviour.md | 2026-06-10 |
+| reference_replaced-wingman-diegetic-ui.md | 2026-06-11 |
+| reference_narrative-design-102-interactive-techniques.md | 2026-06-11 |
+| reference_game-dev-skill-diversification.md | 2026-06-11 |
+| reference_4-elements-game-mechanics.md | 2026-06-11 |
+| reference_dishonored-level-design-postmortem.md | 2026-06-11 |
