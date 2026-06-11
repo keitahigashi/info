@@ -1,4 +1,4 @@
-# アンデルセン童話（105話）
+# アンデルセン童話（110話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -109,4 +109,9 @@
 | [andersen-103](../fables/andersen/andersen-103-in-the-duck-yard.md) | アヒルの庭で | 善意を装いながら支配しようとする傲慢さは真の親切とは無縁である。社会の偽善と弱者への無関心が鋭く批判されている |
 | [andersen-104](../fables/andersen/andersen-104-the-days-of-the-week.md) | 曜日たち | それぞれ異なる個性を持つ存在が役割を担いながら協調することで社会は成り立つ。多様性と調和の価値を軽やかに謳う |
 | [andersen-105](../fables/andersen/andersen-105-godfathers-picture-book.md) | 名付け親の絵本 | 歴史を語り継ぐことは文化的記憶を次世代へ渡す崇高な行為である。苦難と再生を繰り返すなかで「真・善・美は必ず勝つ」という希望が人々を結び付ける |
+| [andersen-106](../fables/andersen/andersen-106-the-talisman.md) | お守り | 本当の幸福は外部のものに頼るのではなく、心の中にある「満足」から生まれる。 |
+| [andersen-107](../fables/andersen/andersen-107-twelve-by-the-mail.md) | 郵便馬車で十二人 | 人生のどの季節もそれぞれに固有の意味と価値を持っており、時の流れを辛抱強く受け入れることが大切である。 |
+| [andersen-108](../fables/andersen/andersen-108-the-neighboring-families.md) | 近隣の家族 | 美しいものの真価は外見の飾りではなく本質にあり、それを理解できるかどうかは見る者の心次第である。 |
+| [andersen-109](../fables/andersen/andersen-109-a-good-humor.md) | 上機嫌 | 幸せは境遇ではなく心の持ち方によって決まり、上機嫌と許しの気持ちを保つことが豊かな人生につながる。 |
+| [andersen-110](../fables/andersen/andersen-110-great-grandfather.md) | 大曾祖父 | 過去を敬いながらも現代の進歩を素直に認めることで、異なる世代は互いに学び合える。 |
 <!-- 寓話追加時にここへ行を追加 -->
