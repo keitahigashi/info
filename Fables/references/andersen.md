@@ -112,4 +112,9 @@
 | andersen-103 | アヒルの庭で | andersenstories.com/en/andersen_fairy-tales/in_the_duck_yard, gutenberg.ca/ebooks/andersen-duck/andersen-duck-00-h.html, アンデルセン(1861) | 2026-06-03 |
 | andersen-104 | 曜日たち | andersen.sdu.dk/vaerk/hersholt/TheDaysOfTheWeek_e.html, hcandersen-homepage.dk/?page_id=2271, アンデルセン(1868) | 2026-06-03 |
 | andersen-105 | 名付け親の絵本 | andersen.sdu.dk/vaerk/hersholt/GodfathersPictureBook_e.html, hcandersen-homepage.dk/?page_id=2401, アンデルセン(1868) | 2026-06-03 |
+| andersen-106 | お守り | andersen.sdu.dk/vaerk/hersholt/TheTalisman_e.html, アンデルセン(1836) | 2026-06-11 |
+| andersen-107 | 郵便馬車で十二人 | andersen.sdu.dk/vaerk/hersholt/TwelveByTheMail_e.html, アンデルセン(1861) | 2026-06-11 |
+| andersen-108 | 近隣の家族 | andersen.sdu.dk/vaerk/hersholt/TheNeighboringFamilies_e.html, アンデルセン(1847) | 2026-06-11 |
+| andersen-109 | 上機嫌 | andersen.sdu.dk/vaerk/hersholt/AGoodHumor_e.html, アンデルセン(1852) | 2026-06-11 |
+| andersen-110 | 大曾祖父 | andersen.sdu.dk/vaerk/hersholt/GreatGrandfather_e.html, アンデルセン(1870) | 2026-06-11 |
 <!-- 出典追加時にここへ行を追加 -->
