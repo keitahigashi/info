@@ -434,3 +434,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_ai_major_updates_june2026_uravation.md | 2026-06-10 |
 | reference_claude_fable5_codewithclaude_codezine.md | 2026-06-10 |
 | reference_claude_fable5_aws_blog_june2026.md | 2026-06-10 |
+| reference_coderabbit_fable5_model_review.md | 2026-06-11 |
+| reference_claude_fable5_release_uravation.md | 2026-06-11 |
+| reference_claude_update_summary_aismiley_june2026.md | 2026-06-11 |
+| reference_claude_code_pricing_complete_uravation_june2026.md | 2026-06-11 |
+| reference_claude_fable5_beginner_guide_fyve.md | 2026-06-11 |
