@@ -1,4 +1,4 @@
-# 西洋哲学（51件）
+# 西洋哲学（61件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -55,3 +55,13 @@
 | [western-philosophy-049](../maxims/western-philosophy/western-philosophy-049-amor-fati.md) | 人間の偉大さについての私の定式は運命愛である | フリードリヒ・ニーチェ | 『この人を見よ』第10節 |
 | [western-philosophy-050](../maxims/western-philosophy/western-philosophy-050-citizen-of-the-world.md) | どこの出身かと問われて、彼は「世界市民である」と答えた | ディオゲネス（シノペの） | ディオゲネス・ラエルティオス『哲学者列伝』第6巻63節 |
 | [western-philosophy-051](../maxims/western-philosophy/western-philosophy-051-the-snake-which-cannot-shed-its-skin.md) | 脱皮できない蛇は滅びる | フリードリヒ・ニーチェ | 『曙光』第573番 |
+| [western-philosophy-052](../maxims/western-philosophy/western-philosophy-052-man-is-by-nature-a-political-animal.md) | 人間は本性上、ポリス（国家）的な動物である | アリストテレス | 『政治学』第1巻 1253a |
+| [western-philosophy-053](../maxims/western-philosophy/western-philosophy-053-until-philosophers-are-kings.md) | 哲学者が国々において王とならぬ限り、国家にも人類にも災いの止む時はない | プラトン | 『国家』第5巻 473c–d |
+| [western-philosophy-054](../maxims/western-philosophy/western-philosophy-054-i-believe-so-that-i-may-understand.md) | わたしは理解するために信じるのであって、信じるために理解しようとするのではない | カンタベリーのアンセルムス | 『プロスロギオン』第1章 |
+| [western-philosophy-055](../maxims/western-philosophy/western-philosophy-055-solitary-poor-nasty-brutish-and-short.md) | （自然状態における）人間の生は、孤独で、貧しく、不潔で、残忍で、そして短い | トマス・ホッブズ | 『リヴァイアサン』第13章 |
+| [western-philosophy-056](../maxims/western-philosophy/western-philosophy-056-cleopatras-nose.md) | クレオパトラの鼻、それがもっと低かったなら、大地の全表情は変わっていただろう | ブレーズ・パスカル | 『パンセ』断章（ラフュマ413） |
+| [western-philosophy-057](../maxims/western-philosophy/western-philosophy-057-all-excellent-things-are-as-difficult-as-they-are-rare.md) | しかし、すべて高貴なものは、稀であるのと同じだけ困難である | バールーフ・デ・スピノザ | 『エチカ』第5部 定理42 備考 |
+| [western-philosophy-058](../maxims/western-philosophy/western-philosophy-058-monads-have-no-windows.md) | モナドには、何かが出入りできるような窓は存在しない | ゴットフリート・ヴィルヘルム・ライプニッツ | 『モナドロジー』第7節 |
+| [western-philosophy-059](../maxims/western-philosophy/western-philosophy-059-starry-heavens-above-and-the-moral-law-within.md) | 二つのものが心を新たな崇敬の念で満たす ― 我が上なる星空と、我が内なる道徳法則である | イマヌエル・カント | 『実践理性批判』結語 |
+| [western-philosophy-060](../maxims/western-philosophy/western-philosophy-060-owl-of-minerva.md) | ミネルヴァの梟は、たそがれが訪れてはじめてその飛翔を始める | G・W・F・ヘーゲル | 『法の哲学要綱』序文 |
+| [western-philosophy-061](../maxims/western-philosophy/western-philosophy-061-the-limits-of-my-language-mean-the-limits-of-my-world.md) | 私の言語の限界が、私の世界の限界を意味する | ルートヴィヒ・ウィトゲンシュタイン | 『論理哲学論考』命題5.6 |
