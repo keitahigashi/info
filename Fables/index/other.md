@@ -111,4 +111,9 @@
 | [other-105](../fables/other/other-105-tartalo-and-the-basque-shepherd.md) | タルタロとバスクの羊飼い | バスク民話 | 知恵と機転は怪力に勝り、危機においても冷静な思考が生死を分ける |
 | [other-106](../fables/other/other-106-osiris-isis-and-set.md) | オシリス、イシス、セト | 古代エジプト神話 | 正義と秩序は嫉妬と混乱に打ち勝ち、真の愛は死をも超えて命を呼び戻す |
 | [other-107](../fables/other/other-107-the-queen-of-sheba-and-solomon.md) | シバの女王のソロモン訪問 | 中東・エチオピア伝承 | 真の知恵は謙虚に求めることで得られ、その探求者は自らも変容する |
+| [other-108](../fables/other/other-108-rostam-and-sohrab.md) | ロスタムとソフラーブ | ペルシア叙事詩（フェルドウスィー） | 沈黙と隠蔽が生んだ秘密は、どれほど深い愛情があっても取り返しのつかない悲劇を招く |
+| [other-109](../fables/other/other-109-kalevipoeg-son-of-kalev.md) | カレヴィポエク——カレフの息子 | エストニア民族叙事詩 | 民族の記憶と誇りは、どれほど長い苦難のもとでも失われることなく、未来への希望として受け継がれる |
+| [other-110](../fables/other/other-110-manco-capac-and-the-golden-staff.md) | マンコ・カパックと黄金の杖 | インカ神話（ケチュア） | 神の導きに従い正しい場所と時を見極める知恵こそが、偉大な文明の礎を築く |
+| [other-111](../fables/other/other-111-barong-and-rangda.md) | バロンとランダの永遠の戦い | バリ島ヒンドゥー神話 | 善と悪は互いを滅ぼすものではなく、世界を維持するために共存するバランスこそが真の調和である |
+| [other-112](../fables/other/other-112-the-wonderful-adventures-of-nils.md) | ニルスのふしぎな旅 | スウェーデン文学（ラーゲルレーヴ） | 傲慢で残酷な者も、他者の痛みを知る旅を通じて真の思いやりを学び、人間として成長できる |
 <!-- 寓話追加時にここへ行を追加 -->

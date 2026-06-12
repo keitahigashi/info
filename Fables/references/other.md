@@ -115,4 +115,9 @@
 | other-105 | タルタロとバスクの羊飼い | バスク民話（セルカン採話1875年、口承はさらに古い） | en.wikipedia.org/wiki/Tartalo, buber.net/Basque/2022/08/07/basque-fact-of-the-week-tartalo-the-basque-cyclops/ | 2026-06-04 |
 | other-106 | オシリス、イシス、セト | 古代エジプト神話（ピラミッド・テキスト紀元前2400年頃、プルタルコス1世紀） | en.wikipedia.org/wiki/Osiris_myth, laits.utexas.edu/cairo/teachers/osiris.pdf | 2026-06-04 |
 | other-107 | シバの女王のソロモン訪問 | 旧約聖書列王記上（紀元前900〜700年頃）・コーラン第27章（7世紀）・ケブラ・ナガスト（14世紀） | en.wikipedia.org/wiki/Queen_of_Sheba, britannica.com/biography/Queen-of-Sheba | 2026-06-04 |
+| other-108 | ロスタムとソフラーブ | フェルドウスィー『シャーナーメ（王書）』第8章（977〜1010年頃） | en.wikipedia.org/wiki/Rostam_and_Sohrab, iranchamber.com/literature/shahnameh/08rostam_sohrab.php | 2026-06-12 |
+| other-109 | カレヴィポエク——カレフの息子 | クロイツヴァルト編纂『カレヴィポエク』（1857〜1861年） | en.wikipedia.org/wiki/Kalevipoeg, magical-europe.com/2024/01/08/kalevipoeg-estonias-epic-hero/ | 2026-06-12 |
+| other-110 | マンコ・カパックと黄金の杖 | ガルシラーソ・デ・ラ・ベガ『インカ王朝記』第1巻（1609年） | en.wikipedia.org/wiki/Manco_C%C3%A1pac, mythologyworldwide.com/the-legend-of-manco-capac-founder-of-the-incan-civilization/ | 2026-06-12 |
+| other-111 | バロンとランダの永遠の戦い | カロン・アラン伝説（11世紀東ジャワ起源）・バロン・ダンス（1890年代〜） | en.wikipedia.org/wiki/Barong_(mythology), merusaka.com/bali-cultural-experience/legend-of-barong-and-rangda-bali/ | 2026-06-12 |
+| other-112 | ニルスのふしぎな旅 | セルマ・ラーゲルレーヴ著（1906〜1907年、スウェーデン語） | en.wikipedia.org/wiki/The_Wonderful_Adventures_of_Nils, all-things-nordic.com/2024/01/02/the-wonderful-adventures-of-nils-a-fairy-tale-by-selma-lagerlof/ | 2026-06-12 |
 <!-- 出典追加時にここへ行を追加 -->
