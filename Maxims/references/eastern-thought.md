@@ -54,3 +54,13 @@
 | eastern-thought-048 | 吾が心の良知を事事物物に致す（致良知） | 王陽明（王守仁） | taolibrary.com, e-yangming.com | 2026-06-04 |
 | eastern-thought-049 | 知者は惑わず、仁者は憂えず、勇者は懼れず | 孔子 | ctext.org, ja.wikisource.org | 2026-06-04 |
 | eastern-thought-050 | 知を致すは物に格るに在り（格物致知） | 作者不詳（大学） | ctext.org, zh.wikisource.org | 2026-06-04 |
+| eastern-thought-051 | 学びて思わざれば則ち罔し、思いて学ばざれば則ち殆し | 孔子 | ctext.org, kanbun.info | 2026-06-12 |
+| eastern-thought-052 | 故きを温ねて新しきを知れば、以て師為る可し（温故知新） | 孔子 | ctext.org, kanbun.info | 2026-06-12 |
+| eastern-thought-053 | 吾日に三たび吾が身を省みる（吾日三省吾身） | 曾子（曾参） | ctext.org, kanbun.info | 2026-06-12 |
+| eastern-thought-054 | 大器は晩成す（大方無隅・大器晩成・大音希声・大象無形） | 老子 | ctext.org, zh.wikisource.org | 2026-06-12 |
+| eastern-thought-055 | 禍は福の倚る所、福は禍の伏する所 | 老子 | ctext.org, zh.wikisource.org | 2026-06-12 |
+| eastern-thought-056 | 井蛙は以て海を語る可からず（井の中の蛙） | 荘子（荘周） | ctext.org, zh.wikisource.org | 2026-06-12 |
+| eastern-thought-057 | 宇宙便ち是れ吾が心、吾が心即ち是れ宇宙 | 陸九淵 | baike.baidu.com, chinakongzi.org | 2026-06-12 |
+| eastern-thought-058 | 涵養は敬を用うるを須ち、進学は則ち致知に在り | 程頤 | zh.wikisource.org, zh.wikipedia.org | 2026-06-12 |
+| eastern-thought-059 | 凡そ有る所の相は皆是れ虚妄なり（凡所有相皆是虚妄） | 鳩摩羅什（漢訳） | baike.baidu.com, blog.udn.com | 2026-06-12 |
+| eastern-thought-060 | 一つの自己に克つ者こそ最上の勝利者なり（法句経103） | 釈迦（ブッダ） | ja.wikisource.org, true-buddhism.com | 2026-06-12 |
