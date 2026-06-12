@@ -1,4 +1,4 @@
-# 東洋思想（50件）
+# 東洋思想（60件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -54,3 +54,13 @@
 | [eastern-thought-048](../maxims/eastern-thought/eastern-thought-048-extending-innate-knowledge.md) | 吾が心の良知を事事物物に致す | 王陽明（王守仁） | 『伝習録』中巻・答顧東橋書 |
 | [eastern-thought-049](../maxims/eastern-thought/eastern-thought-049-the-wise-the-benevolent-the-brave.md) | 知者は惑わず、仁者は憂えず、勇者は懼れず | 孔子 | 『論語』子罕第九・29 |
 | [eastern-thought-050](../maxims/eastern-thought/eastern-thought-050-investigating-things-extending-knowledge.md) | 知を致すは物に格るに在り | 作者不詳（大学） | 『大学』（『礼記』大学篇） |
+| [eastern-thought-051](../maxims/eastern-thought/eastern-thought-051-learning-without-thinking.md) | 学びて思わざれば則ち罔し、思いて学ばざれば則ち殆し | 孔子 | 『論語』為政第二・15 |
+| [eastern-thought-052](../maxims/eastern-thought/eastern-thought-052-reviewing-old-knowing-new.md) | 故きを温ねて新しきを知れば、以て師為る可し | 孔子 | 『論語』為政第二・11 |
+| [eastern-thought-053](../maxims/eastern-thought/eastern-thought-053-daily-threefold-self-examination.md) | 吾日に三たび吾が身を省みる | 曾子（曾参） | 『論語』学而第一・4 |
+| [eastern-thought-054](../maxims/eastern-thought/eastern-thought-054-great-vessel-late-completion.md) | 大方は隅無く、大器は晩成し、大音は希声、大象は無形なり | 老子 | 『老子道徳経』第四十一章 |
+| [eastern-thought-055](../maxims/eastern-thought/eastern-thought-055-fortune-rests-upon-misfortune.md) | 禍は福の倚る所、福は禍の伏する所 | 老子 | 『老子道徳経』第五十八章 |
+| [eastern-thought-056](../maxims/eastern-thought/eastern-thought-056-well-frog-cannot-speak-of-sea.md) | 井の中の蛙には海を語れない、住む場所に拘われているからだ | 荘子（荘周） | 『荘子』外篇・秋水 |
+| [eastern-thought-057](../maxims/eastern-thought/eastern-thought-057-universe-is-my-mind.md) | 宇宙はそのまま我が心であり、我が心がそのまま宇宙である | 陸九淵 | 『陸九淵集』巻三十六・年譜 |
+| [eastern-thought-058](../maxims/eastern-thought/eastern-thought-058-cultivation-by-reverence-learning-by-knowledge.md) | 涵養は敬を用うるを須ち、進学は則ち致知に在り | 程頤 | 『二程遺書』巻第十八・伊川先生語四 |
+| [eastern-thought-059](../maxims/eastern-thought/eastern-thought-059-all-forms-are-illusory.md) | およそ形あるものはみな虚妄である、もろもろの相が相でないと見ればそこに如来を見る | 鳩摩羅什（漢訳） | 『金剛般若波羅蜜経』如理実見分第五 |
+| [eastern-thought-060](../maxims/eastern-thought/eastern-thought-060-conquering-oneself-is-the-greatest-victory.md) | 戦場で百万人に勝つよりも、ただ一つの自己に克つ者こそ最上の勝利者である | 釈迦（ブッダ） | 『ダンマパダ（法句経）』第8章・千品 第103偈 |
