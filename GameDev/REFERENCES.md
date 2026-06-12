@@ -596,3 +596,8 @@
 | reference_game-dev-skill-diversification.md | 2026-06-11 |
 | reference_4-elements-game-mechanics.md | 2026-06-11 |
 | reference_dishonored-level-design-postmortem.md | 2026-06-11 |
+| reference_procedural-content-generation-modules.md | 2026-06-12 |
+| reference_level-design-in-procedural-generation.md | 2026-06-12 |
+| reference_ai-design-emergent-behaviour.md | 2026-06-12 |
+| reference_systems-game-systems-systemic-games.md | 2026-06-12 |
+| reference_replayability-random-vs-procedural.md | 2026-06-12 |
