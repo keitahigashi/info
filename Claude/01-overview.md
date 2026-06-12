@@ -288,4 +288,16 @@ AISmileyによる2026年6月9日時点のClaude全アップデートまとめ。
 Fyveによる初心者向けFable 5入門ガイド（2026年6月10日）。「"全部これに乗り換える"のは間違い」と強調し、用途別モデル選択基準を提示——日常的なチャット・軽い質問はHaiku/Sonnet、通常開発はOpus 4.8、複雑なマルチファイル実装・長時間エージェントはFable 5。3ステップ活用法：①6/22まで無料期間に試す②トークンカウンターでコスト比較③「30分以上かかる作業→Fable 5」などマイルール設定。Mythos（安全装置なし・限定提供）とFable（安全装置付き・一般公開）の違いも明確化。
 > 詳細: references/reference_claude_fable5_beginner_guide_fyve.md を参照
 
+### Claude Fable 5 & Mythos 5 徹底解説：セーフガード機構・ベンチマーク・LLMOps新課題（Zenn・galirage）（自動収集 2026-06-12）
+Fable 5とMythos 5は「中身は同じ・ガードの有無だけが異なる設計」。ベンチマーク：SWE-bench Verified 95.0%・SWE-bench Pro 80.3%・OSWorld-Verified 85.0%。クラシファイア発動率はセッション全体の5%未満、ブロック時はOpus 4.8へ自動フォールバック（課金対象外）。LLMOps新課題：フォールバック発生を`stop_reason: "refusal"`で監視・ログ記録する必要——HTTP 200で返るためエラー率監視に現れない。科学研究での成果：創薬10倍高速化・新規仮説生成・138種動物のゲノミクス分析を自律実行。Amazon Bedrock・Vertex AI・GitHub Copilotでも提供。
+> 詳細: references/reference_claude_fable5_mythos5_galirage_zenn.md を参照
+
+### Fable 5 で変わった5つのポイント：トークナイザ変更で実質2.6倍コスト増の落とし穴（Zenn・daishiro）（自動収集 2026-06-12）
+①新ティア「Mythos級」誕生②Extended Thinking廃止→Adaptive Thinking常時オン化（無効化は400エラー）③3層安全分類器（サイバー・生物化学・蒸留）④**トークナイザ変更で同文章が約30%多いトークン消費**（単価2倍×トークン増30%で実質約2.6倍のコスト）⑤6月22日まで全プラン無料。実装移行チェック：`max_tokens`をAdaptive thinking分に増やす・refusalハンドリング追加・コスト再試算・タイムアウト設定を数分〜数時間に見直し・フォールバック時の応答モデル記録追加。
+> 詳細: references/reference_claude_fable5_whats_new_daishiro_zenn.md を参照
+
+### Claude AIトラフィックシェア：ChatGPT 76.4%→52.7%急落、Claude 5月に月次最大成長+2.9pt（PPC Land）（自動収集 2026-06-12）
+過去12ヶ月でChatGPTは76.4%→52.7%（-23.7pt）、Geminiは8.9%→27.3%（+18.4pt）、Claudeは〜3%→8.9%（+5.9pt）。ClaudeはAIプラットフォーム中で5月に最大の月次成長率+2.9ptを記録。上位3プラットフォームで全体の約89%を占める。AI市場は「ChatGPT一強」から「複数プラットフォーム分散」へ移行。GEO（生成AIエンジン最適化）戦略は複数プラットフォーム対応が必須に。
+> 詳細: references/reference_claude_traffic_share_ppc_june2026.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

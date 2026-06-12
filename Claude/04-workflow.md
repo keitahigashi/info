@@ -489,4 +489,8 @@ Dynamic Workflowsの本質は「Claudeがタスク専用ハーネスをその場
 ディアシステム開発者（箕浦）が実際に試した体験記。核心：ClaudeがJavaScriptスクリプトを自動生成→独立バックグラウンドランタイムが実行→結果相互検証して統合、というフロー。スペック：最大16エージェント同時実行・累計最大1,000エージェント/実行。代表的事例：Bun→Rust移植で2,188ファイル・75万行を11日間・テスト通過率99.8%で完了。注意：トークン消費が通常セッションの大幅増、スコープを絞った小タスクから始めることを推奨。
 > 詳細: references/reference_claude_code_dw_handson_dearsystem.md を参照
 
+### Claude Agent SDK 課金変更【6月15日施行】：自動化利用が月次クレジット制へ分離・最大150倍コスト増の可能性（AI革命）（自動収集 2026-06-12）
+2026年6月15日より、エージェント利用がチャット利用と完全に分離され専用の月次クレジット制へ移行。影響対象：Claude Agent SDK・`claude -p`コマンド・GitHub Actions・OpenClawなどのサードパーティ自動化アプリ。クレジット額はプラン月額と同額（Pro $20・Max 5x $100・Max 20x $200）で毎月リセット・繰り越し不可。クレジット枯渇時は即停止（Extra Usage Credits無効時）。重いワークロードで最大150倍以上のコスト増も。対話的利用（Web チャット・Claude Codeの対話的使用）は影響なし。対応必須：①旧モデルID（`claude-sonnet-4`/`claude-opus-4`）をバージョン固定IDへ更新②月間API呼び出し量概算③クレジット超過時動作の確認。
+> 詳細: references/reference_claude_agent_sdk_billing_june2026.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
