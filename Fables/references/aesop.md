@@ -146,4 +146,10 @@
 | aesop-357 | 牛と子牛 | Perry Index #531, パイドロス版（Phaedrus V-9）, gutenberg.org/files/25512 | 2026-06-05 |
 | aesop-358 | 老犬と狩人 | Perry Index #532, パイドロス版（Phaedrus V-10・最終話）, perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0119:book%3D5:poem%3D10, gutenberg.org/files/25512 | 2026-06-05 |
 
+| aesop-359 | アオサギ | Perry Index #308, バブリウス『寓話集』第65話, ラ・フォンテーヌ『寓話集』VII-4, en.wikipedia.org/wiki/The_Heron_(fable) | 2026-06-13 |
+| aesop-360 | 野ロバと飼いロバ | Perry Index #337, バブリウス『寓話集』第7話, mythfolklore.net/aesopica/perry/337.htm | 2026-06-13 |
+| aesop-361 | 泣く子と狼 | Perry Index #343, パイドロス版（Phaedrus III-15, Lupus et Nurus）, gutenberg.org/files/25512 | 2026-06-13 |
+| aesop-362 | カエルの医者 | Perry Index #120, バブリウス『寓話集』, mythfolklore.net/aesopica/perry/120.htm | 2026-06-13 |
+| aesop-363 | キツネと蚊の群れ | Perry Index #254, アリストテレス『弁論術』II-20引用, en.wikipedia.org/wiki/The_Fox_and_the_Gnats | 2026-06-13 |
+
 <!-- 出典追加時にここへ行を追加 -->
