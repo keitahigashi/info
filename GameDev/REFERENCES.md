@@ -601,3 +601,8 @@
 | reference_ai-design-emergent-behaviour.md | 2026-06-12 |
 | reference_systems-game-systems-systemic-games.md | 2026-06-12 |
 | reference_replayability-random-vs-procedural.md | 2026-06-12 |
+| reference_tides-of-tomorrow-narrative-multiplayer.md | 2026-06-13 |
+| reference_revisiting-mda-framework.md | 2026-06-13 |
+| reference_gamic-dramaturgy-new-dramaturgy.md | 2026-06-13 |
+| reference_hop-til-you-drop-rapid-iteration.md | 2026-06-13 |
+| reference_storytelling-with-interface-narrative-ui.md | 2026-06-13 |
