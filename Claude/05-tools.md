@@ -134,4 +134,8 @@ F2T Blogの実装事例。Meta広告アクセストークンは約60日で期限
 Adaptive thinkingが常時オンで`disabled`設定は400エラー。最重要ポイントは「拒否がHTTP 200で返る」こと——`stop_reason: "refusal"`と`stop_details.category`（cyber/bio/reasoning_extraction）を個別計測しなければエラー率監視に現れない。server-side fallbackはbeta API（`betas=["server-side-fallback-2026-06-01"]`・`fallbacks=[{"model": "claude-opus-4-8"}]`）で実装。プロンプトキャッシュ最小長が1024→512トークンに短縮。「思考過程を見せて」系指示は`reasoning_extraction`拒否を引き起こすため削除推奨。日常業務はOpus 4.8で十分（コスト半分・拒否ハンドリング不要）、Fable 5は「人間が数時間〜数週間かけるエンドツーエンド業務」向け。
 > 詳細: references/reference_claude_fable5_developer_guide_zenn.md を参照
 
+### Excel MCP：ClaudeからExcelを双方向操作する仕組みとリスク対策（Aurant Technologies）（自動収集 2026-06-13）
+従来のファイルアップロードとの違い：MCP方式は双方向・リアルタイム最新データ・Excel構造を直接理解。主なリスク：①数式破壊（AI操作で計算式が意図せず上書き）②個人情報漏えい③ローカル実行によるログ不記録。対策：アクセス権限の制限（`ALLOWED_DIRECTORIES`で対象限定）・データマスキング・運用ルールの整備・操作前バックアップ。活用シーン：定期レポート自動生成・大量データ集計分析・シート間データ連携。
+> 詳細: references/reference_excel_mcp_aurant_technologies.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

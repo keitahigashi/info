@@ -135,4 +135,12 @@ Claude Codeで「禁止ルールを引用しながら直後にそのルールを
 2026年6月7日にAnthropicでインフラ障害が発生し、Claude Opus 4.7・4.8のエラー率が上昇（約12時間継続）。Notionは全AnthropicモデルをモデルPicker から除外→リクエストをOpenAI・Googleへ自動転送することで「ユーザーがほぼ気づかずに問題を吸収」。重要な用語整理：「性能低下（degraded performance）」=インフラ的な障害（エラー増加・レイテンシ増大）であり、モデルの知的能力の低下ではない。業界への示唆：AIが業務インフラ化するに伴い、単一ベンダー依存はAWS障害と同格のリスクとして管理が必要。多プロバイダー設計がコスト最適化に加え可用性確保の観点でも必須要件に。
 > 詳細: references/reference_notion_claude_outage_multiprovider_hashout.md を参照
 
+### Claude Code で「モデルが存在しないかアクセス権がない」エラー——Fable 5停止時の対処法（Zenn・yamadatt）（自動収集 2026-06-13）
+`claude-fable-5` を指定すると「モデルが存在しないか、アクセス権がない」エラーが発生する原因は米国政府の輸出管理指令によるアクセス停止。対処：①Claude Code の使用モデルを `claude-opus-4-8` 等に切り替え②ハーネス設計ではモデルIDをハードコードせずフォールバック設定を事前準備③Anthropic Status Page を定期確認。環境変数: `export ANTHROPIC_MODEL=claude-opus-4-8` または CLAUDE.md の `model:` フィールドで設定。
+> 詳細: references/reference_claude_fable5_access_suspended_yamadatt.md を参照
+
+### Fable 5が使えない2パターンと法人向け実践的対応策（ChatSense Blog）（自動収集 2026-06-13）
+「使えない」には2つのパターンが存在：①完全停止（政府指令による全面アクセス無効化）②自動切り替え（3層安全分類器発動でOpus 4.8へフォールバック）。規制回避の方法は存在しない。法人向け対応：代替モデル選定（Opus 4.8推奨）・社内データ管理見直し・権限管理ポリシー更新・利用ログ確認。最重要教訓：**特定の1モデルに業務を依存させない**——AI利用基盤の設計にフォールバック機構を組み込む。agents.md で `primary/fallback` モデルを明示しておくことが推奨。
+> 詳細: references/reference_claude_fable5_suspension_chatsense.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
