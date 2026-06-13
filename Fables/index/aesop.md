@@ -360,4 +360,9 @@
 | [aesop-356](../fables/aesop/aesop-356-the-emblem-of-opportunity.md) | 機会の象徴 | 好機は訪れた瞬間にしか掴めない。一度過ぎ去った機会は二度と取り戻せないため、好機は即座に捉えるべきである |
 | [aesop-357](../fables/aesop/aesop-357-the-bull-and-the-calf.md) | 牛と子牛 | 自分より知恵と経験のある者に対して、生意気に教訓を垂れようとする者は恥をかく。年長者の経験を敬い謙虚であるべきである |
 | [aesop-358](../fables/aesop/aesop-358-the-old-dog-and-the-huntsman.md) | 老犬と狩人 | 年老いて力が衰えた者を現在の能力だけで評価してはならない。過去に忠実に仕えた者の功績を忘れずに敬うべきである |
+| [aesop-359](../fables/aesop/aesop-359-the-heron.md) | アオサギ | 選り好みが過ぎると結果として何も得られない。今手に入るものを軽んじず、機会を逃さず活かすことが賢明である |
+| [aesop-360](../fables/aesop/aesop-360-the-wild-ass-and-the-tame-ass.md) | 野ロバと飼いロバ | 他者の恵まれた境遇を羨む前に、その代償をよく見極めよ。自由の価値は、物質的な豊かさや安楽よりもはるかに大きい |
+| [aesop-361](../fables/aesop/aesop-361-the-wolf-and-the-crying-child.md) | 泣く子と狼 | 激情や脅しの中で発せられた言葉は、必ずしも行動に移されるとは限らない。口先だけの言葉を真に受けてはならない |
+| [aesop-362](../fables/aesop/aesop-362-the-frog-physician.md) | カエルの医者 | 自分の欠点を省みずに他人を指導しようとする者は信用されない。他人に助言する前に、まず自らを正すべきである |
+| [aesop-363](../fables/aesop/aesop-363-the-fox-and-the-gnats.md) | キツネと蚊の群れ | 時には既知の悪に耐える方が、新たな未知の悪に直面するよりも賢明である。腹を満たした欲望は、飢えた欲望よりも害が少ない |
 <!-- 寓話追加時にここへ行を追加 -->
