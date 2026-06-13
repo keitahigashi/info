@@ -1,4 +1,4 @@
-# 日本の格言・名言 — 出典一覧（50件）
+# 日本の格言・名言 — 出典一覧（60件）
 
 [< 出典一覧に戻る](../REFERENCES.md)
 
@@ -54,3 +54,13 @@
 | japanese-048 | 敷島の大和心を人問はば朝日に匂ふ山桜花 | 本居宣長 | norinagakinenkan.com（本居宣長記念館 公式）, ja.wikipedia.org「本居宣長」 | 2026-06-05 |
 | japanese-049 | 芸術は爆発だ | 岡本太郎 | taromuseum.jp（岡本太郎記念館 公式名言資料）, ja.wikipedia.org「岡本太郎」, kotobank.jp | 2026-06-05 |
 | japanese-050 | 一身独立して一国独立す | 福沢諭吉 | ja.wikisource.org「学問のすゝめ」, aozora.gr.jp「学問のすすめ」, ja.wikipedia.org「学問のすゝめ」 | 2026-06-05 |
+| japanese-051 | 一隅を照らす、これこそが国の宝である | 最澄 | ja.wikipedia.org「山家学生式」, ichigu.net（天台宗「一隅を照らす運動」公式）, viveka.site（原文） | 2026-06-13 |
+| japanese-052 | 生きとし生けるものは、もともと仏である | 白隠慧鶴 | ja.wikipedia.org「坐禅和讃」, daizouin.com（大蔵院／現代語訳） | 2026-06-13 |
+| japanese-053 | 願わくは、桜の花の下で春に死にたい | 西行 | ja.wikipedia.org「山家集」「西行」, asahi-net.or.jp「西行 千人万首」 | 2026-06-13 |
+| japanese-054 | 武士道とは、死ぬことと見つけた | 山本常朝（口述）／田代陣基（筆録） | ja.wikipedia.org「葉隠」, kotobank.jp「葉隠」 | 2026-06-13 |
+| japanese-055 | 思い残す言葉もなく、いよいよ旅立つ | 黒田如水 | museum.city.fukuoka.jp（福岡市博物館 公式・辞世和歌短冊）, note.com/akashihaku | 2026-06-13 |
+| japanese-056 | 馬上少年過ぐ（馬上で駆けた若き日は過ぎ去り…） | 伊達政宗 | ja.wikipedia.org「伊達政宗」, masamune-date.com（漢詩「酔余口号」） | 2026-06-13 |
+| japanese-057 | 僕の前に道はない、僕の後ろに道は出来る | 高村光太郎 | aozora.gr.jp「道程」, ja.wikisource.org「道程」, ja.wikipedia.org「道程 (詩集)」 | 2026-06-13 |
+| japanese-058 | 東洋の道徳と西洋の技術とを、精粗もらさず表裏ともに兼ね備える | 佐久間象山 | kotobank.jp「東洋道徳西洋芸術」「佐久間象山」, ja.wikipedia.org「佐久間象山」, sybrma.sakura.ne.jp（『省諐録』白文） | 2026-06-13 |
+| japanese-059 | 本当の商人は、相手も立ち、自分も立つことを思うものだ | 石田梅岩 | ja.wikipedia.org「石田梅岩」「都鄙問答」, note.com/singaku_1785（心学明誠舎）, shuchi.php.co.jp（PHP研究所『歴史街道』） | 2026-06-13 |
+| japanese-060 | 雨にも負けず、風にも負けず | 宮沢賢治 | aozora.gr.jp「〔雨ニモマケズ〕」（底本『【新】校本宮澤賢治全集』第13巻）, ja.wikipedia.org「雨ニモマケズ」, crd.ndl.go.jp | 2026-06-13 |

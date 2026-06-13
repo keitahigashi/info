@@ -1,4 +1,4 @@
-# 日本の格言・名言（50件）
+# 日本の格言・名言（60件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -54,3 +54,13 @@
 | [japanese-048](../maxims/japanese/japanese-048-the-spirit-of-yamato.md) | 敷島の大和心を人問はば朝日に匂ふ山桜花 | 本居宣長 | 「六十一歳自画自賛像」賛（寛政2年／1790年） |
 | [japanese-049](../maxims/japanese/japanese-049-art-is-an-explosion.md) | 芸術は爆発だ | 岡本太郎 | 『自分の中に毒を持て』（1993年）ほか |
 | [japanese-050](../maxims/japanese/japanese-050-one-person-independent-nation-independent.md) | 一身独立して一国独立す | 福沢諭吉 | 『学問のすゝめ』第三編（1873年） |
+| [japanese-051](../maxims/japanese/japanese-051-illuminate-one-corner.md) | 一隅を照らす、これこそが国の宝である | 最澄 | 『山家学生式』（弘仁9年／818年） |
+| [japanese-052](../maxims/japanese/japanese-052-all-beings-are-originally-buddha.md) | 生きとし生けるものは、もともと仏である | 白隠慧鶴 | 『白隠禅師坐禅和讃』（江戸時代中期） |
+| [japanese-053](../maxims/japanese/japanese-053-die-in-spring-beneath-the-blossoms.md) | 願わくは、桜の花の下で春に死にたい。あの二月の満月の頃に | 西行 | 『山家集』（平安時代末期） |
+| [japanese-054](../maxims/japanese/japanese-054-bushido-is-found-in-death.md) | 武士道とは、死ぬことと見つけた | 山本常朝（口述）／田代陣基（筆録） | 『葉隠』聞書第一（享保元年／1716年頃） |
+| [japanese-055](../maxims/japanese/japanese-055-leaving-no-words-behind.md) | 思い残す言葉もなく、いよいよ旅立つ。その道に迷うことはない | 黒田如水 | 辞世和歌（慶長9年／1604年） |
+| [japanese-056](../maxims/japanese/japanese-056-on-horseback-youth-has-passed.md) | 馬上で駆けた若き日は過ぎ去り、世は平らかになって白髪が増えた | 伊達政宗 | 漢詩「酔余口号」（晩年） |
+| [japanese-057](../maxims/japanese/japanese-057-no-path-before-me.md) | 僕の前に道はない、僕の後ろに道は出来る | 高村光太郎 | 詩「道程」（1914年） |
+| [japanese-058](../maxims/japanese/japanese-058-eastern-ethics-western-science.md) | 東洋の道徳と西洋の技術とを、精粗もらさず表裏ともに兼ね備える | 佐久間象山 | 『省諐録』（1871年刊） |
+| [japanese-059](../maxims/japanese/japanese-059-true-merchant-both-prosper.md) | 本当の商人は、相手も立ち、自分も立つことを思うものだ | 石田梅岩 | 『都鄙問答』（元文4年／1739年刊） |
+| [japanese-060](../maxims/japanese/japanese-060-undefeated-by-the-rain.md) | 雨にも負けず、風にも負けず……そういう者に、私はなりたい | 宮沢賢治 | 〔雨ニモマケズ〕手帳（1931年） |
