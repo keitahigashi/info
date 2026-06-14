@@ -444,3 +444,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_fable5_whats_new_daishiro_zenn.md | 2026-06-12 |
 | reference_claude_agent_sdk_billing_june2026.md | 2026-06-12 |
 | reference_claude_traffic_share_ppc_june2026.md | 2026-06-12 |
+| reference_claude_fable5_suspension_timeline_note.md | 2026-06-13 |
+| reference_claude_fable5_access_suspended_yamadatt.md | 2026-06-13 |
+| reference_claude_fable5_hands_on_yo_arai.md | 2026-06-13 |
+| reference_claude_fable5_suspension_chatsense.md | 2026-06-13 |
+| reference_excel_mcp_aurant_technologies.md | 2026-06-13 |
