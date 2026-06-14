@@ -606,3 +606,8 @@
 | reference_gamic-dramaturgy-new-dramaturgy.md | 2026-06-13 |
 | reference_hop-til-you-drop-rapid-iteration.md | 2026-06-13 |
 | reference_storytelling-with-interface-narrative-ui.md | 2026-06-13 |
+| reference_three-rules-to-balance-by.md | 2026-06-14 |
+| reference_design-101-balancing-games.md | 2026-06-14 |
+| reference_high-low-level-game-design.md | 2026-06-14 |
+| reference_mediocre-depth-management-games.md | 2026-06-14 |
+| reference_participation-par-accessibility-rethink.md | 2026-06-14 |
