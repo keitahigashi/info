@@ -111,4 +111,9 @@
 | japanese-103 | 俵藤太の百足退治 | ja.wikipedia.org/wiki/藤原秀郷, www.rekihaku.otsu.shiga.jp/db/jiten/data/169.html, kotobank.jp | 2026-06-06 |
 | japanese-104 | 見るなの座敷 | ja.wikipedia.org/wiki/見るなの座敷, kotobank.jp/word/見るなの座敷-139936 | 2026-06-06 |
 | japanese-105 | 三輪山伝説 | ja.wikipedia.org/wiki/三輪山, oomiwa.or.jp/jinja/kamigatari/ | 2026-06-06 |
+| japanese-106 | ヤマタノオロチ（八岐大蛇） | ja.wikipedia.org/wiki/ヤマタノオロチ, kotobank.jp/word/八岐大蛇-144161 | 2026-06-14 |
+| japanese-107 | 酒呑童子 | ja.wikipedia.org/wiki/酒呑童子, kotobank.jp/word/酒呑童子-55895 | 2026-06-14 |
+| japanese-108 | でんでんむしのかなしみ | ja.wikipedia.org/wiki/デンデンムシノカナシミ, aozora.gr.jp/cards/000121/files/628_14860.html | 2026-06-14 |
+| japanese-109 | 赤い蝋燭と人魚 | ja.wikipedia.org/wiki/赤い蝋燭と人魚, aozora.gr.jp/cards/001475/files/54372_46225.html | 2026-06-14 |
+| japanese-110 | おじいさんのランプ | ja.wikipedia.org/wiki/おぢいさんのランプ, aozora.gr.jp/cards/000121/files/635_14853.html | 2026-06-14 |
 <!-- 出典追加時にここへ行を追加 -->
