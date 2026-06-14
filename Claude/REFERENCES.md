@@ -449,3 +449,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_fable5_hands_on_yo_arai.md | 2026-06-13 |
 | reference_claude_fable5_suspension_chatsense.md | 2026-06-13 |
 | reference_excel_mcp_aurant_technologies.md | 2026-06-13 |
+| reference_claude_fable5_guide_shiftb.md | 2026-06-14 |
+| reference_claude_fable5_serverworks_june2026.md | 2026-06-14 |
+| reference_claude_subscription_revamp_uravation_june15.md | 2026-06-14 |
+| reference_claude_fable5_aisouken_june2026.md | 2026-06-14 |
+| reference_claude_agent_sdk_credit_technoisy_june2026.md | 2026-06-14 |
