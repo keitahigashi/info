@@ -1,4 +1,4 @@
-# 日本昔話（105話）
+# 日本昔話（110話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -109,4 +109,9 @@
 | [japanese-103](../fables/japanese/japanese-103-tawara-toda-mukade-taiji.md) | 俵藤太の百足退治 | 恐れを知らぬ勇気と他者の苦しみを救う義侠心には、天の加護と豊かな報いがもたらされる。 |
 | [japanese-104](../fables/japanese/japanese-104-miruna-no-zashiki.md) | 見るなの座敷 | 相手の禁を破る好奇心は取り返しのつかない喪失をもたらし、信頼と約束を守ることの大切さを教える。 |
 | [japanese-105](../fables/japanese/japanese-105-miwa-mountain-legend.md) | 三輪山伝説 | 神の正体に気づくことの畏れと、神と人の縁から生まれる血筋が社会の基盤となることを伝える起源神話である。 |
+| [japanese-106](../fables/japanese/japanese-106-yamata-no-orochi.md) | ヤマタノオロチ（八岐大蛇） | 知恵と勇気を合わせ持つ者は、どれほど強大な悪をも退けることができる。また、他者の苦しみに心を動かされ行動する義侠心こそが英雄の本質である。 |
+| [japanese-107](../fables/japanese/japanese-107-shuten-doji.md) | 酒呑童子 | 真の勇気とは単なる腕力ではなく、知恵と仲間との連携によって発揮されるものである。また、どれほど強大な悪も油断と欲望という弱点を持ち、正義の知略の前には滅びる。 |
+| [japanese-108](../fables/japanese/japanese-108-denden-mushi-no-kanashimi.md) | でんでんむしのかなしみ | 悲しみは誰もが背負うものであり、自分だけが苦しいのではないと気づいたとき、人は嘆きをやめて自らの悲しみを静かに引き受けることができる。 |
+| [japanese-109](../fables/japanese/japanese-109-akai-rosoku-to-ningyo.md) | 赤い蝋燭と人魚 | 弱い者の信頼を裏切り、命あるものを商品として扱う行為は取り返しのつかない結果を招く。信頼と慈悲の絆を金銭のために売り渡すことへの深い戒めを示す。 |
+| [japanese-110](../fables/japanese/japanese-110-ojisan-no-lamp.md) | おじいさんのランプ | 時代が変わって自分の仕事が役に立たなくなったなら、潔く手放して新しい道を歩め。古いものへの執着は時代の進歩を妨げ、自らをも滅ぼす。 |
 <!-- 寓話追加時にここへ行を追加 -->
