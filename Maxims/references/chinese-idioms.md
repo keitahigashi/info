@@ -54,3 +54,13 @@
 | chinese-idioms-048 | 杜撰 | 王楙 | kanbun.info, ja.wiktionary.org | 2026-06-06 |
 | chinese-idioms-049 | 玉石混淆 | 葛洪 | kanbun.info, ctext.org | 2026-06-06 |
 | chinese-idioms-050 | 呉牛喘月 | 劉義慶 | kotobank.jp, idiom-encyclopedia.com | 2026-06-06 |
+| chinese-idioms-051 | 国士無双 | 司馬遷 | kanbun.info, ja.wiktionary.org | 2026-06-14 |
+| chinese-idioms-052 | 鹿を指して馬と為す | 司馬遷 | kotobank.jp, idiom-encyclopedia.com | 2026-06-14 |
+| chinese-idioms-053 | 四知 | 范曄 | kanbun.info, kotobank.jp | 2026-06-14 |
+| chinese-idioms-054 | 大器晩成 | 老子（李耳） | kanbun.info, kotobank.jp | 2026-06-14 |
+| chinese-idioms-055 | 圧巻 | 作者不詳 | gogen-yurai.jp, idiom-encyclopedia.com | 2026-06-14 |
+| chinese-idioms-056 | 焚書坑儒 | 司馬遷 | ja.wikipedia.org, kotobank.jp | 2026-06-14 |
+| chinese-idioms-057 | 先んずれば人を制す | 司馬遷 | kanbun.info, kotobank.jp | 2026-06-14 |
+| chinese-idioms-058 | 良薬は口に苦し | 孔子（伝）／王粛（編） | kotobank.jp, ja.wiktionary.org | 2026-06-14 |
+| chinese-idioms-059 | 捲土重来 | 杜牧 | kanshi.roudokus.com, katch.ne.jp | 2026-06-14 |
+| chinese-idioms-060 | 燕雀安んぞ鴻鵠の志を知らんや | 司馬遷 | kanbun.info, kotobank.jp | 2026-06-14 |
