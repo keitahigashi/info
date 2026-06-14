@@ -1,4 +1,4 @@
-# 中国故事成語（50件）
+# 中国故事成語（60件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -54,3 +54,13 @@
 | [chinese-idioms-048](../maxims/chinese-idioms/chinese-idioms-048-zusan.md) | 杜撰 | 王楙 | 『野客叢書』 |
 | [chinese-idioms-049](../maxims/chinese-idioms/chinese-idioms-049-gyoseki-konko.md) | 玉石混淆 | 葛洪 | 『抱朴子』外篇・尚博 |
 | [chinese-idioms-050](../maxims/chinese-idioms/chinese-idioms-050-gogyu-zengetsu.md) | 呉牛喘月 | 劉義慶 | 『世説新語』言語篇 |
+| [chinese-idioms-051](../maxims/chinese-idioms/chinese-idioms-051-kokushi-muso.md) | 国士無双 | 司馬遷 | 『史記』淮陰侯列伝 |
+| [chinese-idioms-052](../maxims/chinese-idioms/chinese-idioms-052-shika-wo-sashite-uma-to-nasu.md) | 鹿を指して馬と為す | 司馬遷 | 『史記』秦始皇本紀 |
+| [chinese-idioms-053](../maxims/chinese-idioms/chinese-idioms-053-shichi.md) | 四知 | 范曄 | 『後漢書』楊震伝 |
+| [chinese-idioms-054](../maxims/chinese-idioms/chinese-idioms-054-taiki-bansei.md) | 大器晩成 | 老子（李耳） | 『老子』第四十一章 |
+| [chinese-idioms-055](../maxims/chinese-idioms/chinese-idioms-055-akkan.md) | 圧巻 | 作者不詳 | 科挙の慣行に由来 |
+| [chinese-idioms-056](../maxims/chinese-idioms/chinese-idioms-056-funsho-koju.md) | 焚書坑儒 | 司馬遷 | 『史記』秦始皇本紀 |
+| [chinese-idioms-057](../maxims/chinese-idioms/chinese-idioms-057-sakinzureba-hito-wo-seisu.md) | 先んずれば人を制す | 司馬遷 | 『史記』項羽本紀 |
+| [chinese-idioms-058](../maxims/chinese-idioms/chinese-idioms-058-ryoyaku-wa-kuchi-ni-nigashi.md) | 良薬は口に苦し | 孔子（伝）／王粛（編） | 『孔子家語』六本 |
+| [chinese-idioms-059](../maxims/chinese-idioms/chinese-idioms-059-kendo-chorai.md) | 捲土重来 | 杜牧 | 杜牧「題烏江亭」 |
+| [chinese-idioms-060](../maxims/chinese-idioms/chinese-idioms-060-enjaku-izukunzo-koukoku-no-kokorozashi.md) | 燕雀安んぞ鴻鵠の志を知らんや | 司馬遷 | 『史記』陳渉世家 |
