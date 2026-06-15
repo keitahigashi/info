@@ -606,3 +606,8 @@
 | reference_gamic-dramaturgy-new-dramaturgy.md | 2026-06-13 |
 | reference_hop-til-you-drop-rapid-iteration.md | 2026-06-13 |
 | reference_storytelling-with-interface-narrative-ui.md | 2026-06-13 |
+| reference_console-first-multiplatform-ui.md | 2026-06-15 |
+| reference_three-qualities-level-design.md | 2026-06-15 |
+| reference_level-design-understanding-level.md | 2026-06-15 |
+| reference_level-design-in-a-day-qa.md | 2026-06-15 |
+| reference_game-animation-bootcamp-qa.md | 2026-06-15 |
