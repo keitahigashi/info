@@ -449,3 +449,7 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_fable5_hands_on_yo_arai.md | 2026-06-13 |
 | reference_claude_fable5_suspension_chatsense.md | 2026-06-13 |
 | reference_excel_mcp_aurant_technologies.md | 2026-06-13 |
+| reference_claude_pricing_reform_classmethod_june2026.md | 2026-06-15 |
+| reference_claude_fable5_export_control_cloudnative.md | 2026-06-15 |
+| reference_claude_fable5_suspension_qiita_genelab.md | 2026-06-15 |
+| reference_claude_fable5_suspension_guide_fyve.md | 2026-06-15 |
