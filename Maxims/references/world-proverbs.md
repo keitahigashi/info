@@ -53,3 +53,13 @@
 | world-proverbs-047 | 狼を養うのは、その脚である。 | 作者不詳（ウクライナ語） | svitslova.com, slovnyk.me | 2026-06-07 |
 | world-proverbs-048 | 石また石を積めば、やがて壁となる。 | 作者不詳（アルバニア語） | en.wiktionary.org, en.wikiquote.org | 2026-06-07 |
 | world-proverbs-049 | 猿の手に椰子の実。 | 作者不詳（ネパール語） | hamrobarnamala.com, sarangi4peace.blogspot.com | 2026-06-07 |
+| world-proverbs-050 | 知識がないことは、光がないことである。 | 作者不詳（ソマリ語） | folklore.usc.edu, the-ofla-cardinal.org | 2026-06-15 |
+| world-proverbs-051 | 石をどんなに遠くへ投げても、いずれは地に落ちる。 | 作者不詳（ハウサ語） | muslimsinafrica.wordpress.com, teachyourselfhausa.com | 2026-06-15 |
+| world-proverbs-052 | 農夫は必ず策を講じる。 | 作者不詳（アフリカーンス語） | mzansitaal.co.za, talkpal.ai | 2026-06-15 |
+| world-proverbs-053 | 天の下に生きる人々はみな、一枚の大きなござのように織り合わされている。 | 作者不詳（マダガスカル語） | ohabolana.org, madacamp.com, glli-us.org | 2026-06-15 |
+| world-proverbs-054 | 心の美しさは、顔に表れる。 | 作者不詳（タミル語） | en.wikiquote.org, tamilandvedas.com | 2026-06-15 |
+| world-proverbs-055 | 踊れない者は、庭が歪んでいるせいにする。 | 作者不詳（ウルドゥー語） | rekhtadictionary.com, ur.wiktionary.org | 2026-06-15 |
+| world-proverbs-056 | 子のいる家は市場のように賑やかで、子のいない家は墓のように寂しい。 | 作者不詳（カザフ語） | omniglot.com, astanatimes.com | 2026-06-15 |
+| world-proverbs-057 | 人に与えたものこそ自分のものであり、与えずに惜しんだものは失われる。 | ショタ・ルスタヴェリ（伝・ジョージア語） | en.wiktionary.org, en.wikipedia.org（The Knight in the Panther's Skin） | 2026-06-15 |
+| world-proverbs-058 | 年老いた狐は古い毛は抜け変えても、長年の習性だけは変えられない。 | 作者不詳（バスク語） | en.wikiquote.org, buber.net | 2026-06-15 |
+| world-proverbs-059 | 石は朽ちても、言葉は朽ちない。 | 作者不詳（サモア語） | en.wikipedia.org, lingalot.com | 2026-06-15 |
