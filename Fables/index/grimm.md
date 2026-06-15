@@ -114,4 +114,9 @@
 | [grimm-108](../fables/grimm/grimm-108-the-white-and-black-bride.md) | 白い花嫁と黒い花嫁 | 親切と思いやりは神の祝福を呼び込み、悪意ある嫉妬と偽りは最終的に自滅する |
 | [grimm-109](../fables/grimm/grimm-109-the-nixie-in-the-pond.md) | 池の水の精 | 真の愛は長い別離と苦難にも揺るがず、諦めない献身と忍耐がどんな呪いをも最後には解く |
 | [grimm-110](../fables/grimm/grimm-110-the-devil-and-his-grandmother.md) | 悪魔と祖母 | 強大な力との不当な契約も、機転と情報収集を使えば必ず抜け出せる道が見つかる |
+| [grimm-111](../fables/grimm/grimm-111-the-strange-musician.md) | 奇妙な楽師 | 甘い口上で相手を罠にはめる狡猾さより、誠実な友情と真の技術こそが最大の守りになる |
+| [grimm-112](../fables/grimm/grimm-112-the-pink.md) | なでしこ | 不正と欺きはどれほど巧妙でも必ず暴かれ、誠実と真実は最後に必ず勝利する |
+| [grimm-113](../fables/grimm/grimm-113-the-three-brothers.md) | 三人兄弟 | 真の技を磨き尽くした者はどんな状況でも力を発揮でき、競い合いの先には兄弟の絆と協力が最も大切な財産となる |
+| [grimm-114](../fables/grimm/grimm-114-the-iron-stove.md) | 鉄のストーブ | 一度破った誓いの代償は大きいが、諦めずに試練を乗り越え続ける忍耐と献身が失われた愛を必ず取り戻す |
+| [grimm-115](../fables/grimm/grimm-115-the-house-in-the-forest.md) | 森の家 | すべての命に対して謙虚に思いやりを向け、自分より先に他者の世話をする者にこそ、真の幸せと祝福が訪れる |
 <!-- 寓話追加時にここへ行を追加 -->

@@ -1,4 +1,4 @@
-# グリム童話 — 出典一覧（110話）
+# グリム童話 — 出典一覧（115話）
 
 [< 出典一覧に戻る](../REFERENCES.md)
 
@@ -117,4 +117,9 @@
 | grimm-108 | 白い花嫁と黒い花嫁 | sites.pitt.edu/~dash/grimm135.html, grimmdowaclub.net/khm135/, en.wikipedia.org/wiki/The_White_Bride_and_the_Black_Bride, KHM135 | 2026-06-07 |
 | grimm-109 | 池の水の精 | sites.pitt.edu/~dash/grimm181.html, grimmdowaclub.net/khm181/, en.wikipedia.org/wiki/The_Nixie_of_the_Mill_Pond, KHM181 | 2026-06-07 |
 | grimm-110 | 悪魔と祖母 | sites.pitt.edu/~dash/grimm125.html, grimmdowaclub.net/khm125/, en.wikipedia.org/wiki/The_Devil_and_His_Grandmother, KHM125 | 2026-06-07 |
+| grimm-111 | 奇妙な楽師 | sites.pitt.edu/~dash/grimm008.html, grimmstories.com/ja/grimm_dowa/kimyona_gakushi, grimmdowaclub.net/khm008/, KHM8 | 2026-06-15 |
+| grimm-112 | なでしこ | grimmdowaclub.net/khm076/, sites.pitt.edu/~dash/grimm076.html, grimmstories.com/ja/grimm_dowa/nadeshiko, KHM76 | 2026-06-15 |
+| grimm-113 | 三人兄弟 | grimmdowaclub.net/khm124/, sites.pitt.edu/~dash/grimm124.html, grimmstories.com/ja/grimm_dowa/sannin_kyoudai, KHM124 | 2026-06-15 |
+| grimm-114 | 鉄のストーブ | grimmdowaclub.net/khm127/, sites.pitt.edu/~dash/grimm127.html, grimmstories.com/ja/grimm_dowa/kurogane_no_sutoubu, KHM127 | 2026-06-15 |
+| grimm-115 | 森の家 | grimmdowaclub.net/khm169/, sites.pitt.edu/~dash/grimm169.html, grimmstories.com/ja/grimm_dowa/mori_no_ie, KHM169 | 2026-06-15 |
 <!-- 出典追加時にここへ行を追加 -->
