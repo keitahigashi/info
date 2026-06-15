@@ -1,4 +1,4 @@
-# 世界のことわざ（49件）
+# 世界のことわざ（59件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -53,3 +53,13 @@
 | [world-proverbs-047](../maxims/world-proverbs/world-proverbs-047-vovka-nohy-hoduyut.md) | 狼を養うのは、その脚である。 | 作者不詳（ウクライナ語） | Вовка ноги годують |
 | [world-proverbs-048](../maxims/world-proverbs/world-proverbs-048-gur-gur-behet-mur.md) | 石また石を積めば、やがて壁となる。 | 作者不詳（アルバニア語） | Gur gur bëhet mur |
 | [world-proverbs-049](../maxims/world-proverbs/world-proverbs-049-bandarko-hatma-nariwal.md) | 猿の手に椰子の実。 | 作者不詳（ネパール語） | बाँदरको हातमा नरिवल |
+| [world-proverbs-050](../maxims/world-proverbs/world-proverbs-050-aqoon-laaani-waa-iftiin-laaan.md) | 知識がないことは、光がないことである。 | 作者不詳（ソマリ語） | Aqoon la'aani waa iftiin la'aan |
+| [world-proverbs-051](../maxims/world-proverbs/world-proverbs-051-komai-nisan-jifa-kasa-zai-fado.md) | 石をどんなに遠くへ投げても、いずれは地に落ちる。 | 作者不詳（ハウサ語） | Komai nisan jifa kasa zai fado |
+| [world-proverbs-052](../maxims/world-proverbs/world-proverbs-052-n-boer-maak-n-plan.md) | 農夫は必ず策を講じる。 | 作者不詳（アフリカーンス語） | 'n Boer maak 'n plan |
+| [world-proverbs-053](../maxims/world-proverbs/world-proverbs-053-tsihy-be-lambanana.md) | 天の下に生きる人々はみな、一枚の大きなござのように織り合わされている。 | 作者不詳（マダガスカル語） | Tsihy be lambanana ny ambanilanitra |
+| [world-proverbs-054](../maxims/world-proverbs/world-proverbs-054-agattin-azhagu-mugattil-teriyum.md) | 心の美しさは、顔に表れる。 | 作者不詳（タミル語） | அகத்தின் அழகு முகத்தில் தெரியும் |
+| [world-proverbs-055](../maxims/world-proverbs/world-proverbs-055-naach-na-jane-aangan-tedha.md) | 踊れない者は、庭が歪んでいるせいにする。 | 作者不詳（ウルドゥー語） | ناچ نہ جانے آنگن ٹیڑھا |
+| [world-proverbs-056](../maxims/world-proverbs/world-proverbs-056-balaly-uy-bazar-balasyz-uy-mazar.md) | 子のいる家は市場のように賑やかで、子のいない家は墓のように寂しい。 | 作者不詳（カザフ語） | Балалы үй базар, баласыз үй мазар |
+| [world-proverbs-057](../maxims/world-proverbs/world-proverbs-057-rasaca-gascem-shenia.md) | 人に与えたものこそ自分のものであり、与えずに惜しんだものは失われる。 | ショタ・ルスタヴェリ（伝） | რასაცა გასცემ შენია, რაც არა — დაკარგულია |
+| [world-proverbs-058](../maxims/world-proverbs/world-proverbs-058-azeri-zaharrak-aztura-zaharrik-ez.md) | 年老いた狐は古い毛は抜け変えても、長年の習性だけは変えられない。 | 作者不詳（バスク語） | Azeri zaharrak ile zaharra uzten du, aztura zaharrik ez |
+| [world-proverbs-059](../maxims/world-proverbs/world-proverbs-059-e-pala-le-maa-ae-le-pala-upu.md) | 石は朽ちても、言葉は朽ちない。 | 作者不詳（サモア語） | E pala le maʻa, a e le pala upu |
