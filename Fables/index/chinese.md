@@ -1,4 +1,4 @@
-# 中国故事（111話）
+# 中国故事（116話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -115,4 +115,9 @@
 | [chinese-109](../fables/chinese/chinese-109-one-character-worth-a-thousand-gold.md) | 一字千金 | 優れた言葉や文章は千金にも値する重みを持つ。入念な準備と多くの知恵を結集させた仕事は完璧に近い完成度を持ちうる |
 | [chinese-110](../fables/chinese/chinese-110-the-paper-of-luoyang-becomes-expensive.md) | 洛陽紙貴 | 真に優れた作品は当初は認められなくとも、正しく評価する者が現れることで世に広まる。優秀な仕事の価値は必ず正当に認められる |
 | [chinese-111](../fables/chinese/chinese-111-please-enter-the-urn-yourself.md) | 請君入甕 | 他人を陥れるために用いた方法は、やがて自分自身に返ってくる。他者を害する策略を弄することへの因果応報の戒め |
+| [chinese-112](../fables/chinese/chinese-112-playing-the-lute-for-a-cow.md) | 対牛弾琴 | いかに優れた言葉も理解できない相手には届かない。伝える相手を見極めることが肝要である |
+| [chinese-113](../fables/chinese/chinese-113-one-drumbeat-stirs-courage.md) | 一鼓作気 | 最初の気合いが最も充実しており、機を逃さず全力で事に当たることが成功の要諦である |
+| [chinese-114](../fables/chinese/chinese-114-jingwei-fills-the-sea.md) | 精衛填海 | 不可能に見える試みでも、揺るぎない意志を持って挑み続けることに意義がある |
+| [chinese-115](../fables/chinese/chinese-115-hanging-beam-piercing-thigh.md) | 懸梁刺股 | 眠気や怠惰という弱さに打ち克ち、肉体的苦痛をもって自らを律することで、どんな困難な目標も達成できる |
+| [chinese-116](../fables/chinese/chinese-116-bend-chimney-move-firewood.md) | 曲突徙薪 | 災いを未然に防いだ者の功績は見えにくいが、危険を事前に指摘する先見の知恵こそ最も価値がある |
 <!-- 寓話追加時にここへ行を追加 -->

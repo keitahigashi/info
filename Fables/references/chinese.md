@@ -119,4 +119,9 @@
 | chinese-109 | 一字千金 | 前漢・司馬遷『史記』呂不韋列伝, kanbun.info/koji/ichiji.html | 2026-06-08 |
 | chinese-110 | 洛陽紙貴 | 唐・房玄齢ら編『晋書』左思伝, kanbun.info/koji/rakushika.html | 2026-06-08 |
 | chinese-111 | 請君入甕 | 唐・張鷟『朝野僉載』, 北宋・司馬光『資治通鑑』巻204, epochtimes.com | 2026-06-08 |
+| chinese-112 | 対牛弾琴 | 後漢・牟融『牟子理惑論』, kotobank.jp, idiom-encyclopedia.com | 2026-06-16 |
+| chinese-113 | 一鼓作気 | 春秋左丘明『春秋左氏伝』荘公十年「曹刿論戦」, baike.baidu.com | 2026-06-16 |
+| chinese-114 | 精衛填海 | 古代・不明『山海経』北山経, kotobank.jp, idiom-encyclopedia.com, ja.wikipedia.org（女娃） | 2026-06-16 |
+| chinese-115 | 懸梁刺股 | 前漢・劉向『戦国策』秦策一（刺股）、後漢・班固『漢書』（懸梁）, epochtimes.com, baike.baidu.com | 2026-06-16 |
+| chinese-116 | 曲突徙薪 | 後漢・班固『漢書』霍光金日磾伝, kanbun.info, kotobank.jp, imidas.jp | 2026-06-16 |
 <!-- 出典追加時にここへ行を追加 -->
