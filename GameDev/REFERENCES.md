@@ -611,3 +611,8 @@
 | reference_level-design-understanding-level.md | 2026-06-15 |
 | reference_level-design-in-a-day-qa.md | 2026-06-15 |
 | reference_game-animation-bootcamp-qa.md | 2026-06-15 |
+| reference_paper-playtesting-npc-design.md | 2026-06-16 |
+| reference_6-steps-playtesting-indie.md | 2026-06-16 |
+| reference_teach-game-design-process-zimmerman.md | 2026-06-16 |
+| reference_strange-love-game-theory-vs-design.md | 2026-06-16 |
+| reference_level-design-illusion-of-choice.md | 2026-06-16 |
