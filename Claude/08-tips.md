@@ -427,4 +427,8 @@ GitHub Copilotが2026年6月1日からAI Credits課金（1 credit=$0.01）へ移
 AnthropicのHead of Product Cat Wu曰く、shippingサイクルは1週間（短いものは1日）。「Research Preview」で本番を実験場として活用。ロードマップの代わりにTeam PrinciplesとMetrics Readoutsで方向性を共有。AI時代のPdM 4仮説: ①EvalsがPRDを置き換える ②PdMはプロンプト設計者へ ③機能削除が価値創造 ④Shippingが唯一の真実。Claude Codeの急速なアップデートペースの背景にこの開発哲学がある。
 > 詳細: references/reference_anthropic_pdm_speed_qiita_xiao18.md を参照
 
+### 6月追加の5つの隠し機能：--safe-mode・/cd・fallbackModel・MAX_THINKING_TOKENS=0・ultracode（Qiita・emi_ndk）（自動収集 2026-06-16）
+①`--safe-mode`（v2.1.169）: CLAUDE.md・hooks・設定を全無視で起動、設定起因か判定する第一手②`/cd`（v2.1.169）: プロンプトキャッシュ保持のままモノレポ内ディレクトリ移動③`fallbackModel`（v2.1.166）: Opus過負荷時にSonnetへ自動切替、CI完走率向上④`MAX_THINKING_TOKENS=0`（v2.1.166）: thinking無効化で定型作業の速度・コスト削減⑤`ultracode`（v2.1.160）: 旧`workflow`キーワードの後継、大規模エージェント起動。旧`workflow`キーワードは廃止済みに注意。
+> 詳細: references/reference_claude_code_hidden5_june2026_emi_ndk.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
