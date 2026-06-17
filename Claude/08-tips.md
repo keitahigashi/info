@@ -427,4 +427,8 @@ GitHub Copilotが2026年6月1日からAI Credits課金（1 credit=$0.01）へ移
 AnthropicのHead of Product Cat Wu曰く、shippingサイクルは1週間（短いものは1日）。「Research Preview」で本番を実験場として活用。ロードマップの代わりにTeam PrinciplesとMetrics Readoutsで方向性を共有。AI時代のPdM 4仮説: ①EvalsがPRDを置き換える ②PdMはプロンプト設計者へ ③機能削除が価値創造 ④Shippingが唯一の真実。Claude Codeの急速なアップデートペースの背景にこの開発哲学がある。
 > 詳細: references/reference_anthropic_pdm_speed_qiita_xiao18.md を参照
 
+### Claude Maxのトークン上限を3軸で突破——Codex分散・genshijin圧縮・ネイティブ機能活用（GMO研究開発本部）（自動収集 2026-06-17）
+Claude Maxの「5時間ごとのトークン上限」に対する実践的最適化戦略。【軸1：他モデル分散】シンプルなタスクはCodexにオフロードし、ClaudeをDifficultタスクに集中投下。【軸2：言語圧縮】`genshijin`で日本語出力を約75%削減、`Serena`（LSP活用）でコードベース把握を効率化。【軸3：ネイティブ機能】effort=autoに変更（不要な深い推論を抑制）・`/opusplan`で計画フェーズのみOpus使用・`/compact`でセッション圧縮。優先順位：/compact（無料即効）→effort=auto設定→genshijin/Serena導入→Codex分散の順に適用推奨。
+> 詳細: references/reference_claude_code_token_optimization_gmo.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
