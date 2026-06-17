@@ -1,4 +1,4 @@
-# 著名人の言葉（61件）
+# 著名人の言葉（71件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -65,3 +65,13 @@
 | [notable-figures-059](../maxims/notable-figures/notable-figures-059-science-and-everyday-life.md) | 科学と日常生活は、切り離すことができないし、切り離すべきでもない | ロザリンド・フランクリン | 父宛の書簡（1940年） |
 | [notable-figures-060](../maxims/notable-figures/notable-figures-060-we-do-language.md) | 私たちは死ぬ。それが生の意味なのかもしれない。だが私たちは言葉を紡ぐ。それこそが私たちの生の尺度なのかもしれない | トニ・モリスン | ノーベル文学賞受賞講演（1993年） |
 | [notable-figures-061](../maxims/notable-figures/notable-figures-061-stupid-are-cocksure.md) | 今日の世界における問題の根本原因は、愚かな者ほど自信過剰で、賢い者ほど疑いに満ちていることにある | バートランド・ラッセル | 「愚かさの勝利」（1933年） |
+| [notable-figures-062](../maxims/notable-figures/notable-figures-062-at-seventy-three-i-understood-nature.md) | 七十三歳にしてようやく禽獣虫魚の骨格、草木の生まれ出る様子を悟ることができた | 葛飾北斎 | 『富嶽百景』初編 跋文（1834年） |
+| [notable-figures-063](../maxims/notable-figures/notable-figures-063-house-is-a-machine-for-living.md) | 住宅は住むための機械である | ル・コルビュジエ | 『建築をめざして』（1923年） |
+| [notable-figures-064](../maxims/notable-figures/notable-figures-064-things-i-had-no-words-for.md) | 色と形を使えば、ほかのどんな方法でも言えないこと、言葉を持たないことを言えると気づいた | ジョージア・オキーフ | 『Some Memories of Drawings』（1974年） |
+| [notable-figures-065](../maxims/notable-figures/notable-figures-065-true-artist-is-not-proud.md) | 真の芸術家は高慢ではない。芸術に限界がないことを、彼は悲しいほどに知っているのだ | ルートヴィヒ・ヴァン・ベートーヴェン | 少女エミーリエ宛書簡（1812年） |
+| [notable-figures-066](../maxims/notable-figures/notable-figures-066-hope-is-not-optimism.md) | 希望とは、何かがうまくいくという確信ではなく、結果がどうなろうとも、その何かには意味があるという確信のことだ | ヴァーツラフ・ハヴェル | 『Disturbing the Peace』（1986年） |
+| [notable-figures-067](../maxims/notable-figures/notable-figures-067-neutral-in-injustice-chosen-oppressor.md) | 不正の状況で中立を保つなら、あなたは抑圧する側を選んだことになる | デズモンド・ツツ | R.M.ブラウン『Unexpected News』（1984年） |
+| [notable-figures-068](../maxims/notable-figures/notable-figures-068-pressure-is-a-privilege.md) | プレッシャーは特権であり、チャンピオンは適応するものだ | ビリー・ジーン・キング | フェド杯での発言（2000年）／自著書名 |
+| [notable-figures-069](../maxims/notable-figures/notable-figures-069-ninety-nine-percent-failure.md) | 私のやった仕事で本当に成功したものは、全体のわずか一％にすぎない。九九％は失敗の連続であった | 本田宗一郎 | 『本田宗一郎 夢を力に―私の履歴書』 |
+| [notable-figures-070](../maxims/notable-figures/notable-figures-070-truth-triumphs-as-opponents-die.md) | 新しい科学的真理は、反対者を説得することによってではなく、反対者がやがて死に絶え、それに馴染んだ新しい世代が育つことによって勝利する | マックス・プランク | 『科学的自伝』（1948年） |
+| [notable-figures-071](../maxims/notable-figures/notable-figures-071-control-of-nature-conceived-in-arrogance.md) | 「自然の支配」という言葉は傲慢から生まれたものであり、自然は人間の便宜のために存在すると思われていた時代の言葉である | レイチェル・カーソン | 『沈黙の春』第17章（1962年） |
