@@ -616,3 +616,8 @@
 | reference_teach-game-design-process-zimmerman.md | 2026-06-16 |
 | reference_strange-love-game-theory-vs-design.md | 2026-06-16 |
 | reference_level-design-illusion-of-choice.md | 2026-06-16 |
+| reference_mechanics-depth-knows-best.md | 2026-06-17 |
+| reference_what-is-depth-game.md | 2026-06-17 |
+| reference_key-ingredients-compelling-characters.md | 2026-06-17 |
+| reference_structures-of-narrative.md | 2026-06-17 |
+| reference_minmax-mastery-game-design.md | 2026-06-17 |
