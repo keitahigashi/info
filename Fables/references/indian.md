@@ -135,4 +135,10 @@
 | indian-123 | 鳥とブルブル震える猿たち | culturalindia.net/indian-folktales/hitopadesha-tales/birds-and-shivering-monkeys.html | 2026-06-09 |
 | indian-124 | 飢えた雌虎と菩薩 | ancient-buddhist-texts.net/English-Texts/Garland-of-Birth-Stories/01-The-Story-of-the-Tigress.htm, india-a2z.com/hungry-tigress-and-bodhisattva.html | 2026-06-09 |
 
+| indian-125 | ルル鹿の恩義 | thejatakatales.com/ruru-jataka-482/, sacred-texts.com/bud/j4/j4027.htm | 2026-06-17 |
+| indian-126 | ヴェッサンタラ王子の大布施 | thejatakatales.com/vessantara-jataka-547/, sacred-texts.com/bud/j6/j6036.htm | 2026-06-17 |
+| indian-127 | ダーサラタ王子ラーマの帰還 | en.wikipedia.org/wiki/Dasaratha_Jataka, sacred-texts.com/bud/j4/j4007.htm | 2026-06-17 |
+| indian-128 | 四つの調和する仲間 | thejatakatales.com/tittira-jataka-37/, sacred-texts.com/bud/j1/j1041.htm | 2026-06-17 |
+| indian-129 | 知恵の壺 | india-a2z.com/pot-full-of-wit.html, moralstories.org/birbal-pot-of-wit/ | 2026-06-17 |
+
 <!-- 出典追加時にここへ行を追加 -->
