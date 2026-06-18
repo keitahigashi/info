@@ -453,3 +453,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_v21176_picnic.md | 2026-06-16 |
 | reference_claude_2026_pricing_reform_classmethod.md | 2026-06-16 |
 | reference_claude_code_v21178_classmethod.md | 2026-06-16 |
+| reference_anthropic_june2026_recap_cryptul.md | 2026-06-17 |
+| reference_claude_code_token_optimization_gmo.md | 2026-06-17 |
+| reference_claude_automation_billing_check_zenn.md | 2026-06-17 |
+| reference_claude_code_v2_1_178_classmethod.md | 2026-06-17 |
+| reference_agent_sdk_billing_reversal_xenospectrum.md | 2026-06-17 |

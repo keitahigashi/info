@@ -223,4 +223,8 @@ Uravationが100社以上の導入実績をもとにまとめた2026年6月版料
 インタラクティブ（ターミナル/IDE）はサブスクリプション枠、Agent SDK・`claude -p`・GitHub Actionsは月次クレジット制に完全分離。Max 5x=$100/月のクレジットで約444PR/月対応可能。実務戦略：日中=Claude設計+Codex実装+`/loop`、夜間=Remote Routine（おさいふ1優先）→Codexクラウド、CI=APIキー直指定推奨。クレジット繰り越し不可・Extra usage OFF時は本番停止リスクに注意。
 > 詳細: references/reference_claude_2026_pricing_reform_classmethod.md を参照
 
+### Agent SDK別枠課金（一時凍結）への備え——自動化処理棚卸し・クレジット設定・API移行判断フロー（Zenn・genda_jp）（自動収集 2026-06-17）
+6/15施行予定だったAgent SDK月次クレジット別枠化（6/16に一時凍結）に対する実務対応手順。分類：対話利用（Webブラウザ・Claude Codeインタラクティブ）はサブスク枠継続、自動化利用（Agent SDK・`claude -p`・CI/CDのGitHub Actions・cronスクリプト）が別枠対象。再施行時の対応ステップ：①`grep -r "claude" .github/workflows/`で自動化処理を棚卸し②管理画面で「Extra usage」設定と請求サイクル開始日を確認③本番環境はAPIキー認証への移行を検討。判断フロー：月次クレジット（Pro $20相当）で足りる→クレジット設定のみ確認、足りない→APIキーまたはBedrock経由を検討。現状（6/17）は変更凍結中だが、再施行に備えた事前準備を推奨。
+> 詳細: references/reference_claude_automation_billing_check_zenn.md を参照
+
 <!-- 日常で得た知見をここに追記 -->

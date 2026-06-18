@@ -1,4 +1,4 @@
-# インド寓話（124話）
+# インド寓話（129話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -128,4 +128,9 @@
 | [indian-122](../fables/indian/indian-122-the-tale-of-two-snakes.md) | 二匹の蛇の物語 | 敵同士が争うとき、そばで静かに聞き耳を立てる者が最大の利を得る |
 | [indian-123](../fables/indian/indian-123-birds-and-shivering-monkeys.md) | 鳥とブルブル震える猿たち | 求めてもいない忠告を愚か者に与えることは、自分の首を絞める行為である |
 | [indian-124](../fables/indian/indian-124-the-hungry-tigress-and-the-bodhisattva.md) | 飢えた雌虎と菩薩 | 真の慈悲とは自らの命さえ惜しまず、苦しむ命に施すことである |
+| [indian-125](../fables/indian/indian-125-ruru-the-golden-deer.md) | ルル鹿の恩義 | 裏切りは必ず露見するが、真の慈悲は憎しみではなく赦しをもって答える |
+| [indian-126](../fables/indian/indian-126-vessantara-the-great-giver.md) | ヴェッサンタラ王子の大布施 | 真の布施とは最も大切なものを手放す覚悟であり、無執着と慈悲の完成が悟りへの道を開く |
+| [indian-127](../fables/indian/indian-127-dasaratha-jataka-rama.md) | ダーサラタ王子ラーマの帰還 | 賢者は死や喪失に動揺せず、無常の理を悟ることで真の安らぎと徳ある統治を全うできる |
+| [indian-128](../fables/indian/indian-128-tittira-jataka-four-harmonious-animals.md) | 四つの調和する仲間 | 年長者を敬い知恵と経験に従って秩序を保つことが、共同体の調和と繁栄をもたらす |
+| [indian-129](../fables/indian/indian-129-birbal-the-pot-full-of-wit.md) | 知恵の壺 | いかなる難問も、焦らず深く考え創意工夫を凝らせば必ず解決策が見つかる |
 <!-- 寓話追加時にここへ行を追加 -->
