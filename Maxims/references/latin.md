@@ -54,3 +54,13 @@
 | latin-048 | Sapere aude. | ホラティウス | ホラティウス『書簡詩』1.2.40「sapere aude, incipe」、啓蒙的意味づけはカント由来 / en.wikipedia.org, perseus.tufts.edu | 2026-06-09 |
 | latin-049 | Virtus est medium vitiorum et utrimque reductum. | ホラティウス | ホラティウス『書簡詩』1.18.9、流布形「In medio stat virtus」は後世整形 / loebclassics.com, en.wikipedia.org | 2026-06-09 |
 | latin-050 | Rem tene, verba sequentur. | 大カトー（ユリウス・ウィクトルが伝える） | ユリウス・ウィクトル『弁論術』が大カトーの教えとして伝える（4世紀の伝承） / en.wikiquote.org, loebclassics.com | 2026-06-09 |
+| latin-051 | O tempora, o mores! | キケロ | キケロ『カティリーナ弾劾』第1演説 1.2「O tempora, o mores! Senatus haec intellegit...」（前63年） / en.wikipedia.org, en.wikiquote.org | 2026-06-18 |
+| latin-052 | Quis custodiet ipsos custodes? | ユウェナリス | ユウェナリス『風刺詩』6.347–348「sed quis custodiet ipsos custodes?」 / en.wikipedia.org, en.wiktionary.org | 2026-06-18 |
+| latin-053 | Labor omnia vincit. | ウェルギリウス | ウェルギリウス『農耕詩』1.145–146「labor omnia vicit improbus」、標語形 vincit は後世の改変（オクラホマ州標語） / en.wikipedia.org, en.wikiquote.org | 2026-06-18 |
+| latin-054 | Non scholae sed vitae discimus. | セネカ（小） | セネカ『倫理書簡集』106.12、原文は「Non vitae sed scholae discimus」（皮肉）で語順反転は後世の改変 / en.wikipedia.org, ResearchGate（Ep.106） | 2026-06-18 |
+| latin-055 | Dictum sapienti sat est. | プラウトゥス／テレンティウス | プラウトゥス『ペルサ』729（=4.7.19）、テレンティウス『ポルミオ』541 / en.wikiquote.org, Oxford Reference | 2026-06-18 |
+| latin-056 | Suum cuique. | 作者不詳（ローマ法／キケロ・ウルピアヌス源流） | キケロ『義務について』1.15 ほか、ユスティニアヌス『学説彙纂』1.1.10「ius suum cuique tribuendi」 / en.wikipedia.org, en.wiktionary.org | 2026-06-18 |
+| latin-057 | Manus manum lavat. | 作者不詳（ギリシアの諺、セネカ・ペトロニウス引用） | セネカ『アポコロキュントシス』9、ペトロニウス『サテュリコン』45、源流エピカルモス / en.wiktionary.org, en.wikipedia.org（Apocolocyntosis） | 2026-06-18 |
+| latin-058 | Veritas filia temporis. | 作者不詳（源流ゲッリウス） | ゲッリウス『アッティカの夜』12.11.7「Veritatem temporis filiam esse」（既存の諺の引用）、定型形はルネサンス期定着 / en.wikipedia.org, en.wikiquote.org | 2026-06-18 |
+| latin-059 | Repetitio est mater studiorum. | 作者不詳（中世ラテン語の諺） | 中世ラテン語の教育上の諺、古典古代の単一典拠なし / en.wiktionary.org, en.wikipedia.org（List of Latin phrases (R)） | 2026-06-18 |
+| latin-060 | Tempora mutantur, nos et mutamur in illis. | 作者不詳（16世紀ドイツ語圏で定着） | 古典出典なし、着想源オウィディウス『変身物語』15.165、最古例フーベリヌス/ナス/ボルボニウス（16世紀）。オウィディウス・ロタール1世帰属は俗説 / en.wikipedia.org, merriam-webster.com | 2026-06-18 |
