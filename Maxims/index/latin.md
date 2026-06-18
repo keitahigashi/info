@@ -1,4 +1,4 @@
-# ラテン語の格言（50件）
+# ラテン語の格言（60件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -54,3 +54,13 @@
 | [latin-048](../maxims/latin/latin-048-sapere-aude.md) | 敢えて賢くあれ（Sapere aude） | ホラティウス | 『書簡詩』1.2.40 |
 | [latin-049](../maxims/latin/latin-049-virtus-est-medium-vitiorum.md) | 徳は両悪徳の中間にある（Virtus est medium vitiorum） | ホラティウス | 『書簡詩』1.18.9 |
 | [latin-050](../maxims/latin/latin-050-rem-tene-verba-sequentur.md) | 内容を把握せよ、言葉は後から従う（Rem tene, verba sequentur） | 大カトー | ユリウス・ウィクトル『弁論術』が伝える |
+| [latin-051](../maxims/latin/latin-051-o-tempora-o-mores.md) | ああ、何たる時代、何たる風習よ！（O tempora, o mores!） | キケロ | 『カティリーナ弾劾』第1演説 1.2 |
+| [latin-052](../maxims/latin/latin-052-quis-custodiet-ipsos-custodes.md) | いったい誰が番人自身を見張るのか？（Quis custodiet ipsos custodes?） | ユウェナリス | 『風刺詩』6.347–348 |
+| [latin-053](../maxims/latin/latin-053-labor-omnia-vincit.md) | 労苦はすべてに打ち克つ（Labor omnia vincit） | ウェルギリウス | 『農耕詩』1.145–146 |
+| [latin-054](../maxims/latin/latin-054-non-scholae-sed-vitae-discimus.md) | 我々は学校のためでなく人生のために学ぶ（Non scholae sed vitae discimus） | セネカ（小） | 『倫理書簡集』106.12 |
+| [latin-055](../maxims/latin/latin-055-dictum-sapienti-sat-est.md) | 賢者には一言で十分である（Dictum sapienti sat est） | プラウトゥス／テレンティウス | 『ペルサ』729／『ポルミオ』541 |
+| [latin-056](../maxims/latin/latin-056-suum-cuique.md) | 各人に各人のものを（Suum cuique） | 作者不詳（ローマ法） | 『学説彙纂』1.1.10／キケロ源流 |
+| [latin-057](../maxims/latin/latin-057-manus-manum-lavat.md) | 手は手を洗う（Manus manum lavat） | 作者不詳 | セネカ『アポコロキュントシス』9 ほか |
+| [latin-058](../maxims/latin/latin-058-veritas-filia-temporis.md) | 真理は時の娘である（Veritas filia temporis） | 作者不詳 | ゲッリウス『アッティカの夜』12.11.7 |
+| [latin-059](../maxims/latin/latin-059-repetitio-est-mater-studiorum.md) | 反復は学習の母である（Repetitio est mater studiorum） | 作者不詳 | 中世ラテン語の諺 |
+| [latin-060](../maxims/latin/latin-060-tempora-mutantur.md) | 時は移り変わり、我々もその中で共に移り変わる（Tempora mutantur, nos et mutamur in illis） | 作者不詳 | 16世紀の擬古典的格言 |
