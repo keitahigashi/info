@@ -621,3 +621,8 @@
 | reference_key-ingredients-compelling-characters.md | 2026-06-17 |
 | reference_structures-of-narrative.md | 2026-06-17 |
 | reference_minmax-mastery-game-design.md | 2026-06-17 |
+| reference_indie-ai-bt-to-utility-ai.md | 2026-06-18 |
+| reference_diegetics-audio-composition-gdc2024.md | 2026-06-18 |
+| reference_10-seminal-postmortems.md | 2026-06-18 |
+| reference_data-driven-to-data-informed.md | 2026-06-18 |
+| reference_utility-ai-personality-archetypes.md | 2026-06-18 |
