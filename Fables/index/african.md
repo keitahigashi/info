@@ -1,4 +1,4 @@
-# アフリカ民話（115話）
+# アフリカ民話（120話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -119,4 +119,9 @@
 | [african-113](../fables/african/african-113-the-worlds-reward.md) | 世界の報い | 忠実に尽くした者が報われず捨てられることは世の常だが、同じ境遇の仲間が団結すれば逆境を乗り越え新たな安住の地を見つけることができる |
 | [african-114](../fables/african/african-114-the-woodcutter-and-his-donkey.md) | 木こりとロバ | 神の摂理への純粋な信頼は予期せぬ形で報われるが、欲深さは必ず自らを滅ぼす |
 | [african-115](../fables/african/african-115-farmer-mybrow-and-the-fairies.md) | 農夫マイブロウと精霊たち | 恩人との約束を誠実に守る者は繁栄を得るが、欲に目がくらんで約束を破る者は何も得られず報いを受ける |
+| [african-116](../fables/african/african-116-the-squirrel-and-the-spider.md) | リスとクモの農場 | 欺きで得た利益は必ず失われる。誠実な労働こそが真の報いをもたらす |
+| [african-117](../fables/african/african-117-why-dead-people-are-buried.md) | 死者が埋葬される理由 | 重要な使命を託された者が怠惰や不注意でそれを果たさなければ、取り返しのつかない結果を招く |
+| [african-118](../fables/african/african-118-the-monkey-the-shark-and-the-washermans-donkey.md) | サルとサメと洗濯人のロバ | 裏切りによって信頼は永遠に失われる。機知こそが力や権威に勝る |
+| [african-119](../fables/african/african-119-do-not-trust-your-friend.md) | 友を信ずるなかれ | 自己利益のために友人の信頼を裏切る者は、その友情を永遠に失う |
+| [african-120](../fables/african/african-120-crocodiles-treason.md) | ワニの裏切り | 信頼を裏切る者は、たとえ一時的な利益を得ても永遠に軽蔑され孤立する。賢者の警告には耳を傾けよ |
 <!-- 寓話追加時にここへ行を追加 -->
