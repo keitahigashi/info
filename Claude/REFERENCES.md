@@ -458,3 +458,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_automation_billing_check_zenn.md | 2026-06-17 |
 | reference_claude_code_v2_1_178_classmethod.md | 2026-06-17 |
 | reference_agent_sdk_billing_reversal_xenospectrum.md | 2026-06-17 |
+| reference_claude_code_artifacts_kawai.md | 2026-06-19 |
+| reference_claude_design_code_integration_gigazine.md | 2026-06-19 |
+| reference_claude_design_update_impress_0618.md | 2026-06-19 |
+| reference_claude_design_update_tothinks_june2026.md | 2026-06-19 |
+| reference_claude_fable5_enterprise_admina.md | 2026-06-19 |
