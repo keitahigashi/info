@@ -626,3 +626,8 @@
 | reference_10-seminal-postmortems.md | 2026-06-18 |
 | reference_data-driven-to-data-informed.md | 2026-06-18 |
 | reference_utility-ai-personality-archetypes.md | 2026-06-18 |
+| reference_ui-strategy-game-design-dos-donts.md | 2026-06-19 |
+| reference_interaction-design-patterns-games.md | 2026-06-19 |
+| reference_accessible-player-experiences-apx.md | 2026-06-19 |
+| reference_unified-design-universally-accessible-games.md | 2026-06-19 |
+| reference_design-elements-principles-games.md | 2026-06-19 |
