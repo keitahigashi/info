@@ -1,4 +1,4 @@
-# アンデルセン童話 — 出典一覧
+# アンデルセン童話（115話）— 出典一覧
 
 [< 出典一覧に戻る](../REFERENCES.md)
 
@@ -117,4 +117,9 @@
 | andersen-108 | 近隣の家族 | andersen.sdu.dk/vaerk/hersholt/TheNeighboringFamilies_e.html, アンデルセン(1847) | 2026-06-11 |
 | andersen-109 | 上機嫌 | andersen.sdu.dk/vaerk/hersholt/AGoodHumor_e.html, アンデルセン(1852) | 2026-06-11 |
 | andersen-110 | 大曾祖父 | andersen.sdu.dk/vaerk/hersholt/GreatGrandfather_e.html, アンデルセン(1870) | 2026-06-11 |
+| andersen-111 | 門の鍵 | andersen.sdu.dk/vaerk/hersholt/TheGateKey_e.html, アンデルセン(1872) | 2026-06-19 |
+| andersen-112 | 違いがある | andersen.sdu.dk/vaerk/hersholt/ThereIsADifference_e.html, アンデルセン(1851) | 2026-06-19 |
+| andersen-113 | どれが一番幸せだったか | andersen.sdu.dk/vaerk/hersholt/WhichWasTheHappiest_e.html, アンデルセン(1868) | 2026-06-19 |
+| andersen-114 | 年の物語 | andersen.sdu.dk/vaerk/hersholt/TheStoryOfTheYear_e.html, アンデルセン(1852) | 2026-06-19 |
+| andersen-115 | 二人の兄弟 | andersen.sdu.dk/vaerk/hersholt/TwoBrothers_e.html, アンデルセン(1859) | 2026-06-19 |
 <!-- 出典追加時にここへ行を追加 -->
