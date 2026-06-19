@@ -1,4 +1,4 @@
-# 文学の名言（51件）
+# 文学の名言（61件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -55,3 +55,13 @@
 | [literature-049](../maxims/literature/literature-049-tokai-no-kojima.md) | 東海の小島の磯の白砂に、われ泣きぬれて蟹とたはむる。 | 石川啄木 | 『一握の砂』巻頭歌 |
 | [literature-050](../maxims/literature/literature-050-you-dont-know-about-me.md) | あんたは僕のことを知らないだろうな、『トム・ソーヤーの冒険』って本を読んでなけりゃ。 | マーク・トウェイン | 『ハックルベリー・フィンの冒険』第1章 冒頭 |
 | [literature-051](../maxims/literature/literature-051-once-upon-a-midnight-dreary.md) | むかし、ある陰鬱な真夜中、私が弱り疲れて思いに沈んでいたとき。 | エドガー・アラン・ポー | 『大鴉』第1連 冒頭 |
+| [literature-052](../maxims/literature/literature-052-better-to-reign-in-hell.md) | 天国で仕えるより、地獄で君臨する方がよい。 | ジョン・ミルトン | 『失楽園』第1巻 第263行 |
+| [literature-053](../maxims/literature/literature-053-april-is-the-cruellest-month.md) | 四月は最も残酷な月、死んだ土からライラックを生み育て。 | T・S・エリオット | 『荒地』第I部「死者の埋葬」 |
+| [literature-054](../maxims/literature/literature-054-things-fall-apart-centre-cannot-hold.md) | すべては崩れ落ち、中心は持ちこたえられない。 | W・B・イェイツ | 『再臨』第3行 |
+| [literature-055](../maxims/literature/literature-055-hypocrite-reader-my-brother.md) | 偽善の読者よ、わが同類よ、わが兄弟よ！ | シャルル・ボードレール | 『悪の華』「読者に」最終行 |
+| [literature-056](../maxims/literature/literature-056-je-est-un-autre.md) | なぜなら〈私〉とは一個の他者だからだ。 | アルチュール・ランボー | 「見者の手紙」1871年5月15日付 |
+| [literature-057](../maxims/literature/literature-057-ueber-allen-gipfeln-ist-ruh.md) | すべての山々の頂に憩いがある。待つがいい、やがてお前も憩うだろう。 | ヨハン・ヴォルフガング・フォン・ゲーテ | 『さすらい人の夜の歌』 |
+| [literature-058](../maxims/literature/literature-058-where-they-burn-books.md) | それはほんの序幕にすぎない。本を焼く場所では、やがて人間も焼かれることになる。 | ハインリヒ・ハイネ | 戯曲『アルマンゾール』 |
+| [literature-059](../maxims/literature/literature-059-eugene-onegin-opening.md) | 私の伯父は実に律儀な人物——本気で病に倒れたとき、自らを敬わせることに成功した。 | アレクサンドル・プーシキン | 『エヴゲーニイ・オネーギン』第1章 第1連 |
+| [literature-060](../maxims/literature/literature-060-country-broken-mountains-rivers-remain.md) | 国は破れ果てても山河は変わらずあり、城下に春が訪れ草木が深く茂る。 | 杜甫 | 『春望』首聯 |
+| [literature-061](../maxims/literature/literature-061-but-wish-us-long-life-shared-moon.md) | ただ願う、人が末永く生き、千里を隔てても共にこの美しい月を眺めんことを。 | 蘇軾 | 『水調歌頭・明月幾時有』結句 |

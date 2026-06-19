@@ -55,3 +55,13 @@
 | literature-049 | 東海の小島の磯の白砂に、われ泣きぬれて蟹とたはむる。 | 石川啄木 | aozora.gr.jp, ja.wikipedia.org | 2026-06-10 |
 | literature-050 | あんたは僕のことを知らないだろうな、『トム・ソーヤーの冒険』って本を読んでなけりゃ。 | マーク・トウェイン | gutenberg.org, etc.usf.edu | 2026-06-10 |
 | literature-051 | むかし、ある陰鬱な真夜中、私が弱り疲れて思いに沈んでいたとき。 | エドガー・アラン・ポー | poetryfoundation.org, eapoe.org | 2026-06-10 |
+| literature-052 | 天国で仕えるより、地獄で君臨する方がよい。 | ジョン・ミルトン | poetryfoundation.org, poets.org | 2026-06-19 |
+| literature-053 | 四月は最も残酷な月、死んだ土からライラックを生み育て。 | T・S・エリオット | poetryfoundation.org, gutenberg.org | 2026-06-19 |
+| literature-054 | すべては崩れ落ち、中心は持ちこたえられない。 | W・B・イェイツ | poetryfoundation.org, en.wikisource.org | 2026-06-19 |
+| literature-055 | 偽善の読者よ、わが同類よ、わが兄弟よ！ | シャルル・ボードレール | fr.wikisource.org, en.wikipedia.org | 2026-06-19 |
+| literature-056 | なぜなら〈私〉とは一個の他者だからだ。 | アルチュール・ランボー | fr.wikisource.org, fr.wikipedia.org | 2026-06-19 |
+| literature-057 | すべての山々の頂に憩いがある。待つがいい、やがてお前も憩うだろう。 | ヨハン・ヴォルフガング・フォン・ゲーテ | de.wikipedia.org, schubertlied.de | 2026-06-19 |
+| literature-058 | それはほんの序幕にすぎない。本を焼く場所では、やがて人間も焼かれることになる。 | ハインリヒ・ハイネ | de.wikipedia.org, en.wikipedia.org | 2026-06-19 |
+| literature-059 | 私の伯父は実に律儀な人物——本気で病に倒れたとき、自らを敬わせることに成功した。 | アレクサンドル・プーシキン | ru.wikisource.org, en.wikipedia.org | 2026-06-19 |
+| literature-060 | 国は破れ果てても山河は変わらずあり、城下に春が訪れ草木が深く茂る。 | 杜甫 | zh.wikisource.org, gushiwen.cn | 2026-06-19 |
+| literature-061 | ただ願う、人が末永く生き、千里を隔てても共にこの美しい月を眺めんことを。 | 蘇軾 | zh.wikisource.org, gushiwen.cn | 2026-06-19 |
