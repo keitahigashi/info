@@ -1,4 +1,4 @@
-# アンデルセン童話（110話）
+# アンデルセン童話（115話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -114,4 +114,9 @@
 | [andersen-108](../fables/andersen/andersen-108-the-neighboring-families.md) | 近隣の家族 | 美しいものの真価は外見の飾りではなく本質にあり、それを理解できるかどうかは見る者の心次第である。 |
 | [andersen-109](../fables/andersen/andersen-109-a-good-humor.md) | 上機嫌 | 幸せは境遇ではなく心の持ち方によって決まり、上機嫌と許しの気持ちを保つことが豊かな人生につながる。 |
 | [andersen-110](../fables/andersen/andersen-110-great-grandfather.md) | 大曾祖父 | 過去を敬いながらも現代の進歩を素直に認めることで、異なる世代は互いに学び合える。 |
+| [andersen-111](../fables/andersen/andersen-111-the-gate-key.md) | 門の鍵 | 他者や迷信に答えを求めるのは自分の望みを投影しているに過ぎず、人生は自らの意思で切り開くべきだ。 |
+| [andersen-112](../fables/andersen/andersen-112-there-is-a-difference.md) | 違いがある | 生まれや外見による優劣の差別を戒め、神の目にはあらゆる命が等しく尊い。 |
+| [andersen-113](../fables/andersen/andersen-113-which-was-the-happiest.md) | どれが一番幸せだったか | 幸福は比較や測定できるものではなく、与えられた役割を誠実に全うし信じる心を持つことの中にある。 |
+| [andersen-114](../fables/andersen/andersen-114-the-story-of-the-year.md) | 年の物語 | 人生の苦難と喜びは必然的なサイクルであり、今の試練を辛抱強く受け入れることで必ず新しい季節が訪れる。 |
+| [andersen-115](../fables/andersen/andersen-115-two-brothers.md) | 二人の兄弟 | 真理を探求する道は科学的であれ哲学的であれ等しく尊く、自らの天性に忠実に生きることが個人と社会の発展をもたらす。 |
 <!-- 寓話追加時にここへ行を追加 -->
