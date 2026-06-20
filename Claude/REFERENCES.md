@@ -463,3 +463,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_design_update_impress_0618.md | 2026-06-19 |
 | reference_claude_design_update_tothinks_june2026.md | 2026-06-19 |
 | reference_claude_fable5_enterprise_admina.md | 2026-06-19 |
+| reference_claude_code_june2026_v153_v178_heartland.md | 2026-06-20 |
+| reference_claude_code_june2026_subagent5_cd_kai_kou.md | 2026-06-20 |
+| reference_claude_code_parallel_loop_agent_kumai_yu.md | 2026-06-20 |
+| reference_openai_codex_claude_code_migration_flathill.md | 2026-06-20 |
+| reference_claude_code_v21179_v21183_official_changelog.md | 2026-06-20 |
