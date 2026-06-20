@@ -631,3 +631,8 @@
 | reference_accessible-player-experiences-apx.md | 2026-06-19 |
 | reference_unified-design-universally-accessible-games.md | 2026-06-19 |
 | reference_design-elements-principles-games.md | 2026-06-19 |
+| reference_gdc-2001-architecture-level-design.md | 2026-06-20 |
+| reference_level-design-elements-art-principles.md | 2026-06-20 |
+| reference_pen-paper-blockout-stealth-encounters.md | 2026-06-20 |
+| reference_gdc-2018-level-design-workshop-qa.md | 2026-06-20 |
+| reference_balancing-multiplayer-games.md | 2026-06-20 |
