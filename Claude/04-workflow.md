@@ -493,4 +493,24 @@ Dynamic Workflowsの本質は「Claudeがタスク専用ハーネスをその場
 2026年6月15日より、エージェント利用がチャット利用と完全に分離され専用の月次クレジット制へ移行。影響対象：Claude Agent SDK・`claude -p`コマンド・GitHub Actions・OpenClawなどのサードパーティ自動化アプリ。クレジット額はプラン月額と同額（Pro $20・Max 5x $100・Max 20x $200）で毎月リセット・繰り越し不可。クレジット枯渇時は即停止（Extra Usage Credits無効時）。重いワークロードで最大150倍以上のコスト増も。対話的利用（Web チャット・Claude Codeの対話的使用）は影響なし。対応必須：①旧モデルID（`claude-sonnet-4`/`claude-opus-4`）をバージョン固定IDへ更新②月間API呼び出し量概算③クレジット超過時動作の確認。
 > 詳細: references/reference_claude_agent_sdk_billing_june2026.md を参照
 
+### Claude Code 6月版アップデートまとめ：v2.1.153〜v2.1.178の5大新機能（AI Heartland）（自動収集 2026-06-20）
+2026年6月17日公開。5大新機能：①`/cd`コマンド（v2.1.169）―セッション内でプロンプトキャッシュを維持したままディレクトリ移動、モノレポ横断開発で会話履歴を保持②入れ子サブエージェント（v2.1.172）―最大5段階の階層構造、「並列化」ではなく「文脈分離」が設計の狙い③`--safe-mode`フラグ（v2.1.169）―CLAUDE.md・プラグイン・スキル・MCPを全て無効化して起動、トラブル切り分けに有用④`fallbackModel`設定（v2.1.166）―最大3モデルをフェイルオーバー、過負荷時のみ自動切り替え⑤`Tool(param:value)`権限構文（v2.1.178）―`Allow: Bash(command:git*)`のようにパラメータ値レベルで許可・拒否を判定。個人開発から本番・組織運用への移行期にあわせた安全性・フォールバック・権限管理の底上げが特徴。
+> 詳細: references/reference_claude_code_june2026_v153_v178_heartland.md を参照
+
+### Claude Code 6月新機能実践：5段階サブエージェントと/cdコマンドで自律開発を実現（kai_kou）（自動収集 2026-06-20）
+2026年6月20日公開（Qiita/kai_kou）。v2.1.169〜v2.1.172の新機能を実践ガイドとして解説。`/cd`コマンドはモノレポ開発で特に効果的で、異なるパッケージ間を移動してもコンテキストとキャッシュが保持される。5段階ネストサブエージェントの実装例：オーケストレーター→収集→執筆→ファクトチェック→自動修正→再検証の多段構成。AWS Bedrock設定の自動読み込み（`.aws/credentials`参照）も追加済み。設計原則は「並列化」より「文脈分離」―サブエージェントごとにコンテキストを切り離すことで複雑な自律タスクを安定動作させる。
+> 詳細: references/reference_claude_code_june2026_subagent5_cd_kai_kou.md を参照
+
+### 「並列ループエージェント」実践：10人月→2週間を実現した設計原則（kumai_yu）（自動収集 2026-06-20）
+2026年6月16日公開（Qiita/kumai_yu）。受託開発を**約10人月→2週間**に短縮した並列ループエージェントの設計を公開。4核心教訓：①無限ループで止めない（停止条件と最大反復回数を必ず設定）②テスト駆動で完了を定義③並列化（独立タスクは並列実行）④出力最小化（コンテキストウィンドウ保護）。実装フローは「調査（並列）→仕様書作成→人間レビュー（停止①）→実装（TDD・並列）→統合ゲート→検証（並列）→構造化レビュー（停止②）」の2停止点設計。ループ間のコンテキスト管理：実行結果をファイルに書き出してコンテキストから削除、次ループにはサマリーのみ渡す。
+> 詳細: references/reference_claude_code_parallel_loop_agent_kumai_yu.md を参照
+
+### OpenAI Codex廃止→Claude Code移行の実録：Agent SDKクレジット解禁と同日の奇跡的タイミング（flathill）（自動収集 2026-06-20）
+2026年6月16日公開（Qiita/flathill）。Codex（gpt-5.3）が6月2日廃止されAIエージェント「Sci-Phi」が停止。原因3点：①OpenAI側のモデル廃止②OpenClawの4ヶ月更新漏れ③Claude Code CLIの認証トークン失効（2月24日）。解決手順：OpenClaw`2026.2.19-2`→`2026.6.6`アップデート＋モデルを`claude-cli/claude-sonnet-4-6`に変更＋認証再実行。偶然にも復旧当日（6月15日）にAgent SDKクレジット制度が解禁され、Claude Pro内に月$20クレジットが追加されたため追加コストなしで移行完了。教訓：停止原因を「外部API廃止/フレームワーク更新漏れ/認証失効」の3分割で素早く特定する。
+> 詳細: references/reference_openai_codex_claude_code_migration_flathill.md を参照
+
+### 公式 Changelog v2.1.179〜v2.1.183（2026年6月16〜19日）：自動モード安全性強化と/config構文追加（自動収集 2026-06-20）
+v2.1.183（6/19）：破壊的gitコマンド（`git reset --hard`・`git checkout -- .`・`git clean -fd`）とインフラ破壊コマンド（`terraform destroy`等）を明示的指示なしにブロック。エージェントが作成していないコミットへの`git commit --amend`もブロック。非推奨モデルIDを使用時にstderrへ警告出力。v2.1.181（6/17）：`/config key=value`構文でプロンプトからリアルタイムに設定変更可能（例：`/config model=claude-opus-4-8`）、`sandbox.allowAppleEvents`でmacOSのApple Events許可、Bun 1.4へアップグレード。v2.1.179（6/16）：ネットワーク切断時に受信済みの部分レスポンスを保持・表示、WSL2マウスホイールスクロール修正。
+> 詳細: references/reference_claude_code_v21179_v21183_official_changelog.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
