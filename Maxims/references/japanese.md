@@ -1,4 +1,4 @@
-# 日本の格言・名言 — 出典一覧（60件）
+# 日本の格言・名言 — 出典一覧（61件）
 
 [< 出典一覧に戻る](../REFERENCES.md)
 
@@ -64,3 +64,4 @@
 | japanese-058 | 東洋の道徳と西洋の技術とを、精粗もらさず表裏ともに兼ね備える | 佐久間象山 | kotobank.jp「東洋道徳西洋芸術」「佐久間象山」, ja.wikipedia.org「佐久間象山」, sybrma.sakura.ne.jp（『省諐録』白文） | 2026-06-13 |
 | japanese-059 | 本当の商人は、相手も立ち、自分も立つことを思うものだ | 石田梅岩 | ja.wikipedia.org「石田梅岩」「都鄙問答」, note.com/singaku_1785（心学明誠舎）, shuchi.php.co.jp（PHP研究所『歴史街道』） | 2026-06-13 |
 | japanese-060 | 雨にも負けず、風にも負けず | 宮沢賢治 | aozora.gr.jp「〔雨ニモマケズ〕」（底本『【新】校本宮澤賢治全集』第13巻）, ja.wikipedia.org「雨ニモマケズ」, crd.ndl.go.jp | 2026-06-13 |
+| japanese-061 | 勝ちに不思議の勝ちあり、負けに不思議の負けなし | 松浦静山 | ja.wikipedia.org「松浦清」, kotobank.jp「松浦静山」, ja.wikiquote.org「野村克也」 | 2026-06-20 |

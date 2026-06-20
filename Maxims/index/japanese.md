@@ -1,4 +1,4 @@
-# 日本の格言・名言（60件）
+# 日本の格言・名言（61件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -64,3 +64,4 @@
 | [japanese-058](../maxims/japanese/japanese-058-eastern-ethics-western-science.md) | 東洋の道徳と西洋の技術とを、精粗もらさず表裏ともに兼ね備える | 佐久間象山 | 『省諐録』（1871年刊） |
 | [japanese-059](../maxims/japanese/japanese-059-true-merchant-both-prosper.md) | 本当の商人は、相手も立ち、自分も立つことを思うものだ | 石田梅岩 | 『都鄙問答』（元文4年／1739年刊） |
 | [japanese-060](../maxims/japanese/japanese-060-undefeated-by-the-rain.md) | 雨にも負けず、風にも負けず……そういう者に、私はなりたい | 宮沢賢治 | 〔雨ニモマケズ〕手帳（1931年） |
+| [japanese-061](../maxims/japanese/japanese-061-mysterious-wins-no-mysterious-losses.md) | 勝ちに不思議の勝ちあり、負けに不思議の負けなし | 松浦静山 | 『剣談』（『常静子剣談』とも。江戸後期） |
