@@ -65,3 +65,13 @@
 | western-philosophy-059 | 二つのものが心を新たな崇敬の念で満たす ― 我が上なる星空と、我が内なる道徳法則である | イマヌエル・カント | de.wikisource.org, projekt-gutenberg.org | 2026-06-11 |
 | western-philosophy-060 | ミネルヴァの梟は、たそがれが訪れてはじめてその飛翔を始める | G・W・F・ヘーゲル | zeno.org, de.wikipedia.org | 2026-06-11 |
 | western-philosophy-061 | 私の言語の限界が、私の世界の限界を意味する | ルートヴィヒ・ウィトゲンシュタイン | wittgensteinproject.org, de.wikiquote.org | 2026-06-11 |
+| western-philosophy-062 | 私は、自分が知らないことを、知っているとも思っていない | ソクラテス（プラトン記述） | perseus.tufts.edu, jtauber.github.io | 2026-06-20 |
+| western-philosophy-063 | 一羽の燕が春をつくるわけではなく、一日が春をつくるわけでもない | アリストテレス | perseus.tufts.edu, lsj.gr | 2026-06-20 |
+| western-philosophy-064 | 驚くという情態こそまさに哲学者のものであり、哲学はこれ以外に始まりをもたない | プラトン | perseus.tufts.edu | 2026-06-20 |
+| western-philosophy-065 | 愛せよ、そして欲することをなせ | アウグスティヌス | newadvent.org, languagelog.ldc.upenn.edu | 2026-06-20 |
+| western-philosophy-066 | 心には、理性がまったく知らない独自の理屈がある | ブレーズ・パスカル | fr.wikipedia.org, gutenberg.org | 2026-06-20 |
+| western-philosophy-067 | 自然は、それに従うことによってのみ征服される | フランシス・ベーコン | la.wikisource.org, en.wikisource.org | 2026-06-20 |
+| western-philosophy-068 | もし神が存在しないとしても、神を発明する必要があるだろう | ヴォルテール | fr.wikisource.org, en.wikipedia.org | 2026-06-20 |
+| western-philosophy-069 | 私を殺さないものは、私をより強くする | フリードリヒ・ニーチェ | zeno.org, textlog.de | 2026-06-20 |
+| western-philosophy-070 | 宗教は民衆のアヘンである | カール・マルクス | de.wikipedia.org, marx-engels-revisited.de | 2026-06-20 |
+| western-philosophy-071 | 語の意味とは、言語におけるその使用である | ルートヴィヒ・ウィトゲンシュタイン | wittgensteinproject.org, en.wikipedia.org | 2026-06-20 |

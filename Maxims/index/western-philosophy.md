@@ -1,4 +1,4 @@
-# 西洋哲学（61件）
+# 西洋哲学（71件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -65,3 +65,13 @@
 | [western-philosophy-059](../maxims/western-philosophy/western-philosophy-059-starry-heavens-above-and-the-moral-law-within.md) | 二つのものが心を新たな崇敬の念で満たす ― 我が上なる星空と、我が内なる道徳法則である | イマヌエル・カント | 『実践理性批判』結語 |
 | [western-philosophy-060](../maxims/western-philosophy/western-philosophy-060-owl-of-minerva.md) | ミネルヴァの梟は、たそがれが訪れてはじめてその飛翔を始める | G・W・F・ヘーゲル | 『法の哲学要綱』序文 |
 | [western-philosophy-061](../maxims/western-philosophy/western-philosophy-061-the-limits-of-my-language-mean-the-limits-of-my-world.md) | 私の言語の限界が、私の世界の限界を意味する | ルートヴィヒ・ウィトゲンシュタイン | 『論理哲学論考』命題5.6 |
+| [western-philosophy-062](../maxims/western-philosophy/western-philosophy-062-i-do-not-think-i-know-what-i-do-not-know.md) | 私は、自分が知らないことを、知っているとも思っていない | ソクラテス（プラトン記述） | 『ソクラテスの弁明』21d |
+| [western-philosophy-063](../maxims/western-philosophy/western-philosophy-063-one-swallow-does-not-make-a-spring.md) | 一羽の燕が春をつくるわけではなく、一日が春をつくるわけでもない | アリストテレス | 『ニコマコス倫理学』1098a18 |
+| [western-philosophy-064](../maxims/western-philosophy/western-philosophy-064-wonder-is-the-beginning-of-philosophy.md) | 驚くという情態こそまさに哲学者のものであり、哲学はこれ以外に始まりをもたない | プラトン | 『テアイテトス』155d |
+| [western-philosophy-065](../maxims/western-philosophy/western-philosophy-065-love-and-do-what-you-will.md) | 愛せよ、そして欲することをなせ | アウグスティヌス | 『ヨハネの第一書簡講解』第7講解8 |
+| [western-philosophy-066](../maxims/western-philosophy/western-philosophy-066-the-heart-has-its-reasons.md) | 心には、理性がまったく知らない独自の理屈がある | ブレーズ・パスカル | 『パンセ』断章（ラフュマ423） |
+| [western-philosophy-067](../maxims/western-philosophy/western-philosophy-067-nature-to-be-commanded-must-be-obeyed.md) | 自然は、それに従うことによってのみ征服される | フランシス・ベーコン | 『ノヴム・オルガヌム』第1巻 箴言III |
+| [western-philosophy-068](../maxims/western-philosophy/western-philosophy-068-if-god-did-not-exist-it-would-be-necessary-to-invent-him.md) | もし神が存在しないとしても、神を発明する必要があるだろう | ヴォルテール | 『三人の詐欺師…への書簡』1768年 |
+| [western-philosophy-069](../maxims/western-philosophy/western-philosophy-069-what-does-not-kill-me-makes-me-stronger.md) | 私を殺さないものは、私をより強くする | フリードリヒ・ニーチェ | 『偶像の黄昏』「箴言と矢」8 |
+| [western-philosophy-070](../maxims/western-philosophy/western-philosophy-070-religion-is-the-opium-of-the-people.md) | 宗教は民衆のアヘンである | カール・マルクス | 『ヘーゲル法哲学批判序説』 |
+| [western-philosophy-071](../maxims/western-philosophy/western-philosophy-071-the-meaning-of-a-word-is-its-use-in-the-language.md) | 語の意味とは、言語におけるその使用である | ルートヴィヒ・ウィトゲンシュタイン | 『哲学探究』第I部 §43 |
