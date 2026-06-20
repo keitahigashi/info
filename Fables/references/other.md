@@ -120,4 +120,9 @@
 | other-110 | マンコ・カパックと黄金の杖 | ガルシラーソ・デ・ラ・ベガ『インカ王朝記』第1巻（1609年） | en.wikipedia.org/wiki/Manco_C%C3%A1pac, mythologyworldwide.com/the-legend-of-manco-capac-founder-of-the-incan-civilization/ | 2026-06-12 |
 | other-111 | バロンとランダの永遠の戦い | カロン・アラン伝説（11世紀東ジャワ起源）・バロン・ダンス（1890年代〜） | en.wikipedia.org/wiki/Barong_(mythology), merusaka.com/bali-cultural-experience/legend-of-barong-and-rangda-bali/ | 2026-06-12 |
 | other-112 | ニルスのふしぎな旅 | セルマ・ラーゲルレーヴ著（1906〜1907年、スウェーデン語） | en.wikipedia.org/wiki/The_Wonderful_Adventures_of_Nils, all-things-nordic.com/2024/01/02/the-wonderful-adventures-of-nils-a-fairy-tale-by-selma-lagerlof/ | 2026-06-12 |
+| other-113 | ロムルスとレムス | ローマ神話（建国伝説） | worldhistory.org/Romulus_and_Remus/, en.wikipedia.org/wiki/Romulus_and_Remus | 2026-06-20 |
+| other-114 | プウィルと冥界の王 | ウェールズ神話（マビノギオン第一分岐、写本1350年頃） | en.wikipedia.org/wiki/Pwyll_Pendefig_Dyfed, sacred-texts.com/neu/celt/mab/mab21.htm | 2026-06-20 |
+| other-115 | オバタラの創造神話 | ヨルバ神話（西アフリカ・イファ神託） | oriire.com/article/obatala-the-creator-and-wisdom-keeper-in-yoruba-mythology, en.wikipedia.org/wiki/Obatala | 2026-06-20 |
+| other-116 | ペレとヒイアカ | ハワイ神話（Emerson 1915年採録） | gutenberg.org/ebooks/60279, folklorethursday.com/legends/women-quest-saga-pele-hiiaka/ | 2026-06-20 |
+| other-117 | サー・ガウェインと緑の騎士 | アーサー王伝説（Cotton Nero A.x写本、14世紀後半） | en.wikipedia.org/wiki/Sir_Gawain_and_the_Green_Knight | 2026-06-20 |
 <!-- 出典追加時にここへ行を追加 -->
