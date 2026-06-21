@@ -1,4 +1,4 @@
-# 東洋思想（60件）
+# 東洋思想（70件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -64,3 +64,13 @@
 | [eastern-thought-058](../maxims/eastern-thought/eastern-thought-058-cultivation-by-reverence-learning-by-knowledge.md) | 涵養は敬を用うるを須ち、進学は則ち致知に在り | 程頤 | 『二程遺書』巻第十八・伊川先生語四 |
 | [eastern-thought-059](../maxims/eastern-thought/eastern-thought-059-all-forms-are-illusory.md) | およそ形あるものはみな虚妄である、もろもろの相が相でないと見ればそこに如来を見る | 鳩摩羅什（漢訳） | 『金剛般若波羅蜜経』如理実見分第五 |
 | [eastern-thought-060](../maxims/eastern-thought/eastern-thought-060-conquering-oneself-is-the-greatest-victory.md) | 戦場で百万人に勝つよりも、ただ一つの自己に克つ者こそ最上の勝利者である | 釈迦（ブッダ） | 『ダンマパダ（法句経）』第8章・千品 第103偈 |
+| [eastern-thought-061](../maxims/eastern-thought/eastern-thought-061-self-mastery-and-ritual.md) | 己に克ちて礼に復るを仁と為す | 孔子 | 『論語』顔淵第十二・1 |
+| [eastern-thought-062](../maxims/eastern-thought/eastern-thought-062-great-from-small.md) | 天下の難事は必ず易きより作り、天下の大事は必ず細より作る | 老子 | 『老子道徳経』第六十三章 |
+| [eastern-thought-063](../maxims/eastern-thought/eastern-thought-063-guard-simplicity-reject-cleverness.md) | むしろ素朴さを守って小賢しい才知を退け、いくらかの正気を天地に還すがよい | 洪自誠 | 『菜根譚』前集・第37条 |
+| [eastern-thought-064](../maxims/eastern-thought/eastern-thought-064-teaching-of-the-buddhas.md) | すべての悪をなさず、善を行い、自らの心を浄めること。これが諸仏の教えである | 釈迦（ブッダ） | 『ダンマパダ（法句経）』第14章・仏陀品 第183偈 |
+| [eastern-thought-065](../maxims/eastern-thought/eastern-thought-065-conquer-anger-with-non-anger.md) | 怒らないことによって怒りに打ち克ち、善によって不善に打ち克て | 釈迦（ブッダ） | 『ダンマパダ（法句経）』第17章・忿怒品 第223偈 |
+| [eastern-thought-066](../maxims/eastern-thought/eastern-thought-066-mind-creates-all-things.md) | 一切は唯心の造るところなり（一切唯心造） | 実叉難陀（漢訳） | 『大方広仏華厳経』（八十華厳）巻第十九・夜摩宮中偈讃品第二十 |
+| [eastern-thought-067](../maxims/eastern-thought/eastern-thought-067-pure-mind-pure-land.md) | 其の心浄ければ、則ち仏土浄し | 鳩摩羅什（漢訳） | 『維摩詰所説経』仏国品第一 |
+| [eastern-thought-068](../maxims/eastern-thought/eastern-thought-068-be-the-master-everywhere.md) | 随処に主と作れば、立処皆な真なり | 臨済義玄 | 『臨済録』示衆 |
+| [eastern-thought-069](../maxims/eastern-thought/eastern-thought-069-vast-emptiness-nothing-holy.md) | 廓然無聖（からりと開けて、聖なるものなど何もない） | 菩提達磨 | 『碧巌録』第一則 |
+| [eastern-thought-070](../maxims/eastern-thought/eastern-thought-070-man-of-the-way-beyond-learning.md) | もはや学ぶことも作為することもない、何ものにもとらわれぬ道の人をご覧なさい | 永嘉玄覚 | 『証道歌』冒頭 |

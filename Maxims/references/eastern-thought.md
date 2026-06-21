@@ -64,3 +64,13 @@
 | eastern-thought-058 | 涵養は敬を用うるを須ち、進学は則ち致知に在り | 程頤 | zh.wikisource.org, zh.wikipedia.org | 2026-06-12 |
 | eastern-thought-059 | 凡そ有る所の相は皆是れ虚妄なり（凡所有相皆是虚妄） | 鳩摩羅什（漢訳） | baike.baidu.com, blog.udn.com | 2026-06-12 |
 | eastern-thought-060 | 一つの自己に克つ者こそ最上の勝利者なり（法句経103） | 釈迦（ブッダ） | ja.wikisource.org, true-buddhism.com | 2026-06-12 |
+| eastern-thought-061 | 己に克ちて礼に復るを仁と為す（克己復礼為仁） | 孔子 | kanbun.info, classicstudies.jimdofree.com | 2026-06-21 |
+| eastern-thought-062 | 天下の難事は必ず易きより作り、天下の大事は必ず細より作る | 老子 | daodejing.org, baike.baidu.com | 2026-06-21 |
+| eastern-thought-063 | むしろ素朴さを守って小賢しい才知を退け、正気を天地に還す | 洪自誠 | shidianguji.com, fusuihoui.jp | 2026-06-21 |
+| eastern-thought-064 | 諸悪莫作、衆善奉行、自浄其意、是諸仏教（七仏通誡偈・法句経183） | 釈迦（ブッダ） | suttacentral.net, accesstoinsight.org | 2026-06-21 |
+| eastern-thought-065 | 怒らないことによって怒りに打ち克て（法句経223） | 釈迦（ブッダ） | buddhism.lib.ntu.edu.tw, suttafriends.org | 2026-06-21 |
+| eastern-thought-066 | 一切唯心造 | 実叉難陀（漢訳） | cbetaonline.dila.edu.tw, deerpark.app | 2026-06-21 |
+| eastern-thought-067 | 随其心浄、則仏土浄 | 鳩摩羅什（漢訳） | tripitaka.cbeta.org, deerpark.app | 2026-06-21 |
+| eastern-thought-068 | 随処に主と作れば、立処皆な真なり（随処作主立処皆真） | 臨済義玄 | zh.wikisource.org, rinnou.net | 2026-06-21 |
+| eastern-thought-069 | 廓然無聖 | 菩提達磨 | zh.wikisource.org, tripitaka.cbeta.org | 2026-06-21 |
+| eastern-thought-070 | 絶学無為の閑道人（証道歌冒頭） | 永嘉玄覚 | zh.wikisource.org, ja.wikipedia.org | 2026-06-21 |
