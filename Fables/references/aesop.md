@@ -152,4 +152,10 @@
 | aesop-362 | カエルの医者 | Perry Index #120, バブリウス『寓話集』, mythfolklore.net/aesopica/perry/120.htm | 2026-06-13 |
 | aesop-363 | キツネと蚊の群れ | Perry Index #254, アリストテレス『弁論術』II-20引用, en.wikipedia.org/wiki/The_Fox_and_the_Gnats | 2026-06-13 |
 
+| aesop-364 | クマとミツバチ | Abstemius *Hecatomythium*（1495年）*De urso et apibus*, americanliterature.com/author/aesop/short-story/the-bear-and-the-bees, en.wikipedia.org/wiki/The_Bear_and_the_Bees | 2026-06-21 |
+| aesop-365 | 車輪の上のハエ | Perry Index #724, Abstemius *Hecatomythium*（1490年）*Musca et Quadrigae*, en.wikipedia.org/wiki/The_Impertinent_Insect | 2026-06-21 |
+| aesop-366 | ネコとキツネ | Perry Index #605, La Fontaine『寓話集』II-5, fablesofaesop.com/the-cat-and-the-fox.html | 2026-06-21 |
+| aesop-367 | ロバと狼の医師 | Perry Index #278, fablesofaesop.com/the-ass-and-the-wolf.html, en.wikipedia.org/wiki/The_Ass_and_the_Wolf | 2026-06-21 |
+| aesop-368 | カタツムリとキツネ | バブリウス伝承、Romulus 類話, fablesofaesop.com/the-snail-and-the-fox.html | 2026-06-21 |
+
 <!-- 出典追加時にここへ行を追加 -->
