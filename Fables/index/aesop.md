@@ -365,4 +365,9 @@
 | [aesop-361](../fables/aesop/aesop-361-the-wolf-and-the-crying-child.md) | 泣く子と狼 | 激情や脅しの中で発せられた言葉は、必ずしも行動に移されるとは限らない。口先だけの言葉を真に受けてはならない |
 | [aesop-362](../fables/aesop/aesop-362-the-frog-physician.md) | カエルの医者 | 自分の欠点を省みずに他人を指導しようとする者は信用されない。他人に助言する前に、まず自らを正すべきである |
 | [aesop-363](../fables/aesop/aesop-363-the-fox-and-the-gnats.md) | キツネと蚊の群れ | 時には既知の悪に耐える方が、新たな未知の悪に直面するよりも賢明である。腹を満たした欲望は、飢えた欲望よりも害が少ない |
+| [aesop-364](../fables/aesop/aesop-364-the-bear-and-the-bees.md) | クマとミツバチ | 小さな怒りに任せて報復すれば、より大きな災いを招く。怒りを抑え、辛抱強く耐えることが賢明である |
+| [aesop-365](../fables/aesop/aesop-365-the-fly-on-the-chariot-wheel.md) | 車輪の上のハエ | 他者の功績を自分のものとして誇示する者は、虚栄と愚かさを露呈するだけである。真の貢献なき自慢は恥辱に終わる |
+| [aesop-366](../fables/aesop/aesop-366-the-cat-and-the-fox.md) | ネコとキツネ | 確実に使いこなせる一つの技を磨くほうが、不確かな多くの技を持つよりも、真の危機に際してはるかに役に立つ |
+| [aesop-367](../fables/aesop/aesop-367-the-ass-and-the-wolf-physician.md) | ロバと狼の医師 | 自分の分をわきまえ、本業に徹せよ。専門外のことに手を出せば、かえって痛い目を見る |
+| [aesop-368](../fables/aesop/aesop-368-the-snail-and-the-fox.md) | カタツムリとキツネ | 速さや多くの能力より、確かな安全と自足できる生き方の方が賢明である |
 <!-- 寓話追加時にここへ行を追加 -->
