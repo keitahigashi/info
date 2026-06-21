@@ -636,3 +636,8 @@
 | reference_pen-paper-blockout-stealth-encounters.md | 2026-06-20 |
 | reference_gdc-2018-level-design-workshop-qa.md | 2026-06-20 |
 | reference_balancing-multiplayer-games.md | 2026-06-20 |
+| reference_reimagining-story-structure-beyond-three-acts.md | 2026-06-21 |
+| reference_shapes-in-your-story-narrative-mapping.md | 2026-06-21 |
+| reference_finding-right-branching-narrative-rpg.md | 2026-06-21 |
+| reference_game-writing-non-linear-narratives.md | 2026-06-21 |
+| reference_housemarque-saros-narrative-process.md | 2026-06-21 |
