@@ -468,3 +468,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_parallel_loop_agent_kumai_yu.md | 2026-06-20 |
 | reference_openai_codex_claude_code_migration_flathill.md | 2026-06-20 |
 | reference_claude_code_v21179_v21183_official_changelog.md | 2026-06-20 |
+| reference_claude_code_weekly_update_0620_saitoko.md | 2026-06-21 |
+| reference_claude_17features_guide_claudelab.md | 2026-06-21 |
+| reference_claude_all_updates_aisola_lab.md | 2026-06-21 |
+| reference_claude_code_mcp_zenn_pipeline_muramasa.md | 2026-06-21 |
+| reference_claude_code_autopilot_loop_routines_claudelab.md | 2026-06-21 |

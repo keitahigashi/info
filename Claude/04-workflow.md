@@ -513,4 +513,8 @@ Dynamic Workflowsの本質は「Claudeがタスク専用ハーネスをその場
 v2.1.183（6/19）：破壊的gitコマンド（`git reset --hard`・`git checkout -- .`・`git clean -fd`）とインフラ破壊コマンド（`terraform destroy`等）を明示的指示なしにブロック。エージェントが作成していないコミットへの`git commit --amend`もブロック。非推奨モデルIDを使用時にstderrへ警告出力。v2.1.181（6/17）：`/config key=value`構文でプロンプトからリアルタイムに設定変更可能（例：`/config model=claude-opus-4-8`）、`sandbox.allowAppleEvents`でmacOSのApple Events許可、Bun 1.4へアップグレード。v2.1.179（6/16）：ネットワーク切断時に受信済みの部分レスポンスを保持・表示、WSL2マウスホイールスクロール修正。
 > 詳細: references/reference_claude_code_v21179_v21183_official_changelog.md を参照
 
+### v2.1.183〜185の主要変更点：破壊的コマンド自動ブロックとFable 5一時停止（saitoko）（自動収集 2026-06-21）
+2026年6月21日公開（Qiita/saitoko）。v2.1.183（6/19）でauto modeの安全性が大幅強化：`git reset --hard`・`git checkout -- .`・`git clean -fd`・`git stash drop`・`git commit --amend`（エージェントが作成していないコミットへ）・`terraform destroy`等のインフラ破壊コマンドが明示的指示なしにブロック。v2.1.178で`Tool(param:value)`構文追加（例：`Agent(model:opus)`でOpusモデルのサブエージェント起動のみを許可）。v2.1.177でFable 5が米国輸出規制指令により全停止→自動的にOpus 4.8へフォールバック。v2.1.185（6/21）ではストリーム停止後20秒の無応答で自動再試行。
+> 詳細: references/reference_claude_code_weekly_update_0620_saitoko.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
