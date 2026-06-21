@@ -5,7 +5,7 @@
 | カテゴリ | 件数 | 一覧 |
 |---------|------|------|
 | 西洋哲学 | 71 | [一覧を見る](index/western-philosophy.md) |
-| 東洋思想 | 60 | [一覧を見る](index/eastern-thought.md) |
+| 東洋思想 | 70 | [一覧を見る](index/eastern-thought.md) |
 | 日本の格言・名言 | 61 | [一覧を見る](index/japanese.md) |
 | 中国故事成語 | 60 | [一覧を見る](index/chinese-idioms.md) |
 | 世界のことわざ | 59 | [一覧を見る](index/world-proverbs.md) |
@@ -13,4 +13,4 @@
 | ラテン語の格言 | 60 | [一覧を見る](index/latin.md) |
 | 文学の名言 | 61 | [一覧を見る](index/literature.md) |
 | 創作の名言 | 34 | [一覧を見る](index/fiction.md) |
-| **合計** | **537** | |
+| **合計** | **547** | |
