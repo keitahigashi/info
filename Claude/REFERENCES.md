@@ -473,3 +473,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_all_updates_aisola_lab.md | 2026-06-21 |
 | reference_claude_code_mcp_zenn_pipeline_muramasa.md | 2026-06-21 |
 | reference_claude_code_autopilot_loop_routines_claudelab.md | 2026-06-21 |
+| reference_mcp_ema_cloudnative_june2026.md | 2026-06-22 |
+| reference_claude_enterprise_auth_admina_june2026.md | 2026-06-22 |
+| reference_code_with_claude_tokyo_2026_iud7n.md | 2026-06-22 |
+| reference_claude_automation_billing_genda_0615.md | 2026-06-22 |
+| reference_claude_design_update_qiita_morimatsu.md | 2026-06-22 |
