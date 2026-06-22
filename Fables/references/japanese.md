@@ -116,4 +116,9 @@
 | japanese-108 | でんでんむしのかなしみ | ja.wikipedia.org/wiki/デンデンムシノカナシミ, aozora.gr.jp/cards/000121/files/628_14860.html | 2026-06-14 |
 | japanese-109 | 赤い蝋燭と人魚 | ja.wikipedia.org/wiki/赤い蝋燭と人魚, aozora.gr.jp/cards/001475/files/54372_46225.html | 2026-06-14 |
 | japanese-110 | おじいさんのランプ | ja.wikipedia.org/wiki/おぢいさんのランプ, aozora.gr.jp/cards/000121/files/635_14853.html | 2026-06-14 |
+| japanese-111 | 山月記 | aozora.gr.jp/cards/000119/card623.html, ja.wikipedia.org/wiki/山月記 | 2026-06-22 |
+| japanese-112 | 八百比丘尼 | ja.wikipedia.org/wiki/八百比丘尼, intojapanwaraku.com/rock/culture-rock/136443/ | 2026-06-22 |
+| japanese-113 | 手なし娘 | kotobank.jp/word/手なし娘-1372879, 関敬吾編『日本昔話大成』第5巻（角川書店, 1978年） | 2026-06-22 |
+| japanese-114 | 杜子春 | aozora.gr.jp/cards/000879/card43015.html, ja.wikipedia.org/wiki/杜子春 | 2026-06-22 |
+| japanese-115 | 龍の子太郎 | ja.wikipedia.org/wiki/龍の子太郎, 松谷みよ子著（講談社, 1960年） | 2026-06-22 |
 <!-- 出典追加時にここへ行を追加 -->
