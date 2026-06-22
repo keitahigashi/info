@@ -1,4 +1,4 @@
-# 日本の格言・名言（61件）
+# 日本の格言・名言（71件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -65,3 +65,13 @@
 | [japanese-059](../maxims/japanese/japanese-059-true-merchant-both-prosper.md) | 本当の商人は、相手も立ち、自分も立つことを思うものだ | 石田梅岩 | 『都鄙問答』（元文4年／1739年刊） |
 | [japanese-060](../maxims/japanese/japanese-060-undefeated-by-the-rain.md) | 雨にも負けず、風にも負けず……そういう者に、私はなりたい | 宮沢賢治 | 〔雨ニモマケズ〕手帳（1931年） |
 | [japanese-061](../maxims/japanese/japanese-061-mysterious-wins-no-mysterious-losses.md) | 勝ちに不思議の勝ちあり、負けに不思議の負けなし | 松浦静山 | 『剣談』（『常静子剣談』とも。江戸後期） |
+| [japanese-062](../maxims/japanese/japanese-062-harmony-is-to-be-valued.md) | 和を以て貴しと為し、忤うこと無きを宗とせよ | 聖徳太子 | 『十七条憲法』第一条（604年・『日本書紀』所載） |
+| [japanese-063](../maxims/japanese/japanese-063-no-treasure-surpasses-a-child.md) | 銀も金も玉も何せむにまされる宝子にしかめやも | 山上憶良 | 『万葉集』巻第五・803番 |
+| [japanese-064](../maxims/japanese/japanese-064-east-wind-send-the-fragrance.md) | 東風吹かばにほひおこせよ梅の花あるじなしとて春を忘るな | 菅原道真 | 『拾遺和歌集』巻第十六・雑春・1006番 |
+| [japanese-065](../maxims/japanese/japanese-065-gazing-at-the-plain-of-heaven.md) | 天の原ふりさけ見れば春日なる三笠の山に出でし月かも | 阿倍仲麻呂 | 『古今和歌集』巻第九・羈旅歌・406番（百人一首7番） |
+| [japanese-066](../maxims/japanese/japanese-066-fifty-years-of-human-life.md) | 人間五十年、下天のうちをくらぶれば、夢幻の如くなり | 作者不詳（幸若舞『敦盛』） | 幸若舞『敦盛』（室町時代成立） |
+| [japanese-067](../maxims/japanese/japanese-067-falling-as-dew-vanishing-as-dew.md) | 露と落ち露と消えにし我が身かな浪速のことも夢のまた夢 | 豊臣秀吉 | 辞世の和歌（慶長3年／1598年） |
+| [japanese-068](../maxims/japanese/japanese-068-stillness-cicada-into-rocks.md) | 閑かさや岩にしみ入る蝉の声 | 松尾芭蕉 | 『おくのほそ道』立石寺の段（1689年作） |
+| [japanese-069](../maxims/japanese/japanese-069-skinny-frog-dont-lose.md) | 痩蛙まけるな一茶是に有 | 小林一茶 | 『七番日記』文化13年（1816年） |
+| [japanese-070](../maxims/japanese/japanese-070-reason-emotion-and-willfulness.md) | 智に働けば角が立つ。情に棹させば流される | 夏目漱石 | 『草枕』冒頭（1906年） |
+| [japanese-071](../maxims/japanese/japanese-071-life-not-worth-a-line-of-baudelaire.md) | 人生は一行のボオドレエルにも若かない | 芥川龍之介 | 『或阿呆の一生』「一 時代」（1927年） |
