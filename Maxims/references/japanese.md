@@ -1,4 +1,4 @@
-# 日本の格言・名言 — 出典一覧（61件）
+# 日本の格言・名言 — 出典一覧（71件）
 
 [< 出典一覧に戻る](../REFERENCES.md)
 
@@ -65,3 +65,13 @@
 | japanese-059 | 本当の商人は、相手も立ち、自分も立つことを思うものだ | 石田梅岩 | ja.wikipedia.org「石田梅岩」「都鄙問答」, note.com/singaku_1785（心学明誠舎）, shuchi.php.co.jp（PHP研究所『歴史街道』） | 2026-06-13 |
 | japanese-060 | 雨にも負けず、風にも負けず | 宮沢賢治 | aozora.gr.jp「〔雨ニモマケズ〕」（底本『【新】校本宮澤賢治全集』第13巻）, ja.wikipedia.org「雨ニモマケズ」, crd.ndl.go.jp | 2026-06-13 |
 | japanese-061 | 勝ちに不思議の勝ちあり、負けに不思議の負けなし | 松浦静山 | ja.wikipedia.org「松浦清」, kotobank.jp「松浦静山」, ja.wikiquote.org「野村克也」 | 2026-06-20 |
+| japanese-062 | 和を以て貴しと為し、忤うこと無きを宗とせよ | 聖徳太子 | ja.wikipedia.org「和を以て貴しと為す」「十七条憲法」, koten.sk46.com（原文・書き下し・現代語訳） | 2026-06-22 |
+| japanese-063 | 銀も金も玉も何せむにまされる宝子にしかめやも | 山上憶良 | crd.ndl.go.jp（レファレンス協同DB・原文万葉仮名）, art-tags.net/manyo, manyo-hyakka.pref.nara.jp（奈良県万葉百科） | 2026-06-22 |
+| japanese-064 | 東風吹かばにほひおこせよ梅の花あるじなしとて春を忘るな | 菅原道真 | yamatouta.site（拾遺集・本文異同）, crd.ndl.go.jp（レファレンス協同DB・「春を忘るな」「春な忘れそ」異同） | 2026-06-22 |
+| japanese-065 | 天の原ふりさけ見れば春日なる三笠の山に出でし月かも | 阿倍仲麻呂 | hyakuninisshu.sakura.ne.jp（百人一首7番・古今集羈旅）, benesse.jp（百人一首007番） | 2026-06-22 |
+| japanese-066 | 人間五十年、下天のうちをくらぶれば、夢幻の如くなり | 作者不詳（幸若舞『敦盛』） | ja.wikipedia.org「敦盛 (幸若舞)」, nohgaku.or.jp（能楽協会・信長と敦盛） | 2026-06-22 |
+| japanese-067 | 露と落ち露と消えにし我が身かな浪速のことも夢のまた夢 | 豊臣秀吉 | rekishikaido.php.co.jp（PHP歴史街道）, jisei.bou-tou.net（辞世の句データベース） | 2026-06-22 |
+| japanese-068 | 閑かさや岩にしみ入る蝉の声 | 松尾芭蕉 | ja.wikisource.org「おくのほそ道」（一次資料・異本注記）, ja.wikipedia.org「閑さや岩にしみ入る蝉の声」 | 2026-06-22 |
+| japanese-069 | 痩蛙まけるな一茶是に有 | 小林一茶 | yeahscars.com（『七番日記』文化13年・前書・原文）, haiku-textbook.com（『七番日記』所収・蛙合戦） | 2026-06-22 |
+| japanese-070 | 智に働けば角が立つ。情に棹させば流される | 夏目漱石 | aozora.gr.jp『草枕』, ja.wikipedia.org「草枕」 | 2026-06-22 |
+| japanese-071 | 人生は一行のボオドレエルにも若かない | 芥川龍之介 | aozora.gr.jp『或阿呆の一生』, crd.ndl.go.jp（レファレンス協同DB） | 2026-06-22 |
