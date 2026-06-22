@@ -641,3 +641,8 @@
 | reference_finding-right-branching-narrative-rpg.md | 2026-06-21 |
 | reference_game-writing-non-linear-narratives.md | 2026-06-21 |
 | reference_housemarque-saros-narrative-process.md | 2026-06-21 |
+| reference_evolutionary-stagnation-game-design.md | 2026-06-22 |
+| reference_naval-prototype-methodology-ac4.md | 2026-06-22 |
+| reference_procedural-generation-implementation-considerations.md | 2026-06-22 |
+| reference_procgen-best-practices-abuse.md | 2026-06-22 |
+| reference_design-doubt-scientific-method.md | 2026-06-22 |
