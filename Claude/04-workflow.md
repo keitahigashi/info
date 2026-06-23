@@ -517,4 +517,12 @@ v2.1.183（6/19）：破壊的gitコマンド（`git reset --hard`・`git checko
 2026年6月21日公開（Qiita/saitoko）。v2.1.183（6/19）でauto modeの安全性が大幅強化：`git reset --hard`・`git checkout -- .`・`git clean -fd`・`git stash drop`・`git commit --amend`（エージェントが作成していないコミットへ）・`terraform destroy`等のインフラ破壊コマンドが明示的指示なしにブロック。v2.1.178で`Tool(param:value)`構文追加（例：`Agent(model:opus)`でOpusモデルのサブエージェント起動のみを許可）。v2.1.177でFable 5が米国輸出規制指令により全停止→自動的にOpus 4.8へフォールバック。v2.1.185（6/21）ではストリーム停止後20秒の無応答で自動再試行。
 > 詳細: references/reference_claude_code_weekly_update_0620_saitoko.md を参照
 
+### Claude Fable 5がもたらす「タスク・ホライズン」——長時間自律エージェントの時代（CodeZine・2026年6月）（自動収集 2026-06-23）
+2026年6月10日公開（CodeZine/近藤佑子）。Anthropic「Code with Claude」基調講演レポート。Claude Fable 5はSWE-BenchでSOTAを達成し、「タスク・ホライズン」と呼ぶ長時間自律稼働能力で数百万トークンにまたがるプロジェクトを中断なく処理。チームが数日〜数週間要する作業を単一プロンプトで完結。ビジョン性能も強化し財務資料・スクリーンショットをプロ品質で処理。Anthropicは「Human-in-the-loopからHuman-on-the-loopへの転換点」と位置付け、開発者の役割がタスク実行者からエージェントの監督者へ変化するとした。なお6月12日に米政府輸出規制命令で一時停止→Opus 4.8へ自動フォールバック。
+> 詳細: references/reference_claude_fable5_autonomous_agent_codezine.md を参照
+
+### launchd + Claude Code + n8n + Telegramで6部署無人AI組織を1人運用する全体設計（YushiYamamoto）（自動収集 2026-06-23）
+2026年6月23日公開（Qiita/YushiYamamoto）。macOS launchd + Claude Code + n8n + Telegramを組み合わせ「HQ AIカンパニー」を1人で運用する構成を公開。6部署（営業・集客・SaaS・経理法人/個人・開発）が独立した自動化タスクを分担。設計原則：外向き行動（送信・公開・デプロイ）はTelegram承認必須、内部作業は完全自動。自動発信はQiita/Zenn/note/X/LinkedInの5チャンネルに日次コンテンツを配信。遭遇した4失敗パターン：CronCreate永続性問題→launchd直管理、Telegram webhook競合→ポーリング方式、Claude Codeセッション断絶→タスク完了ファイルでハンドオフ、n8n変数スコープ問題→ファイルベース状態管理。
+> 詳細: references/reference_claude_code_hq_ai_company_yamamoto.md を参照
+
 <!-- 日常で得た知見をここに追記 -->
