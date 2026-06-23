@@ -64,3 +64,13 @@
 | chinese-idioms-058 | 良薬は口に苦し | 孔子（伝）／王粛（編） | kotobank.jp, ja.wiktionary.org | 2026-06-14 |
 | chinese-idioms-059 | 捲土重来 | 杜牧 | kanshi.roudokus.com, katch.ne.jp | 2026-06-14 |
 | chinese-idioms-060 | 燕雀安んぞ鴻鵠の志を知らんや | 司馬遷 | kanbun.info, kotobank.jp | 2026-06-14 |
+| chinese-idioms-061 | 彼を知り己を知れば百戦殆からず | 孫武（伝） | ctext.org, kanbun.info | 2026-06-23 |
+| chinese-idioms-062 | 温故知新 | 孔子（門人編） | ctext.org, kanbun.info | 2026-06-23 |
+| chinese-idioms-063 | 井の中の蛙大海を知らず | 荘子（伝） | ctext.org, kanbun.info | 2026-06-23 |
+| chinese-idioms-064 | 他山の石 | 作者不詳 | ctext.org, kotobank.jp | 2026-06-23 |
+| chinese-idioms-065 | 破釜沈船 | 司馬遷 | ctext.org, gushiwen.cn | 2026-06-23 |
+| chinese-idioms-066 | 乾坤一擲 | 韓愈 | kanbun.info, dugushici.com | 2026-06-23 |
+| chinese-idioms-067 | 南柯の夢 | 李公佐 | kotobank.jp, ja.wikipedia.org | 2026-06-23 |
+| chinese-idioms-068 | 水清ければ魚棲まず | 班固 | ctext.org, baike.baidu.com | 2026-06-23 |
+| chinese-idioms-069 | 青は藍より出でて藍より青し | 荀子（荀況） | ctext.org, kotobank.jp | 2026-06-23 |
+| chinese-idioms-070 | 桃李もの言わざれども下自ら蹊を成す | 司馬遷 | ctext.org, kanbun.info | 2026-06-23 |
