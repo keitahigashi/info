@@ -641,3 +641,8 @@
 | reference_finding-right-branching-narrative-rpg.md | 2026-06-21 |
 | reference_game-writing-non-linear-narratives.md | 2026-06-21 |
 | reference_housemarque-saros-narrative-process.md | 2026-06-21 |
+| reference_natural-funativity.md | 2026-06-23 |
+| reference_gamification-definition-design.md | 2026-06-23 |
+| reference_procedural-generation-digging-deeper.md | 2026-06-23 |
+| reference_design-doubt-scientific-method.md | 2026-06-23 |
+| reference_design-101-playtesting.md | 2026-06-23 |
