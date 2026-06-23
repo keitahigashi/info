@@ -1,4 +1,4 @@
-# グリム童話（110話）
+# グリム童話（120話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -119,4 +119,9 @@
 | [grimm-113](../fables/grimm/grimm-113-the-three-brothers.md) | 三人兄弟 | 真の技を磨き尽くした者はどんな状況でも力を発揮でき、競い合いの先には兄弟の絆と協力が最も大切な財産となる |
 | [grimm-114](../fables/grimm/grimm-114-the-iron-stove.md) | 鉄のストーブ | 一度破った誓いの代償は大きいが、諦めずに試練を乗り越え続ける忍耐と献身が失われた愛を必ず取り戻す |
 | [grimm-115](../fables/grimm/grimm-115-the-house-in-the-forest.md) | 森の家 | すべての命に対して謙虚に思いやりを向け、自分より先に他者の世話をする者にこそ、真の幸せと祝福が訪れる |
+| [grimm-116](../fables/grimm/grimm-116-the-tailor-in-heaven.md) | 天国へ行った仕立て屋 | 自分自身も罪を抱える人間が衝動的に他者を裁くことは傲慢であり、真の裁きは神のみに属する |
+| [grimm-117](../fables/grimm/grimm-117-the-bright-sun-brings-it-to-light.md) | 明るいお天道様は明るみに出す | 人知れず犯した悪事も、真実は必ずいつか白日のもとに晒される |
+| [grimm-118](../fables/grimm/grimm-118-the-peasant-in-heaven.md) | 天国へ行った水のみ百姓 | 地上での富や権勢は天国では無価値であり、貧しくも誠実に生きた者こそが神に近い |
+| [grimm-119](../fables/grimm/grimm-119-master-pfriem.md) | プフリーム親方 | 批判と欠点探しをやめられない人間はどこにいっても和を乱す。謙虚さと寛容がなければ、神の世界にも属せない |
+| [grimm-120](../fables/grimm/grimm-120-the-grave-mound.md) | 土まんじゅう | 生前の改心と誠実な約束履行が魂の救いをもたらし、貪欲より思いやりと義理を重んじる者が最後には善を手にする |
 <!-- 寓話追加時にここへ行を追加 -->

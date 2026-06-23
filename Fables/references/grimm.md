@@ -1,4 +1,4 @@
-# グリム童話 — 出典一覧（115話）
+# グリム童話 — 出典一覧（120話）
 
 [< 出典一覧に戻る](../REFERENCES.md)
 
@@ -122,4 +122,9 @@
 | grimm-113 | 三人兄弟 | grimmdowaclub.net/khm124/, sites.pitt.edu/~dash/grimm124.html, grimmstories.com/ja/grimm_dowa/sannin_kyoudai, KHM124 | 2026-06-15 |
 | grimm-114 | 鉄のストーブ | grimmdowaclub.net/khm127/, sites.pitt.edu/~dash/grimm127.html, grimmstories.com/ja/grimm_dowa/kurogane_no_sutoubu, KHM127 | 2026-06-15 |
 | grimm-115 | 森の家 | grimmdowaclub.net/khm169/, sites.pitt.edu/~dash/grimm169.html, grimmstories.com/ja/grimm_dowa/mori_no_ie, KHM169 | 2026-06-15 |
+| grimm-116 | 天国へ行った仕立て屋 | grimmdowaclub.net/khm035/, grimmstories.com/ja/grimm_dowa/tengoku_e_itta_shitateya, KHM35 | 2026-06-23 |
+| grimm-117 | 明るいお天道様は明るみに出す | grimmstories.com/ja/grimm_dowa/akarui_otentosama_wa_akaruminidasu, en.wikipedia.org/wiki/The_Bright_Sun_Brings_It_to_Light, KHM115 | 2026-06-23 |
+| grimm-118 | 天国へ行った水のみ百姓 | grimmstories.com/en/grimm_fairy-tales/the_peasant_in_heaven, en.wikipedia.org/wiki/The_Peasant_in_Heaven, KHM167 | 2026-06-23 |
+| grimm-119 | プフリーム親方 | grimmstories.com/ja/grimm_dowa/pufurimu_oyakata, childstories.org/en/master-pfriem-1838.html, KHM178 | 2026-06-23 |
+| grimm-120 | 土まんじゅう | grimmdowaclub.net/khm195/, childstories.org/en/the-grave-mound-1855.html, KHM195 | 2026-06-23 |
 <!-- 出典追加時にここへ行を追加 -->
