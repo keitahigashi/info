@@ -1,4 +1,4 @@
-# 中国故事成語（60件）
+# 中国故事成語（70件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -64,3 +64,13 @@
 | [chinese-idioms-058](../maxims/chinese-idioms/chinese-idioms-058-ryoyaku-wa-kuchi-ni-nigashi.md) | 良薬は口に苦し | 孔子（伝）／王粛（編） | 『孔子家語』六本 |
 | [chinese-idioms-059](../maxims/chinese-idioms/chinese-idioms-059-kendo-chorai.md) | 捲土重来 | 杜牧 | 杜牧「題烏江亭」 |
 | [chinese-idioms-060](../maxims/chinese-idioms/chinese-idioms-060-enjaku-izukunzo-koukoku-no-kokorozashi.md) | 燕雀安んぞ鴻鵠の志を知らんや | 司馬遷 | 『史記』陳渉世家 |
+| [chinese-idioms-061](../maxims/chinese-idioms/chinese-idioms-061-know-enemy-know-self.md) | 彼を知り己を知れば百戦殆からず | 孫武（伝） | 『孫子』謀攻篇 |
+| [chinese-idioms-062](../maxims/chinese-idioms/chinese-idioms-062-learning-from-the-past.md) | 温故知新 | 孔子（門人編） | 『論語』為政篇 |
+| [chinese-idioms-063](../maxims/chinese-idioms/chinese-idioms-063-frog-in-the-well.md) | 井の中の蛙大海を知らず | 荘子（伝） | 『荘子』秋水篇 |
+| [chinese-idioms-064](../maxims/chinese-idioms/chinese-idioms-064-stones-from-another-mountain.md) | 他山の石 | 作者不詳 | 『詩経』小雅・鶴鳴篇 |
+| [chinese-idioms-065](../maxims/chinese-idioms/chinese-idioms-065-break-the-cauldrons-and-sink-the-boats.md) | 破釜沈船 | 司馬遷 | 『史記』項羽本紀 |
+| [chinese-idioms-066](../maxims/chinese-idioms/chinese-idioms-066-stake-all-on-a-single-throw.md) | 乾坤一擲 | 韓愈 | 韓愈「過鴻溝」 |
+| [chinese-idioms-067](../maxims/chinese-idioms/chinese-idioms-067-dream-of-the-southern-branch.md) | 南柯の夢 | 李公佐 | 『南柯太守伝』 |
+| [chinese-idioms-068](../maxims/chinese-idioms/chinese-idioms-068-water-too-clear-has-no-fish.md) | 水清ければ魚棲まず | 班固 | 『漢書』東方朔伝 |
+| [chinese-idioms-069](../maxims/chinese-idioms/chinese-idioms-069-blue-surpasses-indigo.md) | 青は藍より出でて藍より青し | 荀子（荀況） | 『荀子』勧学篇 |
+| [chinese-idioms-070](../maxims/chinese-idioms/chinese-idioms-070-peach-and-plum-form-a-path.md) | 桃李もの言わざれども下自ら蹊を成す | 司馬遷 | 『史記』李将軍列伝 |
