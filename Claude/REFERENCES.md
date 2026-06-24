@@ -478,3 +478,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_code_with_claude_tokyo_2026_iud7n.md | 2026-06-22 |
 | reference_claude_automation_billing_genda_0615.md | 2026-06-22 |
 | reference_claude_design_update_qiita_morimatsu.md | 2026-06-22 |
+| reference_chaen_june2026_updates_all.md | 2026-06-24 |
+| reference_aistream_fable5_disappeared_june2026.md | 2026-06-24 |
+| reference_browser_tools_comparison_takna.md | 2026-06-24 |
+| reference_claude_design_june2026_uravation_codesync.md | 2026-06-24 |
+| reference_claude_design_handson_91works.md | 2026-06-24 |
