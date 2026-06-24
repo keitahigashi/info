@@ -1,4 +1,4 @@
-# 世界のことわざ（59件）
+# 世界のことわざ（69件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -63,3 +63,13 @@
 | [world-proverbs-057](../maxims/world-proverbs/world-proverbs-057-rasaca-gascem-shenia.md) | 人に与えたものこそ自分のものであり、与えずに惜しんだものは失われる。 | ショタ・ルスタヴェリ（伝） | რასაცა გასცემ შენია, რაც არა — დაკარგულია |
 | [world-proverbs-058](../maxims/world-proverbs/world-proverbs-058-azeri-zaharrak-aztura-zaharrik-ez.md) | 年老いた狐は古い毛は抜け変えても、長年の習性だけは変えられない。 | 作者不詳（バスク語） | Azeri zaharrak ile zaharra uzten du, aztura zaharrik ez |
 | [world-proverbs-059](../maxims/world-proverbs/world-proverbs-059-e-pala-le-maa-ae-le-pala-upu.md) | 石は朽ちても、言葉は朽ちない。 | 作者不詳（サモア語） | E pala le maʻa, a e le pala upu |
+| [world-proverbs-060](../maxims/world-proverbs/world-proverbs-060-ir-sienos-turi-ausis.md) | 壁にも耳がある。 | 作者不詳（リトアニア語） | Ir sienos turi ausis |
+| [world-proverbs-061](../maxims/world-proverbs/world-proverbs-061-priyatel-v-nuzhda-se-poznava.md) | 真の友は困難のときにわかる。 | 作者不詳（ブルガリア語） | Приятел в нужда се познава |
+| [world-proverbs-062](../maxims/world-proverbs/world-proverbs-062-a-boca-tancada-no-hi-entren-mosques.md) | 閉じた口には蠅は入らない。 | 作者不詳（カタルーニャ語） | A boca tancada no hi entren mosques |
+| [world-proverbs-063](../maxims/world-proverbs/world-proverbs-063-thig-crioch-air-an-t-saoghal-ach-mairidh-gaol-is-ceol.md) | 世界には終わりが訪れるが、愛と音楽は生き続ける。 | 作者不詳（スコットランド・ゲール語） | Thig crìoch air an t-saoghal, ach mairidh gaol is ceòl |
+| [world-proverbs-064](../maxims/world-proverbs/world-proverbs-064-gde-je-mnogo-babica-kilava-su-deca.md) | 産婆が多いと、生まれる子はひ弱になる。 | 作者不詳（セルビア語） | Где је много бабица, килава су деца |
+| [world-proverbs-065](../maxims/world-proverbs/world-proverbs-065-nunca-choveu-que-non-escampara.md) | 降りやまぬ雨はなく、必ず晴れる日が来る。 | 作者不詳（ガリシア語） | Nunca choveu que non escampara |
+| [world-proverbs-066](../maxims/world-proverbs/world-proverbs-066-in-ald-skip-wit-alle-kusten.md) | 古い船はすべての海岸を知っている。 | 作者不詳（西フリジア語） | In âld skip wit alle kusten |
+| [world-proverbs-067](../maxims/world-proverbs/world-proverbs-067-ti-koro-nko-agyina.md) | 頭一つでは評議はできない。 | 作者不詳（アカン語） | Ti koro nko agyina |
+| [world-proverbs-068](../maxims/world-proverbs/world-proverbs-068-repu-ane-roju-vunnada.md) | 明日という日など本当にあるのか。 | 作者不詳（テルグ語） | రేపు అనే రోజు వున్నదా |
+| [world-proverbs-069](../maxims/world-proverbs/world-proverbs-069-doeng-khluon-lngong-kong-ban-chea-preach.md) | 自分の愚かさを自覚する者こそ、やがて賢者となる。 | 作者不詳（クメール語） | ដឹងថាខ្លួនល្ងង់ គង់បានជាប្រាជ្ញ |

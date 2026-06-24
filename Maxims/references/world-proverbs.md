@@ -63,3 +63,13 @@
 | world-proverbs-057 | 人に与えたものこそ自分のものであり、与えずに惜しんだものは失われる。 | ショタ・ルスタヴェリ（伝・ジョージア語） | en.wiktionary.org, en.wikipedia.org（The Knight in the Panther's Skin） | 2026-06-15 |
 | world-proverbs-058 | 年老いた狐は古い毛は抜け変えても、長年の習性だけは変えられない。 | 作者不詳（バスク語） | en.wikiquote.org, buber.net | 2026-06-15 |
 | world-proverbs-059 | 石は朽ちても、言葉は朽ちない。 | 作者不詳（サモア語） | en.wikipedia.org, lingalot.com | 2026-06-15 |
+| world-proverbs-060 | 壁にも耳がある。 | 作者不詳（リトアニア語） | en.wiktionary.org, lt.glosbe.com | 2026-06-24 |
+| world-proverbs-061 | 真の友は困難のときにわかる。 | 作者不詳（ブルガリア語） | en.wikiquote.org, browse.dict.cc | 2026-06-24 |
+| world-proverbs-062 | 閉じた口には蠅は入らない。 | 作者不詳（カタルーニャ語） | pccd.dites.cat, en.wikiquote.org | 2026-06-24 |
+| world-proverbs-063 | 世界には終わりが訪れるが、愛と音楽は生き続ける。 | 作者不詳（スコットランド・ゲール語） | gaelic.co, en.wikiquote.org | 2026-06-24 |
+| world-proverbs-064 | 産婆が多いと、生まれる子はひ弱になる。 | 作者不詳（セルビア語） | en.wikiquote.org, tatoeba.org | 2026-06-24 |
+| world-proverbs-065 | 降りやまぬ雨はなく、必ず晴れる日が来る。 | 作者不詳（ガリシア語） | en.wiktionary.org, en.wikivoyage.org | 2026-06-24 |
+| world-proverbs-066 | 古い船はすべての海岸を知っている。 | 作者不詳（西フリジア語） | en.wikiquote.org, learnfrisian.com | 2026-06-24 |
+| world-proverbs-067 | 頭一つでは評議はできない。 | 作者不詳（アカン語） | adinkrasymbols.org, journal.njrcs.org | 2026-06-24 |
+| world-proverbs-068 | 明日という日など本当にあるのか。 | 作者不詳（テルグ語） | en.wiktionary.org, en.wikiquote.org | 2026-06-24 |
+| world-proverbs-069 | 自分の愚かさを自覚する者こそ、やがて賢者となる。 | 作者不詳（クメール語） | en.wiktionary.org, tangoun.wordpress.com, khmerdon.wordpress.com | 2026-06-24 |
