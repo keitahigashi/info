@@ -124,4 +124,9 @@
 | chinese-114 | 精衛填海 | 古代・不明『山海経』北山経, kotobank.jp, idiom-encyclopedia.com, ja.wikipedia.org（女娃） | 2026-06-16 |
 | chinese-115 | 懸梁刺股 | 前漢・劉向『戦国策』秦策一（刺股）、後漢・班固『漢書』（懸梁）, epochtimes.com, baike.baidu.com | 2026-06-16 |
 | chinese-116 | 曲突徙薪 | 後漢・班固『漢書』霍光金日磾伝, kanbun.info, kotobank.jp, imidas.jp | 2026-06-16 |
+| chinese-117 | 草木皆兵 | 唐・房玄齢ら編『晋書』苻堅載記, 北宋・司馬光『資治通鑑』巻105, ja.wikipedia.org（淝水の戦い）, kotobank.jp | 2026-06-24 |
+| chinese-118 | 竹馬の友 | 唐・房玄齢ら編『晋書』殷浩伝, 南朝宋・劉義慶『世説新語』品藻篇, kotobank.jp（竹馬の友）, ja.wikipedia.org | 2026-06-24 |
+| chinese-119 | 老当益壮 | 南朝宋・范曄著『後漢書』馬援列伝, ctext.org（後漢書・馬援列伝）, yoji-jukugo.com, kotobank.jp | 2026-06-24 |
+| chinese-120 | 一諾千金 | 前漢・司馬遷著『史記』季布・欒布列伝, ja.wikipedia.org（季布）, dict.idioms.moe.edu.tw（一諾千金）, epochtimes.com | 2026-06-24 |
+| chinese-121 | 伯楽相馬 | 唐・韓愈著『雑説』第四篇（馬説）, kanbun.info（千里の馬）, ja.wikipedia.org（伯楽）, epochtimes.com | 2026-06-24 |
 <!-- 出典追加時にここへ行を追加 -->

@@ -1,4 +1,4 @@
-# 中国故事（116話）
+# 中国故事（121話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -120,4 +120,9 @@
 | [chinese-114](../fables/chinese/chinese-114-jingwei-fills-the-sea.md) | 精衛填海 | 不可能に見える試みでも、揺るぎない意志を持って挑み続けることに意義がある |
 | [chinese-115](../fables/chinese/chinese-115-hanging-beam-piercing-thigh.md) | 懸梁刺股 | 眠気や怠惰という弱さに打ち克ち、肉体的苦痛をもって自らを律することで、どんな困難な目標も達成できる |
 | [chinese-116](../fables/chinese/chinese-116-bend-chimney-move-firewood.md) | 曲突徙薪 | 災いを未然に防いだ者の功績は見えにくいが、危険を事前に指摘する先見の知恵こそ最も価値がある |
+| [chinese-117](../fables/chinese/chinese-117-grass-and-trees-look-like-soldiers.md) | 草木皆兵 | 恐怖と疑心暗鬼は判断力を奪い、草木さえも敵に見せる。過剰な不安が実際の脅威を何倍にも膨らませ自滅を招く |
+| [chinese-118](../fables/chinese/chinese-118-childhood-friends-on-bamboo-horses.md) | 竹馬の友 | 幼少期を共に過ごした深い縁は生涯に渡るが、競争心や権力欲はその純粋な絆さえも利用するものに変えてしまう |
+| [chinese-119](../fables/chinese/chinese-119-old-age-grows-stronger.md) | 老当益壮 | 年齢を言い訳にせず、老いてもなお志と気概を持ち続けることが真の大丈夫であり、困難なときほど意志を固くすべきである |
+| [chinese-120](../fables/chinese/chinese-120-one-promise-worth-a-thousand-gold.md) | 一諾千金 | 約束を軽んじず、一度誓った言葉を必ず守る誠実さこそが、黄金よりも重い信頼と人望を生む |
+| [chinese-121](../fables/chinese/chinese-121-bole-recognizes-the-thoroughbred.md) | 伯楽相馬 | どれほどの才能があっても、それを見出す識者（伯楽）がいなければ才能は埋もれ滅びる。人材を発見し活かす者の責任は重い |
 <!-- 寓話追加時にここへ行を追加 -->
