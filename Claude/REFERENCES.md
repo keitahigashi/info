@@ -483,3 +483,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_browser_tools_comparison_takna.md | 2026-06-24 |
 | reference_claude_design_june2026_uravation_codesync.md | 2026-06-24 |
 | reference_claude_design_handson_91works.md | 2026-06-24 |
+| reference_claude_code_week24_official.md | 2026-06-25 |
+| reference_claude_design_5features_tenbin.md | 2026-06-25 |
+| reference_fable5_subagent_cost_genda.md | 2026-06-25 |
+| reference_claude_code_mcp_security_aurant.md | 2026-06-25 |
+| reference_fable5_medium_business_flatworks.md | 2026-06-25 |
