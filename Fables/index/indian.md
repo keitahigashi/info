@@ -1,4 +1,4 @@
-# インド寓話（129話）
+# インド寓話（134話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -133,4 +133,9 @@
 | [indian-127](../fables/indian/indian-127-dasaratha-jataka-rama.md) | ダーサラタ王子ラーマの帰還 | 賢者は死や喪失に動揺せず、無常の理を悟ることで真の安らぎと徳ある統治を全うできる |
 | [indian-128](../fables/indian/indian-128-tittira-jataka-four-harmonious-animals.md) | 四つの調和する仲間 | 年長者を敬い知恵と経験に従って秩序を保つことが、共同体の調和と繁栄をもたらす |
 | [indian-129](../fables/indian/indian-129-birbal-the-pot-full-of-wit.md) | 知恵の壺 | いかなる難問も、焦らず深く考え創意工夫を凝らせば必ず解決策が見つかる |
+| [indian-130](../fables/indian/indian-130-nandivisala-jataka.md) | ナンディヴィサーラ本生譚（言葉の力） | 荒々しい言葉は力を封じ込め、優しい言葉こそが真の偉業を引き出す |
+| [indian-131](../fables/indian/indian-131-valahassa-jataka.md) | ヴァラハッサ本生譚（飛ぶ馬と女魔の島） | 恩人の忠告を無視して欲に溺れる者は、自らの意思で破滅へと歩む |
+| [indian-132](../fables/indian/indian-132-ekalavya-thumb.md) | エーカラヴィヤの親指（師への究極の誓い） | 真の師弟の誓いは、いかなる代償を払っても貫かれる——しかしその代償が正当かは問われ続ける |
+| [indian-133](../fables/indian/indian-133-birbal-khichdi.md) | ビルバルの粥（皇帝の矛盾を照らした知恵） | 不公平な屁理屈は、同じ論理を使って反論されてこそ崩れる |
+| [indian-134](../fables/indian/indian-134-kusa-jataka.md) | クサ本生譚（醜い王子と美しき妃） | 真の愛情と誠実な忍耐は外見の壁を超え、やがて相手の心を開く |
 <!-- 寓話追加時にここへ行を追加 -->
