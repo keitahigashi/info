@@ -651,3 +651,8 @@
 | reference_ux-misconceptions-5-games.md | 2026-06-24 |
 | reference_ux-walkthrough-usability-test-anatomy.md | 2026-06-24 |
 | reference_hud-player-flow-abandon.md | 2026-06-24 |
+| reference_design-101-balancing-games.md | 2026-06-25 |
+| reference_three-rules-to-balance-by.md | 2026-06-25 |
+| reference_how-balance-can-affect-difficulty.md | 2026-06-25 |
+| reference_reward-systems-level-design-excerpt.md | 2026-06-25 |
+| reference_game-engine-architecture-excerpt.md | 2026-06-25 |
