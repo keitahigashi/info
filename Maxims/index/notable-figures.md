@@ -1,4 +1,4 @@
-# 著名人の言葉（71件）
+# 著名人の言葉（81件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -75,3 +75,13 @@
 | [notable-figures-069](../maxims/notable-figures/notable-figures-069-ninety-nine-percent-failure.md) | 私のやった仕事で本当に成功したものは、全体のわずか一％にすぎない。九九％は失敗の連続であった | 本田宗一郎 | 『本田宗一郎 夢を力に―私の履歴書』 |
 | [notable-figures-070](../maxims/notable-figures/notable-figures-070-truth-triumphs-as-opponents-die.md) | 新しい科学的真理は、反対者を説得することによってではなく、反対者がやがて死に絶え、それに馴染んだ新しい世代が育つことによって勝利する | マックス・プランク | 『科学的自伝』（1948年） |
 | [notable-figures-071](../maxims/notable-figures/notable-figures-071-control-of-nature-conceived-in-arrogance.md) | 「自然の支配」という言葉は傲慢から生まれたものであり、自然は人間の便宜のために存在すると思われていた時代の言葉である | レイチェル・カーソン | 『沈黙の春』第17章（1962年） |
+| [notable-figures-072](../maxims/notable-figures/notable-figures-072-freedom-or-death.md) | 私たち自身が手を下すのではない。けれども私たちは、敵を、自由を与えるか死を与えるかを選ばざるをえない立場に追い込むのだ | エメリン・パンクハースト | 演説「Freedom or Death」（1913年） |
+| [notable-figures-073](../maxims/notable-figures/notable-figures-073-prejudice-enshrined-in-laws.md) | 法律は人々の心から偏見をなくせない。だがそれは、偏見を法に祀り続け、不作為で不正義を永続させてよい理由にはならない | シャーリー・チザム | 下院演説「For the Equal Rights Amendment」（1970年） |
+| [notable-figures-074](../maxims/notable-figures/notable-figures-074-only-by-giving-our-lives.md) | 私たちの命をささげることによってのみ、私たちは命を見いだす。最も真実の勇気とは、非暴力の闘いの中で他者のために自らを犠牲にすることだ | セサル・チャベス | 断食終了時の声明（1968年・デラノ） |
+| [notable-figures-075](../maxims/notable-figures/notable-figures-075-tryst-with-destiny.md) | 真夜中の時を告げる刻、世界が眠るとき、インドは生命と自由へと目覚める | ジャワハルラール・ネルー | 演説「Tryst with Destiny」（1947年） |
+| [notable-figures-076](../maxims/notable-figures/notable-figures-076-best-way-to-have-a-good-idea.md) | 良いアイデアを得る最良の方法は、たくさんのアイデアを持つことだ | リーナス・ポーリング | 雑誌『Fortune』（1960年） |
+| [notable-figures-077](../maxims/notable-figures/notable-figures-077-mathematician-maker-of-patterns.md) | 数学者は画家や詩人と同じくパターンを作る者である。そのパターンがより永続的なのは、アイデアで作られているからだ | G・H・ハーディ | 『ある数学者の弁明』第10節（1940年） |
+| [notable-figures-078](../maxims/notable-figures/notable-figures-078-xray-analysis-unexpected-structure.md) | X線解析の大きな利点は、まったく予想外で驚くべき構造を、完全な確実性をもって明らかにできる力にある | ドロシー・クローフット・ホジキン | ノーベル講演（1964年） |
+| [notable-figures-079](../maxims/notable-figures/notable-figures-079-more-constraints-more-freedom.md) | 自らに多くの制約を課せば課すほど、精神を縛る鎖から解き放たれて自由になる | イーゴリ・ストラヴィンスキー | 『音楽の詩学』第3講（1942年） |
+| [notable-figures-080](../maxims/notable-figures/notable-figures-080-each-day-i-am-reborn.md) | 私は毎日生まれ変わる。毎日また一から始めなければならない | パブロ・カザルス | 自伝『Joys and Sorrows』（1970年） |
+| [notable-figures-081](../maxims/notable-figures/notable-figures-081-inspiration-visits-not-the-lazy.md) | 霊感とは、怠け者を訪れることを好まぬ客人だ。それは自分を呼ぶ者のもとに現れる | ピョートル・チャイコフスキー | フォン・メック夫人宛書簡（1878年） |
