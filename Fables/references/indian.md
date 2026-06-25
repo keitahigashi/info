@@ -141,4 +141,10 @@
 | indian-128 | 四つの調和する仲間 | thejatakatales.com/tittira-jataka-37/, sacred-texts.com/bud/j1/j1041.htm | 2026-06-17 |
 | indian-129 | 知恵の壺 | india-a2z.com/pot-full-of-wit.html, moralstories.org/birbal-pot-of-wit/ | 2026-06-17 |
 
+| indian-130 | ナンディヴィサーラ本生譚（言葉の力） | sacred-texts.com/bud/j1/j1052.htm, thejatakatales.com | 2026-06-25 |
+| indian-131 | ヴァラハッサ本生譚（飛ぶ馬と女魔の島） | sacred-texts.com/bud/j2/j2060.htm, thejatakatales.com | 2026-06-25 |
+| indian-132 | エーカラヴィヤの親指（師への究極の誓い） | sacred-texts.com/hin/m01/m01132.htm, en.wikipedia.org（Ekalavya） | 2026-06-25 |
+| indian-133 | ビルバルの粥（皇帝の矛盾を照らした知恵） | parenting.firstcry.com（Birbal's Khichdi）, safehugs.in | 2026-06-25 |
+| indian-134 | クサ本生譚（醜い王子と美しき妃） | sacred-texts.com/bud/j5/j5030.htm, thejatakatales.com | 2026-06-25 |
+
 <!-- 出典追加時にここへ行を追加 -->
