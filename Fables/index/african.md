@@ -1,4 +1,4 @@
-# アフリカ民話（120話）
+# アフリカ民話（125話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -124,4 +124,9 @@
 | [african-118](../fables/african/african-118-the-monkey-the-shark-and-the-washermans-donkey.md) | サルとサメと洗濯人のロバ | 裏切りによって信頼は永遠に失われる。機知こそが力や権威に勝る |
 | [african-119](../fables/african/african-119-do-not-trust-your-friend.md) | 友を信ずるなかれ | 自己利益のために友人の信頼を裏切る者は、その友情を永遠に失う |
 | [african-120](../fables/african/african-120-crocodiles-treason.md) | ワニの裏切り | 信頼を裏切る者は、たとえ一時的な利益を得ても永遠に軽蔑され孤立する。賢者の警告には耳を傾けよ |
+| [african-121](../fables/african/african-121-the-hunter-and-the-tortoise.md) | 狩人と亀の秘密 | 他者の秘密や信頼を自己顕示のために利用する者は、自らの命を縮める |
+| [african-122](../fables/african/african-122-kwofi-and-the-gods.md) | クウォフィと神々 | 不当な扱いを受けても誠実に生き続けた者は、神の加護によって究極の試練から守られ、やがて報われる |
+| [african-123](../fables/african/african-123-maku-mawu-and-maku-fia.md) | マク・マウとマク・フィア | 権力者の陰謀も天の定めた運命には勝てない。誠実な者は思いがけない形で必ず救われる |
+| [african-124](../fables/african/african-124-cloud-eating.md) | 雲食い | 友の信頼を自分の利益のために踏みにじる者は、真の友を持てない。不誠実さは必ず相手に害をもたらす |
+| [african-125](../fables/african/african-125-why-the-bush-cow-and-elephant-are-bad-friends.md) | バッファローと象が仲の悪い理由 | 権威の命令に背き自分勝手に振る舞う者は、争いによって周囲にまで害をもたらし、最終的には自らが最大の犠牲者となる |
 <!-- 寓話追加時にここへ行を追加 -->
