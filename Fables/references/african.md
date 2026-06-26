@@ -133,4 +133,9 @@
 | african-118 | サルとサメと洗濯人のロバ | worldoftales.com/African_folktales/African_Folktale_39.html (Bateman『Zanzibar Tales』1901) | 2026-06-18 |
 | african-119 | 友を信ずるなかれ | gutenberg.org/ebooks/58900, archive.org/details/whereanimalstalk00nassrich (Nassau『Where Animals Talk』1912) | 2026-06-18 |
 | african-120 | ワニの裏切り | gutenberg.org/files/38339/38339-h/38339-h.htm (Honey『South-African Folk-Tales』1910) | 2026-06-18 |
+| african-121 | 狩人と亀の秘密 | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917) | 2026-06-26 |
+| african-122 | クウォフィと神々 | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917) | 2026-06-26 |
+| african-123 | マク・マウとマク・フィア | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917) | 2026-06-26 |
+| african-124 | 雲食い | gutenberg.org/files/38339/38339-h/38339-h.htm (Honey『South-African Folk-Tales』1910) | 2026-06-26 |
+| african-125 | バッファローと象が仲の悪い理由 | gutenberg.org/files/34655/34655-h/34655-h.htm, worldoftales.com/African_folktales/Nigerian_folktale_20.html (Dayrell『Folk Stories from Southern Nigeria』1910) | 2026-06-26 |
 <!-- 出典追加時にここへ行を追加 -->
