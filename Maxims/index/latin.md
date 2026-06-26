@@ -1,4 +1,4 @@
-# ラテン語の格言（60件）
+# ラテン語の格言（70件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -64,3 +64,13 @@
 | [latin-058](../maxims/latin/latin-058-veritas-filia-temporis.md) | 真理は時の娘である（Veritas filia temporis） | 作者不詳 | ゲッリウス『アッティカの夜』12.11.7 |
 | [latin-059](../maxims/latin/latin-059-repetitio-est-mater-studiorum.md) | 反復は学習の母である（Repetitio est mater studiorum） | 作者不詳 | 中世ラテン語の諺 |
 | [latin-060](../maxims/latin/latin-060-tempora-mutantur.md) | 時は移り変わり、我々もその中で共に移り変わる（Tempora mutantur, nos et mutamur in illis） | 作者不詳 | 16世紀の擬古典的格言 |
+| [latin-061](../maxims/latin/latin-061-timeo-danaos.md) | 私はギリシア人を恐れる、たとえ贈り物を携えていても（Timeo Danaos et dona ferentes） | ウェルギリウス | 『アエネーイス』2.49 |
+| [latin-062](../maxims/latin/latin-062-video-meliora-proboque.md) | より良きものを見て是としながら、より悪しきものに従ってしまう（Video meliora proboque, deteriora sequor） | オウィディウス | 『変身物語』7.20–21 |
+| [latin-063](../maxims/latin/latin-063-homo-sum-humani-nihil.md) | 私は人間である、人間に関わることで自分に無縁なものは何一つない（Homo sum, humani nihil a me alienum puto） | テレンティウス | 『自虐者』77 |
+| [latin-064](../maxims/latin/latin-064-cum-dignitate-otium.md) | 尊厳をともなった平穏（Cum dignitate otium） | キケロ | 『セスティウス弁護』98 |
+| [latin-065](../maxims/latin/latin-065-cui-prodest-scelus.md) | その犯罪から利益を得る者、それを行った者である（Cui prodest scelus, is fecit） | セネカ（小） | 『メーデイア』500–501 |
+| [latin-066](../maxims/latin/latin-066-quem-di-diligunt.md) | 神々に愛される者は若くして死ぬ（Quem di diligunt adulescens moritur） | プラウトゥス | 『バッキデス姉妹』816付近 |
+| [latin-067](../maxims/latin/latin-067-bis-vincit-qui-se-vincit.md) | 勝利のさなかにおいて自らに克つ者は、二重に勝利する（Bis vincit qui se vincit in victoria） | プブリリウス・シュルス | 『金言集』 |
+| [latin-068](../maxims/latin/latin-068-concordia-parvae-res-crescunt.md) | 協調によって小事も成長し、不和によって大事も崩れ去る（Concordia parvae res crescunt） | サッルスティウス | 『ユグルタ戦記』10.6 |
+| [latin-069](../maxims/latin/latin-069-amicus-certus-in-re-incerta.md) | 確かな友は、不確かな状況においてこそ見分けられる（Amicus certus in re incerta cernitur） | エンニウス（キケロ引用） | キケロ『友情について』64 |
+| [latin-070](../maxims/latin/latin-070-naturam-expellas-furca.md) | 熊手で本性を追い出しても、それは必ず戻ってくる（Naturam expellas furca, tamen usque recurret） | ホラティウス | 『書簡詩』1.10.24 |

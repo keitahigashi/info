@@ -64,3 +64,13 @@
 | latin-058 | Veritas filia temporis. | 作者不詳（源流ゲッリウス） | ゲッリウス『アッティカの夜』12.11.7「Veritatem temporis filiam esse」（既存の諺の引用）、定型形はルネサンス期定着 / en.wikipedia.org, en.wikiquote.org | 2026-06-18 |
 | latin-059 | Repetitio est mater studiorum. | 作者不詳（中世ラテン語の諺） | 中世ラテン語の教育上の諺、古典古代の単一典拠なし / en.wiktionary.org, en.wikipedia.org（List of Latin phrases (R)） | 2026-06-18 |
 | latin-060 | Tempora mutantur, nos et mutamur in illis. | 作者不詳（16世紀ドイツ語圏で定着） | 古典出典なし、着想源オウィディウス『変身物語』15.165、最古例フーベリヌス/ナス/ボルボニウス（16世紀）。オウィディウス・ロタール1世帰属は俗説 / en.wikipedia.org, merriam-webster.com | 2026-06-18 |
+| latin-061 | Timeo Danaos et dona ferentes. | ウェルギリウス | ウェルギリウス『アエネーイス』2.49（神官ラオコオンの台詞）。原典の綴りは古形 ferentis / en.wikipedia.org（Beware of Greeks bearing gifts）, perseus.tufts.edu | 2026-06-26 |
+| latin-062 | Video meliora proboque, deteriora sequor. | オウィディウス | オウィディウス『変身物語』7.20–21（メーデイアの独白） / thelatinlibrary.com, en.wikiquote.org（Ovid） | 2026-06-26 |
+| latin-063 | Homo sum, humani nihil a me alienum puto. | テレンティウス | テレンティウス『自虐者』77（クレメスの台詞）。写本により humani nil … の異形 / en.wikiquote.org（Terence）, en.wikipedia.org（Heauton Timorumenos） | 2026-06-26 |
+| latin-064 | Cum dignitate otium. | キケロ | キケロ『セスティウス弁護』98。流布形 otium cum dignitate は後世の語順入替 / en.wikipedia.org（Otium）, cambridge.org（JRS） | 2026-06-26 |
+| latin-065 | Cui prodest scelus, is fecit. | セネカ（小） | セネカ『メーデイア』500–501（メーデイアの台詞）。キケロの cui bono とは別句 / thelatinlibrary.com, it.wikipedia.org（Cui prodest） | 2026-06-26 |
+| latin-066 | Quem di diligunt adulescens moritur. | プラウトゥス | プラウトゥス『バッキデス姉妹』816付近（クリュサルスの台詞）。原型はメナンドロス、ラテン典拠はプラウトゥス / thelatinlibrary.com, perseus.tufts.edu | 2026-06-26 |
+| latin-067 | Bis vincit qui se vincit in victoria. | プブリリウス・シュルス | プブリリウス・シュルス『金言集』B項。短縮形 Vincit qui se vincit は後世の派生 / thelatinlibrary.com, loebclassics.com | 2026-06-26 |
+| latin-068 | Concordia parvae res crescunt. | サッルスティウス | サッルスティウス『ユグルタ戦記』10.6（ミキプサの遺言）。誤引用 concordia res parvae crescunt に注意 / perseus.tufts.edu, en.wikiquote.org（Sallust） | 2026-06-26 |
+| latin-069 | Amicus certus in re incerta cernitur. | エンニウス（キケロが引用） | エンニウスの詩句断片、キケロ『友情について（ラエリウス）』64が引用。キケロ作と誤られがち / perseus.tufts.edu, en.wikiquote.org（Ennius） | 2026-06-26 |
+| latin-070 | Naturam expellas furca, tamen usque recurret. | ホラティウス | ホラティウス『書簡詩』1.10.24 / loebclassics.com, oxfordreference.com | 2026-06-26 |
