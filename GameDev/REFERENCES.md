@@ -656,3 +656,8 @@
 | reference_how-balance-can-affect-difficulty.md | 2026-06-25 |
 | reference_reward-systems-level-design-excerpt.md | 2026-06-25 |
 | reference_game-engine-architecture-excerpt.md | 2026-06-25 |
+| reference_storytelling-games-interactive-media-ch1.md | 2026-06-26 |
+| reference_storytelling-games-interactive-media-ch4-structure.md | 2026-06-26 |
+| reference_iterative-narrative-design-video-games-indie.md | 2026-06-26 |
+| reference_writing-narrative-design-relationship-telltale.md | 2026-06-26 |
+| reference_best-free-tools-narrative-games.md | 2026-06-26 |
