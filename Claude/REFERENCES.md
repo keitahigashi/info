@@ -488,3 +488,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_fable5_subagent_cost_genda.md | 2026-06-25 |
 | reference_claude_code_mcp_security_aurant.md | 2026-06-25 |
 | reference_fable5_medium_business_flatworks.md | 2026-06-25 |
+| reference_claude_code_complete_guide_mochimochi_jun2026.md | 2026-06-26 |
+| reference_mf_cloud_mcp_integration_guide.md | 2026-06-26 |
+| reference_claude_code_managed_agents_intro_kai_kou.md | 2026-06-26 |
+| reference_claude_code_june_features_agents_kai_kou.md | 2026-06-26 |
+| reference_claude_code_nested_subagents_design_kai_kou.md | 2026-06-26 |
