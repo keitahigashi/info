@@ -1,4 +1,4 @@
-# アンデルセン童話（115話）— 出典一覧
+# アンデルセン童話（120話）— 出典一覧
 
 [< 出典一覧に戻る](../REFERENCES.md)
 
@@ -122,4 +122,9 @@
 | andersen-113 | どれが一番幸せだったか | andersen.sdu.dk/vaerk/hersholt/WhichWasTheHappiest_e.html, アンデルセン(1868) | 2026-06-19 |
 | andersen-114 | 年の物語 | andersen.sdu.dk/vaerk/hersholt/TheStoryOfTheYear_e.html, アンデルセン(1852) | 2026-06-19 |
 | andersen-115 | 二人の兄弟 | andersen.sdu.dk/vaerk/hersholt/TwoBrothers_e.html, アンデルセン(1859) | 2026-06-19 |
+| andersen-116 | 砂丘の物語 | andersen.sdu.dk/vaerk/hersholt/AStoryFromTheSandDunes_e.html, アンデルセン(1859) | 2026-06-27 |
+| andersen-117 | ユダヤ娘 | andersen.sdu.dk/vaerk/hersholt/TheJewishGirl_e.html, アンデルセン(1855) | 2026-06-27 |
+| andersen-118 | ニワトリのグレーテの家族 | andersen.sdu.dk/vaerk/hersholt/ChickenGrethesFamily_e.html, アンデルセン(1869) | 2026-06-27 |
+| andersen-119 | ヨハンネ婆さんの話 | andersen.sdu.dk/vaerk/hersholt/WhatOldJohanneTold_e.html, アンデルセン(1872) | 2026-06-27 |
+| andersen-120 | 古い教会の鐘 | andersen.sdu.dk/vaerk/hersholt/TheOldChurchBell_e.html, アンデルセン(1861) | 2026-06-27 |
 <!-- 出典追加時にここへ行を追加 -->
