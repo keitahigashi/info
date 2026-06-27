@@ -65,3 +65,13 @@
 | literature-059 | 私の伯父は実に律儀な人物——本気で病に倒れたとき、自らを敬わせることに成功した。 | アレクサンドル・プーシキン | ru.wikisource.org, en.wikipedia.org | 2026-06-19 |
 | literature-060 | 国は破れ果てても山河は変わらずあり、城下に春が訪れ草木が深く茂る。 | 杜甫 | zh.wikisource.org, gushiwen.cn | 2026-06-19 |
 | literature-061 | ただ願う、人が末永く生き、千里を隔てても共にこの美しい月を眺めんことを。 | 蘇軾 | zh.wikisource.org, gushiwen.cn | 2026-06-19 |
+| literature-062 | 春は明け方が良い。だんだんと白んでゆく山ぎわが少し明るくなって、紫がかった雲が細くたなびいているのが趣深い。 | 清少納言 | ja.wikisource.org, bungobungo.jp | 2026-06-27 |
+| literature-063 | 流れゆく河の流れは絶えることがなく、しかも流れる水はもとの水ではない。 | 鴨長明 | yamanashi-ken.ac.jp, 10000nen.com | 2026-06-27 |
+| literature-064 | 寝台の前に差し込む明るい月の光、地面に降りた霜かと見まがう。頭を上げて山の月を望み、頭を垂れて故郷を思う。 | 李白 | gushiwen.cn, zh.wikisource.org | 2026-06-27 |
+| literature-065 | さあ君、もう一杯この酒を飲み干したまえ。西の陽関を出てしまえば、もう旧友はいないのだから。 | 王維 | dugushici.com, baike.baidu.com | 2026-06-27 |
+| literature-066 | ああ弟よ、あなたのために泣く。あなたは死んではいけません。 | 与謝野晶子 | ja.wikipedia.org, sybrma.sakura.ne.jp | 2026-06-27 |
+| literature-067 | 美しいものは永遠の喜びである。 | ジョン・キーツ | gutenberg.org, en.wikisource.org | 2026-06-27 |
+| literature-068 | 努め、求め、見いだし、そして屈しない。 | アルフレッド・テニスン | en.wikisource.org, en.wikipedia.org | 2026-06-27 |
+| literature-069 | 君は自分の生を変えねばならない。 | ライナー・マリア・リルケ | de.wikisource.org, de.wikipedia.org | 2026-06-27 |
+| literature-070 | 宇宙（他の者は図書館と呼ぶ）は、不定数の、おそらく無限の六角形の回廊から成る。 | ホルヘ・ルイス・ボルヘス | literatura.us, es.wikipedia.org | 2026-06-27 |
+| literature-071 | 第1幕で壁に拳銃を掛けたなら、最後の幕でそれは撃たれねばならない。 | アントン・チェーホフ | ru.wikipedia.org, bigenc.ru | 2026-06-27 |

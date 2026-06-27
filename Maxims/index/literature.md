@@ -1,4 +1,4 @@
-# 文学の名言（61件）
+# 文学の名言（71件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -65,3 +65,13 @@
 | [literature-059](../maxims/literature/literature-059-eugene-onegin-opening.md) | 私の伯父は実に律儀な人物——本気で病に倒れたとき、自らを敬わせることに成功した。 | アレクサンドル・プーシキン | 『エヴゲーニイ・オネーギン』第1章 第1連 |
 | [literature-060](../maxims/literature/literature-060-country-broken-mountains-rivers-remain.md) | 国は破れ果てても山河は変わらずあり、城下に春が訪れ草木が深く茂る。 | 杜甫 | 『春望』首聯 |
 | [literature-061](../maxims/literature/literature-061-but-wish-us-long-life-shared-moon.md) | ただ願う、人が末永く生き、千里を隔てても共にこの美しい月を眺めんことを。 | 蘇軾 | 『水調歌頭・明月幾時有』結句 |
+| [literature-062](../maxims/literature/literature-062-spring-is-the-dawn.md) | 春は明け方が良い。だんだんと白んでゆく山ぎわが少し明るくなって、紫がかった雲が細くたなびいているのが趣深い。 | 清少納言 | 『枕草子』第一段 |
+| [literature-063](../maxims/literature/literature-063-flowing-river-never-ceases.md) | 流れゆく河の流れは絶えることがなく、しかも流れる水はもとの水ではない。 | 鴨長明 | 『方丈記』冒頭 |
+| [literature-064](../maxims/literature/literature-064-quiet-night-thoughts.md) | 寝台の前に差し込む明るい月の光、地面に降りた霜かと見まがう。頭を上げて山の月を望み、頭を垂れて故郷を思う。 | 李白 | 『静夜思』 |
+| [literature-065](../maxims/literature/literature-065-farewell-at-yang-pass.md) | さあ君、もう一杯この酒を飲み干したまえ。西の陽関を出てしまえば、もう旧友はいないのだから。 | 王維 | 『送元二使安西』 |
+| [literature-066](../maxims/literature/literature-066-do-not-offer-your-life.md) | ああ弟よ、あなたのために泣く。あなたは死んではいけません。 | 与謝野晶子 | 詩「君死にたまふことなかれ」 |
+| [literature-067](../maxims/literature/literature-067-thing-of-beauty-joy-forever.md) | 美しいものは永遠の喜びである。 | ジョン・キーツ | 『エンディミオン』第1巻第1行 |
+| [literature-068](../maxims/literature/literature-068-to-strive-to-seek-to-find.md) | 努め、求め、見いだし、そして屈しない。 | アルフレッド・テニスン | 詩「ユリシーズ」最終行 |
+| [literature-069](../maxims/literature/literature-069-you-must-change-your-life.md) | 君は自分の生を変えねばならない。 | ライナー・マリア・リルケ | 詩「アポロの古代トルソー」最終行 |
+| [literature-070](../maxims/literature/literature-070-library-of-babel-universe.md) | 宇宙（他の者は図書館と呼ぶ）は、不定数の、おそらく無限の六角形の回廊から成る。 | ホルヘ・ルイス・ボルヘス | 短編「バベルの図書館」冒頭 |
+| [literature-071](../maxims/literature/literature-071-chekhovs-gun.md) | 第1幕で壁に拳銃を掛けたなら、最後の幕でそれは撃たれねばならない。 | アントン・チェーホフ | 「チェーホフの銃」（1889年書簡・談話） |
