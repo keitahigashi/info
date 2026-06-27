@@ -488,3 +488,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_fable5_subagent_cost_genda.md | 2026-06-25 |
 | reference_claude_code_mcp_security_aurant.md | 2026-06-25 |
 | reference_fable5_medium_business_flatworks.md | 2026-06-25 |
+| reference_claude_mythos_vuln_lac_0626.md | 2026-06-27 |
+| reference_claude_code_devflow_arm_june2026.md | 2026-06-27 |
+| reference_claude_tag_slack_cloudnative_0624.md | 2026-06-27 |
+| reference_claude_tag_slack_itmedia_0624.md | 2026-06-27 |
+| reference_claude_tag_slack_mado_0624.md | 2026-06-27 |
