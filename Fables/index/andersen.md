@@ -1,4 +1,4 @@
-# アンデルセン童話（115話）
+# アンデルセン童話（120話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -119,4 +119,9 @@
 | [andersen-113](../fables/andersen/andersen-113-which-was-the-happiest.md) | どれが一番幸せだったか | 幸福は比較や測定できるものではなく、与えられた役割を誠実に全うし信じる心を持つことの中にある。 |
 | [andersen-114](../fables/andersen/andersen-114-the-story-of-the-year.md) | 年の物語 | 人生の苦難と喜びは必然的なサイクルであり、今の試練を辛抱強く受け入れることで必ず新しい季節が訪れる。 |
 | [andersen-115](../fables/andersen/andersen-115-two-brothers.md) | 二人の兄弟 | 真理を探求する道は科学的であれ哲学的であれ等しく尊く、自らの天性に忠実に生きることが個人と社会の発展をもたらす。 |
+| [andersen-116](../fables/andersen/andersen-116-a-story-from-the-sand-dunes.md) | 砂丘の物語 | 地上の不正や試練に耐えながら信仰を保つ者には、神の摂理によって永遠の命においてすべての報いが与えられる。 |
+| [andersen-117](../fables/andersen/andersen-117-the-jewish-girl.md) | ユダヤ娘 | 神の慈悲は教会の壁で区切られることなく、形式的な宗教帰属よりも魂の誠実さと愛の深さによって人は神に近づける。 |
+| [andersen-118](../fables/andersen/andersen-118-poultry-megs-family.md) | ニワトリのグレーテの家族 | 傲慢な誇りは一族を没落へと導き、運命の車輪は誰にも等しく回る。真の平和は自分の役割を謙虚に受け入れる者のもとにある。 |
+| [andersen-119](../fables/andersen/andersen-119-what-old-johanne-told.md) | ヨハンネ婆さんの話 | 「どうせ何の役にも立たない」という虚無的な諦めは人生の活力を根から枯らす。信仰と行動を持って生きる者だけが困難の中でも尊厳を保てる。 |
+| [andersen-120](../fables/andersen/andersen-120-the-old-church-bell.md) | 古い教会の鐘 | 貧しい出自も苦難も天才の炎を消せない。捨てられた古い鐘でさえ偉大な詩人の不朽の記念碑となる——卑しいものも高い目的のために再生されうる。 |
 <!-- 寓話追加時にここへ行を追加 -->
