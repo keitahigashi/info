@@ -661,3 +661,8 @@
 | reference_iterative-narrative-design-video-games-indie.md | 2026-06-26 |
 | reference_writing-narrative-design-relationship-telltale.md | 2026-06-26 |
 | reference_best-free-tools-narrative-games.md | 2026-06-26 |
+| reference_personality-play-styles-unified-model.md | 2026-06-27 |
+| reference_rational-choice-theory-game-design.md | 2026-06-27 |
+| reference_effective-procedural-generation.md | 2026-06-27 |
+| reference_ac4-naval-prototype-methodology.md | 2026-06-27 |
+| reference_rapid-iterative-prototyping.md | 2026-06-27 |
