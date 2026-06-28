@@ -106,7 +106,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "powershell -c \"Write-Host '========================================' -ForegroundColor Cyan; Write-Host '[CLAUDE CHECKLIST]' -ForegroundColor Yellow; Write-Host '1. CLAUDE.md の絶対ルールを確認したか？' -ForegroundColor White; Write-Host '2. 該当するSKILL.mdを読み込んだか？' -ForegroundColor White; Write-Host '   記事収集 -> skills/article-collector/SKILL.md' -ForegroundColor Gray; Write-Host '3. メモリファイルはコミット対象外にしているか？' -ForegroundColor White; Write-Host '========================================'  -ForegroundColor Cyan\""
+            "command": "powershell -c \"Write-Host '========================================' -ForegroundColor Cyan; Write-Host '[CLAUDE CHECKLIST]' -ForegroundColor Yellow; Write-Host '1. CLAUDE.md の絶対ルールを確認したか？' -ForegroundColor White; Write-Host '2. 該当するSKILL.mdを読み込んだか？' -ForegroundColor White; Write-Host '   記事収集 -> .claude/skills/article-collector/SKILL.md' -ForegroundColor Gray; Write-Host '3. メモリファイルはコミット対象外にしているか？' -ForegroundColor White; Write-Host '========================================'  -ForegroundColor Cyan\""
           }
         ]
       }

@@ -19,7 +19,7 @@
 
 | やること | 参照するSKILL.md | トリガーワード |
 |----------|-----------------|---------------|
-| 記事収集・自動収集ワークフロー | `skills/article-collector/SKILL.md` | 「記事収集して」「ゲーム開発の記事探して」「集積して」「続けて」 |
+| 記事収集・自動収集ワークフロー | `.claude/skills/article-collector/SKILL.md` | 「記事収集して」「ゲーム開発の記事探して」「集積して」「続けて」 |
 
 ## ファイル構成（参照用）
 
@@ -30,4 +30,4 @@
 | `REFERENCES.md` | 収集済み記事テーブル（重複チェックの単一ソース） |
 | `references/` | 記事詳細ファイル（Git管理） |
 | `log/` | デイリー収集ログ |
-| `skills/article-collector/` | 記事収集ワークフロー定義 |
+| `.claude/skills/article-collector/` | 記事収集ワークフロー定義 |
