@@ -493,3 +493,7 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_tag_slack_cloudnative_0624.md | 2026-06-27 |
 | reference_claude_tag_slack_itmedia_0624.md | 2026-06-27 |
 | reference_claude_tag_slack_mado_0624.md | 2026-06-27 |
+| reference_claude_8features_pricing_uravation_june2026.md | 2026-06-28 |
+| reference_claude_mcp_bigquery_advertising_inhouse_june2026.md | 2026-06-28 |
+| reference_github_mcp_automation_onikakanri_june2026.md | 2026-06-28 |
+| reference_claude_bucket_pricing_developersio_june2026.md | 2026-06-28 |
