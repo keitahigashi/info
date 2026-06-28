@@ -666,3 +666,7 @@
 | reference_effective-procedural-generation.md | 2026-06-27 |
 | reference_ac4-naval-prototype-methodology.md | 2026-06-27 |
 | reference_rapid-iterative-prototyping.md | 2026-06-27 |
+| reference_heuristic-analysis-game-ui.md | 2026-06-28 |
+| reference_multiple-menu-systems-apico-design.md | 2026-06-28 |
+| reference_hud-design-techniques-visual-hierarchy.md | 2026-06-28 |
+| reference_ux-ui-hud-inventory-menus.md | 2026-06-28 |
