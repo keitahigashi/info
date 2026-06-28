@@ -125,4 +125,9 @@
 | other-115 | オバタラの創造神話 | ヨルバ神話（西アフリカ・イファ神託） | oriire.com/article/obatala-the-creator-and-wisdom-keeper-in-yoruba-mythology, en.wikipedia.org/wiki/Obatala | 2026-06-20 |
 | other-116 | ペレとヒイアカ | ハワイ神話（Emerson 1915年採録） | gutenberg.org/ebooks/60279, folklorethursday.com/legends/women-quest-saga-pele-hiiaka/ | 2026-06-20 |
 | other-117 | サー・ガウェインと緑の騎士 | アーサー王伝説（Cotton Nero A.x写本、14世紀後半） | en.wikipedia.org/wiki/Sir_Gawain_and_the_Green_Knight | 2026-06-20 |
+| other-118 | テセウスとミノタウロス | 古代ギリシャ神話（プルタルコス『テセウス伝』、アポロドーロス、オウィディウス） | en.wikipedia.org/wiki/Theseus, theoi.com/Hero/Theseus.html | 2026-06-28 |
+| other-119 | ハーメルンの笛吹き男 | ドイツ中世伝説（ハーメルン市年代記1384年、グリム兄弟『ドイツ伝説集』1816年） | en.wikipedia.org/wiki/Pied_Piper_of_Hamelin | 2026-06-28 |
+| other-120 | ロビン・フッドと義賊の精神 | 英国中世バラッド伝承（「A Gest of Robyn Hode」1508年頃） | en.wikipedia.org/wiki/Robin_Hood, britannica.com/topic/Robin-Hood | 2026-06-28 |
+| other-121 | ベオウルフとグレンデル | 古英語叙事詩『ベオウルフ』（写本：コットン・ヴィテリウスA.xv、11世紀初頭） | en.wikipedia.org/wiki/Beowulf, heorot.dk | 2026-06-28 |
+| other-122 | エロスとプシュケ | ローマ文学（アプレイウス『変身物語』第4〜6巻、紀元160年頃） | en.wikipedia.org/wiki/Cupid_and_Psyche, theoi.com/Ouranios/ErosPsyche.html | 2026-06-28 |
 <!-- 出典追加時にここへ行を追加 -->
