@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
   "permissions": {
     "allow": [
       "Bash(cd * && git add *)",
@@ -7,6 +8,40 @@
       "Bash(cd * && git status*)",
       "Bash(cd * && git log*)",
       "Bash(cd * && git diff*)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write|Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell -c \"Write-Host '========================================' -ForegroundColor Cyan; Write-Host '[CLAUDE CHECKLIST]' -ForegroundColor Yellow; Write-Host '1. CLAUDE.md の絶対ルールを確認したか？' -ForegroundColor White; Write-Host '2. 該当するSKILL.mdを読み込んだか？' -ForegroundColor White; Write-Host '   寓話収集 -> .claude/skills/fable-collector/SKILL.md' -ForegroundColor Gray; Write-Host '3. メモリファイルはコミット対象外にしているか？' -ForegroundColor White; Write-Host '========================================'  -ForegroundColor Cyan\""
+          }
+        ]
+      }
+    ],
+    "PermissionRequest": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell -c \"(New-Object Media.SoundPlayer 'D:\\020_Work\\05_environment\\03_shared_assets\\Sounds\\g\\0A55.wav').PlaySync()\""
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell -c \"(New-Object Media.SoundPlayer 'D:\\020_Work\\05_environment\\03_shared_assets\\Sounds\\g\\003B_0008_newtype.wav').PlaySync()\""
+          }
+        ]
+      }
     ]
   }
 }
