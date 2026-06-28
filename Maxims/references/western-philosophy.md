@@ -75,3 +75,13 @@
 | western-philosophy-069 | 私を殺さないものは、私をより強くする | フリードリヒ・ニーチェ | zeno.org, textlog.de | 2026-06-20 |
 | western-philosophy-070 | 宗教は民衆のアヘンである | カール・マルクス | de.wikipedia.org, marx-engels-revisited.de | 2026-06-20 |
 | western-philosophy-071 | 語の意味とは、言語におけるその使用である | ルートヴィヒ・ウィトゲンシュタイン | wittgensteinproject.org, en.wikipedia.org | 2026-06-20 |
+| western-philosophy-072 | 存在するものは生じてきたものへと消滅し、時の定めに従いその不正の罰と償いを支払う | アナクシマンドロス | iep.utm.edu（Anaximander, DK12B1）, en.wikipedia.org | 2026-06-28 |
+| western-philosophy-073 | 何ものも存在しない／存在しても認識できない／認識できても伝達できない | ゴルギアス | en.wikipedia.org（Gorgias, Sextus M. 7.65）, worldhistory.org | 2026-06-28 |
+| western-philosophy-074 | 導きたまえ、ゼウスよ、そして運命よ、定めた道へと | クレアンテス | perseus.tufts.edu（Epictetus, Enchiridion 53）, en.wikiquote.org | 2026-06-28 |
+| western-philosophy-075 | 神の子が死んだ。不適切であるからこそ、まさに信じるに値する | テルトゥリアヌス | en.wikiquote.org（De Carne Christi 5.4）, en.wikipedia.org（Credo quia absurdum） | 2026-06-28 |
+| western-philosophy-076 | 神が存在するなら悪はどこから来るのか、神が存在しないなら善はどこから来るのか | ボエティウス | perseus.tufts.edu（De Consolatione Philosophiae 1）, medieval-sources.com | 2026-06-28 |
+| western-philosophy-077 | 知ある無知 ― 自らが知りえぬと知ることこそ最高の知である | ニコラウス・クザーヌス | plato.stanford.edu（Nicholas of Cusa）, en.wikipedia.org（De Docta Ignorantia） | 2026-06-28 |
+| western-philosophy-078 | 「である」からいつのまにか「べきである」へ移っている | デイヴィッド・ヒューム | plato.stanford.edu（Hume's Moral Philosophy, Treatise 3.1.1）, gutenberg.org | 2026-06-28 |
+| western-philosophy-079 | 自然は人類を苦痛と快楽という二人の主権者の支配下に置いた | ジェレミー・ベンサム | en.wikiquote.org（IPML ch.1）, plato.stanford.edu | 2026-06-28 |
+| western-philosophy-080 | いかなる言明も、改訂をまったく免れることはない | W・V・O・クワイン | en.wikipedia.org（Two Dogmas of Empiricism）, theologie.uzh.ch（Quine 1951 PDF） | 2026-06-28 |
+| western-philosophy-081 | 正義は社会制度の第一の徳である | ジョン・ロールズ | plato.stanford.edu（A Theory of Justice 1971）, goodreads.com | 2026-06-28 |

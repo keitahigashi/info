@@ -1,4 +1,4 @@
-# 西洋哲学（71件）
+# 西洋哲学（81件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -75,3 +75,13 @@
 | [western-philosophy-069](../maxims/western-philosophy/western-philosophy-069-what-does-not-kill-me-makes-me-stronger.md) | 私を殺さないものは、私をより強くする | フリードリヒ・ニーチェ | 『偶像の黄昏』「箴言と矢」8 |
 | [western-philosophy-070](../maxims/western-philosophy/western-philosophy-070-religion-is-the-opium-of-the-people.md) | 宗教は民衆のアヘンである | カール・マルクス | 『ヘーゲル法哲学批判序説』 |
 | [western-philosophy-071](../maxims/western-philosophy/western-philosophy-071-the-meaning-of-a-word-is-its-use-in-the-language.md) | 語の意味とは、言語におけるその使用である | ルートヴィヒ・ウィトゲンシュタイン | 『哲学探究』第I部 §43 |
+| [western-philosophy-072](../maxims/western-philosophy/western-philosophy-072-all-things-pay-penalty-for-their-injustice.md) | 存在するものは、それらが生じてきた当のものへと必然に従って消滅していく。時の定めに従い、その不正に対する罰と償いを互いに支払うのだから | アナクシマンドロス | 断片 DK12 B1（シンプリキオス所引） |
+| [western-philosophy-073](../maxims/western-philosophy/western-philosophy-073-nothing-exists.md) | 第一に、何ものも存在しない。第二に、たとえ存在しても認識できない。第三に、たとえ認識できても伝達できない | ゴルギアス | 『非存在について』（セクストス・エンペイリコス所引） |
+| [western-philosophy-074](../maxims/western-philosophy/western-philosophy-074-lead-me-o-zeus-and-destiny.md) | 導きたまえ、ゼウスよ、そして運命よ、あなた方が私を定めた道へと | クレアンテス | エピクテトス『提要』第53章 所引 |
+| [western-philosophy-075](../maxims/western-philosophy/western-philosophy-075-credible-because-it-is-unfitting.md) | 神の子が死んだ。それは不適切であるからこそ、まさに信じるに値する | テルトゥリアヌス | 『キリストの肉について』第5章4節 |
+| [western-philosophy-076](../maxims/western-philosophy/western-philosophy-076-if-god-exists-whence-evil.md) | もし神が存在するなら、悪はどこから来るのか。もし神が存在しないなら、善はどこから来るのか | ボエティウス | 『哲学の慰め』第1巻 散文4 |
+| [western-philosophy-077](../maxims/western-philosophy/western-philosophy-077-learned-ignorance.md) | 知ある無知 ― 自らが知りえぬということを知ることこそ、最高の知である | ニコラウス・クザーヌス | 『知ある無知について』第1巻 |
+| [western-philosophy-078](../maxims/western-philosophy/western-philosophy-078-you-cannot-derive-ought-from-is.md) | 「である」から、いつのまにか「べきである」へ移っている。この移行はひそやかだが、きわめて重大である | デイヴィッド・ヒューム | 『人間本性論』第3巻 第1部 第1節 |
+| [western-philosophy-079](../maxims/western-philosophy/western-philosophy-079-two-sovereign-masters-pain-and-pleasure.md) | 自然は人類を、苦痛と快楽という二人の主権者の支配のもとに置いた | ジェレミー・ベンサム | 『道徳および立法の諸原理序説』第1章 |
+| [western-philosophy-080](../maxims/western-philosophy/western-philosophy-080-no-statement-is-immune-to-revision.md) | いかなる言明も、改訂をまったく免れることはない | W・V・O・クワイン | 「経験主義の二つのドグマ」（1951年） |
+| [western-philosophy-081](../maxims/western-philosophy/western-philosophy-081-justice-is-the-first-virtue-of-social-institutions.md) | 正義は社会制度の第一の徳である。思考の体系にとって真理がそうであるように | ジョン・ロールズ | 『正義論』第1章 第1節 |
