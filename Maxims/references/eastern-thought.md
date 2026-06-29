@@ -74,3 +74,13 @@
 | eastern-thought-068 | 随処に主と作れば、立処皆な真なり（随処作主立処皆真） | 臨済義玄 | zh.wikisource.org, rinnou.net | 2026-06-21 |
 | eastern-thought-069 | 廓然無聖 | 菩提達磨 | zh.wikisource.org, tripitaka.cbeta.org | 2026-06-21 |
 | eastern-thought-070 | 絶学無為の閑道人（証道歌冒頭） | 永嘉玄覚 | zh.wikisource.org, ja.wikipedia.org | 2026-06-21 |
+| eastern-thought-071 | 人能く道を弘む、道、人を弘むるに非ず | 孔子 | ctext.org, 中華經典名句 | 2026-06-29 |
+| eastern-thought-072 | 生を舎てて義を取る（舎生取義） | 孟子（孟軻） | 5000yan.com, 中華經典名句 | 2026-06-29 |
+| eastern-thought-073 | 天理に依りて牛を解く（庖丁解牛） | 荘子（荘周） | zh.wikisource.org, ctext.org | 2026-06-29 |
+| eastern-thought-074 | 天網恢恢、疏にして失わず | 老子 | daodejing.org, 5000yan.com | 2026-06-29 |
+| eastern-thought-075 | 法は貴きに阿らず、繩は曲れるに撓まず | 韓非（韓非子） | ctext.org, zh.wikisource.org | 2026-06-29 |
+| eastern-thought-076 | 倉廩実つれば則ち礼節を知る | 管仲（管子） | ctext.org, ja.wiktionary.org | 2026-06-29 |
+| eastern-thought-077 | 跬歩を積まざれば、以て千里に至る無し | 荀子（荀況） | gushiwen.cn, people.com.cn | 2026-06-29 |
+| eastern-thought-078 | 趙州狗子・無（狗子還有仏性也無、州云無） | 趙州従諗 | zh.wikisource.org, ja.wikipedia.org | 2026-06-29 |
+| eastern-thought-079 | 本来無一物 | 慧能（六祖） | zh.wikisource.org, engakuji.or.jp | 2026-06-29 |
+| eastern-thought-080 | 行為への権利のみ、果実への権利なし（ギーター2.47） | 作者不詳（バガヴァッド・ギーター） | holy-bhagavad-gita.org, wisdomlib.org | 2026-06-29 |
