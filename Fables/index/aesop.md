@@ -1,4 +1,4 @@
-# イソップ寓話（353話）
+# イソップ寓話（371話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -370,4 +370,9 @@
 | [aesop-366](../fables/aesop/aesop-366-the-cat-and-the-fox.md) | ネコとキツネ | 確実に使いこなせる一つの技を磨くほうが、不確かな多くの技を持つよりも、真の危機に際してはるかに役に立つ |
 | [aesop-367](../fables/aesop/aesop-367-the-ass-and-the-wolf-physician.md) | ロバと狼の医師 | 自分の分をわきまえ、本業に徹せよ。専門外のことに手を出せば、かえって痛い目を見る |
 | [aesop-368](../fables/aesop/aesop-368-the-snail-and-the-fox.md) | カタツムリとキツネ | 速さや多くの能力より、確かな安全と自足できる生き方の方が賢明である |
+| [aesop-369](../fables/aesop/aesop-369-hermes-and-earth.md) | ヘルメスと大地 | 人間が大地から得るものはすべて、最終的に大地へと返される。自然の摂理から逃れることはできない |
+| [aesop-370](../fables/aesop/aesop-370-zeus-and-apollo-archery.md) | ゼウスとアポロンの弓比べ | 真の偉大さは誇示を必要としない。静かな知恵は声高な自慢より尊い |
+| [aesop-371](../fables/aesop/aesop-371-heracles-and-plutus.md) | ヘラクレスとプルートス | 誰と付き合うかが、その人の評判を決める。過去の交友関係は現在の評価に影響する |
+| [aesop-372](../fables/aesop/aesop-372-the-tunny-and-the-dolphin.md) | マグロとイルカ | 強者が弱者を追い詰めすぎると共倒れになる。敵と共に滅ぶ慰めは真の勝利ではない |
+| [aesop-373](../fables/aesop/aesop-373-hermes-statue-babrius.md) | ヘルメスの彫像 | 同じものでも、見る者の立場によってまったく異なる価値を持つ。自分の価値観を他者に押し付けてはならない |
 <!-- 寓話追加時にここへ行を追加 -->
