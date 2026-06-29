@@ -670,3 +670,8 @@
 | reference_multiple-menu-systems-apico-design.md | 2026-06-28 |
 | reference_hud-design-techniques-visual-hierarchy.md | 2026-06-28 |
 | reference_ux-ui-hud-inventory-menus.md | 2026-06-28 |
+| reference_emergent-game-design-tools-vs-keys.md | 2026-06-29 |
+| reference_input-buffering-game-feel.md | 2026-06-29 |
+| reference_difficulty-curves-balance-retention.md | 2026-06-29 |
+| reference_reflections-three-scripting-languages.md | 2026-06-29 |
+| reference_adding-languages-game-engines.md | 2026-06-29 |
