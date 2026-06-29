@@ -158,4 +158,10 @@
 | aesop-367 | ロバと狼の医師 | Perry Index #278, fablesofaesop.com/the-ass-and-the-wolf.html, en.wikipedia.org/wiki/The_Ass_and_the_Wolf | 2026-06-21 |
 | aesop-368 | カタツムリとキツネ | バブリウス伝承、Romulus 類話, fablesofaesop.com/the-snail-and-the-fox.html | 2026-06-21 |
 
+| aesop-369 | ヘルメスと大地 | Perry Index #102, 古代ギリシャ語版アイソポス寓話集, fablesofaesop.com/hermes-and-earth.html | 2026-06-29 |
+| aesop-370 | ゼウスとアポロンの弓比べ | Perry Index #104, 古代ギリシャ語版アイソポス寓話集, fablesofaesop.com/zeus-and-apollo-a-contest-in-archery.html | 2026-06-29 |
+| aesop-371 | ヘラクレスとプルートス | Perry Index #111, パイドロス版（Phaedrus IV-12）, fablesofaesop.com/hercules-plutus.html | 2026-06-29 |
+| aesop-372 | マグロとイルカ | Perry Index #113, バブリウス『寓話集』, fablesofaesop.com/a-thunny-and-a-dolphin.html | 2026-06-29 |
+| aesop-373 | ヘルメスの彫像 | Perry Index #307, バブリウス『寓話集』（詩篇形式）, fablesofaesop.com/hermes-and-the-sculptor.html | 2026-06-29 |
+
 <!-- 出典追加時にここへ行を追加 -->
