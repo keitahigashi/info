@@ -1,4 +1,4 @@
-# 東洋思想（70件）
+# 東洋思想（80件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -74,3 +74,13 @@
 | [eastern-thought-068](../maxims/eastern-thought/eastern-thought-068-be-the-master-everywhere.md) | 随処に主と作れば、立処皆な真なり | 臨済義玄 | 『臨済録』示衆 |
 | [eastern-thought-069](../maxims/eastern-thought/eastern-thought-069-vast-emptiness-nothing-holy.md) | 廓然無聖（からりと開けて、聖なるものなど何もない） | 菩提達磨 | 『碧巌録』第一則 |
 | [eastern-thought-070](../maxims/eastern-thought/eastern-thought-070-man-of-the-way-beyond-learning.md) | もはや学ぶことも作為することもない、何ものにもとらわれぬ道の人をご覧なさい | 永嘉玄覚 | 『証道歌』冒頭 |
+| [eastern-thought-071](../maxims/eastern-thought/eastern-thought-071-man-makes-the-way-great.md) | 道を大きくするのは人であって、道が人を大きくするのではない | 孔子 | 『論語』衛霊公第十五・29 |
+| [eastern-thought-072](../maxims/eastern-thought/eastern-thought-072-give-up-life-for-righteousness.md) | 生も義もともに欲するものだが、両立しえないなら生を捨てて義を取る | 孟子（孟軻） | 『孟子』告子章句上 |
+| [eastern-thought-073](../maxims/eastern-thought/eastern-thought-073-following-the-natural-pattern.md) | 自然の道理に従い、骨の隙間に刃を導いて、もとよりそうである筋目のままに切る | 荘子（荘周） | 『荘子』内篇・養生主 |
+| [eastern-thought-074](../maxims/eastern-thought/eastern-thought-074-heavens-net-is-vast.md) | 天の網は広大で、目が粗いように見えても何一つ取り逃さない | 老子 | 『老子道徳経』第七十三章 |
+| [eastern-thought-075](../maxims/eastern-thought/eastern-thought-075-law-does-not-flatter-the-noble.md) | 法は身分の高い者にもおもねらず、墨縄が曲がりにたわまないようにまっすぐ適用される | 韓非（韓非子） | 『韓非子』有度篇 |
+| [eastern-thought-076](../maxims/eastern-thought/eastern-thought-076-full-granaries-know-propriety.md) | 蔵が満ちてこそ人は礼節を知り、衣食が足りてこそ栄誉と恥を知る | 管仲（管子） | 『管子』牧民篇 |
+| [eastern-thought-077](../maxims/eastern-thought/eastern-thought-077-no-thousand-li-without-steps.md) | 半歩を積み重ねなければ千里に至れず、小さな流れを集めなければ大河や海はできない | 荀子（荀況） | 『荀子』勧学篇 |
+| [eastern-thought-078](../maxims/eastern-thought/eastern-thought-078-zhaozhous-dog-mu.md) | 「犬にも仏性があるか」と問われ、趙州はただ「無」と答えた | 趙州従諗 | 『無門関』第一則 |
+| [eastern-thought-079](../maxims/eastern-thought/eastern-thought-079-originally-not-a-single-thing.md) | 悟りに樹はなく心の鏡に台もない、本来何一つ存在しないのにどこに塵が付こうか | 慧能（六祖） | 『六祖大師法宝壇経』行由品 |
+| [eastern-thought-080](../maxims/eastern-thought/eastern-thought-080-right-to-action-not-its-fruits.md) | 汝には行為への権利のみがあり、その果実への権利は決してない | 作者不詳（バガヴァッド・ギーター） | 『バガヴァッド・ギーター』第2章・第47偈 |
