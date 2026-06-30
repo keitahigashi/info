@@ -1,4 +1,4 @@
-# イソップ寓話（371話）
+# イソップ寓話（376話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -375,4 +375,9 @@
 | [aesop-371](../fables/aesop/aesop-371-heracles-and-plutus.md) | ヘラクレスとプルートス | 誰と付き合うかが、その人の評判を決める。過去の交友関係は現在の評価に影響する |
 | [aesop-372](../fables/aesop/aesop-372-the-tunny-and-the-dolphin.md) | マグロとイルカ | 強者が弱者を追い詰めすぎると共倒れになる。敵と共に滅ぶ慰めは真の勝利ではない |
 | [aesop-373](../fables/aesop/aesop-373-hermes-statue-babrius.md) | ヘルメスの彫像 | 同じものでも、見る者の立場によってまったく異なる価値を持つ。自分の価値観を他者に押し付けてはならない |
+| [aesop-374](../fables/aesop/aesop-374-the-raven-and-the-swan.md) | カラスとハクチョウ | 生まれつきの本性は変えられない。外見を変えようとしても、内なる本質は変わらない |
+| [aesop-375](../fables/aesop/aesop-375-the-kites-and-the-swans.md) | トビとハクチョウ | 今持っている才能を軽んじ、他のものを羨んで真似ようとすると、もとの能力まで失ってしまう |
+| [aesop-376](../fables/aesop/aesop-376-the-bald-knight.md) | 禿げた騎士 | 自分の欠点をユーモアで笑い飛ばせる者は、防御的になる者よりもはるかに強く、人々の尊敬を得る |
+| [aesop-377](../fables/aesop/aesop-377-juno-venus-and-the-hen.md) | ジュノーとヴィーナスとメンドリ | 地位や誇りがいかに高くとも、生まれついた本性からは誰も逃れられない |
+| [aesop-378](../fables/aesop/aesop-378-the-donkey-and-the-lyre.md) | ロバと竪琴 | 優れたものも、それを使いこなす知識や才能を持たない者の手に渡れば、その価値は発揮されない |
 <!-- 寓話追加時にここへ行を追加 -->
