@@ -502,3 +502,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_skills_mastery_acntechjp_zenn.md | 2026-06-29 |
 | reference_claude_code_plugin_marketplace_distribution_hatenabase.md | 2026-06-29 |
 | reference_claude_code_skill_design_operation_21skills_yamato_snow.md | 2026-06-29 |
+| reference_claude_code_harness_memo_april2026_wentz.md | 2026-06-30 |
+| reference_claude_fable5_guide_shiftb_2026.md | 2026-06-30 |
+| reference_vibe_coding_complete_guide_aqua_2026.md | 2026-06-30 |
+| reference_claude_fable5_overview_japan_ai_lab.md | 2026-06-30 |
+| reference_vibe_coding_intro_paiza_claude_code.md | 2026-06-30 |
