@@ -164,4 +164,10 @@
 | aesop-372 | マグロとイルカ | Perry Index #113, バブリウス『寓話集』, fablesofaesop.com/a-thunny-and-a-dolphin.html | 2026-06-29 |
 | aesop-373 | ヘルメスの彫像 | Perry Index #307, バブリウス『寓話集』（詩篇形式）, fablesofaesop.com/hermes-and-the-sculptor.html | 2026-06-29 |
 
+| aesop-374 | カラスとハクチョウ | Perry Index #398, fablesofaesop.com/the-raven-and-the-swan.html, read.gov/aesop | 2026-06-30 |
+| aesop-375 | トビとハクチョウ | Perry Index #397, fablesofaesop.com/the-kites-and-the-swans.html | 2026-06-30 |
+| aesop-376 | 禿げた騎士 | Perry Index #375, fablesofaesop.com/the-bald-knight.html, Wikisource | 2026-06-30 |
+| aesop-377 | ジュノーとヴィーナスとメンドリ | Perry Index #539, fablesofaesop.com/juno-venus-hen.html | 2026-06-30 |
+| aesop-378 | ロバと竪琴 | Perry Index #542, mythfolklore.net/aesopica/oxford/404.htm | 2026-06-30 |
+
 <!-- 出典追加時にここへ行を追加 -->
