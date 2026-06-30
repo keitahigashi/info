@@ -675,3 +675,8 @@
 | reference_difficulty-curves-balance-retention.md | 2026-06-29 |
 | reference_reflections-three-scripting-languages.md | 2026-06-29 |
 | reference_adding-languages-game-engines.md | 2026-06-29 |
+| reference_level-design-environment-stories.md | 2026-06-30 |
+| reference_environmental-storytelling-5-techniques-game-writers.md | 2026-06-30 |
+| reference_level-design-introduction-fundamentals.md | 2026-06-30 |
+| reference_level-design-complete-environment-guide-2025.md | 2026-06-30 |
+| reference_level-design-textbook-architectural-approach-2025.md | 2026-06-30 |
