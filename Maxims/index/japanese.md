@@ -1,4 +1,4 @@
-# 日本の格言・名言（71件）
+# 日本の格言・名言（81件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -75,3 +75,13 @@
 | [japanese-069](../maxims/japanese/japanese-069-skinny-frog-dont-lose.md) | 痩蛙まけるな一茶是に有 | 小林一茶 | 『七番日記』文化13年（1816年） |
 | [japanese-070](../maxims/japanese/japanese-070-reason-emotion-and-willfulness.md) | 智に働けば角が立つ。情に棹させば流される | 夏目漱石 | 『草枕』冒頭（1906年） |
 | [japanese-071](../maxims/japanese/japanese-071-life-not-worth-a-line-of-baudelaire.md) | 人生は一行のボオドレエルにも若かない | 芥川龍之介 | 『或阿呆の一生』「一 時代」（1927年） |
+| [japanese-072](../maxims/japanese/japanese-072-tale-of-genji-opening.md) | いづれの御時にか、女御・更衣あまたさぶらひたまひけるなかに… | 紫式部 | 『源氏物語』「桐壺」冒頭（11世紀初頭） |
+| [japanese-073](../maxims/japanese/japanese-073-morning-rosy-cheeks-evening-bones.md) | 朝には紅顔ありて、夕には白骨となれる身なり | 蓮如 | 『御文章』五帖目第十六通「白骨章」 |
+| [japanese-074](../maxims/japanese/japanese-074-people-are-the-castle.md) | 人は城、人は石垣、人は堀、情けは味方、仇は敵なり | 武田信玄（伝） | 『甲陽軍鑑』品第三十九 |
+| [japanese-075](../maxims/japanese/japanese-075-ask-why-living-trees-bloom.md) | 枯れ木に花咲きたりというとも、先づ生木に花さく故をたづぬべし | 三浦梅園 | 『多賀墨卿君にこたふる書』 |
+| [japanese-076](../maxims/japanese/japanese-076-whip-sounds-crossing-river-at-night.md) | 鞭声粛々 夜河を過る | 頼山陽 | 漢詩「題不識庵撃機山図（川中島）」（『日本楽府』1830年） |
+| [japanese-077](../maxims/japanese/japanese-077-eating-a-persimmon-horyuji-bell.md) | 柿くへば鐘が鳴るなり法隆寺 | 正岡子規 | 句集『寒山落木』（初出1895年） |
+| [japanese-078](../maxims/japanese/japanese-078-soft-skin-hot-blood.md) | やは肌のあつき血汐にふれも見でさびしからずや道を説く君 | 与謝野晶子 | 歌集『みだれ髪』（1901年） |
+| [japanese-079](../maxims/japanese/japanese-079-good-is-realization-of-personality.md) | 善とは一言にていえば人格の実現である | 西田幾多郎 | 『善の研究』第三編「善」第十章（1911年） |
+| [japanese-080](../maxims/japanese/japanese-080-cowardly-pride-arrogant-shame.md) | 臆病な自尊心と、尊大な羞恥心 | 中島敦 | 小説『山月記』（1942年） |
+| [japanese-081](../maxims/japanese/japanese-081-even-kobo-makes-brush-errors.md) | 弘法にも筆の誤り | 作者不詳（ことわざ） | 由来『今昔物語集』巻十一第九話 |

@@ -1,4 +1,4 @@
-# 日本の格言・名言 — 出典一覧（71件）
+# 日本の格言・名言 — 出典一覧（81件）
 
 [< 出典一覧に戻る](../REFERENCES.md)
 
@@ -75,3 +75,13 @@
 | japanese-069 | 痩蛙まけるな一茶是に有 | 小林一茶 | yeahscars.com（『七番日記』文化13年・前書・原文）, haiku-textbook.com（『七番日記』所収・蛙合戦） | 2026-06-22 |
 | japanese-070 | 智に働けば角が立つ。情に棹させば流される | 夏目漱石 | aozora.gr.jp『草枕』, ja.wikipedia.org「草枕」 | 2026-06-22 |
 | japanese-071 | 人生は一行のボオドレエルにも若かない | 芥川龍之介 | aozora.gr.jp『或阿呆の一生』, crd.ndl.go.jp（レファレンス協同DB） | 2026-06-22 |
+| japanese-072 | いづれの御時にか、女御・更衣あまたさぶらひたまひけるなかに… | 紫式部 | ja.wikisource.org「源氏物語/桐壺」（渋谷栄一校訂）, kotobank.jp「源氏物語」 | 2026-06-30 |
+| japanese-073 | 朝には紅顔ありて、夕には白骨となれる身なり | 蓮如 | ja.wikipedia.org「白骨 (御文)」, 浄土真宗本願寺派寺院公式（五帖目第十六通「白骨」） | 2026-06-30 |
+| japanese-074 | 人は城、人は石垣、人は堀、情けは味方、仇は敵なり | 武田信玄（伝） | ja.wikisource.org「甲陽軍鑑/品第卅九」, ja.wikipedia.org「人は城、人は石垣、人は堀…」 | 2026-06-30 |
+| japanese-075 | 枯れ木に花咲きたりというとも、先づ生木に花さく故をたづぬべし | 三浦梅園 | ja.wikipedia.org「三浦梅園」, 岩波文庫『三浦梅園自然哲学論集』（『多賀墨卿君にこたふる書』所収） | 2026-06-30 |
+| japanese-076 | 鞭声粛々 夜河を過る | 頼山陽 | ja.wikipedia.org「頼山陽」, kanshi.roudokus.com（「川中島」原文） | 2026-06-30 |
+| japanese-077 | 柿くへば鐘が鳴るなり法隆寺 | 正岡子規 | ja.wikipedia.org「柿くへば鐘が鳴るなり法隆寺」, haiku-textbook.com | 2026-06-30 |
+| japanese-078 | やは肌のあつき血汐にふれも見でさびしからずや道を説く君 | 与謝野晶子 | aozora.gr.jp『みだれ髪』, ja.wikipedia.org「みだれ髪」 | 2026-06-30 |
+| japanese-079 | 善とは一言にていえば人格の実現である | 西田幾多郎 | aozora.gr.jp『善の研究』, ja.wikipedia.org「善の研究」 | 2026-06-30 |
+| japanese-080 | 臆病な自尊心と、尊大な羞恥心 | 中島敦 | ja.wikisource.org「山月記」, ja.wikipedia.org「山月記」 | 2026-06-30 |
+| japanese-081 | 弘法にも筆の誤り | 作者不詳（ことわざ） | crd.ndl.go.jp（レファレンス協同DB「弘法にも筆の誤り」）, kotobank.jp「弘法にも筆の誤り」 | 2026-06-30 |
