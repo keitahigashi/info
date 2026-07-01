@@ -680,3 +680,8 @@
 | reference_level-design-introduction-fundamentals.md | 2026-06-30 |
 | reference_level-design-complete-environment-guide-2025.md | 2026-06-30 |
 | reference_level-design-textbook-architectural-approach-2025.md | 2026-06-30 |
+| reference_embodied-ai-game-engines-training.md | 2026-07-01 |
+| reference_gdc2025-ai-game-development-multimodal-npc.md | 2026-07-01 |
+| reference_remote-team-communication-async-workflow.md | 2026-07-01 |
+| reference_indie-studio-time-management-motivation-milestones.md | 2026-07-01 |
+| reference_mental-models-player-expectation-game-design.md | 2026-07-01 |
