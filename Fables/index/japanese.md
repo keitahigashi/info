@@ -1,4 +1,4 @@
-# 日本昔話（115話）
+# 日本昔話（120話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -119,4 +119,9 @@
 | [japanese-113](../fables/japanese/japanese-113-tenashi-musume.md) | 手なし娘 | 理不尽な苦難に屈せず信仰と忍耐を貫く者には、神仏の加護が及び失われたものが取り戻される。誠実な心は最終的に報われることを示す。 |
 | [japanese-114](../fables/japanese/japanese-114-toshishun.md) | 杜子春 | 富や仙術より人を愛する温かい心こそ人間の本質であり、親への情愛を捨てて得る境地に真の価値はない。普通の人間として誠実に生きることの尊さを説く。 |
 | [japanese-115](../fables/japanese/japanese-115-ryu-no-ko-taro.md) | 龍の子太郎 | 個人の幸福を超えて弱い者のために力を尽くす連帯の精神こそ、真の生き方である。母の自己犠牲と共同体への献身が人間の生の本質を示す。 |
+| [japanese-116](../fables/japanese/japanese-116-rashomon.md) | 羅生門 | 極限の生存状況では道徳は容易に崩れ、利己心のままに行動することを人は「仕方がない」と正当化する。 |
+| [japanese-117](../fables/japanese/japanese-117-hana-the-nose.md) | 鼻 | 他者の不幸を内心で楽しむ「傍観者の利己主義」と外見コンプレックスへの執着が、人を二重に苦しめることを諷刺する。 |
+| [japanese-118](../fables/japanese/japanese-118-oshira-sama.md) | 馬の首女房（おしらさま） | 人と動物の境を越えた絆の悲劇が死と再生を経て農耕文化の守護神として昇華される、起源神話の教え。 |
+| [japanese-119](../fables/japanese/japanese-119-otoshi-no-kyaku.md) | 大歳の客 | 貧しくとも思いやりある者に歳の神は福をもたらし、心の貧しい者から福は去るという因果応報の教え。 |
+| [japanese-120](../fables/japanese/japanese-120-anchin-and-kiyohime.md) | 安珍・清姫伝説 | 軽率な偽りの約束が引き起こす執念の悲劇と、仏法の功徳による輪廻からの解脱という仏教説話の教え。 |
 <!-- 寓話追加時にここへ行を追加 -->

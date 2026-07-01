@@ -121,4 +121,9 @@
 | japanese-113 | 手なし娘 | kotobank.jp/word/手なし娘-1372879, 関敬吾編『日本昔話大成』第5巻（角川書店, 1978年） | 2026-06-22 |
 | japanese-114 | 杜子春 | aozora.gr.jp/cards/000879/card43015.html, ja.wikipedia.org/wiki/杜子春 | 2026-06-22 |
 | japanese-115 | 龍の子太郎 | ja.wikipedia.org/wiki/龍の子太郎, 松谷みよ子著（講談社, 1960年） | 2026-06-22 |
+| japanese-116 | 羅生門 | ja.wikipedia.org/wiki/羅生門_(小説), wittale.com | 2026-07-01 |
+| japanese-117 | 鼻 | ja.wikipedia.org/wiki/鼻_(芥川龍之介), necojara.com | 2026-07-01 |
+| japanese-118 | 馬の首女房（おしらさま） | ja.wikipedia.org/wiki/おしら様, note.com/norko/n/na51bd1e53022 | 2026-07-01 |
+| japanese-119 | 大歳の客 | kanbenosato.com/minwa/541/, kotobank.jp/word/大歳の客-1281505 | 2026-07-01 |
+| japanese-120 | 安珍・清姫伝説 | ja.wikipedia.org/wiki/安珍・清姫伝説, wakayama-rekishi100.jp/story/042.html | 2026-07-01 |
 <!-- 出典追加時にここへ行を追加 -->
