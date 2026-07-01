@@ -507,3 +507,7 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_vibe_coding_complete_guide_aqua_2026.md | 2026-06-30 |
 | reference_claude_fable5_overview_japan_ai_lab.md | 2026-06-30 |
 | reference_vibe_coding_intro_paiza_claude_code.md | 2026-06-30 |
+| reference_claude_code_enterprise_security_aqua_2026.md | 2026-07-01 |
+| reference_claude_code_security_nonengineer_solvio_zenn.md | 2026-07-01 |
+| reference_claude_code_updates_2026_ai_souken.md | 2026-07-01 |
+| reference_claude_code_security_enterprise_digitalfront_2026.md | 2026-07-01 |
