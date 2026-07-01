@@ -74,3 +74,13 @@
 | chinese-idioms-068 | 水清ければ魚棲まず | 班固 | ctext.org, baike.baidu.com | 2026-06-23 |
 | chinese-idioms-069 | 青は藍より出でて藍より青し | 荀子（荀況） | ctext.org, kotobank.jp | 2026-06-23 |
 | chinese-idioms-070 | 桃李もの言わざれども下自ら蹊を成す | 司馬遷 | ctext.org, kanbun.info | 2026-06-23 |
+| chinese-idioms-071 | 三人成虎 | 劉向（編） | ctext.org, kanbun.info | 2026-07-01 |
+| chinese-idioms-072 | 尾生の信 | 荘周（荘子） | ctext.org, kanbun.info | 2026-07-01 |
+| chinese-idioms-073 | 墨守 | 墨翟（墨子） | ctext.org, kanbun.info | 2026-07-01 |
+| chinese-idioms-074 | 愚公山を移す | 列禦寇（列子）（伝） | ctext.org, kanbun.info | 2026-07-01 |
+| chinese-idioms-075 | 多々益々弁ず | 司馬遷 | ctext.org, ja.wiktionary.org | 2026-07-01 |
+| chinese-idioms-076 | 羊頭狗肉 | 無門慧開 | kanbun.info, kotobank.jp | 2026-07-01 |
+| chinese-idioms-077 | 髀肉の嘆 | 陳寿 | kanbun.info, kotobank.jp | 2026-07-01 |
+| chinese-idioms-078 | 危急存亡の秋 | 諸葛亮 | ja.wikisource.org, kanshi.roudokus.com | 2026-07-01 |
+| chinese-idioms-079 | 羹に懲りて膾を吹く | 屈原 | kanbun.info, dictionary.sanseido-publ.co.jp | 2026-07-01 |
+| chinese-idioms-080 | 洛陽の紙価を高む | 房玄齢ほか（編） | kanbun.info, ja.wikipedia.org | 2026-07-01 |

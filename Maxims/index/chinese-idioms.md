@@ -1,4 +1,4 @@
-# 中国故事成語（70件）
+# 中国故事成語（80件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -74,3 +74,13 @@
 | [chinese-idioms-068](../maxims/chinese-idioms/chinese-idioms-068-water-too-clear-has-no-fish.md) | 水清ければ魚棲まず | 班固 | 『漢書』東方朔伝 |
 | [chinese-idioms-069](../maxims/chinese-idioms/chinese-idioms-069-blue-surpasses-indigo.md) | 青は藍より出でて藍より青し | 荀子（荀況） | 『荀子』勧学篇 |
 | [chinese-idioms-070](../maxims/chinese-idioms/chinese-idioms-070-peach-and-plum-form-a-path.md) | 桃李もの言わざれども下自ら蹊を成す | 司馬遷 | 『史記』李将軍列伝 |
+| [chinese-idioms-071](../maxims/chinese-idioms/chinese-idioms-071-three-men-make-a-tiger.md) | 三人成虎 | 劉向（編） | 『戦国策』魏策二 |
+| [chinese-idioms-072](../maxims/chinese-idioms/chinese-idioms-072-weisheng-faithful-promise.md) | 尾生の信 | 荘周（荘子） | 『荘子』盗跖篇 |
+| [chinese-idioms-073](../maxims/chinese-idioms/chinese-idioms-073-mozi-steadfast-defense.md) | 墨守 | 墨翟（墨子） | 『墨子』公輸篇 |
+| [chinese-idioms-074](../maxims/chinese-idioms/chinese-idioms-074-yugong-moves-the-mountain.md) | 愚公山を移す | 列禦寇（列子）（伝） | 『列子』湯問篇 |
+| [chinese-idioms-075](../maxims/chinese-idioms/chinese-idioms-075-the-more-the-better.md) | 多々益々弁ず | 司馬遷 | 『史記』淮陰侯列伝 |
+| [chinese-idioms-076](../maxims/chinese-idioms/chinese-idioms-076-sheep-head-dog-meat.md) | 羊頭狗肉 | 無門慧開 | 『無門関』第六則 |
+| [chinese-idioms-077](../maxims/chinese-idioms/chinese-idioms-077-lament-of-the-thigh-flesh.md) | 髀肉の嘆 | 陳寿 | 『三国志』蜀書 先主伝 |
+| [chinese-idioms-078](../maxims/chinese-idioms/chinese-idioms-078-critical-moment-of-survival.md) | 危急存亡の秋 | 諸葛亮 | 「出師表」（『三国志』蜀書 諸葛亮伝） |
+| [chinese-idioms-079](../maxims/chinese-idioms/chinese-idioms-079-burned-soup-blow-on-salad.md) | 羹に懲りて膾を吹く | 屈原 | 『楚辞』九章「惜誦」 |
+| [chinese-idioms-080](../maxims/chinese-idioms/chinese-idioms-080-paper-price-of-luoyang.md) | 洛陽の紙価を高む | 房玄齢ほか（編） | 『晋書』文苑・左思伝 |
