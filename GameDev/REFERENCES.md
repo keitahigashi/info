@@ -685,3 +685,8 @@
 | reference_remote-team-communication-async-workflow.md | 2026-07-01 |
 | reference_indie-studio-time-management-motivation-milestones.md | 2026-07-01 |
 | reference_mental-models-player-expectation-game-design.md | 2026-07-01 |
+| reference_game-controls-fitts-adsr-expression.md | 2026-07-02 |
+| reference_bloodborne-responsive-controls-definition.md | 2026-07-02 |
+| reference_user-centred-control-design-ucd.md | 2026-07-02 |
+| reference_game-mechanics-catalog-analog-digital-ja.md | 2026-07-02 |
+| reference_game-ui-design-15-principles.md | 2026-07-02 |
