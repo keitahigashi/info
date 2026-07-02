@@ -1,4 +1,4 @@
-# グリム童話 — 出典一覧（120話）
+# グリム童話 — 出典一覧（125話）
 
 [< 出典一覧に戻る](../REFERENCES.md)
 
@@ -127,4 +127,9 @@
 | grimm-118 | 天国へ行った水のみ百姓 | grimmstories.com/en/grimm_fairy-tales/the_peasant_in_heaven, en.wikipedia.org/wiki/The_Peasant_in_Heaven, KHM167 | 2026-06-23 |
 | grimm-119 | プフリーム親方 | grimmstories.com/ja/grimm_dowa/pufurimu_oyakata, childstories.org/en/master-pfriem-1838.html, KHM178 | 2026-06-23 |
 | grimm-120 | 土まんじゅう | grimmdowaclub.net/khm195/, childstories.org/en/the-grave-mound-1855.html, KHM195 | 2026-06-23 |
+| grimm-121 | 賢い人々 | grimmstories.com/ja/grimm_dowa/kashikoi_hitobito, sites.pitt.edu/~dash/grimm104.html, KHM104 | 2026-07-02 |
+| grimm-122 | 賢い下男 | sites.pitt.edu/~dash/grimm162.html, grimmstories.com/ja/grimm_dowa/kashikoi_shimobe, KHM162 | 2026-07-02 |
+| grimm-123 | やせたリーゼ | grimmstories.com/ja/grimm_dowa/yaseta_rize, childstories.org/ja/lean-lisa-2006.html, KHM168 | 2026-07-02 |
+| grimm-124 | ふくろう | grimmdowaclub.net/khm174/, grimmstories.com/ja/grimm_dowa/fukuro, KHM174 | 2026-07-02 |
+| grimm-125 | 大男と仕立屋 | grimmstories.com/ja/grimm_dowa/ootoko_to_shitateya, grimmdowaclub.net/grimm-fairy-tales-list/, KHM183 | 2026-07-02 |
 <!-- 出典追加時にここへ行を追加 -->
