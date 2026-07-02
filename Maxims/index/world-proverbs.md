@@ -1,4 +1,4 @@
-# 世界のことわざ（69件）
+# 世界のことわざ（79件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -73,3 +73,13 @@
 | [world-proverbs-067](../maxims/world-proverbs/world-proverbs-067-ti-koro-nko-agyina.md) | 頭一つでは評議はできない。 | 作者不詳（アカン語） | Ti koro nko agyina |
 | [world-proverbs-068](../maxims/world-proverbs/world-proverbs-068-repu-ane-roju-vunnada.md) | 明日という日など本当にあるのか。 | 作者不詳（テルグ語） | రేపు అనే రోజు వున్నదా |
 | [world-proverbs-069](../maxims/world-proverbs/world-proverbs-069-doeng-khluon-lngong-kong-ban-chea-preach.md) | 自分の愚かさを自覚する者こそ、やがて賢者となる。 | 作者不詳（クメール語） | ដឹងថាខ្លួនល្ងង់ គង់បានជាប្រាជ្ញ |
+| [world-proverbs-070](../maxims/world-proverbs/world-proverbs-070-julge-hundi-rind-on-rasvane.md) | 勇敢な狼の胸は、脂が乗っている。 | 作者不詳（エストニア語） | Julge hundi rind on rasvane |
+| [world-proverbs-071](../maxims/world-proverbs/world-proverbs-071-bliva-meza-koki-aug-taisni.md) | 密な森では、木々はまっすぐに育つ。 | 作者不詳（ラトビア語） | Blīvā mežā koki aug taisni |
+| [world-proverbs-072](../maxims/world-proverbs/world-proverbs-072-laz-ima-kratke-noge.md) | 嘘には短い足がある。 | 作者不詳（スロベニア語） | Laž ima kratke noge |
+| [world-proverbs-073](../maxims/world-proverbs/world-proverbs-073-gortoz-pell-gortoz-gwell.md) | 長く待つほど、より良いものが訪れる。 | 作者不詳（ブルトン語） | Gortoz pell, gortoz gwell |
+| [world-proverbs-074](../maxims/world-proverbs/world-proverbs-074-agac-bar-verende-basin-asagi-diker.md) | 木は実をつけると、こずえを垂れる。 | 作者不詳（アゼルバイジャン語） | Ağac bar verəndə başın aşağı dikər |
+| [world-proverbs-075](../maxims/world-proverbs/world-proverbs-075-one-rotten-fish-spoils-the-boat.md) | 一匹の腐った魚のせいで、舟一杯が臭くなる。 | 作者不詳（ビルマ語） | ငါးခုံးမတစ်ကောင်ကြောင့် တစ်လှေလုံးပုပ် |
+| [world-proverbs-076](../maxims/world-proverbs/world-proverbs-076-gharoghari-matichya-chuli.md) | どの家にも、土でできたかまどがある。 | 作者不詳（マラーティー語） | घरोघरी मातीच्या चुली |
+| [world-proverbs-077](../maxims/world-proverbs/world-proverbs-077-hasige-iddashtu-kalu-chachu.md) | 寝床のある分だけ、脚を伸ばせ。 | 作者不詳（カンナダ語） | ಹಾಸಿಗೆ ಇದ್ದಷ್ಟು ಕಾಲು ಚಾಚು |
+| [world-proverbs-078](../maxims/world-proverbs/world-proverbs-078-ayac-xictli-in-tlalticpac.md) | 地上に、取るに足らぬ者は一人もいない。 | 作者不詳（ナワトル語） | Ayac xictli in tlalticpac |
+| [world-proverbs-079](../maxims/world-proverbs/world-proverbs-079-ndokyiramo-ndotykyi.md) | 「雨さえ降らなければ雨漏りはしない」と、あばら家の主は言う。 | 作者不詳（グアラニー語） | Ndokýiramo ndotykýi, he'i óga osoropáva |

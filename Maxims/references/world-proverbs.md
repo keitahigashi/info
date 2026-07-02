@@ -73,3 +73,13 @@
 | world-proverbs-067 | 頭一つでは評議はできない。 | 作者不詳（アカン語） | adinkrasymbols.org, journal.njrcs.org | 2026-06-24 |
 | world-proverbs-068 | 明日という日など本当にあるのか。 | 作者不詳（テルグ語） | en.wiktionary.org, en.wikiquote.org | 2026-06-24 |
 | world-proverbs-069 | 自分の愚かさを自覚する者こそ、やがて賢者となる。 | 作者不詳（クメール語） | en.wiktionary.org, tangoun.wordpress.com, khmerdon.wordpress.com | 2026-06-24 |
+| world-proverbs-070 | 勇敢な狼の胸は、脂が乗っている。 | 作者不詳（エストニア語） | lingvist.com, estonianworld.com | 2026-07-02 |
+| world-proverbs-071 | 密な森では、木々はまっすぐに育つ。 | 作者不詳（ラトビア語） | ling-app.com, proverbicals.com | 2026-07-02 |
+| world-proverbs-072 | 嘘には短い足がある。 | 作者不詳（スロベニア語） | en.wikiquote.org, sl.wikiquote.org, pons.com | 2026-07-02 |
+| world-proverbs-073 | 長く待つほど、より良いものが訪れる。 | 作者不詳（ブルトン語） | en.wikiquote.org, fr.wiktionary.org | 2026-07-02 |
+| world-proverbs-074 | 木は実をつけると、こずえを垂れる。 | 作者不詳（アゼルバイジャン語） | simple.wikiquote.org, proverbicals.com | 2026-07-02 |
+| world-proverbs-075 | 一匹の腐った魚のせいで、舟一杯が臭くなる。 | 作者不詳（ビルマ語） | asiapearltravels.com, edge.com.mm | 2026-07-02 |
+| world-proverbs-076 | どの家にも、土でできたかまどがある。 | 作者不詳（マラーティー語） | en.wiktionary.org, thestudykatta.com | 2026-07-02 |
+| world-proverbs-077 | 寝床のある分だけ、脚を伸ばせ。 | 作者不詳（カンナダ語） | knowaboutkannadalanguage.blogspot.com, madhurab.com | 2026-07-02 |
+| world-proverbs-078 | 地上に、取るに足らぬ者は一人もいない。 | 作者不詳（古典ナワトル語） | nahuatl.wired-humanities.org, lingalot.com | 2026-07-02 |
+| world-proverbs-079 | 「雨さえ降らなければ雨漏りはしない」と、あばら家の主は言う。 | 作者不詳（グアラニー語） | alparaguay.blogspot.com, portalguarani.com | 2026-07-02 |
