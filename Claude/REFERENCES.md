@@ -516,3 +516,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_multiagent_dev_guide_startlink.md | 2026-07-02 |
 | reference_mcp_server_details_classmethod.md | 2026-07-02 |
 | reference_mcp_practice_guide_aqua_2026.md | 2026-07-02 |
+| reference_claude_code_workflow_guide_aqua_2026.md | 2026-07-03 |
+| reference_claude_code_use_cases_15_jinrai.md | 2026-07-03 |
+| reference_claude_code_automation_10cases_uravation.md | 2026-07-03 |
+| reference_claude_code_workflow_studio_ai_driven.md | 2026-07-03 |
+| reference_claude_code_week22_official.md | 2026-07-03 |
