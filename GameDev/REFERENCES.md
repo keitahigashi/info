@@ -690,3 +690,7 @@
 | reference_user-centred-control-design-ucd.md | 2026-07-02 |
 | reference_game-mechanics-catalog-analog-digital-ja.md | 2026-07-02 |
 | reference_game-ui-design-15-principles.md | 2026-07-02 |
+| reference_architecture-performance-games-tradeoffs.md | 2026-07-03 |
+| reference_modular-monolith-indie-architecture.md | 2026-07-03 |
+| reference_enjoyable-game-architecture-layered.md | 2026-07-03 |
+| reference_game-engine-layered-architecture-build-vs-buy.md | 2026-07-03 |
