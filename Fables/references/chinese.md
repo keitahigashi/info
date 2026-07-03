@@ -129,4 +129,9 @@
 | chinese-119 | 老当益壮 | 南朝宋・范曄著『後漢書』馬援列伝, ctext.org（後漢書・馬援列伝）, yoji-jukugo.com, kotobank.jp | 2026-06-24 |
 | chinese-120 | 一諾千金 | 前漢・司馬遷著『史記』季布・欒布列伝, ja.wikipedia.org（季布）, dict.idioms.moe.edu.tw（一諾千金）, epochtimes.com | 2026-06-24 |
 | chinese-121 | 伯楽相馬 | 唐・韓愈著『雑説』第四篇（馬説）, kanbun.info（千里の馬）, ja.wikipedia.org（伯楽）, epochtimes.com | 2026-06-24 |
+| chinese-122 | 負荊請罪 | 前漢・司馬遷著『史記』廉頗藺相如列伝, zh.wikipedia.org（負荊請罪）, dict.idioms.moe.edu.tw | 2026-07-03 |
+| chinese-123 | 一葉知秋 | 前漢・劉安編『淮南子』説山訓, kanbun.info（一葉落ちて天下の秋を知る）, idiom-encyclopedia.com | 2026-07-03 |
+| chinese-124 | 孔融讓梨 | 南北朝・范曄著『後漢書』孔融伝注引『融家伝』, 宋代『三字経』, m.gushiwen.cn, baike.baidu.com | 2026-07-03 |
+| chinese-125 | 竭澤而漁 | 戦国・呂不韋編『呂氏春秋』孝行覧・義賞篇, dict.idioms.moe.edu.tw, baike.baidu.com（竭泽而渔） | 2026-07-03 |
+| chinese-126 | 功虧一簣 | 西周・『尚書（書経）』周書・旅獒篇, epochtimes.com（功虧一簣）, ctext.org（尚書・旅獒） | 2026-07-03 |
 <!-- 出典追加時にここへ行を追加 -->
