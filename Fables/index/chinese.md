@@ -125,4 +125,9 @@
 | [chinese-119](../fables/chinese/chinese-119-old-age-grows-stronger.md) | 老当益壮 | 年齢を言い訳にせず、老いてもなお志と気概を持ち続けることが真の大丈夫であり、困難なときほど意志を固くすべきである |
 | [chinese-120](../fables/chinese/chinese-120-one-promise-worth-a-thousand-gold.md) | 一諾千金 | 約束を軽んじず、一度誓った言葉を必ず守る誠実さこそが、黄金よりも重い信頼と人望を生む |
 | [chinese-121](../fables/chinese/chinese-121-bole-recognizes-the-thoroughbred.md) | 伯楽相馬 | どれほどの才能があっても、それを見出す識者（伯楽）がいなければ才能は埋もれ滅びる。人材を発見し活かす者の責任は重い |
+| [chinese-122](../fables/chinese/chinese-122-carrying-thorns-to-beg-forgiveness.md) | 負荊請罪 | 過ちを知ったら自ら頭を下げる勇気と、私怨より国家の大局を優先する心が、真の信頼と友情を生む |
+| [chinese-123](../fables/chinese/chinese-123-one-leaf-heralds-autumn.md) | 一葉知秋 | 身近な細部の変化を見過ごさない観察眼と、そこから全体を推し量る洞察力が、賢者を凡人から分かつ |
+| [chinese-124](../fables/chinese/chinese-124-kong-rong-yields-the-pear.md) | 孔融讓梨 | 年少者が自ら小さいものを取り年長者に大きいものを譲る謙譲の精神は、幼いころから身につけることで生涯の徳となる |
+| [chinese-125](../fables/chinese/chinese-125-drain-the-pond-to-catch-all-the-fish.md) | 竭澤而漁 | 目先の利益のために根本となる資源や信用を使い果たせば翌年には何も残らない。長期的な視野こそが真の賢策である |
+| [chinese-126](../fables/chinese/chinese-126-ruin-achievement-for-lack-of-one-final-basket.md) | 功虧一簣 | 九仞の山をほぼ築き上げながら最後の一簣を惜しんで完成させないように、終盤の慢心こそが最も危険な失敗の原因となる |
 <!-- 寓話追加時にここへ行を追加 -->
