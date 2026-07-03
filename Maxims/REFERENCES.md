@@ -11,8 +11,8 @@
 | 日本の格言・名言 | 81 | [出典を見る](references/japanese.md) |
 | 中国故事成語 | 80 | [出典を見る](references/chinese-idioms.md) |
 | 世界のことわざ | 79 | [出典を見る](references/world-proverbs.md) |
-| 著名人の言葉 | 81 | [出典を見る](references/notable-figures.md) |
+| 著名人の言葉 | 91 | [出典を見る](references/notable-figures.md) |
 | ラテン語の格言 | 70 | [出典を見る](references/latin.md) |
 | 文学の名言 | 71 | [出典を見る](references/literature.md) |
 | 創作の名言 | 34 | [出典を見る](references/fiction.md) |
-| **合計** | **657** | |
+| **合計** | **667** | |

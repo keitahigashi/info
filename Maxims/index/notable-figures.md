@@ -1,4 +1,4 @@
-# 著名人の言葉（81件）
+# 著名人の言葉（91件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -85,3 +85,13 @@
 | [notable-figures-079](../maxims/notable-figures/notable-figures-079-more-constraints-more-freedom.md) | 自らに多くの制約を課せば課すほど、精神を縛る鎖から解き放たれて自由になる | イーゴリ・ストラヴィンスキー | 『音楽の詩学』第3講（1942年） |
 | [notable-figures-080](../maxims/notable-figures/notable-figures-080-each-day-i-am-reborn.md) | 私は毎日生まれ変わる。毎日また一から始めなければならない | パブロ・カザルス | 自伝『Joys and Sorrows』（1970年） |
 | [notable-figures-081](../maxims/notable-figures/notable-figures-081-inspiration-visits-not-the-lazy.md) | 霊感とは、怠け者を訪れることを好まぬ客人だ。それは自分を呼ぶ者のもとに現れる | ピョートル・チャイコフスキー | フォン・メック夫人宛書簡（1878年） |
+| [notable-figures-082](../maxims/notable-figures/notable-figures-082-feet-wings-to-fly.md) | 足なんて、翼があって飛べるのに、何のために要るというの | フリーダ・カーロ | 『フリーダ・カーロの日記』（1953年） |
+| [notable-figures-083](../maxims/notable-figures/notable-figures-083-one-is-not-born-a-woman.md) | 人は女に生まれるのではない、女になるのだ | シモーヌ・ド・ボーヴォワール | 『第二の性』第2巻（1949年） |
+| [notable-figures-084](../maxims/notable-figures/notable-figures-084-beauty-will-save-the-world.md) | 美が世界を救うだろう | フョードル・ドストエフスキー | 『白痴』第3部（1869年） |
+| [notable-figures-085](../maxims/notable-figures/notable-figures-085-gutter-looking-at-stars.md) | 我々は皆どぶの中にいる。しかしその中には、星を見上げている者もいる | オスカー・ワイルド | 『ウィンダミア卿夫人の扇』第3幕（1892年） |
+| [notable-figures-086](../maxims/notable-figures/notable-figures-086-where-the-mind-is-without-fear.md) | 心に恐れがなく、頭を高く掲げていられるところ、知が自由であるところ | ラビンドラナート・タゴール | 『ギタンジャリ』第35詩（1912年） |
+| [notable-figures-087](../maxims/notable-figures/notable-figures-087-problem-of-the-color-line.md) | 二十世紀の問題は、カラー・ライン（人種の境界線）の問題である | W・E・B・デュボイス | 『黒人のたましい』（1903年） |
+| [notable-figures-088](../maxims/notable-figures/notable-figures-088-a-why-to-live.md) | 生きる「なぜ」を持つ者は、ほとんどあらゆる「いかに」にも耐えられる | フリードリヒ・ニーチェ | 『偶像の黄昏』（1888年） |
+| [notable-figures-089](../maxims/notable-figures/notable-figures-089-ignorant-people-blind-instrument.md) | 無知な民衆は、自らの破滅をもたらす盲目の道具である | シモン・ボリバル | アンゴスチュラ演説（1819年） |
+| [notable-figures-090](../maxims/notable-figures/notable-figures-090-two-kinds-of-music.md) | 音楽には二種類しかない。良い音楽と、その他の音楽だ | デューク・エリントン | 『Music Journal』論説（1962年） |
+| [notable-figures-091](../maxims/notable-figures/notable-figures-091-feeling-for-the-organism.md) | 私はトウモロコシの一株一株を親密に知っている。それらを知ることこそが大きな喜びなのだ | バーバラ・マクリントック | 『A Feeling for the Organism』（1983年） |

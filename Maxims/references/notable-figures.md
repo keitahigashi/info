@@ -85,3 +85,13 @@
 | notable-figures-079 | 自らに多くの制約を課せば課すほど、精神を縛る鎖から解き放たれて自由になる | イーゴリ・ストラヴィンスキー | 『Poétique musicale（音楽の詩学）』第3講「La composition musicale」1942年（ハーヴァード大学ノートン講義）/ hup.harvard.edu（Harvard University Press 公式書誌）, Flammarion版（仏語原典） | 2026-06-25 |
 | notable-figures-080 | 私は毎日生まれ変わる。毎日また一から始めなければならない | パブロ・カザルス | 自伝『Joys and Sorrows: Reflections』A. E. カーン編、Simon & Schuster, 1970年 / archive.org（原書全文）, themarginalian.org | 2026-06-25 |
 | notable-figures-081 | 霊感とは、怠け者を訪れることを好まぬ客人だ。それは自分を呼ぶ者のもとに現れる | ピョートル・チャイコフスキー | ナデジダ・フォン・メック夫人宛書簡 1878-06-24付（露暦）/ ru.wikisource.org（書簡全文）, tchaikov.ru。**留意**: 英語流布の「我々は常に働かねばならない…」は1878-03-05/17付の別書簡 | 2026-06-25 |
+| notable-figures-082 | 足なんて、翼があって飛べるのに、何のために要るというの | フリーダ・カーロ | 『フリーダ・カーロの日記（El Diario de Frida Kahlo, 1944–1954）』1953年 p.134、脚が花瓶に変わる水彩スケッチの自筆 / Scala Archives（日記p.134一次画像）, en.wikiquote.org | 2026-07-03 |
+| notable-figures-083 | 人は女に生まれるのではない、女になるのだ | シモーヌ・ド・ボーヴォワール | 『第二の性（Le Deuxième Sexe）』第2巻「体験」第1部冒頭、Gallimard, 1949年 / fr.wikipedia.org, gallimard.fr（公式書誌） | 2026-07-03 |
+| notable-figures-084 | 美が世界を救うだろう | フョードル・ドストエフスキー | 『白痴（Идиот）』第3部（第5章）、1869年。ムイシュキン公爵の言葉 / en.wikipedia.org（Prince Myshkin）, sparknotes.com | 2026-07-03 |
+| notable-figures-085 | 我々は皆どぶの中にいる。しかしその中には、星を見上げている者もいる | オスカー・ワイルド | 戯曲『ウィンダミア卿夫人の扇（Lady Windermere's Fan）』第3幕、1892年（ダーリントン卿の台詞）/ goodreads.com, interestingliterature.com | 2026-07-03 |
+| notable-figures-086 | 心に恐れがなく、頭を高く掲げていられるところ、知が自由であるところ | ラビンドラナート・タゴール | 『ギタンジャリ（Gitanjali）』第35詩、英語版 India Society 1912年（ベンガル語原詩は『Naivedya』1901年所収、自訳）/ poetryfoundation.org, en.wikipedia.org | 2026-07-03 |
+| notable-figures-087 | 二十世紀の問題は、カラー・ライン（人種の境界線）の問題である | W・E・B・デュボイス | 『黒人のたましい（The Souls of Black Folk）』1903年、序文「The Forethought」・第2章冒頭 / avalon.law.yale.edu（イェール大 全文）, gutenberg.org | 2026-07-03 |
+| notable-figures-088 | 生きる「なぜ」を持つ者は、ほとんどあらゆる「いかに」にも耐えられる | フリードリヒ・ニーチェ | 『偶像の黄昏（Götzen-Dämmerung）』「箴言と矢」第12節、1888年 / zeno.org（原文）, quoteinvestigator.com。**留意**: フランクル『夜と霧』引用の「Wer ein Warum hat…」は言い換え版 | 2026-07-03 |
+| notable-figures-089 | 無知な民衆は、自らの破滅をもたらす盲目の道具である | シモン・ボリバル | 「アンゴスチュラ演説（Discurso de Angostura）」1819-02-15、アンゴスチュラ議会 / es.wikisource.org（演説全文）, citas.in | 2026-07-03 |
+| notable-figures-090 | 音楽には二種類しかない。良い音楽と、その他の音楽だ | デューク・エリントン | 論説「Where Is Jazz Going?」『Music Journal』1962年（『The Duke Ellington Reader』再録）/ en.wikiquote.org, therestisnoise.com。**注意**: 短縮版はアームストロング等にも俗に帰される | 2026-07-03 |
+| notable-figures-091 | 私はトウモロコシの一株一株を親密に知っている。それらを知ることこそが大きな喜びなのだ | バーバラ・マクリントック | E. F. Keller『A Feeling for the Organism: The Life and Work of Barbara McClintock』W. H. Freeman, 1983年 / todayinsci.com, nobelprize.org | 2026-07-03 |
