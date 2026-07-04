@@ -1,0 +1,29 @@
+
+ゲーム開発ナレッジベースの記事自動収集を実行する。
+
+## 手順
+1. `GameDev/.claude/skills/article-collector/SKILL.md` を読み、収集ワークフローに厳密に従う
+2. `GameDev/CLAUDE.md` の絶対ルールを確認する
+3. `GameDev/REFERENCES.md`（重複チェックの単一ソース）と `GameDev/log/` の直近ログを確認し、前回の検索キーワード・カテゴリを把握する
+4. SKILL の Phase 1〜5 を順番に実行する
+   （8カテゴリのローテーション・検索キーワード戦略・ソース優先度・選別基準・件数上限・ファイル形式はすべてSKILLに従う）
+
+## リモート実行のオーバーライド
+- 本ルーチンはリモート定期実行用。SKILL の「commit/push はユーザー確認を待つ」は
+  ローカル対話用の記述であり、リモート実行では適用しない
+- 全ファイル更新後、確認なしで git add → commit → push → PR(auto-merge) まで自動完了する
+- ログにPR情報（URL・番号・ラベル）を記載しない（マージ後のブランチ追記がmainに反映されず不要差分を生むため）
+
+## このルーチン固有のパラメータ
+- 収集単位: 1回の実行で最大5記事
+- コミットメッセージ: `docs: add N gamedev article references ({記事タイトル要約})`
+- 作業ディレクトリ: `GameDev/`
+- 記述ルール: 特定エンジン固有の記事は汎用パターンとして抽象化可能な場合のみ採用し、英語の専門用語は原語を併記する（詳細はSKILL）
+
+## ブランチ運用
+- main 以外のブランチで作業した場合、push 後に PR を作成する:
+
+    gh pr create --base main --head "$(git branch --show-current)" \
+      --title "<コミットメッセージと同じ内容>" --body "<変更概要を1〜3行>" --label "auto-merge"
+
+- `--label` 付与でエラーが出た場合は、ラベルなしで作成後 `gh pr edit <PR番号> --add-label auto-merge` で後付けする

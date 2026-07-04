@@ -1,0 +1,28 @@
+
+世界の寓話ナレッジベース Fables のデイリー収集を実行する。
+
+## 手順
+1. `Fables/.claude/skills/fable-collector/SKILL.md` を読み、収集ワークフローに厳密に従う
+2. `Fables/CLAUDE.md` の絶対ルールを確認する
+3. `Fables/log/` の直近ログから前回カテゴリを確認し、SKILL のローテーション順で次の1カテゴリを選ぶ
+4. SKILL の Step 1〜8 を順番に実行する
+   （ローテーション順・検索キーワード・選別基準・件数上限・ファイル形式・index/references更新はすべてSKILLに従う）
+
+## リモート実行のオーバーライド
+- 本ルーチンはリモート定期実行用。SKILL の「git commit / push は行わない」は
+  ローカル対話用の記述であり、リモート実行では適用しない
+- 全ファイル更新後、確認なしで git add → commit → push → PR(auto-merge) まで自動完了する
+- ログにPR情報（URL・番号・ラベル）を記載しない（マージ後のブランチ追記がmainに反映されず不要差分を生むため）
+
+## このルーチン固有のパラメータ
+- 収集単位: 1回の収集は1カテゴリ・最大5話
+- コミットメッセージ: `docs(fables): add N fables ({カテゴリ名}/{タイトル要約})`
+- 作業ディレクトリ: `Fables/`
+
+## ブランチ運用
+- main 以外のブランチで作業した場合、push 後に PR を作成する:
+
+    gh pr create --base main --head "$(git branch --show-current)" \
+      --title "<コミットメッセージと同じ内容>" --body "<変更概要を1〜3行>" --label "auto-merge"
+
+- `--label` 付与でエラーが出た場合は、ラベルなしで作成後 `gh pr edit <PR番号> --add-label auto-merge` で後付けする
