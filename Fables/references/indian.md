@@ -147,4 +147,9 @@
 | indian-133 | ビルバルの粥（皇帝の矛盾を照らした知恵） | parenting.firstcry.com（Birbal's Khichdi）, safehugs.in | 2026-06-25 |
 | indian-134 | クサ本生譚（醜い王子と美しき妃） | sacred-texts.com/bud/j5/j5030.htm, thejatakatales.com | 2026-06-25 |
 
+| indian-135 | 宝を求めた四人のバラモン | talesofpanchatantra.com/the-four-treasure-seekers | 2026-07-04 |
+| indian-136 | 砂漠に水脈を見つけた隊商長 | ancient-buddhist-texts.net/English-Texts/Jataka/002.htm | 2026-07-04 |
+| indian-137 | 教えを聞かなかった子鹿 | ancient-buddhist-texts.net/English-Texts/Jataka/015.htm | 2026-07-04 |
+| indian-138 | 鬼を見破った賢い商人 | thejatakatales.com/apannaka-jataka-1/ | 2026-07-04 |
+| indian-139 | 獅子と鼠と猫——使い捨ての同盟 | kidsgen.com/stories/hitopadesha-tales/the-lion-the-mouse-and-the-cat.htm | 2026-07-04 |
 <!-- 出典追加時にここへ行を追加 -->
