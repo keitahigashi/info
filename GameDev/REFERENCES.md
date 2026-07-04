@@ -694,3 +694,8 @@
 | reference_modular-monolith-indie-architecture.md | 2026-07-03 |
 | reference_enjoyable-game-architecture-layered.md | 2026-07-03 |
 | reference_game-engine-layered-architecture-build-vs-buy.md | 2026-07-03 |
+| reference_narrative-mission-design-doc.md | 2026-07-04 |
+| reference_engaging-level-design-combat-pt3.md | 2026-07-04 |
+| reference_flow-channel-game-design.md | 2026-07-04 |
+| reference_ryu-ga-gotoku-narrative-gdc2025.md | 2026-07-04 |
+| reference_pacing-problems-game-design.md | 2026-07-04 |
