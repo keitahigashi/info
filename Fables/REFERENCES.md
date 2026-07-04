@@ -11,7 +11,7 @@
 | 中国故事 | 126 | [出典を見る](references/chinese.md) |
 | グリム童話 | 125 | [出典を見る](references/grimm.md) |
 | アンデルセン童話 | 120 | [出典を見る](references/andersen.md) |
-| インド寓話 | 134 | [出典を見る](references/indian.md) |
+| インド寓話 | 139 | [出典を見る](references/indian.md) |
 | アフリカ民話 | 125 | [出典を見る](references/african.md) |
 | その他 | 122 | [出典を見る](references/other.md) |
-| **合計** | **1248** | |
+| **合計** | **1253** | |

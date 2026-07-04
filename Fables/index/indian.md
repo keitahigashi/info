@@ -1,4 +1,4 @@
-# インド寓話（134話）
+# インド寓話（139話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -138,4 +138,9 @@
 | [indian-132](../fables/indian/indian-132-ekalavya-thumb.md) | エーカラヴィヤの親指（師への究極の誓い） | 真の師弟の誓いは、いかなる代償を払っても貫かれる——しかしその代償が正当かは問われ続ける |
 | [indian-133](../fables/indian/indian-133-birbal-khichdi.md) | ビルバルの粥（皇帝の矛盾を照らした知恵） | 不公平な屁理屈は、同じ論理を使って反論されてこそ崩れる |
 | [indian-134](../fables/indian/indian-134-kusa-jataka.md) | クサ本生譚（醜い王子と美しき妃） | 真の愛情と誠実な忍耐は外見の壁を超え、やがて相手の心を開く |
+| [indian-135](../fables/indian/indian-135-four-treasure-seekers.md) | 宝を求めた四人のバラモン | 満足を知らず際限なく求め続ける者は、永続する苦しみを自ら招く |
+| [indian-136](../fables/indian/indian-136-vannupatha-jataka.md) | 砂漠に水脈を見つけた隊商長 | 絶望的な状況でも諦めずに理性で打開策を探し続ける者が、自他の命を救う |
+| [indian-137](../fables/indian/indian-137-kharadiya-jataka.md) | 教えを聞かなかった子鹿 | 賢者の教えを先延ばしにし続けた者は、やがて取り返しのつかない結末を自ら招く |
+| [indian-138](../fables/indian/indian-138-apannaka-jataka.md) | 鬼を見破った賢い商人 | 甘言で誘う者を盲信せず、理性と証拠で真偽を見極めよ。正道を守る者だけが生き残る |
+| [indian-139](../fables/indian/indian-139-lion-mouse-cat.md) | 獅子と鼠と猫——使い捨ての同盟 | 目的のためだけに他者を利用し用済みになれば捨てる者には、真の同盟も友情も生まれない |
 <!-- 寓話追加時にここへ行を追加 -->
