@@ -1,4 +1,4 @@
-# ラテン語の格言（70件）
+# ラテン語の格言（80件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -74,3 +74,13 @@
 | [latin-068](../maxims/latin/latin-068-concordia-parvae-res-crescunt.md) | 協調によって小事も成長し、不和によって大事も崩れ去る（Concordia parvae res crescunt） | サッルスティウス | 『ユグルタ戦記』10.6 |
 | [latin-069](../maxims/latin/latin-069-amicus-certus-in-re-incerta.md) | 確かな友は、不確かな状況においてこそ見分けられる（Amicus certus in re incerta cernitur） | エンニウス（キケロ引用） | キケロ『友情について』64 |
 | [latin-070](../maxims/latin/latin-070-naturam-expellas-furca.md) | 熊手で本性を追い出しても、それは必ず戻ってくる（Naturam expellas furca, tamen usque recurret） | ホラティウス | 『書簡詩』1.10.24 |
+| [latin-071](../maxims/latin/latin-071-nosce-te-ipsum.md) | 汝自身を知れ（Nosce te ipsum） | 作者不詳 | デルフォイの神殿銘／キケロ『法律について』1.58 |
+| [latin-072](../maxims/latin/latin-072-exegi-monumentum-aere-perennius.md) | 私は青銅より永続する記念碑を建てた（Exegi monumentum aere perennius） | ホラティウス | 『歌集』3.30.1 |
+| [latin-073](../maxims/latin/latin-073-odi-et-amo.md) | 私は憎み、そして愛する（Odi et amo） | カトゥルス | 『詩集』85番 |
+| [latin-074](../maxims/latin/latin-074-ex-nihilo-nihil-fit.md) | 無からは何も生じない（Ex nihilo nihil fit） | 作者不詳 | ルクレティウス『事物の本性について』1.150に類想 |
+| [latin-075](../maxims/latin/latin-075-vanitas-vanitatum.md) | 空の空、すべては空である（Vanitas vanitatum, et omnia vanitas） | 作者不詳 | ウルガタ訳『コヘレトの言葉』1:2 |
+| [latin-076](../maxims/latin/latin-076-vulpes-pilum-mutat-non-mores.md) | 狐は毛を替えても、その性質は替えない（Vulpes pilum mutat, non mores） | スエトニウス | 『ローマ皇帝伝』ウェスパシアヌス16 |
+| [latin-077](../maxims/latin/latin-077-omne-ignotum-pro-magnifico.md) | すべて未知のものは、偉大なものと見なされる（Omne ignotum pro magnifico est） | タキトゥス | 『アグリコラ』30 |
+| [latin-078](../maxims/latin/latin-078-otium-sine-litteris-mors-est.md) | 学問なき閑暇は死であり、生ける人間の埋葬である（Otium sine litteris mors est） | セネカ（小） | 『倫理書簡集』82.3 |
+| [latin-079](../maxims/latin/latin-079-nemo-propheta-in-patria-sua.md) | 預言者は自分の故郷では受け入れられない（Nemo propheta in patria sua） | 作者不詳 | ウルガタ訳ルカ4:24 ほか |
+| [latin-080](../maxims/latin/latin-080-non-est-vivere-sed-valere.md) | 生きることではなく、健やかであることが人生である（Non est vivere, sed valere vita est） | マルティアリス | 『エピグラム集』6.70 |

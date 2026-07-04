@@ -74,3 +74,13 @@
 | latin-068 | Concordia parvae res crescunt. | サッルスティウス | サッルスティウス『ユグルタ戦記』10.6（ミキプサの遺言）。誤引用 concordia res parvae crescunt に注意 / perseus.tufts.edu, en.wikiquote.org（Sallust） | 2026-06-26 |
 | latin-069 | Amicus certus in re incerta cernitur. | エンニウス（キケロが引用） | エンニウスの詩句断片、キケロ『友情について（ラエリウス）』64が引用。キケロ作と誤られがち / perseus.tufts.edu, en.wikiquote.org（Ennius） | 2026-06-26 |
 | latin-070 | Naturam expellas furca, tamen usque recurret. | ホラティウス | ホラティウス『書簡詩』1.10.24 / loebclassics.com, oxfordreference.com | 2026-06-26 |
+| latin-071 | Nosce te ipsum. | 作者不詳（デルフォイの神託・七賢人の古諺） | デルフォイのアポロン神殿の銘。ラテン言及はキケロ『法律について』1.58、ユウェナリス『風刺詩』11.27。ソクラテス帰属は誤り（引用者） / en.wikipedia.org（Know thyself）, en.wiktionary.org | 2026-07-04 |
+| latin-072 | Exegi monumentum aere perennius. | ホラティウス | ホラティウス『歌集』3.30.1（第3巻最終詩の冒頭） / thelatinlibrary.com, en.wikipedia.org（Exegi monumentum） | 2026-07-04 |
+| latin-073 | Odi et amo. | カトゥルス | カトゥルス『詩集』85番1行 / en.wikiquote.org（Catullus）, en.wikipedia.org（Catullus 85） | 2026-07-04 |
+| latin-074 | Ex nihilo nihil fit. | 作者不詳（思想はソクラテス以前の哲学に由来） | 定型句は後世。ルクレティウス『事物の本性について』1.150（同義）、ペルシウス『風刺詩』3.83–84（ほぼ同形）。古代の単一典拠なし / thelatinlibrary.com, en.wikipedia.org（Nothing comes from nothing） | 2026-07-04 |
+| latin-075 | Vanitas vanitatum, et omnia vanitas. | 作者不詳（コヘレト、伝承でソロモンに仮託） | ウルガタ訳聖書『コヘレトの言葉（伝道の書）』1:2 / biblegateway.com（Vulgate）, en.wikipedia.org（Vanity of vanities） | 2026-07-04 |
+| latin-076 | Vulpes pilum mutat, non mores. | スエトニウス（老牛飼いの言葉として） | スエトニウス『ローマ皇帝伝』ウェスパシアヌス16。原典は不定詞形 vulpem…mutare、主格形は後世の定型化 / thelatinlibrary.com, en.wiktionary.org | 2026-07-04 |
+| latin-077 | Omne ignotum pro magnifico est. | タキトゥス | タキトゥス『アグリコラ』30（カルガクスの演説）。末尾 est を省く引用が多い / thelatinlibrary.com, en.wiktionary.org | 2026-07-04 |
+| latin-078 | Otium sine litteris mors est et hominis vivi sepultura. | セネカ（小） | セネカ『倫理書簡集』82.3 / loebclassics.com, en.wiktionary.org | 2026-07-04 |
+| latin-079 | Nemo propheta in patria sua. | 作者不詳（イエスの言葉／ウルガタ訳） | ウルガタ訳新約聖書 ルカ4:24（ほかマタイ13:57、マルコ6:4、ヨハネ4:44）。流布形は各福音書文言の圧縮、ルカが最も近い / biblestudytools.com（Vulgate）, en.wikiquote.org（Vulgate） | 2026-07-04 |
+| latin-080 | Non est vivere, sed valere vita est. | マルティアリス | マルティアリス『エピグラム集』6.70 / thelatinlibrary.com, en.wiktionary.org | 2026-07-04 |
