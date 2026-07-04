@@ -521,3 +521,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_automation_10cases_uravation.md | 2026-07-03 |
 | reference_claude_code_workflow_studio_ai_driven.md | 2026-07-03 |
 | reference_claude_code_week22_official.md | 2026-07-03 |
+| reference_vibe_coding_pitfalls_mitsue_2026.md | 2026-07-04 |
+| reference_claude_code_plugin_marketplace_newmo_2026.md | 2026-07-04 |
+| reference_claude_code_marketplace_skills_henry_2026.md | 2026-07-04 |
+| reference_awesome_claude_md_guide_heartland.md | 2026-07-04 |
+| reference_claude_code_skill_plugin_marketplace_narun.md | 2026-07-04 |
