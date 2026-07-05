@@ -526,3 +526,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_marketplace_skills_henry_2026.md | 2026-07-04 |
 | reference_awesome_claude_md_guide_heartland.md | 2026-07-04 |
 | reference_claude_code_skill_plugin_marketplace_narun.md | 2026-07-04 |
+| reference_claude_code_v21200_v21201_classmethod.md | 2026-07-05 |
+| reference_claude_code_v21199_classmethod.md | 2026-07-05 |
+| reference_claude_code_team_rollout_5steps_uravation.md | 2026-07-05 |
+| reference_claude_code_token_5phase_yamato.md | 2026-07-05 |
+| reference_claude_code_token_tools_rtk_caveman.md | 2026-07-05 |
