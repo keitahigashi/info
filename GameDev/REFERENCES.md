@@ -699,3 +699,8 @@
 | reference_flow-channel-game-design.md | 2026-07-04 |
 | reference_ryu-ga-gotoku-narrative-gdc2025.md | 2026-07-04 |
 | reference_pacing-problems-game-design.md | 2026-07-04 |
+| reference_neural-rendering-gtc2026.md | 2026-07-05 |
+| reference_survival-time-management-design.md | 2026-07-05 |
+| reference_attention-war-storytelling-design.md | 2026-07-05 |
+| reference_shape-function-game-mechanics-kiln.md | 2026-07-05 |
+| reference_indie-production-plan-milestone.md | 2026-07-05 |
