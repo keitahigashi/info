@@ -129,4 +129,9 @@
 | [african-123](../fables/african/african-123-maku-mawu-and-maku-fia.md) | マク・マウとマク・フィア | 権力者の陰謀も天の定めた運命には勝てない。誠実な者は思いがけない形で必ず救われる |
 | [african-124](../fables/african/african-124-cloud-eating.md) | 雲食い | 友の信頼を自分の利益のために踏みにじる者は、真の友を持てない。不誠実さは必ず相手に害をもたらす |
 | [african-125](../fables/african/african-125-why-the-bush-cow-and-elephant-are-bad-friends.md) | バッファローと象が仲の悪い理由 | 権威の命令に背き自分勝手に振る舞う者は、争いによって周囲にまで害をもたらし、最終的には自らが最大の犠牲者となる |
+| [african-126](../fables/african/african-126-anansi-and-nothing.md) | アナンシとナッシングという男 | 見かけを偽り欺いて得た豊かさは長続きせず、欲と嫉妬は破滅しか招かない |
+| [african-127](../fables/african/african-127-thunder-and-anansi.md) | アナンシと雷神の魔法鍋 | 恵みを独占しようとする者は最終的にその恵みを失い、さらなる苦しみを招く |
+| [african-128](../fables/african/african-128-the-grinding-stone.md) | ひとりで粉を挽く魔法の石 | 他者の財産を強引に奪い、明確な警告を無視して突き進む者は身を滅ぼす |
+| [african-129](../fables/african/african-129-why-the-lizard-moves-his-head.md) | トカゲが首を上下に動かす理由 | 狡猾な者に利用された誠実な者が不当な罰を受ける理不尽さ——信頼する相手をよく選ぶべきという警告 |
+| [african-130](../fables/african/african-130-tit-for-tat.md) | 親子の知恵くらべ | 他者の努力を謀略で奪い取ろうとする者は、より巧みな知恵によって必ず仕返しを受ける |
 <!-- 寓話追加時にここへ行を追加 -->
