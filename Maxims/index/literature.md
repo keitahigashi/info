@@ -1,4 +1,4 @@
-# 文学の名言（71件）
+# 文学の名言（81件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -75,3 +75,13 @@
 | [literature-069](../maxims/literature/literature-069-you-must-change-your-life.md) | 君は自分の生を変えねばならない。 | ライナー・マリア・リルケ | 詩「アポロの古代トルソー」最終行 |
 | [literature-070](../maxims/literature/literature-070-library-of-babel-universe.md) | 宇宙（他の者は図書館と呼ぶ）は、不定数の、おそらく無限の六角形の回廊から成る。 | ホルヘ・ルイス・ボルヘス | 短編「バベルの図書館」冒頭 |
 | [literature-071](../maxims/literature/literature-071-chekhovs-gun.md) | 第1幕で壁に拳銃を掛けたなら、最後の幕でそれは撃たれねばならない。 | アントン・チェーホフ | 「チェーホフの銃」（1889年書簡・談話） |
+| [literature-072](../maxims/literature/literature-072-picking-chrysanthemums-eastern-hedge.md) | 東の垣根のもとで菊を摘めば、悠然として南の山が目に入る。 | 陶淵明（陶潜） | 『飲酒二十首』其五 |
+| [literature-073](../maxims/literature/literature-073-falling-clouds-solitary-duck.md) | 沈みゆく夕焼雲は一羽の野鴨と並んで飛び、秋の川は果てしない大空と溶け合って一つの色をなす。 | 王勃 | 『滕王閣序』 |
+| [literature-074](../maxims/literature/literature-074-swallow-sparrow-swan-ambition.md) | 燕や雀のような小鳥に、どうして鴻や鵠（おおとり）の大志が分かろうか。 | 司馬遷 | 『史記』巻48 陳涉世家 |
+| [literature-075](../maxims/literature/literature-075-many-wonders-none-more-than-man.md) | 世に畏るべきものは数多いが、人間ほど畏るべきものはない。 | ソポクレス | 『アンティゴネー』第332行 |
+| [literature-076](../maxims/literature/literature-076-lacrimae-rerum.md) | ものには涙があり、人の世の儚さが心を打つ。 | ウェルギリウス | 『アエネイス』第1巻462行 |
+| [literature-077](../maxims/literature/literature-077-listen-to-the-reed.md) | この葦笛の音を聞け、それがいかに嘆き、別離の物語を語るかを。 | ジャラール・ウッディーン・ルーミー | 『精神的マスナヴィー』第1巻冒頭「葦笛の歌」 |
+| [literature-078](../maxims/literature/literature-078-rape-blossoms-moon-east-sun-west.md) | 菜の花や月は東に日は西に | 与謝蕪村 | 『蕪村句集』（1774年の発句） |
+| [literature-079](../maxims/literature/literature-079-caminante-no-hay-camino.md) | 旅人よ、道はない、歩くことで道はできる。 | アントニオ・マチャード | 「格言と歌」第XXIX番 |
+| [literature-080](../maxims/literature/literature-080-linfinito-shipwreck-sweet.md) | そしてこの海で難破することも、私には甘美なのだ。 | ジャコモ・レオパルディ | 『カンティ』所収「無限」 |
+| [literature-081](../maxims/literature/literature-081-nora-first-a-human-being.md) | 私は何よりもまず一人の人間なのだと思うのです、あなたと同じように。 | ヘンリック・イプセン | 『人形の家』第3幕 |

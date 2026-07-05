@@ -75,3 +75,13 @@
 | literature-069 | 君は自分の生を変えねばならない。 | ライナー・マリア・リルケ | de.wikisource.org, de.wikipedia.org | 2026-06-27 |
 | literature-070 | 宇宙（他の者は図書館と呼ぶ）は、不定数の、おそらく無限の六角形の回廊から成る。 | ホルヘ・ルイス・ボルヘス | literatura.us, es.wikipedia.org | 2026-06-27 |
 | literature-071 | 第1幕で壁に拳銃を掛けたなら、最後の幕でそれは撃たれねばならない。 | アントン・チェーホフ | ru.wikipedia.org, bigenc.ru | 2026-06-27 |
+| literature-072 | 東の垣根のもとで菊を摘めば、悠然として南の山が目に入る。 | 陶淵明（陶潜） | zh.wikipedia.org, gushiwen.cn | 2026-07-05 |
+| literature-073 | 沈みゆく夕焼雲は一羽の野鴨と並んで飛び、秋の川は果てしない大空と溶け合って一つの色をなす。 | 王勃 | zh.wikipedia.org, meirishici.com | 2026-07-05 |
+| literature-074 | 燕や雀のような小鳥に、どうして鴻や鵠（おおとり）の大志が分かろうか。 | 司馬遷 | zh.wikisource.org, ctext.org | 2026-07-05 |
+| literature-075 | 世に畏るべきものは数多いが、人間ほど畏るべきものはない。 | ソポクレス | perseus.tufts.edu, wist.info | 2026-07-05 |
+| literature-076 | ものには涙があり、人の世の儚さが心を打つ。 | ウェルギリウス | en.wikipedia.org, scaife.perseus.org | 2026-07-05 |
+| literature-077 | この葦笛の音を聞け、それがいかに嘆き、別離の物語を語るかを。 | ジャラール・ウッディーン・ルーミー | dar-al-masnavi.org | 2026-07-05 |
+| literature-078 | 菜の花や月は東に日は西に | 与謝蕪村 | sectpoclit.com, ja.wikipedia.org | 2026-07-05 |
+| literature-079 | 旅人よ、道はない、歩くことで道はできる。 | アントニオ・マチャード | poesi.as, antologia-de-poesia-en-las-pau.fandom.com | 2026-07-05 |
+| literature-080 | そしてこの海で難破することも、私には甘美なのだ。 | ジャコモ・レオパルディ | it.wikisource.org, en.wikipedia.org | 2026-07-05 |
+| literature-081 | 私は何よりもまず一人の人間なのだと思うのです、あなたと同じように。 | ヘンリック・イプセン | runeberg.org, norgeshistorie.no | 2026-07-05 |
