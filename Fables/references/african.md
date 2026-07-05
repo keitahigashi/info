@@ -138,4 +138,9 @@
 | african-123 | マク・マウとマク・フィア | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917) | 2026-06-26 |
 | african-124 | 雲食い | gutenberg.org/files/38339/38339-h/38339-h.htm (Honey『South-African Folk-Tales』1910) | 2026-06-26 |
 | african-125 | バッファローと象が仲の悪い理由 | gutenberg.org/files/34655/34655-h/34655-h.htm, worldoftales.com/African_folktales/Nigerian_folktale_20.html (Dayrell『Folk Stories from Southern Nigeria』1910) | 2026-06-26 |
+| african-126 | アナンシとナッシングという男 | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917) | 2026-07-05 |
+| african-127 | アナンシと雷神の魔法鍋 | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917) | 2026-07-05 |
+| african-128 | ひとりで粉を挽く魔法の石 | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917) | 2026-07-05 |
+| african-129 | トカゲが首を上下に動かす理由 | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917) | 2026-07-05 |
+| african-130 | 親子の知恵くらべ | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917) | 2026-07-05 |
 <!-- 出典追加時にここへ行を追加 -->
