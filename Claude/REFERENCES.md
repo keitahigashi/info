@@ -526,3 +526,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_marketplace_skills_henry_2026.md | 2026-07-04 |
 | reference_awesome_claude_md_guide_heartland.md | 2026-07-04 |
 | reference_claude_code_skill_plugin_marketplace_narun.md | 2026-07-04 |
+| reference_claude_code_vulns_rce_csrf_tatsujin.md | 2026-07-06 |
+| reference_claude_code_security_review_adalocamp.md | 2026-07-06 |
+| reference_harness_eval_loop_unkaisekkei.md | 2026-07-06 |
+| reference_harness_practice_aoki_tailwind.md | 2026-07-06 |
+| reference_ai_coding_tools_pricing_6tools_2026.md | 2026-07-06 |
