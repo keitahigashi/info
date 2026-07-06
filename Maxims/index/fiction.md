@@ -1,4 +1,4 @@
-# 創作の名言（34件）
+# 創作の名言（44件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -38,3 +38,13 @@
 | [fiction-032](../maxims/fiction/fiction-032-dying-what-a-disgrace.md) | しんでしまうとは なにごとだ | 堀井雄二／ドラゴンクエスト | 王様（ラルス王）の台詞 |
 | [fiction-033](../maxims/fiction/fiction-033-no-worth-in-effort-without-self-belief.md) | 自分を信じない奴になんかに、努力する価値は無い | 岸本斉史／NARUTO | マイト・ガイの台詞 |
 | [fiction-034](../maxims/fiction/fiction-034-believe-in-the-you-who-believes-in-yourself.md) | お前が信じる、お前を信じろ | 中島かずき／天元突破グレンラガン | カミナの台詞 |
+| [fiction-035](../maxims/fiction/fiction-035-only-interested-in-the-extraordinary.md) | ただの人間には興味ありません | 谷川流／涼宮ハルヒの憂鬱 | 涼宮ハルヒの自己紹介 |
+| [fiction-036](../maxims/fiction/fiction-036-our-choices-show-what-we-truly-are.md) | 我々が本当は何者であるかを示すのは、能力ではなく、我々の選択なのだ | J・K・ローリング／ハリー・ポッターと秘密の部屋 | ダンブルドアの台詞 |
+| [fiction-037](../maxims/fiction/fiction-037-what-is-essential-is-invisible-to-the-eye.md) | かんじんなことは、目に見えないんだよ | サン＝テグジュペリ／星の王子さま | 第21章 キツネの台詞 |
+| [fiction-038](../maxims/fiction/fiction-038-the-world-is-not-beautiful-therefore-it-is.md) | 世界は美しくなんかない。そしてそれ故に、美しい | 時雨沢恵一／キノの旅 | 作品テーマの惹句 |
+| [fiction-039](../maxims/fiction/fiction-039-give-your-all-just-for-today.md) | 明日からがんばるんじゃない。今日……今日だけがんばるんだ | 福本伸行／賭博破戒録カイジ | 大槻班長の台詞 |
+| [fiction-040](../maxims/fiction/fiction-040-stand-up-joe.md) | 立て、立つんだ、ジョー | 高森朝雄・ちばてつや／あしたのジョー | 丹下段平の台詞 |
+| [fiction-041](../maxims/fiction/fiction-041-you-have-no-enemies.md) | お前に敵などいない。誰にも敵などいないんだ | 幸村誠／ヴィンランド・サガ | 第10巻 トールズの台詞 |
+| [fiction-042](../maxims/fiction/fiction-042-cannot-live-away-from-the-earth.md) | 土から離れては生きられないのよ | 宮崎駿／天空の城ラピュタ | シータの台詞 |
+| [fiction-043](../maxims/fiction/fiction-043-kill-or-be-killed.md) | このせかいでは、ころすか ころされるかだ | トビー・フォックス／UNDERTALE | フラウィの台詞 |
+| [fiction-044](../maxims/fiction/fiction-044-going-to-see-if-im-really-alive.md) | 死にに行くわけじゃない。俺が本当に生きてるかどうか、確かめに行くんだ | 渡辺信一郎／カウボーイビバップ | 第26話 スパイクの台詞 |

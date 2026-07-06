@@ -38,3 +38,13 @@
 | fiction-032 | しんでしまうとは なにごとだ | 堀井雄二／ドラゴンクエスト | 王様（ラルス王）の台詞、ddnavi.com | 2026-06-04 |
 | fiction-033 | 自分を信じない奴になんかに、努力する価値は無い | 岸本斉史／NARUTO | マイト・ガイの台詞、meigenkakugen.net | 2026-06-04 |
 | fiction-034 | お前が信じる、お前を信じろ | 中島かずき／天元突破グレンラガン | カミナの台詞、renote.net | 2026-06-04 |
+| fiction-035 | ただの人間には興味ありません | 谷川流／涼宮ハルヒの憂鬱 | 涼宮ハルヒの自己紹介、dic.pixiv.net, renote.net | 2026-07-06 |
+| fiction-036 | 我々が本当は何者であるかを示すのは、能力ではなく、我々の選択なのだ | J・K・ローリング／ハリー・ポッターと秘密の部屋 | ダンブルドアの台詞、eiga-square.jp, nihongovseigo.com | 2026-07-06 |
+| fiction-037 | かんじんなことは、目に見えないんだよ | サン＝テグジュペリ／星の王子さま | 第21章 キツネの台詞、ja.wikipedia.org, la-vie.jp | 2026-07-06 |
+| fiction-038 | 世界は美しくなんかない。そしてそれ故に、美しい | 時雨沢恵一／キノの旅 | 作品テーマの惹句、kadokawa.co.jp, ja.wikipedia.org | 2026-07-06 |
+| fiction-039 | 明日からがんばるんじゃない。今日……今日だけがんばるんだ | 福本伸行／賭博破戒録カイジ | 大槻班長の台詞、ticket.co.jp, news.mynavi.jp | 2026-07-06 |
+| fiction-040 | 立て、立つんだ、ジョー | 高森朝雄・ちばてつや／あしたのジョー | 丹下段平の台詞、meigen.dancing-doll.com, chibatetsuya-ebooks.com | 2026-07-06 |
+| fiction-041 | お前に敵などいない。誰にも敵などいないんだ | 幸村誠／ヴィンランド・サガ | 第10巻 トールズの台詞、koryamata.jp, reviewne.jp | 2026-07-06 |
+| fiction-042 | 土から離れては生きられないのよ | 宮崎駿／天空の城ラピュタ | シータの台詞、eiga-square.jp, animemanga33.com | 2026-07-06 |
+| fiction-043 | このせかいでは、ころすか ころされるかだ | トビー・フォックス／UNDERTALE | フラウィの台詞、undertale.fandom.com, dic.pixiv.net | 2026-07-06 |
+| fiction-044 | 死にに行くわけじゃない。俺が本当に生きてるかどうか、確かめに行くんだ | 渡辺信一郎／カウボーイビバップ | 第26話 スパイクの台詞、dengekionline.com, reviewne.jp | 2026-07-06 |
