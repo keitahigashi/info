@@ -704,3 +704,8 @@
 | reference_attention-war-storytelling-design.md | 2026-07-05 |
 | reference_shape-function-game-mechanics-kiln.md | 2026-07-05 |
 | reference_indie-production-plan-milestone.md | 2026-07-05 |
+| reference_parry-system-design-mechanics.md | 2026-07-06 |
+| reference_hybrid-casual-mechanics-depth-balance.md | 2026-07-06 |
+| reference_senior-ui-ux-designer-game-workflow.md | 2026-07-06 |
+| reference_god-of-war-ragnarok-ui-deep-dive.md | 2026-07-06 |
+| reference_game-ui-history-1960s-present.md | 2026-07-06 |
