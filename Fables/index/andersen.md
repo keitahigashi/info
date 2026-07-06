@@ -124,4 +124,9 @@
 | [andersen-118](../fables/andersen/andersen-118-poultry-megs-family.md) | ニワトリのグレーテの家族 | 傲慢な誇りは一族を没落へと導き、運命の車輪は誰にも等しく回る。真の平和は自分の役割を謙虚に受け入れる者のもとにある。 |
 | [andersen-119](../fables/andersen/andersen-119-what-old-johanne-told.md) | ヨハンネ婆さんの話 | 「どうせ何の役にも立たない」という虚無的な諦めは人生の活力を根から枯らす。信仰と行動を持って生きる者だけが困難の中でも尊厳を保てる。 |
 | [andersen-120](../fables/andersen/andersen-120-the-old-church-bell.md) | 古い教会の鐘 | 貧しい出自も苦難も天才の炎を消せない。捨てられた古い鐘でさえ偉大な詩人の不朽の記念碑となる——卑しいものも高い目的のために再生されうる。 |
+| [andersen-121](../fables/andersen/andersen-121-beautiful.md) | 美しい | 真の幸福は外見の美しさではなく、魂の繋がりと内面の豊かさによってのみ得られる。 |
+| [andersen-122](../fables/andersen/andersen-122-the-money-pig.md) | 貯金豚 | 富や地位はいつか必ず失われる。傲慢さは転落への序章に過ぎない。 |
+| [andersen-123](../fables/andersen/andersen-123-the-old-tombstone.md) | 古い墓石 | 善きことと美しきことは、物語や芸術の力によって時代を超えて語り継がれる。 |
+| [andersen-124](../fables/andersen/andersen-124-what-one-can-invent.md) | 思いつくということ | 真の創造は深い観察と想像力から生まれる。想像力なき批評は創造の代替にはなりえない。 |
+| [andersen-125](../fables/andersen/andersen-125-the-court-cards.md) | 絵札たち | 人が自らの不純さを克服し内なる光を増すとき、魂は浄化されてより高みへと解放される。 |
 <!-- 寓話追加時にここへ行を追加 -->

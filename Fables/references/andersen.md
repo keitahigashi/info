@@ -1,4 +1,4 @@
-# アンデルセン童話（120話）— 出典一覧
+# アンデルセン童話（125話）— 出典一覧
 
 [< 出典一覧に戻る](../REFERENCES.md)
 
@@ -127,4 +127,9 @@
 | andersen-118 | ニワトリのグレーテの家族 | andersen.sdu.dk/vaerk/hersholt/ChickenGrethesFamily_e.html, アンデルセン(1869) | 2026-06-27 |
 | andersen-119 | ヨハンネ婆さんの話 | andersen.sdu.dk/vaerk/hersholt/WhatOldJohanneTold_e.html, アンデルセン(1872) | 2026-06-27 |
 | andersen-120 | 古い教会の鐘 | andersen.sdu.dk/vaerk/hersholt/TheOldChurchBell_e.html, アンデルセン(1861) | 2026-06-27 |
+| andersen-121 | 美しい | andersen.sdu.dk/vaerk/hersholt/Beautiful_e.html | 2026-07-06 |
+| andersen-122 | 貯金豚 | andersen.sdu.dk/vaerk/hersholt/TheMoneyPig_e.html | 2026-07-06 |
+| andersen-123 | 古い墓石 | andersen.sdu.dk/vaerk/hersholt/TheOldTombstone_e.html | 2026-07-06 |
+| andersen-124 | 思いつくということ | andersen.sdu.dk/vaerk/hersholt/WhatOneCanInvent_e.html | 2026-07-06 |
+| andersen-125 | 絵札たち | andersen.sdu.dk/vaerk/hersholt/TheCourtCards_e.html | 2026-07-06 |
 <!-- 出典追加時にここへ行を追加 -->
