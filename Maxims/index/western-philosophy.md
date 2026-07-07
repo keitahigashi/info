@@ -1,4 +1,4 @@
-# 西洋哲学（81件）
+# 西洋哲学（91件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -85,3 +85,13 @@
 | [western-philosophy-079](../maxims/western-philosophy/western-philosophy-079-two-sovereign-masters-pain-and-pleasure.md) | 自然は人類を、苦痛と快楽という二人の主権者の支配のもとに置いた | ジェレミー・ベンサム | 『道徳および立法の諸原理序説』第1章 |
 | [western-philosophy-080](../maxims/western-philosophy/western-philosophy-080-no-statement-is-immune-to-revision.md) | いかなる言明も、改訂をまったく免れることはない | W・V・O・クワイン | 「経験主義の二つのドグマ」（1951年） |
 | [western-philosophy-081](../maxims/western-philosophy/western-philosophy-081-justice-is-the-first-virtue-of-social-institutions.md) | 正義は社会制度の第一の徳である。思考の体系にとって真理がそうであるように | ジョン・ロールズ | 『正義論』第1章 第1節 |
+| [western-philosophy-082](../maxims/western-philosophy/western-philosophy-082-by-convention-sweet-in-reality-atoms-and-void.md) | 慣習によって甘く苦く色がある。だが真実には原子と空虚があるのみ | デモクリトス | 断片 DK68B9 |
+| [western-philosophy-083](../maxims/western-philosophy/western-philosophy-083-so-much-evil-could-religion-induce.md) | 宗教は、これほど多くの悪事へと人を駆り立てることができた | ルクレティウス | 『事物の本性について』第1巻 101行 |
+| [western-philosophy-084](../maxims/western-philosophy/western-philosophy-084-the-welfare-of-the-people-is-the-supreme-law.md) | 民衆の安寧をこそ最高の法とせよ | マルクス・トゥッリウス・キケロ | 『法律について』第3巻 3.8 |
+| [western-philosophy-085](../maxims/western-philosophy/western-philosophy-085-plurality-should-not-be-posited-without-necessity.md) | 複数のものを、必要なしに立ててはならない（オッカムの剃刀） | オッカムのウィリアム | 『命題集註解』第1巻 dist.27 |
+| [western-philosophy-086](../maxims/western-philosophy/western-philosophy-086-god-or-nature.md) | 神、すなわち自然 | バールーフ・デ・スピノザ | 『エチカ』第4部 序言 |
+| [western-philosophy-087](../maxims/western-philosophy/western-philosophy-087-thoughts-without-content-are-empty.md) | 内容なき思考は空虚であり、概念なき直観は盲目である | イマヌエル・カント | 『純粋理性批判』A51／B75 |
+| [western-philosophy-088](../maxims/western-philosophy/western-philosophy-088-anxiety-is-the-dizziness-of-freedom.md) | 不安とは、自由のめまいである | セーレン・キェルケゴール | 『不安の概念』第1章 第5節 |
+| [western-philosophy-089](../maxims/western-philosophy/western-philosophy-089-to-the-things-themselves.md) | 事象そのものへ！ | エトムント・フッサール | 『論理学研究』第2巻 序論 |
+| [western-philosophy-090](../maxims/western-philosophy/western-philosophy-090-wrong-life-cannot-be-lived-rightly.md) | 間違った生のなかに、正しい生はない | テオドール・W・アドルノ | 『ミニマ・モラリア』アフォリズム18 |
+| [western-philosophy-091](../maxims/western-philosophy/western-philosophy-091-there-is-nothing-outside-the-text.md) | テクストの外部は存在しない | ジャック・デリダ | 『グラマトロジーについて』第2部 |
