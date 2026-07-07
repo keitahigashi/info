@@ -709,3 +709,8 @@
 | reference_senior-ui-ux-designer-game-workflow.md | 2026-07-06 |
 | reference_god-of-war-ragnarok-ui-deep-dive.md | 2026-07-06 |
 | reference_game-ui-history-1960s-present.md | 2026-07-06 |
+| reference_game-programming-catalog-2026.md | 2026-07-07 |
+| reference_frameworks-not-engines-future.md | 2026-07-07 |
+| reference_game-engine-arch-types-2026.md | 2026-07-07 |
+| reference_ue6-verse-architecture-2026.md | 2026-07-07 |
+| reference_solo-crpg-unity-architecture.md | 2026-07-07 |
