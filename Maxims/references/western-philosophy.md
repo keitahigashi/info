@@ -85,3 +85,13 @@
 | western-philosophy-079 | 自然は人類を苦痛と快楽という二人の主権者の支配下に置いた | ジェレミー・ベンサム | en.wikiquote.org（IPML ch.1）, plato.stanford.edu | 2026-06-28 |
 | western-philosophy-080 | いかなる言明も、改訂をまったく免れることはない | W・V・O・クワイン | en.wikipedia.org（Two Dogmas of Empiricism）, theologie.uzh.ch（Quine 1951 PDF） | 2026-06-28 |
 | western-philosophy-081 | 正義は社会制度の第一の徳である | ジョン・ロールズ | plato.stanford.edu（A Theory of Justice 1971）, goodreads.com | 2026-06-28 |
+| western-philosophy-082 | 慣習によって甘く苦く色がある。だが真実には原子と空虚があるのみ | デモクリトス | plato.stanford.edu（Democritus, DK68B9）, iep.utm.edu（Democritus） | 2026-07-07 |
+| western-philosophy-083 | 宗教は、これほど多くの悪事へと人を駆り立てることができた | ルクレティウス | perseus.tufts.edu（De Rerum Natura 1.101）, thelatinlibrary.com（Lucretius I） | 2026-07-07 |
+| western-philosophy-084 | 民衆の安寧をこそ最高の法とせよ | マルクス・トゥッリウス・キケロ | thelatinlibrary.com（De Legibus III）, perseus.tufts.edu（De Legibus 3.8） | 2026-07-07 |
+| western-philosophy-085 | 複数のものを、必要なしに立ててはならない（オッカムの剃刀） | オッカムのウィリアム | plato.stanford.edu（William of Ockham）, iep.utm.edu（William of Ockham） | 2026-07-07 |
+| western-philosophy-086 | 神、すなわち自然 | バールーフ・デ・スピノザ | plato.stanford.edu（Spinoza, Deus sive Natura）, en.wikisource.org（Ethics IV Preface） | 2026-07-07 |
+| western-philosophy-087 | 内容なき思考は空虚であり、概念なき直観は盲目である | イマヌエル・カント | plato.stanford.edu（Kant, A51/B75）, de.wikisource.org（Kritik der reinen Vernunft） | 2026-07-07 |
+| western-philosophy-088 | 不安とは、自由のめまいである | セーレン・キェルケゴール | plato.stanford.edu（Concept of Anxiety, CA 61 / SKS 4, 365）, da.wikipedia.org（Begrebet Angest） | 2026-07-07 |
+| western-philosophy-089 | 事象そのものへ！ | エトムント・フッサール | plato.stanford.edu（Husserl, to the things themselves）, iep.utm.edu（Husserl） | 2026-07-07 |
+| western-philosophy-090 | 間違った生のなかに、正しい生はない | テオドール・W・アドルノ | plato.stanford.edu（Adorno, Minima Moralia 1951）, en.wikiquote.org（Adorno §18） | 2026-07-07 |
+| western-philosophy-091 | テクストの外部は存在しない | ジャック・デリダ | plato.stanford.edu（Derrida, Il n'y a pas de hors-texte）, iep.utm.edu（Derrida） | 2026-07-07 |
