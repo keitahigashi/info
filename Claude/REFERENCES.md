@@ -531,3 +531,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_harness_eval_loop_unkaisekkei.md | 2026-07-06 |
 | reference_harness_practice_aoki_tailwind.md | 2026-07-06 |
 | reference_ai_coding_tools_pricing_6tools_2026.md | 2026-07-06 |
+| reference_claude_code_v21199_classmethod.md | 2026-07-07 |
+| reference_claude_code_v21194_196_classmethod.md | 2026-07-07 |
+| reference_claude_code_mcp_intro_jadc_july2026.md | 2026-07-07 |
+| reference_cdp_claude_code_mcp_aurant_2026.md | 2026-07-07 |
+| reference_claude_agent_sdk_multiagent_jdd.md | 2026-07-07 |
