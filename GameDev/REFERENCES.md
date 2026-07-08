@@ -714,3 +714,8 @@
 | reference_game-engine-arch-types-2026.md | 2026-07-07 |
 | reference_ue6-verse-architecture-2026.md | 2026-07-07 |
 | reference_solo-crpg-unity-architecture.md | 2026-07-07 |
+| reference_believable-3d-environments-design-principles.md | 2026-07-08 |
+| reference_elevation-ramp-gameplay-dynamics.md | 2026-07-08 |
+| reference_vr-spatial-scale-design-nightmares-2026.md | 2026-07-08 |
+| reference_difficulty-curves-flow-state-balance.md | 2026-07-08 |
+| reference_emotion-driven-mechanics-narrative-design.md | 2026-07-08 |
