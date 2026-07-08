@@ -1,4 +1,4 @@
-# 東洋思想（80件）
+# 東洋思想（90件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -84,3 +84,13 @@
 | [eastern-thought-078](../maxims/eastern-thought/eastern-thought-078-zhaozhous-dog-mu.md) | 「犬にも仏性があるか」と問われ、趙州はただ「無」と答えた | 趙州従諗 | 『無門関』第一則 |
 | [eastern-thought-079](../maxims/eastern-thought/eastern-thought-079-originally-not-a-single-thing.md) | 悟りに樹はなく心の鏡に台もない、本来何一つ存在しないのにどこに塵が付こうか | 慧能（六祖） | 『六祖大師法宝壇経』行由品 |
 | [eastern-thought-080](../maxims/eastern-thought/eastern-thought-080-right-to-action-not-its-fruits.md) | 汝には行為への権利のみがあり、その果実への権利は決してない | 作者不詳（バガヴァッド・ギーター） | 『バガヴァッド・ギーター』第2章・第47偈 |
+| [eastern-thought-081](../maxims/eastern-thought/eastern-thought-081-nothing-is-all-capable.md) | 天地にも完全な働きはなく、聖人にも万能はなく、万物にも万能の用途はない | 列子（列禦寇） | 『列子』天瑞篇 |
+| [eastern-thought-082](../maxims/eastern-thought/eastern-thought-082-value-time-over-jade.md) | 聖人は一尺の宝玉を貴ばず、わずか一寸の光陰を重んじる | 劉安（淮南子） | 『淮南子』原道訓 |
+| [eastern-thought-083](../maxims/eastern-thought/eastern-thought-083-flowing-water-never-stales.md) | 流れる水は腐らず、扉の軸は虫に食われない。絶えず動いているからである | 呂不韋（呂氏春秋） | 『呂氏春秋』尽数篇 |
+| [eastern-thought-084](../maxims/eastern-thought/eastern-thought-084-in-peace-consider-danger.md) | 安泰なときにこそ危難を想え。想えば備えができ、備えがあれば憂いはない | 左丘明（春秋左氏伝） | 『春秋左氏伝』襄公十一年 |
+| [eastern-thought-085](../maxims/eastern-thought/eastern-thought-085-no-single-way-to-govern.md) | 世を治める方法は一つではなく、国を利するには必ずしも古い制度に倣う必要はない | 商鞅（公孫鞅） | 『商君書』更法篇 |
+| [eastern-thought-086](../maxims/eastern-thought/eastern-thought-086-yoga-stilling-the-mind.md) | ヨーガとは、心の働きの止滅である | パタンジャリ | 『ヨーガ・スートラ』第1章・第2節 |
+| [eastern-thought-087](../maxims/eastern-thought/eastern-thought-087-thou-art-that.md) | それは真実であり、それは自己である。シュヴェータケートゥよ、汝はそれなり | 作者不詳（チャーンドーギヤ・ウパニシャッド） | 『チャーンドーギヤ・ウパニシャッド』6.8.7 |
+| [eastern-thought-088](../maxims/eastern-thought/eastern-thought-088-truth-alone-triumphs.md) | 真実こそが勝つ、虚偽ではない。真実によってこそ、神々への道は開かれる | 作者不詳（ムンダカ・ウパニシャッド） | 『ムンダカ・ウパニシャッド』3.1.6 |
+| [eastern-thought-089](../maxims/eastern-thought/eastern-thought-089-dependent-origination-emptiness.md) | 縁って生じるもの、それを我々は空と説く。それは仮の名であり、それこそが中道である | 龍樹（ナーガールジュナ） | 『中論』観四諦品第二十四・第十八偈 |
+| [eastern-thought-090](../maxims/eastern-thought/eastern-thought-090-hundred-flowers-in-spring.md) | 心に余計なわだかまりがなければ、いつでもその時が人生の好時節である | 無門慧開 | 『無門関』第十九則 頌 |
