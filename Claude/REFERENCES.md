@@ -536,3 +536,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_mcp_intro_jadc_july2026.md | 2026-07-07 |
 | reference_cdp_claude_code_mcp_aurant_2026.md | 2026-07-07 |
 | reference_claude_agent_sdk_multiagent_jdd.md | 2026-07-07 |
+| reference_claude_code_analytics_api_official.md | 2026-07-08 |
+| reference_claude_code_use_cases_dept_industry_uravation.md | 2026-07-08 |
+| reference_claude_code_daily_automation_5ways_genai.md | 2026-07-08 |
+| reference_claude_code_july2026_overview_zetlinker.md | 2026-07-08 |
+| reference_claude_code_life_management_3months_ktdata.md | 2026-07-08 |
