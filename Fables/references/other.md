@@ -130,4 +130,9 @@
 | other-120 | ロビン・フッドと義賊の精神 | 英国中世バラッド伝承（「A Gest of Robyn Hode」1508年頃） | en.wikipedia.org/wiki/Robin_Hood, britannica.com/topic/Robin-Hood | 2026-06-28 |
 | other-121 | ベオウルフとグレンデル | 古英語叙事詩『ベオウルフ』（写本：コットン・ヴィテリウスA.xv、11世紀初頭） | en.wikipedia.org/wiki/Beowulf, heorot.dk | 2026-06-28 |
 | other-122 | エロスとプシュケ | ローマ文学（アプレイウス『変身物語』第4〜6巻、紀元160年頃） | en.wikipedia.org/wiki/Cupid_and_Psyche, theoi.com/Ouranios/ErosPsyche.html | 2026-06-28 |
+| other-123 | ナルシソスとエコー | 古代ギリシャ神話（オウィディウス『変身物語』第3巻、紀元8年頃） | en.wikipedia.org/wiki/Echo_and_Narcissus, perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0028:book%3D3:card%3D337 | 2026-07-08 |
+| other-124 | シシュポスの罰 | 古代ギリシャ神話（ホメロス『オデュッセイア』第11巻ほか、紀元前8世紀〜） | en.wikipedia.org/wiki/Sisyphus, britannica.com/topic/Sisyphus | 2026-07-08 |
+| other-125 | アラクネの傲慢 | 古代ギリシャ神話（オウィディウス『変身物語』第6巻、紀元8年頃） | en.wikipedia.org/wiki/Arachne, theoi.com/Text/OvidMetamorphoses6.html | 2026-07-08 |
+| other-126 | デールドレの悲劇 | アイルランド神話（アルスター・サイクル「ウシナの息子たちの追放」、写本：レンスターの書12世紀） | en.wikipedia.org/wiki/Deirdre, ireland-calling.com/ulster-cycle/deirdre-of-the-sorrows/ | 2026-07-08 |
+| other-127 | ドン・キホーテと風車 | スペイン文学（セルバンテス『ドン・キホーテ』第1部第8章、1605年） | britannica.com/topic/Don-Quixote-fictional-character, cervantes.library.tamu.edu/V2/CPI/TEI/TEI_1605/1605/1605/chapter8.html | 2026-07-08 |
 <!-- 出典追加時にここへ行を追加 -->
