@@ -84,3 +84,13 @@
 | eastern-thought-078 | 趙州狗子・無（狗子還有仏性也無、州云無） | 趙州従諗 | zh.wikisource.org, ja.wikipedia.org | 2026-06-29 |
 | eastern-thought-079 | 本来無一物 | 慧能（六祖） | zh.wikisource.org, engakuji.or.jp | 2026-06-29 |
 | eastern-thought-080 | 行為への権利のみ、果実への権利なし（ギーター2.47） | 作者不詳（バガヴァッド・ギーター） | holy-bhagavad-gita.org, wisdomlib.org | 2026-06-29 |
+| eastern-thought-081 | 天地に全き功無く、聖人に全き能無く、万物に全き用無し | 列子（列禦寇） | ctext.org, liezi.5000yan.com | 2026-07-08 |
+| eastern-thought-082 | 尺の璧を貴ばず、寸の陰を重んず | 劉安（淮南子） | ctext.org, zh.wikisource.org | 2026-07-08 |
+| eastern-thought-083 | 流水は腐らず、戸枢は蠹まず | 呂不韋（呂氏春秋） | ctext.org, gushiwen.cn | 2026-07-08 |
+| eastern-thought-084 | 安きに居りて危うきを思う（居安思危・有備無患） | 左丘明（春秋左氏伝） | zh.wikisource.org, zuozhuan.5000yan.com | 2026-07-08 |
+| eastern-thought-085 | 世を治むるに道を一にせず、国を便にするに必ずしも古に法らず | 商鞅（公孫鞅） | ctext.org, gushiwen.cn | 2026-07-08 |
+| eastern-thought-086 | ヨーガとは心の作用の止滅である | パタンジャリ | en.wikipedia.org, yogabasics.com | 2026-07-08 |
+| eastern-thought-087 | 汝はそれなり（タット・トヴァム・アシ） | 作者不詳（チャーンドーギヤ・ウパニシャッド） | wisdomlib.org, en.wiktionary.org | 2026-07-08 |
+| eastern-thought-088 | 真実こそ勝つ（サティヤメーヴァ・ジャヤテー） | 作者不詳（ムンダカ・ウパニシャッド） | wisdomlib.org, en.wikipedia.org | 2026-07-08 |
+| eastern-thought-089 | 縁起はすなわち空である（中論24.18） | 龍樹（ナーガールジュナ） | en.wikipedia.org, en.wikipedia.org | 2026-07-08 |
+| eastern-thought-090 | 春に百花有り秋に月有り（無門関19則 頌） | 無門慧開 | ja.wikipedia.org, note.com | 2026-07-08 |
