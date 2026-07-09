@@ -719,3 +719,8 @@
 | reference_vr-spatial-scale-design-nightmares-2026.md | 2026-07-08 |
 | reference_difficulty-curves-flow-state-balance.md | 2026-07-08 |
 | reference_emotion-driven-mechanics-narrative-design.md | 2026-07-08 |
+| reference_cognitive-load-tutorial-design-ftue.md | 2026-07-09 |
+| reference_ai-game-development-usecases-2026-ja.md | 2026-07-09 |
+| reference_ai-procedural-content-generation-tools-2026.md | 2026-07-09 |
+| reference_a-short-hike-postmortem-smart-shortcuts.md | 2026-07-09 |
+| reference_designing-production-process-iterative.md | 2026-07-09 |
