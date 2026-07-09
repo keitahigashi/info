@@ -170,4 +170,9 @@
 | aesop-377 | ジュノーとヴィーナスとメンドリ | Perry Index #539, fablesofaesop.com/juno-venus-hen.html | 2026-06-30 |
 | aesop-378 | ロバと竪琴 | Perry Index #542, mythfolklore.net/aesopica/oxford/404.htm | 2026-06-30 |
 
+| aesop-379 | カエルと太陽の婚礼 | Perry Index #314, パイドロス版（Phaedrus I.6）, gutenberg.org/files/25512, perseus.tufts.edu | 2026-07-09 |
+| aesop-380 | トビとハト | Perry Index #486, パイドロス版（Phaedrus I.31）, en.wikipedia.org/wiki/The_Kite_and_the_Doves, gutenberg.org/files/25512 | 2026-07-09 |
+| aesop-381 | キリギリスとフクロウ | Perry Index #508, パイドロス版（Phaedrus III.16）, perseus.tufts.edu, gutenberg.org/files/25512 | 2026-07-09 |
+| aesop-382 | クジャクとユノー | Perry Index #510, パイドロス版（Phaedrus III.18）, perseus.tufts.edu, gutenberg.org/files/25512 | 2026-07-09 |
+| aesop-383 | ロバの影 | Perry Index #460, バブリウス『寓話集』第2部第95話（Babrius II, Fable XCV）, elfinspell.com/ClassicalTexts/Babrius/Part2-Fables80-95.html, classicaesopica.com/donkeys-shadow | 2026-07-09 |
 <!-- 出典追加時にここへ行を追加 -->

@@ -1,4 +1,4 @@
-# イソップ寓話（376話）
+# イソップ寓話（381話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -380,4 +380,9 @@
 | [aesop-376](../fables/aesop/aesop-376-the-bald-knight.md) | 禿げた騎士 | 自分の欠点をユーモアで笑い飛ばせる者は、防御的になる者よりもはるかに強く、人々の尊敬を得る |
 | [aesop-377](../fables/aesop/aesop-377-juno-venus-and-the-hen.md) | ジュノーとヴィーナスとメンドリ | 地位や誇りがいかに高くとも、生まれついた本性からは誰も逃れられない |
 | [aesop-378](../fables/aesop/aesop-378-the-donkey-and-the-lyre.md) | ロバと竪琴 | 優れたものも、それを使いこなす知識や才能を持たない者の手に渡れば、その価値は発揮されない |
+| [aesop-379](../fables/aesop/aesop-379-frogs-at-the-suns-wedding.md) | カエルと太陽の婚礼 | 圧政者の増殖は被支配者にとってより大きな災いしか生まない。権力の集中が招く帰結を冷静に見極めよ |
+| [aesop-380](../fables/aesop/aesop-380-the-kite-and-the-doves.md) | トビとハト | 恐怖に駆られた判断で敵を守護者として招き入れれば、元の脅威よりはるかに大きな災いを受ける |
+| [aesop-381](../fables/aesop/aesop-381-the-grasshopper-and-the-owl.md) | キリギリスとフクロウ | 他者への礼節を無視し妨害し続ける者はやがて代償を払う。知恵は直接の力よりも強力なこともある |
+| [aesop-382](../fables/aesop/aesop-382-the-peacocks-complaint-to-juno.md) | クジャクとユノー | 自分に授けられた才能を大切にし他者の才能を羨むな。すべての存在には固有の賜物がある |
+| [aesop-383](../fables/aesop/aesop-383-the-shadow-of-the-ass.md) | ロバの影 | 些細なことへの言い争いに夢中になっているうちに、本当に守るべき大切なものを見失う |
 <!-- 寓話追加時にここへ行を追加 -->
