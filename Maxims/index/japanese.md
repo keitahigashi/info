@@ -1,4 +1,4 @@
-# 日本の格言・名言（81件）
+# 日本の格言・名言（91件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -85,3 +85,13 @@
 | [japanese-079](../maxims/japanese/japanese-079-good-is-realization-of-personality.md) | 善とは一言にていえば人格の実現である | 西田幾多郎 | 『善の研究』第三編「善」第十章（1911年） |
 | [japanese-080](../maxims/japanese/japanese-080-cowardly-pride-arrogant-shame.md) | 臆病な自尊心と、尊大な羞恥心 | 中島敦 | 小説『山月記』（1942年） |
 | [japanese-081](../maxims/japanese/japanese-081-even-kobo-makes-brush-errors.md) | 弘法にも筆の誤り | 作者不詳（ことわざ） | 由来『今昔物語集』巻十一第九話 |
+| [japanese-082](../maxims/japanese/japanese-082-flower-color-has-faded.md) | 花の色はうつりにけりないたづらにわが身世にふるながめせしまに | 小野小町 | 『古今和歌集』春歌下・113番（百人一首9番） |
+| [japanese-083](../maxims/japanese/japanese-083-waiting-for-one-who-wont-come.md) | 来ぬ人をまつほの浦の夕なぎに焼くやもしほの身もこがれつつ | 藤原定家 | 『新勅撰和歌集』恋歌三・849番（百人一首97番） |
+| [japanese-084](../maxims/japanese/japanese-084-no-choice-but-to-accept.md) | 是非に及ばず | 織田信長 | 太田牛一『信長公記』巻十五（1582年） |
+| [japanese-085](../maxims/japanese/japanese-085-way-of-former-kings-was-made.md) | 先王の道は、先王の造る所なり。天地自然の道に非ざるなり | 荻生徂徠 | 『弁道』（1717年成稿） |
+| [japanese-086](../maxims/japanese/japanese-086-cast-off-the-childish-heart.md) | 稚心を去る | 橋本左内 | 『啓発録』（1848年）五訓の第一 |
+| [japanese-087](../maxims/japanese/japanese-087-become-all-round-women.md) | 完き婦人、即ちall-round womenとなるよう心掛けねばなりません | 津田梅子 | 女子英学塾開校式辞（1900年） |
+| [japanese-088](../maxims/japanese/japanese-088-be-a-person-of-practical-learning.md) | 叡智をもって実学の人として、不撓不屈の精神を貫け | 北里柴三郎 | 門下生への教え（北里大学建学の精神） |
+| [japanese-089](../maxims/japanese/japanese-089-a-life-full-of-shame.md) | 恥の多い生涯を送って来ました。 | 太宰治 | 『人間失格』「第一の手記」冒頭（1948年） |
+| [japanese-090](../maxims/japanese/japanese-090-through-the-tunnel-was-snow-country.md) | 国境の長いトンネルを抜けると雪国であった。 | 川端康成 | 小説『雪国』冒頭（1935-48年） |
+| [japanese-091](../maxims/japanese/japanese-091-kindness-is-not-for-others-sake.md) | 情けは人の為ならず | 作者不詳（ことわざ） | 日本のことわざ（由来諸説） |
