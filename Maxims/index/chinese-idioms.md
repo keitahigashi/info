@@ -1,4 +1,4 @@
-# 中国故事成語（80件）
+# 中国故事成語（90件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -84,3 +84,13 @@
 | [chinese-idioms-078](../maxims/chinese-idioms/chinese-idioms-078-critical-moment-of-survival.md) | 危急存亡の秋 | 諸葛亮 | 「出師表」（『三国志』蜀書 諸葛亮伝） |
 | [chinese-idioms-079](../maxims/chinese-idioms/chinese-idioms-079-burned-soup-blow-on-salad.md) | 羹に懲りて膾を吹く | 屈原 | 『楚辞』九章「惜誦」 |
 | [chinese-idioms-080](../maxims/chinese-idioms/chinese-idioms-080-paper-price-of-luoyang.md) | 洛陽の紙価を高む | 房玄齢ほか（編） | 『晋書』文苑・左思伝 |
+| [chinese-idioms-081](../maxims/chinese-idioms/chinese-idioms-081-too-far-is-as-bad-as-too-short.md) | 過ぎたるは猶及ばざるが如し | 孔子（門人編） | 『論語』先進篇 |
+| [chinese-idioms-082](../maxims/chinese-idioms/chinese-idioms-082-clever-words-and-a-pleasing-face.md) | 巧言令色すくなし仁 | 孔子（門人編） | 『論語』学而篇 |
+| [chinese-idioms-083](../maxims/chinese-idioms/chinese-idioms-083-tyranny-is-fiercer-than-a-tiger.md) | 苛政は虎よりも猛し | 編者不詳（漢代の儒家編纂） | 『礼記』檀弓下篇 |
+| [chinese-idioms-084](../maxims/chinese-idioms/chinese-idioms-084-lips-gone-teeth-cold.md) | 唇亡びて歯寒し | 左丘明（伝） | 『春秋左氏伝』僖公五年 |
+| [chinese-idioms-085](../maxims/chinese-idioms/chinese-idioms-085-one-day-feels-like-a-thousand-years.md) | 一日千秋 | 作者不詳（『詩経』） | 『詩経』王風・采葛 |
+| [chinese-idioms-086](../maxims/chinese-idioms/chinese-idioms-086-cutting-filing-carving-polishing.md) | 切磋琢磨 | 作者不詳（『詩経』） | 『詩経』衛風・淇奥 |
+| [chinese-idioms-087](../maxims/chinese-idioms/chinese-idioms-087-strong-grass-in-a-fierce-wind.md) | 疾風に勁草を知る | 范曄 | 『後漢書』王覇伝 |
+| [chinese-idioms-088](../maxims/chinese-idioms/chinese-idioms-088-peach-blossom-spring-utopia.md) | 桃源郷 | 陶淵明（陶潜） | 「桃花源記」 |
+| [chinese-idioms-089](../maxims/chinese-idioms/chinese-idioms-089-house-of-accumulated-good-has-blessings.md) | 積善の家には必ず余慶あり | 作者不詳（『易経』文言伝） | 『易経』坤卦・文言伝 |
+| [chinese-idioms-090](../maxims/chinese-idioms/chinese-idioms-090-sweating-oxen-filling-rafters.md) | 汗牛充棟 | 柳宗元 | 「陸文通先生墓表」 |
