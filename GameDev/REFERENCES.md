@@ -724,3 +724,8 @@
 | reference_ai-procedural-content-generation-tools-2026.md | 2026-07-09 |
 | reference_a-short-hike-postmortem-smart-shortcuts.md | 2026-07-09 |
 | reference_designing-production-process-iterative.md | 2026-07-09 |
+| reference_game-design-introducing-mechanics.md | 2026-07-10 |
+| reference_game-mechanics-types-best-practices-2026.md | 2026-07-10 |
+| reference_ui-trends-2026-ja.md | 2026-07-10 |
+| reference_ui-ux-11-innovations-2026-ja.md | 2026-07-10 |
+| reference_ux-ui-7trends-complete-2026-ja.md | 2026-07-10 |
