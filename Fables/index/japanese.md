@@ -1,4 +1,4 @@
-# 日本昔話（120話）
+# 日本昔話（125話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -124,4 +124,9 @@
 | [japanese-118](../fables/japanese/japanese-118-oshira-sama.md) | 馬の首女房（おしらさま） | 人と動物の境を越えた絆の悲劇が死と再生を経て農耕文化の守護神として昇華される、起源神話の教え。 |
 | [japanese-119](../fables/japanese/japanese-119-otoshi-no-kyaku.md) | 大歳の客 | 貧しくとも思いやりある者に歳の神は福をもたらし、心の貧しい者から福は去るという因果応報の教え。 |
 | [japanese-120](../fables/japanese/japanese-120-anchin-and-kiyohime.md) | 安珍・清姫伝説 | 軽率な偽りの約束が引き起こす執念の悲劇と、仏法の功徳による輪廻からの解脱という仏教説話の教え。 |
+| [japanese-121](../fables/japanese/japanese-121-jizo-jodo.md) | 地蔵浄土 | 誠実に感謝する者には幸福が訪れるが、欲に目が眩んで他人を上辺だけ真似る者は災いを招く。 |
+| [japanese-122](../fables/japanese/japanese-122-myoga-no-yado.md) | みょうがの宿 | 他人を騙そうとする欲張りな企みは必ず裏目に出る。欺こうとした者が最大の被害を被るという逆説的な因果律。 |
+| [japanese-123](../fables/japanese/japanese-123-sumiyaki-choja.md) | 炭焼き長者 | 誠実に勤しむ者には天から福が授けられる。また人の運命は自分の才覚だけでなく、縁を結ぶ相手によっても大きく左右される。 |
+| [japanese-124](../fables/japanese/japanese-124-saru-muko-iri.md) | 猿婿入り | 言葉には神仏や異界の存在をも動かす重みがある。軽はずみな誓約は身を滅ぼしかねず、誠実さと機知が難局を切り開く。 |
+| [japanese-125](../fables/japanese/japanese-125-yuriwaka-daijin.md) | 百合若大臣 | どれほど深い逆境に置かれても、忍耐と誠実さを保ち続ければ正義は最終的に実現する。動物との深い信頼が命の糸をつなぐ。 |
 <!-- 寓話追加時にここへ行を追加 -->

@@ -126,4 +126,9 @@
 | japanese-118 | 馬の首女房（おしらさま） | ja.wikipedia.org/wiki/おしら様, note.com/norko/n/na51bd1e53022 | 2026-07-01 |
 | japanese-119 | 大歳の客 | kanbenosato.com/minwa/541/, kotobank.jp/word/大歳の客-1281505 | 2026-07-01 |
 | japanese-120 | 安珍・清姫伝説 | ja.wikipedia.org/wiki/安珍・清姫伝説, wakayama-rekishi100.jp/story/042.html | 2026-07-01 |
+| japanese-121 | 地蔵浄土 | ja.wikipedia.org/wiki/地蔵浄土、katarinomori13.com | 2026-07-10 |
+| japanese-122 | みょうがの宿 | minwanoheya.jp/area/iwate_004/ | 2026-07-10 |
+| japanese-123 | 炭焼き長者 | kotobank.jp/word/炭焼長者-85025、minwanoheya.jp/area/shimane_012/ | 2026-07-10 |
+| japanese-124 | 猿婿入り | minwanoheya.jp/area/saitama_007/、kotobank.jp/word/猿婿入り-70196 | 2026-07-10 |
+| japanese-125 | 百合若大臣 | ja.wikipedia.org/wiki/百合若大臣、minwanoheya.jp/area/kagoshima_016/ | 2026-07-10 |
 <!-- 出典追加時にここへ行を追加 -->
