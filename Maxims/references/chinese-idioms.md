@@ -84,3 +84,13 @@
 | chinese-idioms-078 | 危急存亡の秋 | 諸葛亮 | ja.wikisource.org, kanshi.roudokus.com | 2026-07-01 |
 | chinese-idioms-079 | 羹に懲りて膾を吹く | 屈原 | kanbun.info, dictionary.sanseido-publ.co.jp | 2026-07-01 |
 | chinese-idioms-080 | 洛陽の紙価を高む | 房玄齢ほか（編） | kanbun.info, ja.wikipedia.org | 2026-07-01 |
+| chinese-idioms-081 | 過ぎたるは猶及ばざるが如し | 孔子（門人編） | ctext.org, kotobank.jp | 2026-07-10 |
+| chinese-idioms-082 | 巧言令色すくなし仁 | 孔子（門人編） | ctext.org, kotobank.jp | 2026-07-10 |
+| chinese-idioms-083 | 苛政は虎よりも猛し | 編者不詳（漢代の儒家編纂） | ctext.org, kotobank.jp | 2026-07-10 |
+| chinese-idioms-084 | 唇亡びて歯寒し | 左丘明（伝） | ctext.org, kanbun.info | 2026-07-10 |
+| chinese-idioms-085 | 一日千秋 | 作者不詳（『詩経』） | ctext.org, kotobank.jp | 2026-07-10 |
+| chinese-idioms-086 | 切磋琢磨 | 作者不詳（『詩経』） | ctext.org, kotobank.jp | 2026-07-10 |
+| chinese-idioms-087 | 疾風に勁草を知る | 范曄 | ja.wikipedia.org, kotobank.jp | 2026-07-10 |
+| chinese-idioms-088 | 桃源郷 | 陶淵明（陶潜） | zh.wikisource.org, kotobank.jp | 2026-07-10 |
+| chinese-idioms-089 | 積善の家には必ず余慶あり | 作者不詳（『易経』文言伝） | ctext.org, kotobank.jp | 2026-07-10 |
+| chinese-idioms-090 | 汗牛充棟 | 柳宗元 | kanbun.info, kotobank.jp | 2026-07-10 |
