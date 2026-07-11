@@ -83,3 +83,13 @@
 | world-proverbs-077 | 寝床のある分だけ、脚を伸ばせ。 | 作者不詳（カンナダ語） | knowaboutkannadalanguage.blogspot.com, madhurab.com | 2026-07-02 |
 | world-proverbs-078 | 地上に、取るに足らぬ者は一人もいない。 | 作者不詳（古典ナワトル語） | nahuatl.wired-humanities.org, lingalot.com | 2026-07-02 |
 | world-proverbs-079 | 「雨さえ降らなければ雨漏りはしない」と、あばら家の主は言う。 | 作者不詳（グアラニー語） | alparaguay.blogspot.com, portalguarani.com | 2026-07-02 |
+| world-proverbs-080 | 一日でも塩をいただいた場所には、四十日あいさつを尽くせ。 | 作者不詳（ウズベク語） | uz.wikiquote.org, maqollar.uz | 2026-07-11 |
+| world-proverbs-081 | 善は必ず知られ、悪は必ず露見する。 | 作者不詳（ジャワ語） | incubator.wikimedia.org（Wq/jv）, pontren.com, detik.com | 2026-07-11 |
+| world-proverbs-082 | 四本足の水牛でさえ、足を滑らせることがある。 | 作者不詳（セブアノ語） | en.wiktionary.org, lingalot.com | 2026-07-11 |
+| world-proverbs-083 | 牛乳でやけどした者は、ラッシー（バターミルク）でさえ吹き冷ましてから飲む。 | 作者不詳（パンジャブ語） | punjabi-kavita.com, unicodepoint.net | 2026-07-11 |
+| world-proverbs-084 | 満ちた水がめの水は、揺れても音を立てない。 | 作者不詳（シンハラ語） | en.wikipedia.org（Sinhala idioms and proverbs）, sdevinda.blogspot.com | 2026-07-11 |
+| world-proverbs-085 | 庭に咲くジャスミンには、香りがない。 | 作者不詳（マラヤーラム語） | en.wiktionary.org, malayalaminfo.com | 2026-07-11 |
+| world-proverbs-086 | 燃えさしは、それをかき立てる者を焼く。 | 作者不詳（コサ語） | alluringcreations.co.za, sacred-texts.com（Theal Xhosa Folk-Lore） | 2026-07-11 |
+| world-proverbs-087 | ダマスカスは砂糖のように甘いが、故郷はもっと甘い。 | 作者不詳（クルド語） | en.wiktionary.org, kurdistanchronicle.com | 2026-07-11 |
+| world-proverbs-088 | いちばん愚かな農民が、いちばん大きなジャガイモを収穫する。 | 作者不詳（ルクセンブルク語） | lod.lu, lb.wikipedia.org | 2026-07-11 |
+| world-proverbs-089 | たとえのない話は理解しにくい。取っ手のない器が持ちにくいように。 | 作者不詳（チベット語） | Ebihara 2018（千葉大学）, Sørensen & Erhard 2013（Proverbium 30） | 2026-07-11 |

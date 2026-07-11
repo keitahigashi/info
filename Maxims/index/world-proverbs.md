@@ -1,4 +1,4 @@
-# 世界のことわざ（79件）
+# 世界のことわざ（89件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -83,3 +83,13 @@
 | [world-proverbs-077](../maxims/world-proverbs/world-proverbs-077-hasige-iddashtu-kalu-chachu.md) | 寝床のある分だけ、脚を伸ばせ。 | 作者不詳（カンナダ語） | ಹಾಸಿಗೆ ಇದ್ದಷ್ಟು ಕಾಲು ಚಾಚು |
 | [world-proverbs-078](../maxims/world-proverbs/world-proverbs-078-ayac-xictli-in-tlalticpac.md) | 地上に、取るに足らぬ者は一人もいない。 | 作者不詳（ナワトル語） | Ayac xictli in tlalticpac |
 | [world-proverbs-079](../maxims/world-proverbs/world-proverbs-079-ndokyiramo-ndotykyi.md) | 「雨さえ降らなければ雨漏りはしない」と、あばら家の主は言う。 | 作者不詳（グアラニー語） | Ndokýiramo ndotykýi, he'i óga osoropáva |
+| [world-proverbs-080](../maxims/world-proverbs/world-proverbs-080-bir-kun-tuz-ichgan-joyingga.md) | 一日でも塩をいただいた場所には、四十日あいさつを尽くせ。 | 作者不詳（ウズベク語） | Bir kun tuz ichgan joyingga qirq kun salom ber |
+| [world-proverbs-081](../maxims/world-proverbs/world-proverbs-081-becik-ketitik-ala-ketara.md) | 善は必ず知られ、悪は必ず露見する。 | 作者不詳（ジャワ語） | Becik ketitik, ala ketara |
+| [world-proverbs-082](../maxims/world-proverbs/world-proverbs-082-bisan-ang-kabaw-masipyat.md) | 四本足の水牛でさえ、足を滑らせることがある。 | 作者不詳（セブアノ語） | Bisan ang kabaw nga naay upat ka tiil masipyat |
+| [world-proverbs-083](../maxims/world-proverbs/world-proverbs-083-dudh-da-sarhia-lassi.md) | 牛乳でやけどした者は、ラッシー（バターミルク）でさえ吹き冷ましてから飲む。 | 作者不詳（パンジャブ語） | ਦੁੱਧ ਦਾ ਸੜਿਆ ਲੱਸੀ ਨੂੰ ਵੀ ਫੂਕ ਫੂਕ ਕੇ ਪੀਂਦਾ ਹੈ |
+| [world-proverbs-084](../maxims/world-proverbs/world-proverbs-084-pirunu-kale-diya-nosale.md) | 満ちた水がめの水は、揺れても音を立てない。 | 作者不詳（シンハラ語） | පිරුණු කළේ දිය නොසැලේ |
+| [world-proverbs-085](../maxims/world-proverbs/world-proverbs-085-muttathe-mullaykku-manamilla.md) | 庭に咲くジャスミンには、香りがない。 | 作者不詳（マラヤーラム語） | മുറ്റത്തെ മുല്ലയ്ക്ക് മണമില്ല |
+| [world-proverbs-086](../maxims/world-proverbs/world-proverbs-086-isikuni-sinyuka-nomkwezeli.md) | 燃えさしは、それをかき立てる者を焼く。 | 作者不詳（コサ語） | Isikuni sinyuka nomkwezeli |
+| [world-proverbs-087](../maxims/world-proverbs/world-proverbs-087-sam-sekir-le-welat-sirintir-e.md) | ダマスカスは砂糖のように甘いが、故郷はもっと甘い。 | 作者不詳（クルド語） | Şam şekir lê welat şirîntir e |
+| [world-proverbs-088](../maxims/world-proverbs/world-proverbs-088-dommste-bauer-deckste-gromperen.md) | いちばん愚かな農民が、いちばん大きなジャガイモを収穫する。 | 作者不詳（ルクセンブルク語） | Deen dommste Bauer huet déi déckste Gromperen |
+| [world-proverbs-089](../maxims/world-proverbs/world-proverbs-089-gtam-dpe-med-de-go-dka.md) | たとえのない話は理解しにくい。取っ手のない器が持ちにくいように。 | 作者不詳（チベット語） | གཏམ་དཔེ་མེད་དེ་གོ་དཀའ། སྣོད་ལུང་མེད་དེ་འཇུ་དཀའ། |
