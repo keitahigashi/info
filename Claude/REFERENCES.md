@@ -551,3 +551,5 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_cursor_to_claude_code_complete_guide_pythonista.md | 2026-07-10 |
 | reference_cursor_claude_copilot_3tools_nxcode_2026.md | 2026-07-10 |
 | reference_claude_code_enterprise_security_nocodesol.md | 2026-07-10 |
+| reference_loop_engineering_harness_design_kamo.md | 2026-07-12 |
+| reference_loop_engineering_intro_harinezumi.md | 2026-07-12 |
