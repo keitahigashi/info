@@ -553,3 +553,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_enterprise_security_nocodesol.md | 2026-07-10 |
 | reference_loop_engineering_harness_design_kamo.md | 2026-07-12 |
 | reference_loop_engineering_intro_harinezumi.md | 2026-07-12 |
+| reference_claude_code_loop_design_4types_gihyo.md | 2026-07-11 |
+| reference_claude_code_v21207_updates_classmethod.md | 2026-07-11 |
+| reference_loop_engineering_fable5_endoh_qiita.md | 2026-07-11 |
+| reference_claude_code_multiagent_req_impl_classmethod.md | 2026-07-11 |
+| reference_claude_code_multiagent_parallel_91works_zenn.md | 2026-07-11 |
