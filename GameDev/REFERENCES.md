@@ -729,3 +729,8 @@
 | reference_ui-trends-2026-ja.md | 2026-07-10 |
 | reference_ui-ux-11-innovations-2026-ja.md | 2026-07-10 |
 | reference_ux-ui-7trends-complete-2026-ja.md | 2026-07-10 |
+| reference_hot-reload-gameplay-dll-architecture.md | 2026-07-11 |
+| reference_angelscript-cpp-embedding.md | 2026-07-11 |
+| reference_embedded-scripting-alternatives-comparison.md | 2026-07-11 |
+| reference_async-compute-gpu-game-engines.md | 2026-07-11 |
+| reference_webgpu-compute-shader-gpgpu-intro.md | 2026-07-11 |
