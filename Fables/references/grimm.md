@@ -1,4 +1,4 @@
-# グリム童話 — 出典一覧（125話）
+# グリム童話 — 出典一覧（130話）
 
 [< 出典一覧に戻る](../REFERENCES.md)
 
@@ -132,4 +132,9 @@
 | grimm-123 | やせたリーゼ | grimmstories.com/ja/grimm_dowa/yaseta_rize, childstories.org/ja/lean-lisa-2006.html, KHM168 | 2026-07-02 |
 | grimm-124 | ふくろう | grimmdowaclub.net/khm174/, grimmstories.com/ja/grimm_dowa/fukuro, KHM174 | 2026-07-02 |
 | grimm-125 | 大男と仕立屋 | grimmstories.com/ja/grimm_dowa/ootoko_to_shitateya, grimmdowaclub.net/grimm-fairy-tales-list/, KHM183 | 2026-07-02 |
+| grimm-126 | 水呑百姓 | grimmstories.com/ja/grimm_dowa/minomi_hyakusho, palimpsest.jugem.jp/?eid=98, KHM61 | 2026-07-11 |
+| grimm-127 | 土の中の小人 | grimmdowaclub.net/khm091/, grimmstories.com/ja/grimm_dowa/tsuchi_no_naka_no_kobito, KHM91 | 2026-07-11 |
+| grimm-128 | 背嚢と帽子と角笛 | grimmdowaclub.net/khm054/, sites.pitt.edu/~dash/grimm054.html, KHM54 | 2026-07-11 |
+| grimm-129 | 知恵者のグレーテル | grimmdowaclub.net/khm077/, grimmstories.com/ja/grimm_dowa/kashikoi_greteru, KHM77 | 2026-07-11 |
+| grimm-130 | 狐と名付けをたのんだ奥さま | grimmdowaclub.net/khm074/, sites.pitt.edu/~dash/grimm074.html, KHM74 | 2026-07-11 |
 <!-- 出典追加時にここへ行を追加 -->

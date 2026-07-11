@@ -7,9 +7,9 @@
 | イソップ寓話 | 381 | [一覧を見る](index/aesop.md) |
 | 日本昔話 | 125 | [一覧を見る](index/japanese.md) |
 | 中国故事 | 126 | [一覧を見る](index/chinese.md) |
-| グリム童話 | 125 | [一覧を見る](index/grimm.md) |
+| グリム童話 | 130 | [一覧を見る](index/grimm.md) |
 | アンデルセン童話 | 125 | [一覧を見る](index/andersen.md) |
 | インド寓話 | 139 | [一覧を見る](index/indian.md) |
 | アフリカ民話 | 130 | [一覧を見る](index/african.md) |
 | その他 | 127 | [一覧を見る](index/other.md) |
-| **合計** | **1278** | |
+| **合計** | **1283** | |
