@@ -734,3 +734,8 @@
 | reference_embedded-scripting-alternatives-comparison.md | 2026-07-11 |
 | reference_async-compute-gpu-game-engines.md | 2026-07-11 |
 | reference_webgpu-compute-shader-gpgpu-intro.md | 2026-07-11 |
+| reference_set-piece-budget-design-fe.md | 2026-07-12 |
+| reference_uncharted2-pacing-two-layer-analysis.md | 2026-07-12 |
+| reference_emotion-difficulty-hierarchy-singleplayer.md | 2026-07-12 |
+| reference_player-emotions-arousal-valence-model.md | 2026-07-12 |
+| reference_narrative-gameplay-delivery-toolbox.md | 2026-07-12 |
