@@ -1,0 +1,36 @@
+
+直近1週間にリポジトリへ追加された情報を分析し、Weekly Digest を1本生成する。
+
+## 実行タイミング
+- 毎週日曜 08:00 JST（cron: `0 23 * * 6` = 土曜 23:00 UTC）
+- Claude(03:00) / GameDev(04:00) / Maxims(05:00) / Fables(06:00) の各収集終了後に実行する
+
+## 手順
+1. `.claude/skills/weekly-digest/SKILL.md` を読み、ワークフローに厳密に従う
+2. Step 1: 対象期間を計算する（実行日の7日前 00:00 JST 〜 実行日 07:59 JST）
+3. Step 2: `git log --no-merges --since --until --diff-filter=A --name-only` で追加内容ファイルを取得する
+   （マージコミットは必ず除外し、二重集計を防ぐ）
+4. Step 3〜6: 4カテゴリ（Claude/GameDev/Fables/Maxims）を分類・集計し、関連度を評価して注目情報を最大5件選定する
+   （集計対象・除外対象・掲載上限はすべて SKILL に従う）
+5. Step 7〜9: `Digests/YYYY/YYYY-MM-DD.md` を生成し、`Digests/INDEX.md` を更新する
+6. Step 10: 同一日付の Digest が既に存在する場合、通常実行では新規作成せず処理終了する
+
+## リモート実行のオーバーライド
+- 本ルーチンはリモート定期実行用。SKILL の「commit/push はユーザー確認を待つ」は
+  ローカル対話用の記述であり、リモート実行では適用しない
+- Digest 生成後、確認なしで git add → commit → push → PR(auto-merge) まで自動完了する
+- Digest・ログに PR情報（URL・番号・ラベル）を記載しない（マージ後のブランチ追記が main に反映されず不要差分を生むため）
+
+## このルーチン固有のパラメータ
+- 生成単位: 1回の実行で Digest 1本
+- コミットメッセージ: `docs(digest): add weekly digest YYYY-MM-DD`
+- 作業ディレクトリ: リポジトリルート（4カテゴリ横断のため）
+- 情報がない場合も空の Digest を生成して正常終了する（実行成功と失敗を区別するため）
+
+## ブランチ運用
+- main 以外のブランチで作業した場合、push 後に PR を作成する:
+
+    gh pr create --base main --head "$(git branch --show-current)" \
+      --title "<コミットメッセージと同じ内容>" --body "<変更概要を1〜3行>" --label "auto-merge"
+
+- `--label` 付与でエラーが出た場合は、ラベルなしで作成後 `gh pr edit <PR番号> --add-label auto-merge` で後付けする
