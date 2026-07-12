@@ -553,3 +553,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_enterprise_security_nocodesol.md | 2026-07-10 |
 | reference_loop_engineering_harness_design_kamo.md | 2026-07-12 |
 | reference_loop_engineering_intro_harinezumi.md | 2026-07-12 |
+| reference_claude_code_mcp_30servers_lunalink_2026.md | 2026-07-12 |
+| reference_claude_code_analytics_limitations_faros_2026.md | 2026-07-12 |
+| reference_claude_code_token_5phase_yamato_snow.md | 2026-07-12 |
+| reference_cdata_mcp_token_97percent_reduction.md | 2026-07-12 |
+| reference_claude_code_cost_optimization_airevolution.md | 2026-07-12 |
