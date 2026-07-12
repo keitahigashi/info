@@ -95,3 +95,13 @@
 | notable-figures-089 | 無知な民衆は、自らの破滅をもたらす盲目の道具である | シモン・ボリバル | 「アンゴスチュラ演説（Discurso de Angostura）」1819-02-15、アンゴスチュラ議会 / es.wikisource.org（演説全文）, citas.in | 2026-07-03 |
 | notable-figures-090 | 音楽には二種類しかない。良い音楽と、その他の音楽だ | デューク・エリントン | 論説「Where Is Jazz Going?」『Music Journal』1962年（『The Duke Ellington Reader』再録）/ en.wikiquote.org, therestisnoise.com。**注意**: 短縮版はアームストロング等にも俗に帰される | 2026-07-03 |
 | notable-figures-091 | 私はトウモロコシの一株一株を親密に知っている。それらを知ることこそが大きな喜びなのだ | バーバラ・マクリントック | E. F. Keller『A Feeling for the Organism: The Life and Work of Barbara McClintock』W. H. Freeman, 1983年 / todayinsci.com, nobelprize.org | 2026-07-03 |
+| notable-figures-092 | 思うに希望とは、あるとも言えず、ないとも言えないものだ。もともと地上に道はない。歩く人が多くなれば、それが道になるのだ | 魯迅 | 短編小説「故郷」1921年『新青年』第9巻第1号初出、短編集『吶喊』1923年所収の末尾 / otani.ac.jp（大谷大学）, aozora.gr.jp（井上紅梅訳「故郷」） | 2026-07-12 |
+| notable-figures-093 | 人を腐敗させるのは権力ではなく、恐怖である | アウンサンスーチー | エッセイ「Freedom from Fear」冒頭（1990年執筆・1991年公表、『Freedom from Fear and Other Writings』Penguin, 1991所収）/ awpc.cattcenter.iastate.edu（アイオワ州立大）, en.wikiquote.org | 2026-07-12 |
+| notable-figures-094 | 心を空にせよ。形をなくし、水のようになれ。友よ、水になれ | ブルース・リー | TVドラマ『Longstreet』第1話「The Way of the Intercepting Fist」1971-09（脚本 Stirling Silliphant）／Pierre Berton Show 1971-12-09 で本人が普及 / brucelee.blog（公式）, en.wikiquote.org | 2026-07-12 |
+| notable-figures-095 | 抑圧者の手中にある最も強力な武器は、被抑圧者の心である | スティーヴ・ビコ | エッセイ「White Racism and Black Consciousness」1971年／遺稿選集『I Write What I Like』（Aelred Stubbs 編、1978年）所収 / africacheck.org, en.wikiquote.org | 2026-07-12 |
+| notable-figures-096 | 単一の物語はステレオタイプを生む。その問題は真実でないことではなく、不完全であることだ | チママンダ・ンゴズィ・アディーチェ | TEDトーク「The Danger of a Single Story」TEDGlobal 2009-07（オックスフォード）/ ted.com（公式）, 公式トランスクリプト | 2026-07-12 |
+| notable-figures-097 | 百年の孤独を宣告された種族が、ついに、そして永遠に、地上での第二の機会を得るのだ | ガブリエル・ガルシア＝マルケス | ノーベル文学賞受賞講演「La soledad de América Latina」1982-12-08 ストックホルム（講演の結び）/ nobelprize.org（公式・西語）, cvc.cervantes.es（Instituto Cervantes） | 2026-07-12 |
+| notable-figures-098 | 道理もなく女を責める愚かな男たちよ、自らがその咎の原因であることに気づきもせずに | ソル・フアナ・イネス・デ・ラ・クルス | 風刺詩（Redondillas、通称「Hombres necios」）冒頭。作品集『Inundación castálida』（マドリード, 1689年）所収 / bibliotecadigital.ilce.edu.mx, cervantes.es | 2026-07-12 |
+| notable-figures-099 | 真冬のただ中で、私はついに、自分の内に無敵の夏があることを知ったのだ | アルベール・カミュ | エッセイ「Retour à Tipasa」1952年執筆、エッセイ集『L'Été（夏）』Gallimard, 1954所収。**留意**: 流布の短縮改変形「j'ai découvert en moi un invincible été」は原文ではない / en.wikiquote.org, 仏語原文ソース | 2026-07-12 |
+| notable-figures-100 | 教師にとって最大の成功のしるしは、子どもたちがまるで私が存在しないかのように活動していると言えることだ | マリア・モンテッソーリ | 『The Absorbent Mind（吸収する精神）』第27章（1949年、原著／Claremont 訳1969年）/ wist.info, quotepark.com | 2026-07-12 |
+| notable-figures-101 | 勝利は、すべてを整えた者に訪れる——人はそれを幸運と呼ぶ | ロアール・アムンセン | 『Sydpolen』1912年（英訳『The South Pole』）。※英訳表記 / en.wikiquote.org, libquotes.com | 2026-07-12 |
