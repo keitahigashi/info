@@ -1,2 +1,5 @@
 # Claude Code 個人・マシン固有設定（共有しない）
 .claude/settings.local.json
+
+# ルーチン依頼ドキュメント（PDF等の一次資料はGit管理しない）
+routine/*.pdf

@@ -10,6 +10,7 @@
 | [Fables/](Fables/) | 世界の寓話 | カード型（1話1ファイル） | 世界各地の寓話を収集・整理するデータベース。イソップ・グリム・日本昔話など8カテゴリ |
 | [GameDev/](GameDev/) | ゲーム開発 | 記事蓄積型（章ファイル 00-09） | エンジン非依存のゲーム開発ナレッジベース。メカニクス・レベルデザイン・UI/UX 等を網羅 |
 | [Maxims/](Maxims/) | 古今東西の格言 | カード型（1格言1ファイル） | 古今東西の格言・名言・箴言を出典確認しながら収集するデータベース。西洋哲学・東洋思想・故事成語など8カテゴリ |
+| [Digests/](Digests/) | Weekly Digest | 週次生成 | 直近1週間の情報を分析し、注目情報と活用案を生成。読むべき3件・ゲーム企画の種を1枚にまとめる |
 
 ## ルーチン実行
 
@@ -21,3 +22,4 @@
 | GameDev | 毎日 4:00 | 5〜10分 | [trig_01NC6yvLBS43taUL9UnmiLEY](https://claude.ai/code/routines/trig_01NC6yvLBS43taUL9UnmiLEY) |
 | Maxims | 毎日 5:00 | 5〜10分 | [trig_016UCNM2bj9Rotc5dHCMr8Cj](https://claude.ai/code/routines/trig_016UCNM2bj9Rotc5dHCMr8Cj) |
 | Fables | 毎日 6:00 | 5〜10分 | [trig_01BVHWZxe3f95QcjQbi3uyn5](https://claude.ai/code/routines/trig_01BVHWZxe3f95QcjQbi3uyn5) |
+| Weekly Digest | 毎週日曜 8:00 | 3〜5分 | 未登録（`routine/WeeklyDigest.txt`。claude.ai で登録） |
