@@ -1,4 +1,4 @@
-# 中国故事（121話）
+# 中国故事（131話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -130,4 +130,9 @@
 | [chinese-124](../fables/chinese/chinese-124-kong-rong-yields-the-pear.md) | 孔融讓梨 | 年少者が自ら小さいものを取り年長者に大きいものを譲る謙譲の精神は、幼いころから身につけることで生涯の徳となる |
 | [chinese-125](../fables/chinese/chinese-125-drain-the-pond-to-catch-all-the-fish.md) | 竭澤而漁 | 目先の利益のために根本となる資源や信用を使い果たせば翌年には何も残らない。長期的な視野こそが真の賢策である |
 | [chinese-126](../fables/chinese/chinese-126-ruin-achievement-for-lack-of-one-final-basket.md) | 功虧一簣 | 九仞の山をほぼ築き上げながら最後の一簣を惜しんで完成させないように、終盤の慢心こそが最も危険な失敗の原因となる |
+| [chinese-127](../fables/chinese/chinese-127-the-awl-in-the-sack.md) | 囊中之錐（嚢中の錐） | 真の才能は袋に入れた錐のように、機会さえ与えられれば必ず外に突き出て人に知られる |
+| [chinese-128](../fables/chinese/chinese-128-infer-three-from-one.md) | 挙一反三 | 一つのことを示されたとき、そこから類推して多くに応用できる思考力こそが真の学びの証である |
+| [chinese-129](../fables/chinese/chinese-129-hesitate-to-strike-the-rat.md) | 投鼠忌器 | 除きたい悪があっても、それに近い大切なものを傷つける恐れがあれば手が出せない |
+| [chinese-130](../fables/chinese/chinese-130-a-journey-begins-with-one-step.md) | 千里之行始於足下（千里の道も一歩から） | どんな偉大な事業も足元の一歩から始まる。小さな始まりを軽んじず、着実な積み重ねこそが千里を行く道である |
+| [chinese-131](../fables/chinese/chinese-131-one-day-sun-ten-days-cold.md) | 一暴十寒 | 一日努力しても十日怠れば何事も成らない。成果を得るには継続した取り組みが不可欠である |
 <!-- 寓話追加時にここへ行を追加 -->
