@@ -1,4 +1,4 @@
-# 著名人の言葉（91件）
+# 著名人の言葉（101件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -95,3 +95,13 @@
 | [notable-figures-089](../maxims/notable-figures/notable-figures-089-ignorant-people-blind-instrument.md) | 無知な民衆は、自らの破滅をもたらす盲目の道具である | シモン・ボリバル | アンゴスチュラ演説（1819年） |
 | [notable-figures-090](../maxims/notable-figures/notable-figures-090-two-kinds-of-music.md) | 音楽には二種類しかない。良い音楽と、その他の音楽だ | デューク・エリントン | 『Music Journal』論説（1962年） |
 | [notable-figures-091](../maxims/notable-figures/notable-figures-091-feeling-for-the-organism.md) | 私はトウモロコシの一株一株を親密に知っている。それらを知ることこそが大きな喜びなのだ | バーバラ・マクリントック | 『A Feeling for the Organism』（1983年） |
+| [notable-figures-092](../maxims/notable-figures/notable-figures-092-there-is-no-road-until-people-walk.md) | 思うに希望とは、あるとも言えず、ないとも言えないものだ。もともと地上に道はない。歩く人が多くなれば、それが道になるのだ | 魯迅 | 短編小説「故郷」（『吶喊』1923年所収） |
+| [notable-figures-093](../maxims/notable-figures/notable-figures-093-it-is-not-power-that-corrupts-but-fear.md) | 人を腐敗させるのは権力ではなく、恐怖である | アウンサンスーチー | エッセイ「Freedom from Fear」（1991年） |
+| [notable-figures-094](../maxims/notable-figures/notable-figures-094-be-water-my-friend.md) | 心を空にせよ。形をなくし、水のようになれ。友よ、水になれ | ブルース・リー | TVドラマ『Longstreet』（1971年） |
+| [notable-figures-095](../maxims/notable-figures/notable-figures-095-mind-of-the-oppressed.md) | 抑圧者の手中にある最も強力な武器は、被抑圧者の心である | スティーヴ・ビコ | 『I Write What I Like』（1978年） |
+| [notable-figures-096](../maxims/notable-figures/notable-figures-096-danger-of-a-single-story.md) | 単一の物語はステレオタイプを生む。その問題は真実でないことではなく、不完全であることだ | チママンダ・ンゴズィ・アディーチェ | TEDトーク「The Danger of a Single Story」（2009年） |
+| [notable-figures-097](../maxims/notable-figures/notable-figures-097-second-chance-on-earth.md) | 百年の孤独を宣告された種族が、ついに、そして永遠に、地上での第二の機会を得るのだ | ガブリエル・ガルシア＝マルケス | ノーベル文学賞受賞講演（1982年） |
+| [notable-figures-098](../maxims/notable-figures/notable-figures-098-foolish-men-who-accuse-women.md) | 道理もなく女を責める愚かな男たちよ、自らがその咎の原因であることに気づきもせずに | ソル・フアナ・イネス・デ・ラ・クルス | 風刺詩「Hombres necios」（1689年） |
+| [notable-figures-099](../maxims/notable-figures/notable-figures-099-invincible-summer.md) | 真冬のただ中で、私はついに、自分の内に無敵の夏があることを知ったのだ | アルベール・カミュ | 「ティパサへの帰還」（『夏』1954年所収） |
+| [notable-figures-100](../maxims/notable-figures/notable-figures-100-as-if-i-did-not-exist.md) | 教師にとって最大の成功のしるしは、子どもたちがまるで私が存在しないかのように活動していると言えることだ | マリア・モンテッソーリ | 『吸収する精神』第27章（1949年） |
+| [notable-figures-101](../maxims/notable-figures/notable-figures-101-victory-awaits-those-prepared.md) | 勝利は、すべてを整えた者に訪れる——人はそれを幸運と呼ぶ | ロアール・アムンセン | 『Sydpolen（南極点）』（1912年） |
