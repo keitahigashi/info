@@ -134,4 +134,9 @@
 | chinese-124 | 孔融讓梨 | 南北朝・范曄著『後漢書』孔融伝注引『融家伝』, 宋代『三字経』, m.gushiwen.cn, baike.baidu.com | 2026-07-03 |
 | chinese-125 | 竭澤而漁 | 戦国・呂不韋編『呂氏春秋』孝行覧・義賞篇, dict.idioms.moe.edu.tw, baike.baidu.com（竭泽而渔） | 2026-07-03 |
 | chinese-126 | 功虧一簣 | 西周・『尚書（書経）』周書・旅獒篇, epochtimes.com（功虧一簣）, ctext.org（尚書・旅獒） | 2026-07-03 |
+| chinese-127 | 囊中之錐（嚢中の錐） | 前漢・司馬遷著『史記』平原君虞卿列伝, kanbun.info（嚢中の錐）, proverb-encyclopedia.com/noutyunokiri/ | 2026-07-12 |
+| chinese-128 | 挙一反三 | 春秋・孔子（弟子編纂）『論語』述而篇第七・八, baike.baidu.com（挙一反三） | 2026-07-12 |
+| chinese-129 | 投鼠忌器 | 前漢・班固著『漢書』巻四八・賈誼伝, dict.idioms.moe.edu.tw（投鼠忌器）, baike.baidu.com（投鼠忌器） | 2026-07-12 |
+| chinese-130 | 千里之行始於足下（千里の道も一歩から） | 春秋・老子著（伝）『老子（道徳経）』第六十四章, kotobank.jp（千里の道も一歩から）, ja.wikipedia.org（千里の道も一歩から） | 2026-07-12 |
+| chinese-131 | 一暴十寒 | 戦国・孟子著（弟子編纂）『孟子』告子上篇, kotobank.jp（一暴十寒） | 2026-07-12 |
 <!-- 出典追加時にここへ行を追加 -->
