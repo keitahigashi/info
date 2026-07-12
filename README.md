@@ -22,4 +22,4 @@
 | GameDev | 毎日 4:00 | 5〜10分 | [trig_01NC6yvLBS43taUL9UnmiLEY](https://claude.ai/code/routines/trig_01NC6yvLBS43taUL9UnmiLEY) |
 | Maxims | 毎日 5:00 | 5〜10分 | [trig_016UCNM2bj9Rotc5dHCMr8Cj](https://claude.ai/code/routines/trig_016UCNM2bj9Rotc5dHCMr8Cj) |
 | Fables | 毎日 6:00 | 5〜10分 | [trig_01BVHWZxe3f95QcjQbi3uyn5](https://claude.ai/code/routines/trig_01BVHWZxe3f95QcjQbi3uyn5) |
-| Weekly Digest | 毎週日曜 8:00 | 3〜5分 | 未登録（`routine/WeeklyDigest.txt`。claude.ai で登録） |
+| Weekly Digest | 毎週日曜 8:00 | 3〜5分 | [trig_01P6z9SuybJSKrXkMHVWHe5g](https://claude.ai/code/routines/trig_01P6z9SuybJSKrXkMHVWHe5g) |
