@@ -739,3 +739,8 @@
 | reference_emotion-difficulty-hierarchy-singleplayer.md | 2026-07-12 |
 | reference_player-emotions-arousal-valence-model.md | 2026-07-12 |
 | reference_narrative-gameplay-delivery-toolbox.md | 2026-07-12 |
+| reference_overdesign-trap-game-design.md | 2026-07-13 |
+| reference_game-design-feel-xfactor.md | 2026-07-13 |
+| reference_soft-body-physics-jellycar.md | 2026-07-13 |
+| reference_high-speed-movement-system-design.md | 2026-07-13 |
+| reference_nikoderiko-production-10-lessons.md | 2026-07-13 |
