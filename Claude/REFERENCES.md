@@ -553,3 +553,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_enterprise_security_nocodesol.md | 2026-07-10 |
 | reference_loop_engineering_harness_design_kamo.md | 2026-07-12 |
 | reference_loop_engineering_intro_harinezumi.md | 2026-07-12 |
+| reference_claude_update_week_20260708_yougears.md | 2026-07-13 |
+| reference_claude_code_updates_june_july2026_mosfet.md | 2026-07-13 |
+| reference_claude_code_v21202_classmethod.md | 2026-07-13 |
+| reference_cc_vibe_coding_guide_genai_july2026.md | 2026-07-13 |
+| reference_claude_code_mcp_integration_7patterns_uravation.md | 2026-07-13 |
