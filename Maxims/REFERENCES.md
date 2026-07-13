@@ -12,7 +12,7 @@
 | 中国故事成語 | 90 | [出典を見る](references/chinese-idioms.md) |
 | 世界のことわざ | 89 | [出典を見る](references/world-proverbs.md) |
 | 著名人の言葉 | 101 | [出典を見る](references/notable-figures.md) |
-| ラテン語の格言 | 80 | [出典を見る](references/latin.md) |
+| ラテン語の格言 | 90 | [出典を見る](references/latin.md) |
 | 文学の名言 | 81 | [出典を見る](references/literature.md) |
 | 創作の名言 | 44 | [出典を見る](references/fiction.md) |
-| **合計** | **757** | |
+| **合計** | **767** | |
