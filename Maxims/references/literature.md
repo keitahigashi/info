@@ -85,3 +85,13 @@
 | literature-079 | 旅人よ、道はない、歩くことで道はできる。 | アントニオ・マチャード | poesi.as, antologia-de-poesia-en-las-pau.fandom.com | 2026-07-05 |
 | literature-080 | そしてこの海で難破することも、私には甘美なのだ。 | ジャコモ・レオパルディ | it.wikisource.org, en.wikipedia.org | 2026-07-05 |
 | literature-081 | 私は何よりもまず一人の人間なのだと思うのです、あなたと同じように。 | ヘンリック・イプセン | runeberg.org, norgeshistorie.no | 2026-07-05 |
+| literature-082 | あの人は神々にも等しい男だと私には思われる。 | サッポー | en.wikipedia.org, digitalsappho.org, poetryfoundation.org | 2026-07-14 |
+| literature-083 | アダムの子らは互いに一体であり、創造において一つの本質から成る。 | サアディー・シーラーズィー | en.wikipedia.org, en.wikiquote.org | 2026-07-14 |
+| literature-084 | 道ははるかに遠く長い。天地の上下をあまねくめぐって求め探しつづけよう。 | 屈原 | zh.wikisource.org, gushiwen.cn | 2026-07-14 |
+| literature-085 | 天にあっては比翼の鳥、地にあっては連理の枝。 | 白居易 | zh.wikisource.org, zh.wikipedia.org | 2026-07-14 |
+| literature-086 | 一粒の砂に世界を見、一輪の野の花に天を見る。 | ウィリアム・ブレイク | poetryfoundation.org, en.wikiquote.org | 2026-07-14 |
+| literature-087 | 人間の言葉はひびの入った鍋のようなもの。 | ギュスターヴ・フローベール | fr.wikisource.org, dicocitations.com | 2026-07-14 |
+| literature-088 | 鳥は卵の中から抜け出ようと闘う。 | ヘルマン・ヘッセ | de.wikipedia.org, en.wikipedia.org | 2026-07-14 |
+| literature-089 | 緑よ、おまえが好きだ、緑よ。 | フェデリコ・ガルシア・ロルカ | es.wikisource.org, en.wikiquote.org | 2026-07-14 |
+| literature-090 | 願はくは花の下にて春死なむその如月の望月のころ | 西行 | ja.wikipedia.org, 和歌データベース | 2026-07-14 |
+| literature-091 | 女性が小説を書くには、お金と自分ひとりの部屋を持たねばならない。 | ヴァージニア・ウルフ | en.wikipedia.org, gutenberg.net.au | 2026-07-14 |
