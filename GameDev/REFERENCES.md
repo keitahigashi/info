@@ -744,3 +744,8 @@
 | reference_soft-body-physics-jellycar.md | 2026-07-13 |
 | reference_high-speed-movement-system-design.md | 2026-07-13 |
 | reference_nikoderiko-production-10-lessons.md | 2026-07-13 |
+| reference_ui-accessibility-checklist-2026.md | 2026-07-14 |
+| reference_game-ux-spectator-2026.md | 2026-07-14 |
+| reference_core-loop-three-layer-model.md | 2026-07-14 |
+| reference_core-loop-chambers-3questions.md | 2026-07-14 |
+| reference_game-ui-4types-5principles-2026-ja.md | 2026-07-14 |
