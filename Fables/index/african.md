@@ -1,4 +1,4 @@
-# アフリカ民話（125話）
+# アフリカ民話（134話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -134,4 +134,8 @@
 | [african-128](../fables/african/african-128-the-grinding-stone.md) | ひとりで粉を挽く魔法の石 | 他者の財産を強引に奪い、明確な警告を無視して突き進む者は身を滅ぼす |
 | [african-129](../fables/african/african-129-why-the-lizard-moves-his-head.md) | トカゲが首を上下に動かす理由 | 狡猾な者に利用された誠実な者が不当な罰を受ける理不尽さ——信頼する相手をよく選ぶべきという警告 |
 | [african-130](../fables/african/african-130-tit-for-tat.md) | 親子の知恵くらべ | 他者の努力を謀略で奪い取ろうとする者は、より巧みな知恵によって必ず仕返しを受ける |
+| [african-131](../fables/african/african-131-why-the-sea-turtle-beats-its-breast.md) | 海ガメが捕まると前足で胸を叩く理由 | 恩義を忘れ、守り手を食料にする行為は深い悲しみを招く |
+| [african-132](../fables/african/african-132-the-tortoise-with-a-pretty-daughter.md) | カメの美しい娘 | 真の美しさや価値は隠し続けることはできない。不当な権力の前でも知恵と忍耐で守り抜けば、やがて正義と報いが訪れる |
+| [african-133](../fables/african/african-133-the-disobedient-daughter-who-married-a-skull.md) | 髑髏と結婚した娘 | 親の忠告を無視した高慢さは災難を招く。しかし窮地にあっても礼儀正しさと善意を忘れなければ、思いがけない助けが現れる |
+| [african-134](../fables/african/african-134-the-lioness-and-the-ostrich.md) | 雌ライオンとダチョウ | 外見や一つの特徴だけで相手の強さを判断してはならない。侮りは命取りになる |
 <!-- 寓話追加時にここへ行を追加 -->

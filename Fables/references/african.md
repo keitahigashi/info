@@ -143,4 +143,8 @@
 | african-128 | ひとりで粉を挽く魔法の石 | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917) | 2026-07-05 |
 | african-129 | トカゲが首を上下に動かす理由 | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917) | 2026-07-05 |
 | african-130 | 親子の知恵くらべ | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917) | 2026-07-05 |
+| african-131 | 海ガメが捕まると前足で胸を叩く理由 | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917 Story XV) | 2026-07-14 |
+| african-132 | カメの美しい娘 | gutenberg.org/files/34655/34655-h/34655-h.htm (Dayrell『Folk Stories from Southern Nigeria』1910 Story I) | 2026-07-14 |
+| african-133 | 髑髏と結婚した娘 | gutenberg.org/files/34655/34655-h/34655-h.htm (Dayrell『Folk Stories from Southern Nigeria』1910 Story VIII) | 2026-07-14 |
+| african-134 | 雌ライオンとダチョウ | gutenberg.org/files/38339/38339-h/38339-h.htm (Honey『South-African Folk-Tales』1910 Story XV) | 2026-07-14 |
 <!-- 出典追加時にここへ行を追加 -->
