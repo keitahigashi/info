@@ -749,3 +749,8 @@
 | reference_core-loop-three-layer-model.md | 2026-07-14 |
 | reference_core-loop-chambers-3questions.md | 2026-07-14 |
 | reference_game-ui-4types-5principles-2026-ja.md | 2026-07-14 |
+| reference_fiber-cpp-understanding-basics.md | 2026-07-15 |
+| reference_fibers-cooperative-scheduling-implementation.md | 2026-07-15 |
+| reference_async-programming-unity-coroutines-unitask.md | 2026-07-15 |
+| reference_imgui-profiling-visualization-game-dev.md | 2026-07-15 |
+| reference_game-optimization-profiling-tools-techniques.md | 2026-07-15 |
