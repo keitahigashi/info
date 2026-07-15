@@ -558,3 +558,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_mcp_servers_30_lunalink_2026.md | 2026-07-14 |
 | reference_mcp_server_selection_recipe_syusodo.md | 2026-07-14 |
 | reference_claude_code_implementation_cases_10_uravation.md | 2026-07-14 |
+| reference_claude_code_june_july2026_updates_mosfet.md | 2026-07-15 |
+| reference_claude_code_skill_distribution_singularity.md | 2026-07-15 |
+| reference_claude_agent_sdk_complete_guide_aqua.md | 2026-07-15 |
+| reference_claude_code_plugin_intro_team_kaickou.md | 2026-07-15 |
+| reference_claude_code_log_choyaku_site.md | 2026-07-15 |
