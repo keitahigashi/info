@@ -48,3 +48,13 @@
 | fiction-042 | 土から離れては生きられないのよ | 宮崎駿／天空の城ラピュタ | シータの台詞、eiga-square.jp, animemanga33.com | 2026-07-06 |
 | fiction-043 | このせかいでは、ころすか ころされるかだ | トビー・フォックス／UNDERTALE | フラウィの台詞、undertale.fandom.com, dic.pixiv.net | 2026-07-06 |
 | fiction-044 | 死にに行くわけじゃない。俺が本当に生きてるかどうか、確かめに行くんだ | 渡辺信一郎／カウボーイビバップ | 第26話 スパイクの台詞、dengekionline.com, reviewne.jp | 2026-07-06 |
+| fiction-045 | あの青年は、人のしあわせを願い、人の不幸を悲しむことのできる人だ | 藤子・F・不二雄／ドラえもん | 「のび太の結婚前夜」てんとう虫コミックス25巻、ja.wikipedia.org, kawashin.info | 2026-07-15 |
+| fiction-046 | 僕と契約して、魔法少女になってよ！ | 虚淵玄／魔法少女まどか☆マギカ | 第1話 キュゥべえの台詞、madoka-magica.com, ja.wikipedia.org | 2026-07-15 |
+| fiction-047 | やるか、やらぬかだ。「試す」などない | ジョージ・ルーカス／スター・ウォーズ 帝国の逆襲 | ヨーダの台詞、en.wikiquote.org, en.wikipedia.org | 2026-07-15 |
+| fiction-048 | 私たちが決めねばならぬのは、与えられた時をどう使うか、それだけだ | J・R・R・トールキン／指輪物語 | 旅の仲間 第1部第2章、en.wikiquote.org, sparknotes.com | 2026-07-15 |
+| fiction-049 | スプーンは存在しない | ウォシャウスキー姉妹／マトリックス | スプーン・ボーイとの対話、en.wikiquote.org, matrix.fandom.com | 2026-07-15 |
+| fiction-050 | ママはいつも言ってた、人生はチョコレートの箱のようなものだって | エリック・ロス／フォレスト・ガンプ 一期一会 | フォレストの台詞、en.wikiquote.org, snopes.com | 2026-07-15 |
+| fiction-051 | あの男に、断れない条件を出してやる | マリオ・プーゾ／ゴッドファーザー | ドン・ヴィト・コルレオーネの台詞、en.wikiquote.org, en.wikipedia.org | 2026-07-15 |
+| fiction-052 | さぁ、お前の罪を数えろ！ | 三条陸／仮面ライダーW | 左翔太郎の決め台詞、kamen-rider-official.com, dic.pixiv.net | 2026-07-15 |
+| fiction-053 | その証として、伏礼を廃す。これをもって初勅とする！ | 小野不由美／十二国記 | 風の万里 黎明の空、shinchosha.co.jp, frequ.jp | 2026-07-15 |
+| fiction-054 | 弱さと無知は生存の障害ではない。傲慢こそが障害なのだ | 劉慈欣／三体Ⅲ 死神永生 | 死神永生、goodreads.com, zh.moegirl.org.cn | 2026-07-15 |
