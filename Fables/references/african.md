@@ -143,4 +143,9 @@
 | african-128 | ひとりで粉を挽く魔法の石 | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917) | 2026-07-05 |
 | african-129 | トカゲが首を上下に動かす理由 | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917) | 2026-07-05 |
 | african-130 | 親子の知恵くらべ | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917) | 2026-07-05 |
+| african-131 | 盲目の漁師アナンシ | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917 Story XI) | 2026-07-15 |
+| african-132 | ウミガメが捕まると胸を叩く理由 | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917 Story XV) | 2026-07-15 |
+| african-133 | 獣とヘビが地上に現れた理由 | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917 Story XVI) | 2026-07-15 |
+| african-134 | カメはいかにして甲羅を得たか | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917 Story XX) | 2026-07-15 |
+| african-135 | アリが自分と同じ大きさの荷物を運ぶ理由 | gutenberg.org/files/66923/66923-h/66923-h.htm (Barker & Sinclair『West African Folk-Tales』1917 Story IX) | 2026-07-15 |
 <!-- 出典追加時にここへ行を追加 -->
