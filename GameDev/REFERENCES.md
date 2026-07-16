@@ -754,3 +754,8 @@
 | reference_async-programming-unity-coroutines-unitask.md | 2026-07-15 |
 | reference_imgui-profiling-visualization-game-dev.md | 2026-07-15 |
 | reference_game-optimization-profiling-tools-techniques.md | 2026-07-15 |
+| reference_door-problem-combat-design.md | 2026-07-16 |
+| reference_clever-level-design-more-meets-eye.md | 2026-07-16 |
+| reference_emotional-arc-procedural-level-generation.md | 2026-07-16 |
+| reference_elsewise-ai-narrative-possibility-space.md | 2026-07-16 |
+| reference_pacing-encounter-density.md | 2026-07-16 |
