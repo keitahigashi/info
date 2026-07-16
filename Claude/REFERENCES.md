@@ -563,3 +563,7 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_agent_sdk_complete_guide_aqua.md | 2026-07-15 |
 | reference_claude_code_plugin_intro_team_kaickou.md | 2026-07-15 |
 | reference_claude_code_log_choyaku_site.md | 2026-07-15 |
+| reference_claude_code_automation_workflow_digitalfront.md | 2026-07-16 |
+| reference_vibcode7_planmode_forest_2026.md | 2026-07-16 |
+| reference_vibe_coding_cursor_vs_claude_genai_2026.md | 2026-07-16 |
+| reference_claude_md_best_practices_kirozero_qiita.md | 2026-07-16 |
