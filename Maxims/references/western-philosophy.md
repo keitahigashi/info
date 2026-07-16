@@ -95,3 +95,13 @@
 | western-philosophy-089 | 事象そのものへ！ | エトムント・フッサール | plato.stanford.edu（Husserl, to the things themselves）, iep.utm.edu（Husserl） | 2026-07-07 |
 | western-philosophy-090 | 間違った生のなかに、正しい生はない | テオドール・W・アドルノ | plato.stanford.edu（Adorno, Minima Moralia 1951）, en.wikiquote.org（Adorno §18） | 2026-07-07 |
 | western-philosophy-091 | テクストの外部は存在しない | ジャック・デリダ | plato.stanford.edu（Derrida, Il n'y a pas de hors-texte）, iep.utm.edu（Derrida） | 2026-07-07 |
+| western-philosophy-092 | 概念の対象が持ちうる実際的な効果を考察せよ | チャールズ・サンダース・パース | plato.stanford.edu（Pragmatism）, en.wikipedia.org（Pragmatic maxim）, iep.utm.edu（Peirce's Pragmatism） | 2026-07-16 |
+| western-philosophy-093 | 語の意味は、文の連関においてこそ問われねばならない | ゴットロープ・フレーゲ | gutenberg.org（The Foundations of Arithmetic）, en.wikipedia.org（The Foundations of Arithmetic） | 2026-07-16 |
+| western-philosophy-094 | 理解されうる存在、それは言語である | ハンス＝ゲオルク・ガダマー | de.wikipedia.org（Wahrheit und Methode）, beruhmte-zitate.de（Gadamer） | 2026-07-16 |
+| western-philosophy-095 | われわれは意味を宣告されている | モーリス・メルロ＝ポンティ | fr.wikipedia.org（Phénoménologie de la perception）, 一次テキスト（Avant-propos） | 2026-07-16 |
+| western-philosophy-096 | 他者の現前による自発性の問い直しを倫理と呼ぶ | エマニュエル・レヴィナス | fr.wikiquote.org（Levinas）, fr.wikipedia.org（Totalité et Infini） | 2026-07-16 |
+| western-philosophy-097 | 意味は頭のなかにあるのではない | ヒラリー・パトナム | en.wikipedia.org（The Meaning of "Meaning"）, plato.stanford.edu（Hilary Putnam） | 2026-07-16 |
+| western-philosophy-098 | まったく混じりけのない注意は、祈りである | シモーヌ・ヴェイユ | fr.wikisource.org（La Pesanteur et la Grâce）, spiritualite2000.com | 2026-07-16 |
+| western-philosophy-099 | 自由は自由であって、平等でも正義でもない | アイザイア・バーリン | archive.org（Two Concepts of Liberty 1958）, cactus.utahtech.edu（Two Concepts of Liberty PDF） | 2026-07-16 |
+| western-philosophy-100 | 真なるものと作られたものとは相互に置き換えられる | ジャンバッティスタ・ヴィーコ | plato.stanford.edu（Giambattista Vico）, en.wikipedia.org（Giambattista Vico） | 2026-07-16 |
+| western-philosophy-101 | 疑うことによって探究へ、探究によって真理を知覚する | ペトルス・アベラルドゥス | sourcebooks.web.fordham.edu（Abelard, Sic et Non）, philosophynow.org | 2026-07-16 |
