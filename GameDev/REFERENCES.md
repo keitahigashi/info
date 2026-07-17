@@ -759,3 +759,8 @@
 | reference_emotional-arc-procedural-level-generation.md | 2026-07-16 |
 | reference_elsewise-ai-narrative-possibility-space.md | 2026-07-16 |
 | reference_pacing-encounter-density.md | 2026-07-16 |
+| reference_trinity-game-design-methodology-part1.md | 2026-07-17 |
+| reference_functional-theory-game-design-burgun.md | 2026-07-17 |
+| reference_beyond-state-machine-coroutines.md | 2026-07-17 |
+| reference_animation-blending-ik-blend-tree.md | 2026-07-17 |
+| reference_game-dev-process-5stages-2026.md | 2026-07-17 |
