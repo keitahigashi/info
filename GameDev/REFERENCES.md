@@ -764,3 +764,8 @@
 | reference_beyond-state-machine-coroutines.md | 2026-07-17 |
 | reference_animation-blending-ik-blend-tree.md | 2026-07-17 |
 | reference_game-dev-process-5stages-2026.md | 2026-07-17 |
+| reference_why-core-gameplay-loop-critical.md | 2026-07-18 |
+| reference_balancing-baseline-game-design.md | 2026-07-18 |
+| reference_mid-core-success-core-loops.md | 2026-07-18 |
+| reference_designing-around-core-mechanic.md | 2026-07-18 |
+| reference_accessible-web-ui-lessons-from-games.md | 2026-07-18 |
