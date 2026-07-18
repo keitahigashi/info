@@ -1,4 +1,4 @@
-# 日本の格言・名言（91件）
+# 日本の格言・名言（101件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -95,3 +95,13 @@
 | [japanese-089](../maxims/japanese/japanese-089-a-life-full-of-shame.md) | 恥の多い生涯を送って来ました。 | 太宰治 | 『人間失格』「第一の手記」冒頭（1948年） |
 | [japanese-090](../maxims/japanese/japanese-090-through-the-tunnel-was-snow-country.md) | 国境の長いトンネルを抜けると雪国であった。 | 川端康成 | 小説『雪国』冒頭（1935-48年） |
 | [japanese-091](../maxims/japanese/japanese-091-kindness-is-not-for-others-sake.md) | 情けは人の為ならず | 作者不詳（ことわざ） | 日本のことわざ（由来諸説） |
+| [japanese-092](../maxims/japanese/japanese-092-takekurabe-opening-daimon-mikaeri-yanagi.md) | 廻れば大門の見返り柳いと長けれど… | 樋口一葉 | 『たけくらべ』冒頭（1895-96年） |
+| [japanese-093](../maxims/japanese/japanese-093-hatarakedo-hatarakedo-jitto-te-wo-miru.md) | はたらけどはたらけど猶わが生活楽にならざりぢつと手を見る | 石川啄木 | 『一握の砂』（1910年） |
+| [japanese-094](../maxims/japanese/japanese-094-yogorechimatta-kanashimi-ni.md) | 汚れつちまつた悲しみに今日も小雪の降りかかる | 中原中也 | 詩集『山羊の歌』（1934年） |
+| [japanese-095](../maxims/japanese/japanese-095-minna-chigatte-minna-ii.md) | みんなちがって、みんないい | 金子みすゞ | 「私と小鳥と鈴と」（遺稿・全集1984年） |
+| [japanese-096](../maxims/japanese/japanese-096-buson-rape-blossoms-moon-east-sun-west.md) | 菜の花や月は東に日は西に | 与謝蕪村 | 『蕪村句集』（1784年刊、1774年作） |
+| [japanese-097](../maxims/japanese/japanese-097-santoka-ever-deeper-still-blue-mountains.md) | 分け入つても分け入つても青い山 | 種田山頭火 | 『草木塔』（1940年刊、1926年作） |
+| [japanese-098](../maxims/japanese/japanese-098-chikamatsu-membrane-between-truth-and-fiction.md) | 芸というものは実と虚との皮膜の間にあるものである | 近松門左衛門（談）／穂積以貫（筆録） | 『難波土産』発端（1738年刊） |
+| [japanese-099](../maxims/japanese/japanese-099-hiratsuka-in-the-beginning-woman-was-the-sun.md) | 元始、女性は実に太陽であった。真正の人であった | 平塚らいてう | 『青鞜』創刊号 巻頭言（1911年） |
+| [japanese-100](../maxims/japanese/japanese-100-toson-hatsukoi-first-love-apple.md) | まだあげ初めし前髪の林檎のもとに見えしとき… | 島崎藤村 | 詩「初恋」（『若菜集』1897年） |
+| [japanese-101](../maxims/japanese/japanese-101-bokusui-white-bird-unstained-blue.md) | 白鳥は哀しからずや空の青海のあをにも染まずただよふ | 若山牧水 | 『海の声』（1908年） |
