@@ -769,3 +769,8 @@
 | reference_mid-core-success-core-loops.md | 2026-07-18 |
 | reference_designing-around-core-mechanic.md | 2026-07-18 |
 | reference_accessible-web-ui-lessons-from-games.md | 2026-07-18 |
+| reference_frame-graph-theory.md | 2026-07-19 |
+| reference_frame-graph-build-it.md | 2026-07-19 |
+| reference_frame-graph-production.md | 2026-07-19 |
+| reference_webassembly-game-development-guide.md | 2026-07-19 |
+| reference_wasm-game-engines-multiplayer.md | 2026-07-19 |
