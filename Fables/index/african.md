@@ -1,4 +1,4 @@
-# アフリカ民話（135話）
+# アフリカ民話（138話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -139,4 +139,7 @@
 | [african-133](../fables/african/african-133-how-beasts-and-serpents-came-into-the-world.md) | 獣とヘビが地上に現れた理由 | 賢者の言葉を無視した欲張りは、自分だけでなく周囲の全員に災いをもたらす。贈り物を正しく扱うには謙虚さと従順さが必要である |
 | [african-134](../fables/african/african-134-how-the-tortoise-got-its-shell.md) | カメはいかにして甲羅を得たか | 誘惑に負けて義務を怠り、時機を逃した者は取り返しのつかない代償を払う。与えられた使命は最後まで果たし通さなければならない |
 | [african-135](../fables/african/african-135-why-ants-carry-bundles-as-big-as-themselves.md) | アリが自分と同じ大きさの荷物を運ぶ理由 | 欲に駆られて禁を破り、他者を陥れて逃れようとした者は、自らが背負うべき罰を永遠に他者に押しつけることになる |
+| [african-136](../fables/african/african-136-the-tortoise-with-a-pretty-daughter.md) | カメの美しい娘 | 真の美しさや価値は隠し続けることはできない。不当な権力の前でも知恵と忍耐で守り抜けば、やがて正義と報いが訪れる |
+| [african-137](../fables/african/african-137-the-disobedient-daughter-who-married-a-skull.md) | 髑髏と結婚した娘 | 親の忠告を無視した高慢さは災難を招く。しかし窮地にあっても礼儀正しさと善意を忘れなければ、思いがけない助けが現れる |
+| [african-138](../fables/african/african-138-the-lioness-and-the-ostrich.md) | 雌ライオンとダチョウ | 外見や一つの特徴だけで相手の強さを判断してはならない。侮りは命取りになる |
 <!-- 寓話追加時にここへ行を追加 -->
