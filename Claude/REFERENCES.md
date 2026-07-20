@@ -577,3 +577,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_accounting_digitalfront.md | 2026-07-19 |
 | reference_claude_code_mcp_server_airev.md | 2026-07-19 |
 | reference_mcp_hubspot_freee_startlink_2026.md | 2026-07-19 |
+| reference_yappli_claude_code_marketplace_design.md | 2026-07-20 |
+| reference_claude_sonnet_5_weel_july2026.md | 2026-07-20 |
+| reference_claude_code_multiagent_chrome_extension_classmethod.md | 2026-07-20 |
+| reference_claude_code_plugin_marketplace_ryou_qiita.md | 2026-07-20 |
+| reference_claude_sonnet_5_launch_uravation_july2026.md | 2026-07-20 |
