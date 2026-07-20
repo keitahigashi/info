@@ -1,102 +1,122 @@
 name: Auto Merge PR
 
+# 目的: auto-merge ラベル付きPRを自己修復的に自動マージする。
+#
+# 従来の課題:
+#   - トリガーが「そのPR自身のイベント」だけだったため、main が進んで
+#     兄弟PRがコンフリクト化しても再評価されず、永久に滞留していた。
+#   - コンフリクト時はサイレントに離脱するだけで可視化されなかった。
+#   - マージ前に main を取り込まないため、追記競合を解消できなかった。
+#
+# 本改修:
+#   F) push(main) / 定期実行でも起動し、開いている全 auto-merge PR を再ドライブ
+#   G) マージ前にランナー内で `git merge origin/main` を実行（.gitattributes の
+#      merge=union が効き、追記競合を自動解消してから push→マージ）
+#   H) union で解けない真のコンフリクトは conflict ラベル＋コメントで可視化
+
 on:
   pull_request:
     types: [opened, synchronize, reopened, ready_for_review, labeled]
+  push:
+    branches: [main]
+  schedule:
+    # 保険: イベントを取りこぼしても最大30分で滞留PRを拾う
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
   pull-requests: write
 
-# 同じPRに対するワークフローは直列化＆古いほうをキャンセル
+# 全体を直列化して、複数起動が同時に main を書き換える競合を防ぐ
 concurrency:
-  group: auto-merge-${{ github.event.pull_request.number }}
-  cancel-in-progress: true
+  group: auto-merge-global
+  cancel-in-progress: false
 
 jobs:
   auto-merge:
     runs-on: ubuntu-latest
-    # 条件:
-    #   - auto-merge ラベルが付いている
-    #   - Draft でない
-    #   - labeled イベントの場合は、付与されたラベルが auto-merge のときだけ
-    if: |
-      contains(github.event.pull_request.labels.*.name, 'auto-merge') &&
-      github.event.pull_request.draft == false &&
-      (github.event.action != 'labeled' || github.event.label.name == 'auto-merge')
     steps:
-      - name: Check mergeable and merge
-        uses: actions/github-script@v7
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          script: |
-            const { owner, repo } = context.repo;
-            const pull_number = context.payload.pull_request.number;
+          fetch-depth: 0
 
-            // 最新のPR状態を取得（mergeable は計算中だと null が返るのでポーリング）
-            let pr;
-            for (let i = 0; i < 10; i++) {
-              const res = await github.rest.pulls.get({ owner, repo, pull_number });
-              pr = res.data;
-              if (pr.mergeable !== null) break;
-              core.info(`mergeable is still being calculated... (attempt ${i + 1})`);
-              await new Promise(r => setTimeout(r, 3000));
-            }
+      - name: Auto-merge eligible PRs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EVENT_NAME: ${{ github.event_name }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          set -uo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-            core.info(`state=${pr.state}, merged=${pr.merged}, mergeable=${pr.mergeable}, mergeable_state=${pr.mergeable_state}`);
+          # --- 対象PRの決定 ---
+          if [ "$EVENT_NAME" = "pull_request" ]; then
+            PRS="${PR_NUMBER}"
+          else
+            # 開いている auto-merge ラベル付きPRを古い順に処理
+            PRS=$(gh pr list --state open --label auto-merge \
+                    --json number --jq 'sort_by(.number)|.[].number')
+          fi
 
-            // 既にマージ済み or クローズ済みなら何もしない（二重起動対策）
-            if (pr.merged) {
-              core.info('PR is already merged. Skipping.');
-              return;
-            }
-            if (pr.state !== 'open') {
-              core.info(`PR is not open (state=${pr.state}). Skipping.`);
-              return;
-            }
+          if [ -z "${PRS// /}" ]; then
+            echo "対象PRなし。"
+            exit 0
+          fi
 
-            if (pr.mergeable !== true) {
-              core.warning('Skip merge: PR is not mergeable (likely a conflict).');
-              return;
-            }
+          for n in $PRS; do
+            echo "::group::PR #$n"
 
-            // マージ実行
-            try {
-              await github.rest.pulls.merge({
-                owner,
-                repo,
-                pull_number,
-                merge_method: 'merge',
-              });
-              core.info(`PR #${pull_number} merged successfully.`);
-            } catch (e) {
-              // 405 Method Not Allowed: 競合などで既にマージできない状態になった
-              // 409 Conflict: SHAミスマッチ等
-              if (e.status === 405 || e.status === 409) {
-                core.warning(`Merge skipped due to race condition: ${e.message}`);
-                return;
-              }
-              throw e;
-            }
+            meta=$(gh pr view "$n" --json state,isDraft,labels,headRefName,isCrossRepository)
+            state=$(echo "$meta"   | jq -r '.state')
+            draft=$(echo "$meta"   | jq -r '.isDraft')
+            fork=$(echo "$meta"    | jq -r '.isCrossRepository')
+            head=$(echo "$meta"    | jq -r '.headRefName')
+            hasLabel=$(echo "$meta" | jq -r '[.labels[].name] | index("auto-merge") != null')
 
-            // ヘッドブランチを削除（同一リポジトリのブランチのみ）
-            const headRepoFullName = pr.head.repo ? pr.head.repo.full_name : null;
-            const baseRepoFullName = `${owner}/${repo}`;
-            if (headRepoFullName === baseRepoFullName) {
-              try {
-                await github.rest.git.deleteRef({
-                  owner,
-                  repo,
-                  ref: `heads/${pr.head.ref}`,
-                });
-                core.info(`Branch '${pr.head.ref}' deleted.`);
-              } catch (e) {
-                // 既に削除されている場合（422）は無視
-                if (e.status === 422) {
-                  core.info('Branch is already deleted.');
-                } else {
-                  core.warning(`Failed to delete branch: ${e.message}`);
-                }
-              }
-            } else {
-              core.info('Head branch is from a fork; skipping branch deletion.');
-            }
+            if [ "$state" != "OPEN" ] || [ "$draft" = "true" ] || [ "$hasLabel" != "true" ]; then
+              echo "スキップ: open かつ non-draft かつ auto-merge ラベル付きではない。"
+              echo "::endgroup::"; continue
+            fi
+
+            if [ "$fork" = "true" ]; then
+              # フォークPRはブランチへ push できないため、そのままマージ試行のみ
+              echo "フォークPR: main取り込みはスキップし、マージのみ試行。"
+              gh pr merge "$n" --merge --delete-branch \
+                || echo "マージ見送り（未mergeableまたは競合）。"
+              echo "::endgroup::"; continue
+            fi
+
+            # --- G) 最新 main をPRブランチへ取り込む（union が追記競合を自動解消） ---
+            git fetch --quiet origin main "$head"
+            git checkout -B "wt-$n" "origin/$head"
+            # union ドライバ有効化の保険: 旧ブランチが .gitattributes 未追跡でも効かせる
+            git show origin/main:.gitattributes > .gitattributes 2>/dev/null || true
+
+            if git merge --no-edit origin/main; then
+              # 取り込みで新規コミットが出来ていれば push
+              if [ -n "$(git log "origin/$head"..HEAD --oneline)" ]; then
+                if ! git push origin "HEAD:$head"; then
+                  echo "push 失敗。次回に再試行。"
+                  echo "::endgroup::"; continue
+                fi
+              fi
+              # コンフリクトが解消済みなら conflict ラベルを外してマージ
+              gh pr edit "$n" --remove-label conflict >/dev/null 2>&1 || true
+              gh pr merge "$n" --merge --delete-branch \
+                || echo "マージ見送り（GitHub側の再計算待ち等）。次回に再試行。"
+            else
+              # --- H) union で解けない真のコンフリクト（件数セル・ID衝突・重複など） ---
+              git merge --abort 2>/dev/null || true
+              gh label create conflict --color B60205 \
+                --description "自動マージ不可。手動でのコンフリクト解消が必要" >/dev/null 2>&1 || true
+              gh pr edit "$n" --add-label conflict >/dev/null 2>&1 || true
+              gh pr comment "$n" --body \
+                "⚠️ 自動マージできませんでした（\`merge=union\` で解消できないコンフリクト）。\nINDEX/hub の件数セル、\`index/*.md\` のヘッダー件数、またはID衝突・同一出典の重複が疑われます。手動での解消をお願いします。" \
+                >/dev/null 2>&1 || true
+              echo "真のコンフリクト: PR #$n を手動対応としてフラグ。"
+            fi
+            echo "::endgroup::"
+          done
