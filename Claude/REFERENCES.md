@@ -558,6 +558,11 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_token_5phase_yamato_snow.md | 2026-07-12 |
 | reference_cdata_mcp_token_97percent_reduction.md | 2026-07-12 |
 | reference_claude_code_cost_optimization_airevolution.md | 2026-07-12 |
+| reference_claude_update_week_20260708_yougears.md | 2026-07-13 |
+| reference_claude_code_updates_june_july2026_mosfet.md | 2026-07-13 |
+| reference_claude_code_v21202_classmethod.md | 2026-07-13 |
+| reference_cc_vibe_coding_guide_genai_july2026.md | 2026-07-13 |
+| reference_claude_code_mcp_integration_7patterns_uravation.md | 2026-07-13 |
 | reference_claude_code_weekly_update_0711_saitoko.md | 2026-07-14 |
 | reference_divx_mcp_3servers_case_2026.md | 2026-07-14 |
 | reference_mcp_servers_30_lunalink_2026.md | 2026-07-14 |
