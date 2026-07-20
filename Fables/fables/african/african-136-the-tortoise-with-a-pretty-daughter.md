@@ -1,5 +1,5 @@
 ---
-id: african-132
+id: african-136
 title: カメの美しい娘
 title_en: The Tortoise with a Pretty Daughter
 origin: アフリカ民話（南ナイジェリア）

@@ -1,4 +1,4 @@
-# 創作の名言（44件）
+# 創作の名言（54件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -48,3 +48,13 @@
 | [fiction-042](../maxims/fiction/fiction-042-cannot-live-away-from-the-earth.md) | 土から離れては生きられないのよ | 宮崎駿／天空の城ラピュタ | シータの台詞 |
 | [fiction-043](../maxims/fiction/fiction-043-kill-or-be-killed.md) | このせかいでは、ころすか ころされるかだ | トビー・フォックス／UNDERTALE | フラウィの台詞 |
 | [fiction-044](../maxims/fiction/fiction-044-going-to-see-if-im-really-alive.md) | 死にに行くわけじゃない。俺が本当に生きてるかどうか、確かめに行くんだ | 渡辺信一郎／カウボーイビバップ | 第26話 スパイクの台詞 |
+| [fiction-045](../maxims/fiction/fiction-045-wish-for-others-happiness.md) | あの青年は、人のしあわせを願い、人の不幸を悲しむことのできる人だ | 藤子・F・不二雄／ドラえもん | 「のび太の結婚前夜」しずかの父の台詞 |
+| [fiction-046](../maxims/fiction/fiction-046-make-a-contract-with-me.md) | 僕と契約して、魔法少女になってよ！ | 虚淵玄／魔法少女まどか☆マギカ | 第1話 キュゥべえの台詞 |
+| [fiction-047](../maxims/fiction/fiction-047-do-or-do-not-there-is-no-try.md) | やるか、やらぬかだ。「試す」などない | ジョージ・ルーカス／スター・ウォーズ 帝国の逆襲 | ヨーダの台詞 |
+| [fiction-048](../maxims/fiction/fiction-048-what-to-do-with-the-time-given-us.md) | 私たちが決めねばならぬのは、与えられた時をどう使うか、それだけだ | J・R・R・トールキン／指輪物語 | 旅の仲間 ガンダルフの台詞 |
+| [fiction-049](../maxims/fiction/fiction-049-there-is-no-spoon.md) | スプーンは存在しない | ウォシャウスキー姉妹／マトリックス | スプーン・ボーイとの対話 |
+| [fiction-050](../maxims/fiction/fiction-050-life-is-like-a-box-of-chocolates.md) | ママはいつも言ってた、人生はチョコレートの箱のようなものだって | エリック・ロス／フォレスト・ガンプ 一期一会 | フォレストの台詞 |
+| [fiction-051](../maxims/fiction/fiction-051-an-offer-he-cant-refuse.md) | あの男に、断れない条件を出してやる | マリオ・プーゾ／ゴッドファーザー | ドン・ヴィト・コルレオーネの台詞 |
+| [fiction-052](../maxims/fiction/fiction-052-count-up-your-sins.md) | さぁ、お前の罪を数えろ！ | 三条陸／仮面ライダーW | 左翔太郎の決め台詞 |
+| [fiction-053](../maxims/fiction/fiction-053-abolish-the-prostration.md) | その証として、伏礼を廃す。これをもって初勅とする！ | 小野不由美／十二国記 | 風の万里 黎明の空 陽子の初勅 |
+| [fiction-054](../maxims/fiction/fiction-054-arrogance-is-the-barrier-to-survival.md) | 弱さと無知は生存の障害ではない。傲慢こそが障害なのだ | 劉慈欣／三体Ⅲ 死神永生 | 死神永生 |

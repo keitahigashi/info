@@ -1,5 +1,5 @@
 ---
-id: african-134
+id: african-138
 title: 雌ライオンとダチョウ
 title_en: The Lioness and the Ostrich
 origin: アフリカ民話（南アフリカ）

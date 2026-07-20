@@ -1,5 +1,5 @@
 ---
-id: african-133
+id: african-137
 title: 髑髏と結婚した娘
 title_en: The Disobedient Daughter who Married a Skull
 origin: アフリカ民話（南ナイジェリア）

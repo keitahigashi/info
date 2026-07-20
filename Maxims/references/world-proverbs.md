@@ -93,3 +93,13 @@
 | world-proverbs-087 | ダマスカスは砂糖のように甘いが、故郷はもっと甘い。 | 作者不詳（クルド語） | en.wiktionary.org, kurdistanchronicle.com | 2026-07-11 |
 | world-proverbs-088 | いちばん愚かな農民が、いちばん大きなジャガイモを収穫する。 | 作者不詳（ルクセンブルク語） | lod.lu, lb.wikipedia.org | 2026-07-11 |
 | world-proverbs-089 | たとえのない話は理解しにくい。取っ手のない器が持ちにくいように。 | 作者不詳（チベット語） | Ebihara 2018（千葉大学）, Sørensen & Erhard 2013（Proverbium 30） | 2026-07-11 |
+| world-proverbs-090 | 早起きする者は、二つの幸運をつかむ。 | 作者不詳（クロアチア語） | en.wikiquote.org, en.wiktionary.org, hr.wikipedia.org, tatoeba.org | 2026-07-20 |
+| world-proverbs-091 | 少しずつ、鳥は巣を作る。 | 作者不詳（ハイチ・クレオール語） | en.wikiquote.org, haitiancreole.net, oursoil.org | 2026-07-20 |
+| world-proverbs-092 | 一本の指では、シラミを潰せない。 | 作者不詳（ショナ語） | duramazwi.co.zw, zimboriginal.com | 2026-07-20 |
+| world-proverbs-093 | 羊になる者は、狼に食われる。 | 作者不詳（シチリア語） | en.wikiquote.org, siciliafan.it, sicilianmagpie.com, lyricstranslate.com | 2026-07-20 |
+| world-proverbs-094 | 太陽は、わが家の小さな窓にも差し込む。 | 作者不詳（ベラルーシ語） | en.wikiquote.org, be.wikipedia.org, ru.wikipedia.org, tatoeba.org | 2026-07-20 |
+| world-proverbs-095 | 繁栄の第一は、団結である。 | 作者不詳（キルギス語） | kutbilim.kg, kyrgyz-audio.com, nazarnews.org | 2026-07-20 |
+| world-proverbs-096 | 牛を素通りしてでも、人をつかめ。 | 作者不詳（ソト語） | sesotho.web.za, httpculturereview.wordpress.com, blogs.icrc.org, makobane.works | 2026-07-20 |
+| world-proverbs-097 | 美しい肌の下には、しばしば偽りが潜む。 | 作者不詳（フェロー語） | en.wikiquote.org（Young & Clewer 1985）, tungutak.blogspot.com | 2026-07-20 |
+| world-proverbs-098 | 踏みとどまれ、波はやがて砕けるのだから。 | 作者不詳（トンガ語） | lingalot.com, matangitonga.to | 2026-07-20 |
+| world-proverbs-099 | 歌う者は、悪しきことを考えない。 | 作者不詳（マケドニア語） | en.wiktionary.org, mk.wikipedia.org | 2026-07-20 |
