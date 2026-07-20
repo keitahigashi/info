@@ -1,4 +1,4 @@
-# 中国故事成語（90件）
+# 中国故事成語（100件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -94,3 +94,13 @@
 | [chinese-idioms-088](../maxims/chinese-idioms/chinese-idioms-088-peach-blossom-spring-utopia.md) | 桃源郷 | 陶淵明（陶潜） | 「桃花源記」 |
 | [chinese-idioms-089](../maxims/chinese-idioms/chinese-idioms-089-house-of-accumulated-good-has-blessings.md) | 積善の家には必ず余慶あり | 作者不詳（『易経』文言伝） | 『易経』坤卦・文言伝 |
 | [chinese-idioms-090](../maxims/chinese-idioms/chinese-idioms-090-sweating-oxen-filling-rafters.md) | 汗牛充棟 | 柳宗元 | 「陸文通先生墓表」 |
+| [chinese-idioms-091](../maxims/chinese-idioms/chinese-idioms-091-carving-the-boat-to-seek-the-sword.md) | 刻舟求剣 | 呂不韋（編） | 『呂氏春秋』察今篇 |
+| [chinese-idioms-092](../maxims/chinese-idioms/chinese-idioms-092-climbing-a-tree-to-seek-fish.md) | 木に縁りて魚を求む | 孟子（孟軻） | 『孟子』梁恵王上 |
+| [chinese-idioms-093](../maxims/chinese-idioms/chinese-idioms-093-wisdom-of-the-old-horse.md) | 老馬の智 | 韓非 | 『韓非子』説林上 |
+| [chinese-idioms-094](../maxims/chinese-idioms/chinese-idioms-094-mending-the-pen-after-losing-sheep.md) | 亡羊補牢 | 劉向（編） | 『戦国策』楚策四 |
+| [chinese-idioms-095](../maxims/chinese-idioms/chinese-idioms-095-gazing-at-the-ocean-and-sighing.md) | 望洋の嘆 | 荘周（荘子）（伝） | 『荘子』秋水篇 |
+| [chinese-idioms-096](../maxims/chinese-idioms/chinese-idioms-096-quenching-thirst-by-thinking-of-plums.md) | 望梅止渇 | 劉義慶（編） | 『世説新語』仮譎篇 |
+| [chinese-idioms-097](../maxims/chinese-idioms/chinese-idioms-097-the-brush-of-dong-hu.md) | 董狐の筆 | 左丘明（伝） | 『春秋左氏伝』宣公二年 |
+| [chinese-idioms-098](../maxims/chinese-idioms/chinese-idioms-098-lofty-mountains-and-flowing-water.md) | 高山流水 | 列禦寇（列子）（伝） | 『列子』湯問篇 |
+| [chinese-idioms-099](../maxims/chinese-idioms/chinese-idioms-099-sufficient-food-and-clothing-brings-propriety.md) | 衣食足りて礼節を知る | 管仲（伝） | 『管子』牧民篇 |
+| [chinese-idioms-100](../maxims/chinese-idioms/chinese-idioms-100-white-hair-three-thousand-zhang.md) | 白髪三千丈 | 李白 | 「秋浦歌十七首」其十五 |

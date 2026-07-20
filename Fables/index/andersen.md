@@ -129,4 +129,9 @@
 | [andersen-123](../fables/andersen/andersen-123-the-old-tombstone.md) | 古い墓石 | 善きことと美しきことは、物語や芸術の力によって時代を超えて語り継がれる。 |
 | [andersen-124](../fables/andersen/andersen-124-what-one-can-invent.md) | 思いつくということ | 真の創造は深い観察と想像力から生まれる。想像力なき批評は創造の代替にはなりえない。 |
 | [andersen-125](../fables/andersen/andersen-125-the-court-cards.md) | 絵札たち | 人が自らの不純さを克服し内なる光を増すとき、魂は浄化されてより高みへと解放される。 |
+| [andersen-126](../fables/andersen/andersen-126-the-will-o-the-wisps-are-in-town.md) | 鬼火が町にやってきた | 真実の警告が「ただの作り話」として無視される不条理を描き、詩や芸術の言葉が届かない現実社会への深い皮肉と悲劇が込められている。 |
+| [andersen-127](../fables/andersen/andersen-127-the-stone-of-the-wise-man.md) | 賢者の石 | 理性・感覚・知識だけでは人生の究極の真理には至れない。信仰と愛こそが智慧を超えた導きであり、賢者の石の正体は「信ずる心」そのものである。 |
+| [andersen-128](../fables/andersen/andersen-128-on-judgment-day.md) | 最後の審判の日に | 外面的な信仰の遵守や律法主義だけでは救済は得られない。真のキリスト教精神は謙虚さ・愛・慈悲にあり、人は自らの不完全さを認め神の恩寵にすがるべきである。 |
+| [andersen-129](../fables/andersen/andersen-129-luck-may-lie-in-a-pin.md) | 幸運はピン一本に宿るかもしれない | 幸運は大きな計画や卓越した才能からではなく、日常の些細な工夫や偶然の発想から生まれることがある。手近なものを活かす創意工夫が、予期せぬ人生の転機を生み出す。 |
+| [andersen-130](../fables/andersen/andersen-130-ole-the-tower-keeper.md) | 塔守りのオーレ | 俗世の名誉や地位を離れた高みから人間社会を眺めることで、欲望・虚飾・無節制が人を滅ぼすことが見えてくる。自己省察と節度ある生活の大切さを教える。 |
 <!-- 寓話追加時にここへ行を追加 -->
