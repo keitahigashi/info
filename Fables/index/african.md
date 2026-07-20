@@ -1,4 +1,4 @@
-# アフリカ民話（125話）
+# アフリカ民話（135話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -134,4 +134,9 @@
 | [african-128](../fables/african/african-128-the-grinding-stone.md) | ひとりで粉を挽く魔法の石 | 他者の財産を強引に奪い、明確な警告を無視して突き進む者は身を滅ぼす |
 | [african-129](../fables/african/african-129-why-the-lizard-moves-his-head.md) | トカゲが首を上下に動かす理由 | 狡猾な者に利用された誠実な者が不当な罰を受ける理不尽さ——信頼する相手をよく選ぶべきという警告 |
 | [african-130](../fables/african/african-130-tit-for-tat.md) | 親子の知恵くらべ | 他者の努力を謀略で奪い取ろうとする者は、より巧みな知恵によって必ず仕返しを受ける |
+| [african-131](../fables/african/african-131-anansi-the-blind-fisherman.md) | 盲目の漁師アナンシ | 助けてくれる人への感謝を忘れた者は、やがてその助けを失う。傲慢さと恩知らずは自らを滅ぼす |
+| [african-132](../fables/african/african-132-why-the-sea-turtle-beats-its-breast.md) | ウミガメが捕まると胸を叩く理由 | 命がけで助けてくれた恩人を忘れ、恩を仇で返す行いは深い悲しみを残す。恩知らずは最も重い道徳的な罪の一つである |
+| [african-133](../fables/african/african-133-how-beasts-and-serpents-came-into-the-world.md) | 獣とヘビが地上に現れた理由 | 賢者の言葉を無視した欲張りは、自分だけでなく周囲の全員に災いをもたらす。贈り物を正しく扱うには謙虚さと従順さが必要である |
+| [african-134](../fables/african/african-134-how-the-tortoise-got-its-shell.md) | カメはいかにして甲羅を得たか | 誘惑に負けて義務を怠り、時機を逃した者は取り返しのつかない代償を払う。与えられた使命は最後まで果たし通さなければならない |
+| [african-135](../fables/african/african-135-why-ants-carry-bundles-as-big-as-themselves.md) | アリが自分と同じ大きさの荷物を運ぶ理由 | 欲に駆られて禁を破り、他者を陥れて逃れようとした者は、自らが背負うべき罰を永遠に他者に押しつけることになる |
 <!-- 寓話追加時にここへ行を追加 -->

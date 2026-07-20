@@ -152,4 +152,9 @@
 | indian-137 | 教えを聞かなかった子鹿 | ancient-buddhist-texts.net/English-Texts/Jataka/015.htm | 2026-07-04 |
 | indian-138 | 鬼を見破った賢い商人 | thejatakatales.com/apannaka-jataka-1/ | 2026-07-04 |
 | indian-139 | 獅子と鼠と猫——使い捨ての同盟 | kidsgen.com/stories/hitopadesha-tales/the-lion-the-mouse-and-the-cat.htm | 2026-07-04 |
+| indian-140 | 炎を止めた雛鶉の真実の誓い | ancient-buddhist-texts.net/English-Texts/Jataka/035.htm, thejatakatales.com/vattaka-jataka-35/ | 2026-07-13 |
+| indian-141 | 五武器の王子パンチャーヴドゥハ | ancient-buddhist-texts.net/English-Texts/Jataka/055.htm, thejatakatales.com/pancavudha-jataka-55/ | 2026-07-13 |
+| indian-142 | 善象シーラヴァと恩知らずの木こり | ancient-buddhist-texts.net/English-Texts/Jataka/072.htm | 2026-07-13 |
+| indian-143 | カラスと白鳥 | longlongtimeago.com/once-upon-a-time/fables/hitopadesha/the-crow-and-the-swan/ | 2026-07-13 |
+| indian-144 | 黄金の糞をする鳥シンドゥカ | en.wikisource.org（パンチャタントラ第3巻）, talesofpanchatantra.com/the-tale-of-the-golden-droppings | 2026-07-13 |
 <!-- 出典追加時にここへ行を追加 -->

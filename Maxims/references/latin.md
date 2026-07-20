@@ -84,3 +84,13 @@
 | latin-078 | Otium sine litteris mors est et hominis vivi sepultura. | セネカ（小） | セネカ『倫理書簡集』82.3 / loebclassics.com, en.wiktionary.org | 2026-07-04 |
 | latin-079 | Nemo propheta in patria sua. | 作者不詳（イエスの言葉／ウルガタ訳） | ウルガタ訳新約聖書 ルカ4:24（ほかマタイ13:57、マルコ6:4、ヨハネ4:44）。流布形は各福音書文言の圧縮、ルカが最も近い / biblestudytools.com（Vulgate）, en.wikiquote.org（Vulgate） | 2026-07-04 |
 | latin-080 | Non est vivere, sed valere vita est. | マルティアリス | マルティアリス『エピグラム集』6.70 / thelatinlibrary.com, en.wiktionary.org | 2026-07-04 |
+| latin-081 | Vae victis! | 作者不詳（ブレンヌスの伝承） | リウィウス『ローマ建国史』5.48.9。句自体はプラウトゥス『プセウドルス』1317にも / thelatinlibrary.com, en.wikipedia.org（Vae victis） | 2026-07-13 |
+| latin-082 | Ubi solitudinem faciunt, pacem appellant. | タキトゥス | タキトゥス『アグリコラ』30（敵将カルガクスの演説）。latin-077と同じ章の別文 / thelatinlibrary.com, en.wikiquote.org（Tacitus） | 2026-07-13 |
+| latin-083 | Corruptissima re publica plurimae leges. | タキトゥス | タキトゥス『年代記』3.27。原文は絶対的奪格の従属句、格言は短縮独立形 / thelatinlibrary.com, en.wikiquote.org（Tacitus） | 2026-07-13 |
+| latin-084 | Mendacem memorem esse oportet. | 作者不詳（クインティリアヌスが伝える諺） | クインティリアヌス『弁論家の教育』4.2.91「quod vulgo dicitur」。原文は不定詞oportere、直説法oportetは後世形 / thelatinlibrary.com, en.wikiquote.org（Quintilian） | 2026-07-13 |
+| latin-085 | Tantum religio potuit suadere malorum. | ルクレティウス | ルクレティウス『事物の本性について』1.101。religioは迷信・宗教的畏怖の意 / thelatinlibrary.com, en.wikiquote.org（Lucretius） | 2026-07-13 |
+| latin-086 | In magnis et voluisse sat est. | プロペルティウス | プロペルティウス『詩集』2.10.5–6 / thelatinlibrary.com, en.wikiquote.org（Propertius） | 2026-07-13 |
+| latin-087 | Nullum esse librum tam malum ut non aliqua parte prodesset. | 小プリニウス（大プリニウスの言葉として） | 小プリニウス『書簡集』3.5.10。発話者は伯父・大プリニウス。直説法現在形は後世改変 / thelatinlibrary.com, en.wikiquote.org（Pliny the Younger） | 2026-07-13 |
+| latin-088 | Radix omnium malorum est cupiditas. | 作者不詳（パウロ書簡／ウルガタ訳） | ウルガタ訳『テモテへの手紙一』6:10。原文はenim付き、cupiditasは金銭欲（φιλαργυρία） / blueletterbible.org, biblehub.com（Vulgate） | 2026-07-13 |
+| latin-089 | Entia non sunt multiplicanda praeter necessitatem. | ジョン・パンチ（オッカムの原理を定式化） | J.パンチのスコトゥス註解（1639）。オッカム自身の著作には無い定型句（誤帰属注意） / en.wikipedia.org（Occam's razor）, en.wiktionary.org | 2026-07-13 |
+| latin-090 | Fere libenter homines id quod volunt credunt. | ユリウス・カエサル | カエサル『ガリア戦記』3.18。原文は従属節中でfereを伴う / thelatinlibrary.com, en.wikiquote.org（Julius Caesar） | 2026-07-13 |

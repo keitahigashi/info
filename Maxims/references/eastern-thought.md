@@ -94,3 +94,13 @@
 | eastern-thought-088 | 真実こそ勝つ（サティヤメーヴァ・ジャヤテー） | 作者不詳（ムンダカ・ウパニシャッド） | wisdomlib.org, en.wikipedia.org | 2026-07-08 |
 | eastern-thought-089 | 縁起はすなわち空である（中論24.18） | 龍樹（ナーガールジュナ） | en.wikipedia.org, en.wikipedia.org | 2026-07-08 |
 | eastern-thought-090 | 春に百花有り秋に月有り（無門関19則 頌） | 無門慧開 | ja.wikipedia.org, note.com | 2026-07-08 |
+| eastern-thought-091 | 教学相長ず（学びて足らざるを知り、教えて困しむを知る） | 作者不詳（礼記・学記篇） | ctext.org, arteducation.com.tw | 2026-07-17 |
+| eastern-thought-092 | 身体髪膚、之を父母に受く、敢へて毀傷せざるは孝の始めなり | 作者不詳（孝経） | ctext.org, gushiwen.cn | 2026-07-17 |
+| eastern-thought-093 | 蒼に染むれば則ち蒼く、黄に染むれば則ち黄なり（所染） | 墨子（墨翟） | zh.wikisource.org, ctext.org | 2026-07-17 |
+| eastern-thought-094 | 巧詐は拙誠に如かず | 韓非（韓非子） | zh.wikisource.org, kanbun.info | 2026-07-17 |
+| eastern-thought-095 | 口は心の門戸なり、心は神の主なり | 鬼谷子 | ctext.org, arteducation.com.tw | 2026-07-17 |
+| eastern-thought-096 | 戦い勝つは易く、勝ちを守るは難し | 呉起（呉子） | ctext.org, ja.wikisource.org | 2026-07-17 |
+| eastern-thought-097 | 三界は安きこと無し、猶ほ火宅のごとし（火宅の喩） | 鳩摩羅什（漢訳） | buddhism.lib.ntu.edu.tw, vocus.cc | 2026-07-17 |
+| eastern-thought-098 | 健康は最上の利得、満足は最上の財産（法句経204） | 釈迦（ブッダ） | tipitaka.net, accesstoinsight.org | 2026-07-17 |
+| eastern-thought-099 | 一日作さざれば、一日食らわず | 百丈懐海 | ja.wikipedia.org, rinnou.net | 2026-07-17 |
+| eastern-thought-100 | 学ぶべきことは瑕なく学び、学んだらそれに違わず生きよ（ティルックラル391） | ティルヴァッルヴァル | thirukkural.io, en.wikipedia.org | 2026-07-17 |

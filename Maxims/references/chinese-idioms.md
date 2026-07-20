@@ -94,3 +94,13 @@
 | chinese-idioms-088 | 桃源郷 | 陶淵明（陶潜） | zh.wikisource.org, kotobank.jp | 2026-07-10 |
 | chinese-idioms-089 | 積善の家には必ず余慶あり | 作者不詳（『易経』文言伝） | ctext.org, kotobank.jp | 2026-07-10 |
 | chinese-idioms-090 | 汗牛充棟 | 柳宗元 | kanbun.info, kotobank.jp | 2026-07-10 |
+| chinese-idioms-091 | 刻舟求剣 | 呂不韋（編） | ctext.org, zh.wikisource.org | 2026-07-19 |
+| chinese-idioms-092 | 木に縁りて魚を求む | 孟子（孟軻） | ctext.org, zh.wikisource.org | 2026-07-19 |
+| chinese-idioms-093 | 老馬の智 | 韓非 | zh.wikisource.org, ctext.org | 2026-07-19 |
+| chinese-idioms-094 | 亡羊補牢 | 劉向（編） | zh.wikisource.org, ctext.org | 2026-07-19 |
+| chinese-idioms-095 | 望洋の嘆 | 荘周（荘子）（伝） | ctext.org, zh.wikisource.org | 2026-07-19 |
+| chinese-idioms-096 | 望梅止渇 | 劉義慶（編） | ctext.org, zh.wikisource.org | 2026-07-19 |
+| chinese-idioms-097 | 董狐の筆 | 左丘明（伝） | ctext.org, zh.wikisource.org | 2026-07-19 |
+| chinese-idioms-098 | 高山流水 | 列禦寇（列子）（伝） | ctext.org, ctext.org（呂氏春秋・本味） | 2026-07-19 |
+| chinese-idioms-099 | 衣食足りて礼節を知る | 管仲（伝） | ctext.org, zh.wikisource.org | 2026-07-19 |
+| chinese-idioms-100 | 白髪三千丈 | 李白 | gushiwen.cn, baike.baidu.com | 2026-07-19 |
