@@ -1,4 +1,4 @@
-# 世界のことわざ（89件）
+# 世界のことわざ（99件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -93,3 +93,13 @@
 | [world-proverbs-087](../maxims/world-proverbs/world-proverbs-087-sam-sekir-le-welat-sirintir-e.md) | ダマスカスは砂糖のように甘いが、故郷はもっと甘い。 | 作者不詳（クルド語） | Şam şekir lê welat şirîntir e |
 | [world-proverbs-088](../maxims/world-proverbs/world-proverbs-088-dommste-bauer-deckste-gromperen.md) | いちばん愚かな農民が、いちばん大きなジャガイモを収穫する。 | 作者不詳（ルクセンブルク語） | Deen dommste Bauer huet déi déckste Gromperen |
 | [world-proverbs-089](../maxims/world-proverbs/world-proverbs-089-gtam-dpe-med-de-go-dka.md) | たとえのない話は理解しにくい。取っ手のない器が持ちにくいように。 | 作者不詳（チベット語） | གཏམ་དཔེ་མེད་དེ་གོ་དཀའ། སྣོད་ལུང་མེད་དེ་འཇུ་དཀའ། |
+| [world-proverbs-090](../maxims/world-proverbs/world-proverbs-090-tko-rano-rani-dvije-srece-grabi.md) | 早起きする者は、二つの幸運をつかむ。 | 作者不詳（クロアチア語） | Tko rano rani, dvije sreće grabi |
+| [world-proverbs-091](../maxims/world-proverbs/world-proverbs-091-piti-piti-zwazo-fe-nich-li.md) | 少しずつ、鳥は巣を作る。 | 作者不詳（ハイチ・クレオール語） | Piti piti zwazo fè nich li |
+| [world-proverbs-092](../maxims/world-proverbs/world-proverbs-092-one-finger-cannot-crush-a-louse.md) | 一本の指では、シラミを潰せない。 | 作者不詳（ショナ語） | Chara chimwe hachitswanyi inda |
+| [world-proverbs-093](../maxims/world-proverbs/world-proverbs-093-cu-pecura-si-fa-u-lupu-sa-mancia.md) | 羊になる者は、狼に食われる。 | 作者不詳（シチリア語） | Cu pecura si fa, u lupu sa mancia |
+| [world-proverbs-094](../maxims/world-proverbs/world-proverbs-094-zahliane-sonca-i-u-nasha-akonca.md) | 太陽は、わが家の小さな窓にも差し込む。 | 作者不詳（ベラルーシ語） | Загляне сонца і ў наша аконца |
+| [world-proverbs-095](../maxims/world-proverbs/world-proverbs-095-yrys-aldy-yntymak.md) | 繁栄の第一は、団結である。 | 作者不詳（キルギス語） | Ырыс алды — ынтымак |
+| [world-proverbs-096](../maxims/world-proverbs/world-proverbs-096-feta-kgomo-o-tshware-motho.md) | 牛を素通りしてでも、人をつかめ。 | 作者不詳（ソト語） | Feta kgomo o tshware motho |
+| [world-proverbs-097](../maxims/world-proverbs/world-proverbs-097-ofta-byr-fals-undir-fridum-skinni.md) | 美しい肌の下には、しばしば偽りが潜む。 | 作者不詳（フェロー語） | Ofta býr fals undir fríðum skinni |
+| [world-proverbs-098](../maxims/world-proverbs/world-proverbs-098-holo-pe-tuu-he-ko-e-ngalu-e-fasi.md) | 踏みとどまれ、波はやがて砕けるのだから。 | 作者不詳（トンガ語） | Holo pe tu'u he ko e ngalu e fasi |
+| [world-proverbs-099](../maxims/world-proverbs/world-proverbs-099-koj-pee-zlo-ne-misli.md) | 歌う者は、悪しきことを考えない。 | 作者不詳（マケドニア語） | Кој пее, зло не мисли |
