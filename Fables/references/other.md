@@ -135,4 +135,9 @@
 | other-125 | アラクネの傲慢 | 古代ギリシャ神話（オウィディウス『変身物語』第6巻、紀元8年頃） | en.wikipedia.org/wiki/Arachne, theoi.com/Text/OvidMetamorphoses6.html | 2026-07-08 |
 | other-126 | デールドレの悲劇 | アイルランド神話（アルスター・サイクル「ウシナの息子たちの追放」、写本：レンスターの書12世紀） | en.wikipedia.org/wiki/Deirdre, ireland-calling.com/ulster-cycle/deirdre-of-the-sorrows/ | 2026-07-08 |
 | other-127 | ドン・キホーテと風車 | スペイン文学（セルバンテス『ドン・キホーテ』第1部第8章、1605年） | britannica.com/topic/Don-Quixote-fictional-character, cervantes.library.tamu.edu/V2/CPI/TEI/TEI_1605/1605/1605/chapter8.html | 2026-07-08 |
+| other-128 | ペルセウスとメドゥーサ | 古代ギリシャ神話（ピンダロス『ピュティア頌歌』第12番、アポロドーロス『ビブリオテーケー』第2巻4章） | en.wikipedia.org/wiki/Perseus, theoi.com/Hero/Perseus.html | 2026-07-20 |
+| other-129 | バウキスとピレモン | 古代ローマ文学（オウィディウス『変身物語』第8巻611〜724節、紀元8年頃） | en.wikipedia.org/wiki/Baucis_and_Philemon, theoi.com/Text/OvidMetamorphoses8.html | 2026-07-20 |
+| other-130 | ケツァルコアトルの失墜 | アステカ／トルテカ神話（『クアウティトランの年代記』1570年頃、サアグン『フィレンツェ写本』1577年頃） | en.wikipedia.org/wiki/Quetzalcoatl, pressbooks.ccconline.org/worldmythology-cccs/chapter/quetzalcoatl-in-outline/ | 2026-07-20 |
+| other-131 | 美しいヴァシリーサ | ロシア民話（アファナーシェフ採話『ロシア民話集』第104話、1855〜1863年） | en.wikipedia.org/wiki/Vasilisa_the_Beautiful, europeanfolktales.com/vasilisa-the-beautiful-russian-folktale/ | 2026-07-20 |
+| other-132 | タム・リン | スコットランド／ボーダー・バラッド（チャイルド・バラッド第39番、初出言及1549年） | en.wikipedia.org/wiki/Tam_Lin, sacred-texts.com/neu/eng/child/ch039.htm | 2026-07-20 |
 <!-- 出典追加時にここへ行を追加 -->
