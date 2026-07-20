@@ -774,3 +774,8 @@
 | reference_frame-graph-production.md | 2026-07-19 |
 | reference_webassembly-game-development-guide.md | 2026-07-19 |
 | reference_wasm-game-engines-multiplayer.md | 2026-07-19 |
+| reference_game-narrative-kaleidoscope-ingold.md | 2026-07-20 |
+| reference_clair-obscur-writer-team-communication.md | 2026-07-20 |
+| reference_game-writing-non-narrative-games.md | 2026-07-20 |
+| reference_narrative-focused-level-design-ja.md | 2026-07-20 |
+| reference_playerless-playtesting-ai-ux.md | 2026-07-20 |
