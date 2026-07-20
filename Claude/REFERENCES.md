@@ -582,6 +582,11 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_loop_engineering_intro_syoitu_qiita.md | 2026-07-17 |
 | reference_loop_engineering_definition_morimatsu_qiita.md | 2026-07-17 |
 | reference_loop_engineering_complete_guide_hexabase.md | 2026-07-17 |
+| reference_claude_update_20260708_yougears.md | 2026-07-18 |
+| reference_claude_code_mcp_servers_kamome.md | 2026-07-18 |
+| reference_claude_mcp_7servers_business_nocodesol.md | 2026-07-18 |
+| reference_claude_managed_agents_enterprise_zidai.md | 2026-07-18 |
+| reference_claude_managed_agents_guide_genai_2026.md | 2026-07-18 |
 | reference_github_mcp_guide_ai_kanri_july2026.md | 2026-07-19 |
 | reference_claude_code_roi_cost_digitalfront.md | 2026-07-19 |
 | reference_claude_code_accounting_digitalfront.md | 2026-07-19 |
