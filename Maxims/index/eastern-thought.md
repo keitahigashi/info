@@ -1,4 +1,4 @@
-# 東洋思想（90件）
+# 東洋思想（100件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -94,3 +94,13 @@
 | [eastern-thought-088](../maxims/eastern-thought/eastern-thought-088-truth-alone-triumphs.md) | 真実こそが勝つ、虚偽ではない。真実によってこそ、神々への道は開かれる | 作者不詳（ムンダカ・ウパニシャッド） | 『ムンダカ・ウパニシャッド』3.1.6 |
 | [eastern-thought-089](../maxims/eastern-thought/eastern-thought-089-dependent-origination-emptiness.md) | 縁って生じるもの、それを我々は空と説く。それは仮の名であり、それこそが中道である | 龍樹（ナーガールジュナ） | 『中論』観四諦品第二十四・第十八偈 |
 | [eastern-thought-090](../maxims/eastern-thought/eastern-thought-090-hundred-flowers-in-spring.md) | 心に余計なわだかまりがなければ、いつでもその時が人生の好時節である | 無門慧開 | 『無門関』第十九則 頌 |
+| [eastern-thought-091](../maxims/eastern-thought/eastern-thought-091-teaching-and-learning-grow-together.md) | 学んで初めて自分の未熟を知り、教えて初めて行き詰まりを知る。教えることと学ぶことは互いを高め合う | 作者不詳（礼記・学記篇） | 『礼記』学記篇 |
+| [eastern-thought-092](../maxims/eastern-thought/eastern-thought-092-body-received-from-parents.md) | 身体・髪・肌はすべて父母から授かったもの。これを傷つけないことが孝行の始まりである | 作者不詳（孝経） | 『孝経』開宗明義章第一 |
+| [eastern-thought-093](../maxims/eastern-thought/eastern-thought-093-dyed-blue-becomes-blue.md) | 糸を青に浸せば青くなり黄に浸せば黄になる。人も国も何に染まるかで変わる | 墨子（墨翟） | 『墨子』所染篇 |
+| [eastern-thought-094](../maxims/eastern-thought/eastern-thought-094-clever-deceit-vs-clumsy-sincerity.md) | 巧みなごまかしは、拙くても誠意のあるやり方には及ばない | 韓非（韓非子） | 『韓非子』説林上 |
+| [eastern-thought-095](../maxims/eastern-thought/eastern-thought-095-mouth-is-gate-of-mind.md) | 口は心の出入り口であり、心は精神の主である | 鬼谷子 | 『鬼谷子』捭闔篇 |
+| [eastern-thought-096](../maxims/eastern-thought/eastern-thought-096-winning-is-easy-keeping-hard.md) | 戦いに勝つことは易しいが、その勝利を守り続けることは難しい | 呉起（呉子） | 『呉子』図国篇 |
+| [eastern-thought-097](../maxims/eastern-thought/eastern-thought-097-three-realms-like-burning-house.md) | 迷いの世界に安らぎはなく、火に包まれた家のようなもの。もろもろの苦に満ちている | 鳩摩羅什（漢訳） | 『妙法蓮華経』譬喩品第三 |
+| [eastern-thought-098](../maxims/eastern-thought/eastern-thought-098-health-is-greatest-gain.md) | 健康こそ最上の利得、満足こそ最上の財産、涅槃こそ最上の安楽である | 釈迦（ブッダ） | 『ダンマパダ（法句経）』第204偈 |
+| [eastern-thought-099](../maxims/eastern-thought/eastern-thought-099-no-work-no-food.md) | 一日働かなければ、その一日は食べない | 百丈懐海 | 『五灯会元』巻三 百丈懐海章 |
+| [eastern-thought-100](../maxims/eastern-thought/eastern-thought-100-learn-flawlessly-live-accordingly.md) | 学ぶべきことは汚れなく完全に学び、学んだらその学びに違わず生きよ | ティルヴァッルヴァル | 『ティルックラル』第391句 |

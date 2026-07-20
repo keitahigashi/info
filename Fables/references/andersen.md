@@ -1,4 +1,4 @@
-# アンデルセン童話（125話）— 出典一覧
+# アンデルセン童話（130話）— 出典一覧
 
 [< 出典一覧に戻る](../REFERENCES.md)
 
@@ -132,4 +132,9 @@
 | andersen-123 | 古い墓石 | andersen.sdu.dk/vaerk/hersholt/TheOldTombstone_e.html | 2026-07-06 |
 | andersen-124 | 思いつくということ | andersen.sdu.dk/vaerk/hersholt/WhatOneCanInvent_e.html | 2026-07-06 |
 | andersen-125 | 絵札たち | andersen.sdu.dk/vaerk/hersholt/TheCourtCards_e.html | 2026-07-06 |
+| andersen-126 | 鬼火が町にやってきた | andersen.sdu.dk/vaerk/hersholt/TheWillOTheWispsAreInTown.html | 2026-07-19 |
+| andersen-127 | 賢者の石 | andersen.sdu.dk/vaerk/hersholt/TheStoneOfTheWiseMan.html | 2026-07-19 |
+| andersen-128 | 最後の審判の日に | andersen.sdu.dk/vaerk/hersholt/OnJudgmentDay.html | 2026-07-19 |
+| andersen-129 | 幸運はピン一本に宿るかもしれない | andersen.sdu.dk/vaerk/hersholt/LuckMayLieInAPin.html | 2026-07-19 |
+| andersen-130 | 塔守りのオーレ | andersen.sdu.dk/vaerk/hersholt/OleTheTowerKeeper.html | 2026-07-19 |
 <!-- 出典追加時にここへ行を追加 -->

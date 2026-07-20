@@ -1,4 +1,4 @@
-# 文学の名言（81件）
+# 文学の名言（91件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -85,3 +85,13 @@
 | [literature-079](../maxims/literature/literature-079-caminante-no-hay-camino.md) | 旅人よ、道はない、歩くことで道はできる。 | アントニオ・マチャード | 「格言と歌」第XXIX番 |
 | [literature-080](../maxims/literature/literature-080-linfinito-shipwreck-sweet.md) | そしてこの海で難破することも、私には甘美なのだ。 | ジャコモ・レオパルディ | 『カンティ』所収「無限」 |
 | [literature-081](../maxims/literature/literature-081-nora-first-a-human-being.md) | 私は何よりもまず一人の人間なのだと思うのです、あなたと同じように。 | ヘンリック・イプセン | 『人形の家』第3幕 |
+| [literature-082](../maxims/literature/literature-082-sappho-he-seems-to-me-equal-to-gods.md) | あの人は神々にも等しい男だと私には思われる——あなたの正面に座り、間近であなたの甘い声に聞き入るあの人は。 | サッポー | 断片31 |
+| [literature-083](../maxims/literature/literature-083-saadi-bani-adam-human-family.md) | アダムの子らは互いに一体であり、創造において一つの本質から成る。 | サアディー・シーラーズィー | 『薔薇園』第1章第10話 |
+| [literature-084](../maxims/literature/literature-084-quyuan-lisao-long-road-seeking.md) | 道ははるかに遠く長い。私は天地の上下をあまねくめぐって、求め探しつづけよう。 | 屈原 | 『楚辞』「離騒」 |
+| [literature-085](../maxims/literature/literature-085-baijuyi-song-of-everlasting-sorrow-lovebirds.md) | 天にあっては比翼の鳥となり、地にあっては連理の枝となりたい。 | 白居易 | 「長恨歌」末尾 |
+| [literature-086](../maxims/literature/literature-086-blake-world-in-a-grain-of-sand.md) | 一粒の砂に世界を見、一輪の野の花に天を見る。 | ウィリアム・ブレイク | 「無垢の予兆」冒頭 |
+| [literature-087](../maxims/literature/literature-087-flaubert-cracked-kettle-human-speech.md) | 人間の言葉はひびの入った鍋のようなもので、私たちはそれを叩いて熊を躍らせる程度の調べを鳴らすばかりだ。 | ギュスターヴ・フローベール | 『ボヴァリー夫人』第2部第12章 |
+| [literature-088](../maxims/literature/literature-088-hesse-demian-bird-fights-out-of-egg.md) | 鳥は卵の中から抜け出ようと闘う。卵とは世界である。生まれ出ようとする者は、一つの世界を破壊しなければならない。 | ヘルマン・ヘッセ | 『デーミアン』第5章 |
+| [literature-089](../maxims/literature/literature-089-lorca-green-how-i-love-you-green.md) | 緑よ、おまえが好きだ、緑よ。緑の風。緑の枝々。 | フェデリコ・ガルシア・ロルカ | 『ジプシー歌集』「夢遊病者のロマンセ」 |
+| [literature-090](../maxims/literature/literature-090-saigyo-die-in-spring-under-blossoms.md) | 願うことなら、桜の花の下で春に死にたいものだ。それも、あの如月の満月の頃に。 | 西行 | 『山家集』 |
+| [literature-091](../maxims/literature/literature-091-woolf-room-of-ones-own.md) | 女性が小説を書こうとするなら、お金と自分ひとりの部屋を持たなければならない。 | ヴァージニア・ウルフ | 『自分ひとりの部屋』第1章 |

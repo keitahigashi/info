@@ -1,4 +1,4 @@
-# ラテン語の格言（80件）
+# ラテン語の格言（90件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -84,3 +84,13 @@
 | [latin-078](../maxims/latin/latin-078-otium-sine-litteris-mors-est.md) | 学問なき閑暇は死であり、生ける人間の埋葬である（Otium sine litteris mors est） | セネカ（小） | 『倫理書簡集』82.3 |
 | [latin-079](../maxims/latin/latin-079-nemo-propheta-in-patria-sua.md) | 預言者は自分の故郷では受け入れられない（Nemo propheta in patria sua） | 作者不詳 | ウルガタ訳ルカ4:24 ほか |
 | [latin-080](../maxims/latin/latin-080-non-est-vivere-sed-valere.md) | 生きることではなく、健やかであることが人生である（Non est vivere, sed valere vita est） | マルティアリス | 『エピグラム集』6.70 |
+| [latin-081](../maxims/latin/latin-081-vae-victis.md) | 敗者に災いあれ（Vae victis） | 作者不詳（ブレンヌスの伝承） | リウィウス『ローマ建国史』5.48.9 |
+| [latin-082](../maxims/latin/latin-082-ubi-solitudinem-pacem-appellant.md) | 荒廃をつくり出して、それを平和と呼ぶ（Ubi solitudinem faciunt, pacem appellant） | タキトゥス | 『アグリコラ』30 |
+| [latin-083](../maxims/latin/latin-083-corruptissima-re-publica-plurimae-leges.md) | 国家が最も腐敗しているとき、法律が最も多い（Corruptissima re publica plurimae leges） | タキトゥス | 『年代記』3.27 |
+| [latin-084](../maxims/latin/latin-084-mendacem-memorem-esse-oportet.md) | 嘘つきは記憶力がよくなければならない（Mendacem memorem esse oportet） | 作者不詳（クインティリアヌスが伝える諺） | 『弁論家の教育』4.2.91 |
+| [latin-085](../maxims/latin/latin-085-tantum-religio-potuit-suadere-malorum.md) | 宗教はこれほどまでに多くの悪事をそそのかしえた（Tantum religio potuit suadere malorum） | ルクレティウス | 『事物の本性について』1.101 |
+| [latin-086](../maxims/latin/latin-086-in-magnis-et-voluisse-sat-est.md) | 大事業においては、志したというだけでも十分である（In magnis et voluisse sat est） | プロペルティウス | 『詩集』2.10.6 |
+| [latin-087](../maxims/latin/latin-087-nullum-librum-tam-malum.md) | どこか一部は役に立たないほど悪い本はない（Nullum esse librum tam malum...） | 小プリニウス（大プリニウスの言葉） | 『書簡集』3.5.10 |
+| [latin-088](../maxims/latin/latin-088-radix-omnium-malorum-cupiditas.md) | 貪欲はすべての悪の根である（Radix omnium malorum est cupiditas） | 作者不詳（パウロ書簡／ウルガタ訳） | ウルガタ訳『テモテへの手紙一』6:10 |
+| [latin-089](../maxims/latin/latin-089-entia-non-sunt-multiplicanda.md) | 存在は必要以上に増やしてはならない（Entia non sunt multiplicanda praeter necessitatem） | ジョン・パンチ（オッカムの剃刀） | スコトゥス註解（1639） |
+| [latin-090](../maxims/latin/latin-090-fere-libenter-homines-credunt.md) | 人は望むことを喜んで信じてしまう（Fere libenter homines id quod volunt credunt） | ユリウス・カエサル | 『ガリア戦記』3.18 |

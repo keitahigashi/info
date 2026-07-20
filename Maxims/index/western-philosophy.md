@@ -1,4 +1,4 @@
-# 西洋哲学（91件）
+# 西洋哲学（101件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -95,3 +95,13 @@
 | [western-philosophy-089](../maxims/western-philosophy/western-philosophy-089-to-the-things-themselves.md) | 事象そのものへ！ | エトムント・フッサール | 『論理学研究』第2巻 序論 |
 | [western-philosophy-090](../maxims/western-philosophy/western-philosophy-090-wrong-life-cannot-be-lived-rightly.md) | 間違った生のなかに、正しい生はない | テオドール・W・アドルノ | 『ミニマ・モラリア』アフォリズム18 |
 | [western-philosophy-091](../maxims/western-philosophy/western-philosophy-091-there-is-nothing-outside-the-text.md) | テクストの外部は存在しない | ジャック・デリダ | 『グラマトロジーについて』第2部 |
+| [western-philosophy-092](../maxims/western-philosophy/western-philosophy-092-peirce-pragmatic-maxim.md) | 概念の対象が持ちうる実際的な効果を考察せよ。その効果についての概念が対象についての概念のすべてである | チャールズ・サンダース・パース | 「観念を明晰にする方法」（1878年） |
+| [western-philosophy-093](../maxims/western-philosophy/western-philosophy-093-frege-context-principle.md) | 語の意味は、孤立してではなく、文の連関においてこそ問われねばならない | ゴットロープ・フレーゲ | 『算術の基礎』序論 |
+| [western-philosophy-094](../maxims/western-philosophy/western-philosophy-094-gadamer-being-that-can-be-understood-is-language.md) | 理解されうる存在、それは言語である | ハンス＝ゲオルク・ガダマー | 『真理と方法』第3部 |
+| [western-philosophy-095](../maxims/western-philosophy/western-philosophy-095-merleau-ponty-condemned-to-meaning.md) | われわれは世界のうちにあるがゆえに、意味を宣告されている | モーリス・メルロ＝ポンティ | 『知覚の現象学』序文 |
+| [western-philosophy-096](../maxims/western-philosophy/western-philosophy-096-levinas-ethics-calling-into-question.md) | 他者の現前によって私の自発性が問いに付されること、それを倫理と呼ぶ | エマニュエル・レヴィナス | 『全体性と無限』 |
+| [western-philosophy-097](../maxims/western-philosophy/western-philosophy-097-putnam-meanings-not-in-the-head.md) | 意味は、端的に、頭のなかにあるのではない | ヒラリー・パトナム | 「「意味」の意味」（1975年） |
+| [western-philosophy-098](../maxims/western-philosophy/western-philosophy-098-weil-attention-is-prayer.md) | まったく混じりけのない注意は、祈りである | シモーヌ・ヴェイユ | 『重力と恩寵』「注意と意志」 |
+| [western-philosophy-099](../maxims/western-philosophy/western-philosophy-099-berlin-liberty-is-liberty.md) | 自由は自由であって、平等でも公正でも正義でもない | アイザイア・バーリン | 「二つの自由概念」（1958年） |
+| [western-philosophy-100](../maxims/western-philosophy/western-philosophy-100-vico-verum-factum.md) | 真なるものと作られたものとは、相互に置き換えられる | ジャンバッティスタ・ヴィーコ | 『イタリア人の太古の知恵』第1巻 第1章 |
+| [western-philosophy-101](../maxims/western-philosophy/western-philosophy-101-abelard-doubting-leads-to-truth.md) | 疑うことによって探究へと至り、探究することによって真理を知覚する | ペトルス・アベラルドゥス | 『然りと否』序文 |

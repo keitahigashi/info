@@ -1,4 +1,4 @@
-# インド寓話（139話）
+# インド寓話（144話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -143,4 +143,9 @@
 | [indian-137](../fables/indian/indian-137-kharadiya-jataka.md) | 教えを聞かなかった子鹿 | 賢者の教えを先延ばしにし続けた者は、やがて取り返しのつかない結末を自ら招く |
 | [indian-138](../fables/indian/indian-138-apannaka-jataka.md) | 鬼を見破った賢い商人 | 甘言で誘う者を盲信せず、理性と証拠で真偽を見極めよ。正道を守る者だけが生き残る |
 | [indian-139](../fables/indian/indian-139-lion-mouse-cat.md) | 獅子と鼠と猫——使い捨ての同盟 | 目的のためだけに他者を利用し用済みになれば捨てる者には、真の同盟も友情も生まれない |
+| [indian-140](../fables/indian/indian-140-vattaka-jataka-quail-chick-truth.md) | 炎を止めた雛鶉の真実の誓い | 真実を誠実に認める心の力は、いかなる物理的な力をも超える |
+| [indian-141](../fables/indian/indian-141-pancavudha-jataka-five-weapons-prince.md) | 五武器の王子パンチャーヴドゥハ | 真の強さは武器にあるのではなく、内なる意志と智慧にある |
+| [indian-142](../fables/indian/indian-142-silavanaga-jataka-virtuous-elephant.md) | 善象シーラヴァと恩知らずの木こり | 恩知らずと搾取は最終的に搾取した者自身を滅ぼす。徳ある者は報われなくとも徳を失わない |
+| [indian-143](../fables/indian/indian-143-hitopadesha-crow-and-swan.md) | カラスと白鳥 | 悪人と共にいるだけで、善人まで無実の罪をかぶる |
+| [indian-144](../fables/indian/indian-144-panchatantra-sindhuka-bird-golden-droppings.md) | 黄金の糞をする鳥シンドゥカ | ありえないと思える話でも、まず確かめてから判断せよ |
 <!-- 寓話追加時にここへ行を追加 -->
