@@ -779,3 +779,8 @@
 | reference_game-writing-non-narrative-games.md | 2026-07-20 |
 | reference_narrative-focused-level-design-ja.md | 2026-07-20 |
 | reference_playerless-playtesting-ai-ux.md | 2026-07-20 |
+| reference_craft-game-systems-guidelines.md | 2026-07-21 |
+| reference_in-game-proportions-scale.md | 2026-07-21 |
+| reference_what-is-metagame.md | 2026-07-21 |
+| reference_playing-by-rules-metagame.md | 2026-07-21 |
+| reference_level-design-chiku-immersion.md | 2026-07-21 |
