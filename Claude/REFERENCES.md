@@ -597,3 +597,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_code_multiagent_chrome_extension_classmethod.md | 2026-07-20 |
 | reference_claude_code_plugin_marketplace_ryou_qiita.md | 2026-07-20 |
 | reference_claude_sonnet_5_launch_uravation_july2026.md | 2026-07-20 |
+| reference_claude_md_agents_md_best_practices_izanami.md | 2026-07-21 |
+| reference_claude_md_writing_guide_ai_orchestra.md | 2026-07-21 |
+| reference_claude_code_sub_agents_complete_guide_uravation.md | 2026-07-21 |
+| reference_claude_code_data_analysis_workflow_startlink.md | 2026-07-21 |
+| reference_claude_skills_complete_guide_genai_july2026.md | 2026-07-21 |
