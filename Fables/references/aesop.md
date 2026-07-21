@@ -175,4 +175,9 @@
 | aesop-381 | キリギリスとフクロウ | Perry Index #508, パイドロス版（Phaedrus III.16）, perseus.tufts.edu, gutenberg.org/files/25512 | 2026-07-09 |
 | aesop-382 | クジャクとユノー | Perry Index #510, パイドロス版（Phaedrus III.18）, perseus.tufts.edu, gutenberg.org/files/25512 | 2026-07-09 |
 | aesop-383 | ロバの影 | Perry Index #460, バブリウス『寓話集』第2部第95話（Babrius II, Fable XCV）, elfinspell.com/ClassicalTexts/Babrius/Part2-Fables80-95.html, classicaesopica.com/donkeys-shadow | 2026-07-09 |
+| aesop-384 | キツネと猿の王 | Perry Index #81, バブリウス第I部第81話, en.wikipedia.org/wiki/The_Ape_and_the_Fox | 2026-07-21 |
+| aesop-385 | ロバと主人たち | Perry Index #179, Chambry版イソップ寓話集, en.wikipedia.org/wiki/The_Ass_and_his_Masters | 2026-07-21 |
+| aesop-386 | セミとキツネ | Perry Index #241, Chambry版イソップ寓話集, fablesofaesop.com/cicada-and-fox.html | 2026-07-21 |
+| aesop-387 | オンドリと犬とキツネ | Perry Index #252, Chambry版イソップ寓話集, en.wikipedia.org/wiki/The_Cock,_the_Dog_and_the_Fox | 2026-07-21 |
+| aesop-388 | ネズミとカエル | Perry Index #384, バブリウス第II部第49話, en.wikipedia.org/wiki/The_Frog_and_the_Mouse | 2026-07-21 |
 <!-- 出典追加時にここへ行を追加 -->
