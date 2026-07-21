@@ -1,4 +1,4 @@
-# 著名人の言葉（101件）
+# 著名人の言葉（111件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -105,3 +105,13 @@
 | [notable-figures-099](../maxims/notable-figures/notable-figures-099-invincible-summer.md) | 真冬のただ中で、私はついに、自分の内に無敵の夏があることを知ったのだ | アルベール・カミュ | 「ティパサへの帰還」（『夏』1954年所収） |
 | [notable-figures-100](../maxims/notable-figures/notable-figures-100-as-if-i-did-not-exist.md) | 教師にとって最大の成功のしるしは、子どもたちがまるで私が存在しないかのように活動していると言えることだ | マリア・モンテッソーリ | 『吸収する精神』第27章（1949年） |
 | [notable-figures-101](../maxims/notable-figures/notable-figures-101-victory-awaits-those-prepared.md) | 勝利は、すべてを整えた者に訪れる——人はそれを幸運と呼ぶ | ロアール・アムンセン | 『Sydpolen（南極点）』（1912年） |
+| [notable-figures-102](../maxims/notable-figures/notable-figures-102-short-distance-ahead.md) | 我々が見通せるのはほんの少し先までだが、そこには為すべきことが山ほどあるのが見える | アラン・チューリング | 論文「Computing Machinery and Intelligence」（Mind, 1950年） |
+| [notable-figures-103](../maxims/notable-figures/notable-figures-103-always-done-it-that-way.md) | 使いうる最も危険な言葉は「これまでずっとこのやり方でやってきた」だ | グレース・ホッパー | Computerworld（1976年） |
+| [notable-figures-104](../maxims/notable-figures/notable-figures-104-nature-of-light.md) | この新しい分光学が、光の本性、そして物質と光との相互作用について、より深い理解へと我々を導いてくれることを期待してよいだろう | チャンドラセカラ・ラマン | ノーベル物理学賞受賞講演（1930年） |
+| [notable-figures-105](../maxims/notable-figures/notable-figures-105-world-at-fifty.md) | 50歳になっても20歳の頃と同じように世界を見ている者は、人生の30年を無駄にしたのだ | モハメド・アリ | 雑誌『Playboy』インタビュー（1975年） |
+| [notable-figures-106](../maxims/notable-figures/notable-figures-106-artists-duty-reflect-times.md) | 私に言わせれば、芸術家の務めとは時代を映し出すことです | ニーナ・シモン | TVドキュメンタリー『Nina: A Historical Perspective』（1970年） |
+| [notable-figures-107](../maxims/notable-figures/notable-figures-107-preserve-earths-beauty.md) | 宇宙船で地球を一周し、私は我々の惑星がいかに美しいかを見た。人々よ、この美しさを守り、いっそう豊かにしよう | ユーリイ・ガガーリン | 「地球の人々への訴え」（1961年） |
+| [notable-figures-108](../maxims/notable-figures/notable-figures-108-limits-of-my-language.md) | 私の言語の限界が、私の世界の限界を意味する | ルートヴィヒ・ウィトゲンシュタイン | 『論理哲学論考』命題5.6（1921年） |
+| [notable-figures-109](../maxims/notable-figures/notable-figures-109-evil-never-decide.md) | 悪の大半は、善であろうとも悪であろうとも決して心を決めない人々によってなされる | ハンナ・アーレント | 『精神の生活』第1巻「思考」序論（1978年） |
+| [notable-figures-110](../maxims/notable-figures/notable-figures-110-love-what-we-are.md) | 私たちは、自分たちでないもの——そして自分たちでない人々——を憎むことなく、自分たちであるものを愛することができる | コフィ・アナン | ノーベル平和賞受賞講演（2001年） |
+| [notable-figures-111](../maxims/notable-figures/notable-figures-111-clenched-fist.md) | 握りしめた拳とは握手できない | インディラ・ガンディー | 記者会見での発言（1971年） |
