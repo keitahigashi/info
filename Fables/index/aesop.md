@@ -1,4 +1,4 @@
-# イソップ寓話（381話）
+# イソップ寓話（386話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -385,4 +385,9 @@
 | [aesop-381](../fables/aesop/aesop-381-the-grasshopper-and-the-owl.md) | キリギリスとフクロウ | 他者への礼節を無視し妨害し続ける者はやがて代償を払う。知恵は直接の力よりも強力なこともある |
 | [aesop-382](../fables/aesop/aesop-382-the-peacocks-complaint-to-juno.md) | クジャクとユノー | 自分に授けられた才能を大切にし他者の才能を羨むな。すべての存在には固有の賜物がある |
 | [aesop-383](../fables/aesop/aesop-383-the-shadow-of-the-ass.md) | ロバの影 | 些細なことへの言い争いに夢中になっているうちに、本当に守るべき大切なものを見失う |
+| [aesop-384](../fables/aesop/aesop-384-the-ape-and-the-fox.md) | キツネと猿の王 | 他者を統治しようとする者は、まず自分自身を律することができなければならない |
+| [aesop-385](../fables/aesop/aesop-385-the-ass-and-his-masters.md) | ロバと主人たち | 不満ばかりで現状を嘆く者が変化を求めても、状況はさらに悪化するだけである |
+| [aesop-386](../fables/aesop/aesop-386-the-cicada-and-the-fox.md) | セミとキツネ | 賢い者は他者の不幸から教訓を学び、同じ罠にかかることなく危険を回避する |
+| [aesop-387](../fables/aesop/aesop-387-the-cock-the-dog-and-the-fox.md) | オンドリと犬とキツネ | 人を騙そうと企む者は、より機知に富んだ者によって返り討ちに遭う |
+| [aesop-388](../fables/aesop/aesop-388-the-mouse-and-the-frog.md) | ネズミとカエル | 他者を陥れようとする者は、自らの悪巧みによって最終的に破滅する |
 <!-- 寓話追加時にここへ行を追加 -->
