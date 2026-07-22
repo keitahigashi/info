@@ -94,3 +94,13 @@
 | latin-088 | Radix omnium malorum est cupiditas. | 作者不詳（パウロ書簡／ウルガタ訳） | ウルガタ訳『テモテへの手紙一』6:10。原文はenim付き、cupiditasは金銭欲（φιλαργυρία） / blueletterbible.org, biblehub.com（Vulgate） | 2026-07-13 |
 | latin-089 | Entia non sunt multiplicanda praeter necessitatem. | ジョン・パンチ（オッカムの原理を定式化） | J.パンチのスコトゥス註解（1639）。オッカム自身の著作には無い定型句（誤帰属注意） / en.wikipedia.org（Occam's razor）, en.wiktionary.org | 2026-07-13 |
 | latin-090 | Fere libenter homines id quod volunt credunt. | ユリウス・カエサル | カエサル『ガリア戦記』3.18。原文は従属節中でfereを伴う / thelatinlibrary.com, en.wikiquote.org（Julius Caesar） | 2026-07-13 |
+| latin-091 | Quot homines, tot sententiae. | テレンティウス | テレンティウス『ポルミオ』454（前161年）。原文「suo' quoique mos」と対句。キケロ『善と悪の究極について』1.15が引用。キケロ帰属は誤り / en.wiktionary.org, en.wikiquote.org（Terence） | 2026-07-22 |
+| latin-092 | Nomen est omen. | プラウトゥス | プラウトゥス『ペルサ』625「nomen atque omen quantivis iam est preti」。定型est omenは後世の凝縮形 / en.wiktionary.org, de.wikipedia.org（Nomen est omen） | 2026-07-22 |
+| latin-093 | Potius sero quam numquam. | リウィウス | リウィウス『ローマ建国史』4.2.11。原文は前接語付き「potiusque sero quam numquam」。英語 better late than never の原型 / en.wiktionary.org（potius sero quam numquam）, en.wiktionary.org（better late than never） | 2026-07-22 |
+| latin-094 | Amittit merito proprium qui alienum appetit. | フェドルス | フェドルス『寓話集』1.4「川を渡る肉をくわえた犬」冒頭の教訓句。原型はイソップ / latinarium.com（Phaedrus 1.4）, en.wikipedia.org（The Dog and the Bone） | 2026-07-22 |
+| latin-095 | Iudex damnatur ubi nocens absolvitur. | プブリリウス・シュルス | プブリリウス・シュルス『箴言集』（Iの項）。一行番号は校訂版により異なる / en.wikiquote.org（Publilius Syrus）, loebclassics.com | 2026-07-22 |
+| latin-096 | Difficile est saturam non scribere. | ユウェナリス | ユウェナリス『風刺詩集』1.30。原典綴りは saturam（流布形 satiram は後世） / thelatinlibrary.com（Juvenal 1）, en.wikiquote.org（Juvenal） | 2026-07-22 |
+| latin-097 | Auri sacra fames. | ウェルギリウス | ウェルギリウス『アエネーイス』3.56–57「quid non mortalia pectora cogis, auri sacra fames!」 / thelatinlibrary.com（Aeneid 3）, en.wiktionary.org（auri sacra fames） | 2026-07-22 |
+| latin-098 | Faber est suae quisque fortunae. | アッピウス・クラウディウス・カエクス（擬サッルスティウス伝承） | 擬サッルスティウス『カエサルへの国政書簡』1.1.2 がアッピウスの詩句として伝える（原文は間接話法 fabrum esse suae quemque fortunae）。真作でなく伝承のため確証は不完全 / en.wikiquote.org, en.wikipedia.org（Appius Claudius Caecus） | 2026-07-22 |
+| latin-099 | Audi alteram partem. | 作者不詳（法格言） | 中世〜近世の自然的正義の法格言。定型はセネカ原文ではない。思想的裏付けはセネカ『メデア』199–200「parte inaudita altera」。単一著者帰属は誤り / thelatinlibrary.com（Seneca, Medea）, en.wikipedia.org（Audi alteram partem） | 2026-07-22 |
+| latin-100 | Nulla poena sine lege. | フォイエルバッハ（定式化・普及者） | フォイエルバッハ『ドイツ普通刑法教科書』(1801)、1813年バイエルン刑法典で普及。近年1777年以前の先行例が指摘され単独発案説は見直し / en.wikipedia.org（Nulla poena sine lege）, britannica.com（Paul von Feuerbach） | 2026-07-22 |

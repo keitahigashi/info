@@ -1,4 +1,4 @@
-# ラテン語の格言（90件）
+# ラテン語の格言（100件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -94,3 +94,13 @@
 | [latin-088](../maxims/latin/latin-088-radix-omnium-malorum-cupiditas.md) | 貪欲はすべての悪の根である（Radix omnium malorum est cupiditas） | 作者不詳（パウロ書簡／ウルガタ訳） | ウルガタ訳『テモテへの手紙一』6:10 |
 | [latin-089](../maxims/latin/latin-089-entia-non-sunt-multiplicanda.md) | 存在は必要以上に増やしてはならない（Entia non sunt multiplicanda praeter necessitatem） | ジョン・パンチ（オッカムの剃刀） | スコトゥス註解（1639） |
 | [latin-090](../maxims/latin/latin-090-fere-libenter-homines-credunt.md) | 人は望むことを喜んで信じてしまう（Fere libenter homines id quod volunt credunt） | ユリウス・カエサル | 『ガリア戦記』3.18 |
+| [latin-091](../maxims/latin/latin-091-quot-homines-tot-sententiae.md) | 人の数だけ意見がある（Quot homines, tot sententiae） | テレンティウス | 『ポルミオ』454 |
+| [latin-092](../maxims/latin/latin-092-nomen-est-omen.md) | 名は前兆（Nomen est omen） | プラウトゥス | 『ペルサ』625 |
+| [latin-093](../maxims/latin/latin-093-potius-sero-quam-numquam.md) | 決してやらないより遅れてもやる方がよい（Potius sero quam numquam） | リウィウス | 『ローマ建国史』4.2.11 |
+| [latin-094](../maxims/latin/latin-094-amittit-proprium-qui-alienum-appetit.md) | 他人のものを欲しがる者は自分のものを失う（Amittit merito proprium qui alienum appetit） | フェドルス | 『寓話集』1.4 |
+| [latin-095](../maxims/latin/latin-095-iudex-damnatur-ubi-nocens-absolvitur.md) | 罪ある者が放免されるとき裁判官が断罪される（Iudex damnatur ubi nocens absolvitur） | プブリリウス・シュルス | 『箴言集』 |
+| [latin-096](../maxims/latin/latin-096-difficile-est-saturam-non-scribere.md) | 風刺詩を書かずにいるのは難しい（Difficile est saturam non scribere） | ユウェナリス | 『風刺詩集』1.30 |
+| [latin-097](../maxims/latin/latin-097-auri-sacra-fames.md) | 呪わしい黄金への渇望よ（Auri sacra fames） | ウェルギリウス | 『アエネーイス』3.56–57 |
+| [latin-098](../maxims/latin/latin-098-faber-est-suae-quisque-fortunae.md) | 人は誰もが自分自身の運命の造り手である（Faber est suae quisque fortunae） | アッピウス・クラウディウス（擬サッルスティウス伝承） | 『カエサルへの国政書簡』1.1.2 |
+| [latin-099](../maxims/latin/latin-099-audi-alteram-partem.md) | 他方の側の言い分にも耳を傾けよ（Audi alteram partem） | 作者不詳（法格言／セネカに類想） | セネカ『メデア』199–200 |
+| [latin-100](../maxims/latin/latin-100-nulla-poena-sine-lege.md) | 法律なければ刑罰なし（Nulla poena sine lege） | フォイエルバッハ（定式化） | 『ドイツ普通刑法教科書』(1801) |
