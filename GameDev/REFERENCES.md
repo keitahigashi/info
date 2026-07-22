@@ -784,3 +784,8 @@
 | reference_what-is-metagame.md | 2026-07-21 |
 | reference_playing-by-rules-metagame.md | 2026-07-21 |
 | reference_level-design-chiku-immersion.md | 2026-07-21 |
+| reference_game-balance-vocabulary-2025.md | 2026-07-22 |
+| reference_game-economy-spreadsheet-balancing-indie.md | 2026-07-22 |
+| reference_access-profiles-game-accessibility-infrastructure-2026.md | 2026-07-22 |
+| reference_core-loop-arc-classification-ja.md | 2026-07-22 |
+| reference_game-uiux-platform-complete-experience-guide.md | 2026-07-22 |
