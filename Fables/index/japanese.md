@@ -129,4 +129,9 @@
 | [japanese-123](../fables/japanese/japanese-123-sumiyaki-choja.md) | 炭焼き長者 | 誠実に勤しむ者には天から福が授けられる。また人の運命は自分の才覚だけでなく、縁を結ぶ相手によっても大きく左右される。 |
 | [japanese-124](../fables/japanese/japanese-124-saru-muko-iri.md) | 猿婿入り | 言葉には神仏や異界の存在をも動かす重みがある。軽はずみな誓約は身を滅ぼしかねず、誠実さと機知が難局を切り開く。 |
 | [japanese-125](../fables/japanese/japanese-125-yuriwaka-daijin.md) | 百合若大臣 | どれほど深い逆境に置かれても、忍耐と誠実さを保ち続ければ正義は最終的に実現する。動物との深い信頼が命の糸をつなぐ。 |
+| [japanese-126](../fables/japanese/japanese-126-matsuyama-kagami.md) | 松山鏡 | 親への孝心という真心は、鏡に映る顔を父と信じ手を合わせる素朴な行為にも宿る。物の本質を知らなくても、真情があれば人は幸せになれる。 |
+| [japanese-127](../fables/japanese/japanese-127-kuzunoha.md) | 葛の葉 | 深い愛情があっても越えられぬ宿命があり、母はすべてを捨てて子の幸福を願う。別離の悲しみの深さこそが愛情の本物の証である。 |
+| [japanese-128](../fables/japanese/japanese-128-hashihime-uji.md) | 橋姫 | 嫉妬心を極限まで募らせると人は自ら鬼と化す。他者への恨みを心に抱き続けることの恐ろしさと、怒りが最終的に自分自身を滅ぼすという強烈な戒め。 |
+| [japanese-129](../fables/japanese/japanese-129-tamamo-no-mae.md) | 玉藻前 | 美しさや知識は人を欺く道具になりうるが、真の洞察はそれを超える。本体が滅んでも怨念が続く構造は、悪事の因果が長く尾を引くことへの警告。 |
+| [japanese-130](../fables/japanese/japanese-130-joruri-hime.md) | 浄瑠璃姫 | 叶わなかった純粋な愛の力が芸能の魂として永遠に生き続ける。一途な想いの尊さを讃えながら、愛執に命を焦がすことの哀しさをも伝える。 |
 <!-- 寓話追加時にここへ行を追加 -->
