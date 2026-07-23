@@ -784,3 +784,8 @@
 | reference_what-is-metagame.md | 2026-07-21 |
 | reference_playing-by-rules-metagame.md | 2026-07-21 |
 | reference_level-design-chiku-immersion.md | 2026-07-21 |
+| reference_7-games-great-learning-curves.md | 2026-07-23 |
+| reference_game-design-101-depth-width.md | 2026-07-23 |
+| reference_difficulty-curves-start-at-peak.md | 2026-07-23 |
+| reference_firewatch-ui-immersion-design.md | 2026-07-23 |
+| reference_game-ui-discoveries-players-want.md | 2026-07-23 |
