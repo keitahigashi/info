@@ -607,3 +607,8 @@ Web検索による自動収集で取得した記事。詳細は `references/refe
 | reference_claude_security_enterprise_genai_july2026.md | 2026-07-22 |
 | reference_claude_code_vs_cursor_japanai_july2026.md | 2026-07-22 |
 | reference_copilot_cursor_claude_code_comparison_jisaku_2026.md | 2026-07-22 |
+| reference_claude_code_pricing_netbot_july2026.md | 2026-07-23 |
+| reference_claude_code_pricing_qes_july2026.md | 2026-07-23 |
+| reference_claude_pricing_airevolution_july2026.md | 2026-07-23 |
+| reference_claude_code_mcp_souzoh_2026.md | 2026-07-23 |
+| reference_claude_code_updates_aigallery_2026.md | 2026-07-23 |
