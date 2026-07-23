@@ -1,4 +1,4 @@
-# 日本昔話（125話）
+# 日本昔話（130話）
 
 [< 寓話一覧に戻る](../INDEX.md)
 
@@ -129,4 +129,9 @@
 | [japanese-123](../fables/japanese/japanese-123-sumiyaki-choja.md) | 炭焼き長者 | 誠実に勤しむ者には天から福が授けられる。また人の運命は自分の才覚だけでなく、縁を結ぶ相手によっても大きく左右される。 |
 | [japanese-124](../fables/japanese/japanese-124-saru-muko-iri.md) | 猿婿入り | 言葉には神仏や異界の存在をも動かす重みがある。軽はずみな誓約は身を滅ぼしかねず、誠実さと機知が難局を切り開く。 |
 | [japanese-125](../fables/japanese/japanese-125-yuriwaka-daijin.md) | 百合若大臣 | どれほど深い逆境に置かれても、忍耐と誠実さを保ち続ければ正義は最終的に実現する。動物との深い信頼が命の糸をつなぐ。 |
+| [japanese-126](../fables/japanese/japanese-126-tanuki-no-itoguruma.md) | たぬきの糸車 | 情けをかけた相手は必ず恩返しをする。慈悲の心は必ず報われる。 |
+| [japanese-127](../fables/japanese/japanese-127-amagaeru-no-oyafuko.md) | 雨蛙の親不孝 | 親の言葉に耳を傾けず孝行を怠ると、後悔しても取り返しがつかない。 |
+| [japanese-128](../fables/japanese/japanese-128-tanemaki-gonbe.md) | 種まき権兵衛 | 笑われても諦めずに愚直に続ける者こそが最後に実を結ぶ。 |
+| [japanese-129](../fables/japanese/japanese-129-kawauso-no-ongaeshi.md) | かわうその恩返し | 目の前の恵みに感謝し分を知ること。欲を出すと福が去る。 |
+| [japanese-130](../fables/japanese/japanese-130-fukuro-no-somemonoya.md) | 梟の染物屋 | 指示に従わず我慢できない者は、望まない結果を自ら招く。 |
 <!-- 寓話追加時にここへ行を追加 -->
