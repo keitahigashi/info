@@ -1,4 +1,4 @@
-# 文学の名言（91件）
+# 文学の名言（101件）
 
 [< 格言一覧に戻る](../INDEX.md)
 
@@ -95,3 +95,13 @@
 | [literature-089](../maxims/literature/literature-089-lorca-green-how-i-love-you-green.md) | 緑よ、おまえが好きだ、緑よ。緑の風。緑の枝々。 | フェデリコ・ガルシア・ロルカ | 『ジプシー歌集』「夢遊病者のロマンセ」 |
 | [literature-090](../maxims/literature/literature-090-saigyo-die-in-spring-under-blossoms.md) | 願うことなら、桜の花の下で春に死にたいものだ。それも、あの如月の満月の頃に。 | 西行 | 『山家集』 |
 | [literature-091](../maxims/literature/literature-091-woolf-room-of-ones-own.md) | 女性が小説を書こうとするなら、お金と自分ひとりの部屋を持たなければならない。 | ヴァージニア・ウルフ | 『自分ひとりの部屋』第1章 |
+| [literature-092](../maxims/literature/literature-092-aeschylus-wisdom-through-suffering.md) | 人は苦しみを通してこそ学ぶ——ゼウスはそれを揺るがぬ掟として定めた。 | アイスキュロス | 『アガメムノン』176–178行 |
+| [literature-093](../maxims/literature/literature-093-catullus-odi-et-amo.md) | 私は憎み、そして愛する。なぜかと問われても分からない。ただそうなるのを感じ、責め苛まれるばかりだ。 | ガイウス・ウァレリウス・カトゥルス | 『カルミナ（歌集）』第85歌 |
+| [literature-094](../maxims/literature/literature-094-petrarca-scattered-rhymes.md) | 散り散りの詩の調べに乗せたあのため息を聞くあなたがたよ。 | フランチェスコ・ペトラルカ | 『カンツォニエーレ』第1ソネット |
+| [literature-095](../maxims/literature/literature-095-holderlin-patmos-where-danger-grows.md) | 神は近くにありながら、捉えがたい。だが危機のあるところ、救うものもまた育つ。 | フリードリヒ・ヘルダーリン | 賛歌「パトモス」冒頭 |
+| [literature-096](../maxims/literature/literature-096-tyutchev-cannot-understand-russia-with-mind.md) | 知でロシアを理解することはできない、ありきたりの物差しでは測れない。ただ信じることができるだけだ。 | フョードル・チュッチェフ | 無題四行詩（1866年作） |
+| [literature-097](../maxims/literature/literature-097-pessoa-poet-is-a-faker.md) | 詩人とは偽る者。あまりに完璧に偽るので、本当に感じている痛みまでも、痛みのふりだと偽ってしまう。 | フェルナンド・ペソア | 詩「自己心理記述」第1連 |
+| [literature-098](../maxims/literature/literature-098-gibran-your-children-are-not-your-children.md) | あなたの子は、あなたの子ではない。彼らは、生命がみずからを希求することから生まれた息子であり娘である。 | ハリール・ジブラーン | 『預言者』所収「子について」冒頭 |
+| [literature-099](../maxims/literature/literature-099-li-qingzhao-searching-searching.md) | 尋ねまわり、探しまわっても、あたりは冷え冷えとして寂しく、心はただ悲しく、いたましく、うら寂しい。 | 李清照 | 「声声慢・尋尋覓覓」冒頭 |
+| [literature-100](../maxims/literature/literature-100-kenko-tsurezuregusa-opening.md) | することもない退屈にまかせて一日中硯に向かい、とりとめもないことを書きつけていると、我ながら物狂おしい気分になる。 | 兼好法師（卜部兼好） | 『徒然草』序段 |
+| [literature-101](../maxims/literature/literature-101-masaoka-shiki-persimmon-horyuji-bell.md) | 柿を食べていると、折しも鐘が鳴った——法隆寺の鐘が。 | 正岡子規 | 『海南新聞』1895年11月8日号 |
