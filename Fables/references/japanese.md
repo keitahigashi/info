@@ -131,4 +131,9 @@
 | japanese-123 | 炭焼き長者 | kotobank.jp/word/炭焼長者-85025、minwanoheya.jp/area/shimane_012/ | 2026-07-10 |
 | japanese-124 | 猿婿入り | minwanoheya.jp/area/saitama_007/、kotobank.jp/word/猿婿入り-70196 | 2026-07-10 |
 | japanese-125 | 百合若大臣 | ja.wikipedia.org/wiki/百合若大臣、minwanoheya.jp/area/kagoshima_016/ | 2026-07-10 |
+| japanese-126 | たぬきの糸車 | folktalesjpn.com/folktale/0086/, nihon.syoukoukai.com | 2026-07-23 |
+| japanese-127 | 雨蛙の親不孝 | minwanoheya.jp/area/gifu_006/, minwa.fujipan.co.jp/area/gifu_006/ | 2026-07-23 |
+| japanese-128 | 種まき権兵衛 | ja.wikipedia.org/wiki/種まき権兵衛, www.town.mie-kihoku.lg.jp | 2026-07-23 |
+| japanese-129 | かわうその恩返し | minwanoheya.jp/area/ehime_010/, minwa.fujipan.co.jp/area/ehime_010/ | 2026-07-23 |
+| japanese-130 | 梟の染物屋 | minwanoheya.jp/area/nagano_008/ | 2026-07-23 |
 <!-- 出典追加時にここへ行を追加 -->
