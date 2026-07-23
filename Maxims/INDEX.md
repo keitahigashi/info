@@ -11,6 +11,6 @@
 | 世界のことわざ | 99 | [一覧を見る](index/world-proverbs.md) |
 | 著名人の言葉 | 111 | [一覧を見る](index/notable-figures.md) |
 | ラテン語の格言 | 100 | [一覧を見る](index/latin.md) |
-| 文学の名言 | 91 | [一覧を見る](index/literature.md) |
+| 文学の名言 | 101 | [一覧を見る](index/literature.md) |
 | 創作の名言 | 54 | [一覧を見る](index/fiction.md) |
-| **合計** | **857** | |
+| **合計** | **867** | |

@@ -95,3 +95,13 @@
 | literature-089 | 緑よ、おまえが好きだ、緑よ。 | フェデリコ・ガルシア・ロルカ | es.wikisource.org, en.wikiquote.org | 2026-07-14 |
 | literature-090 | 願はくは花の下にて春死なむその如月の望月のころ | 西行 | ja.wikipedia.org, 和歌データベース | 2026-07-14 |
 | literature-091 | 女性が小説を書くには、お金と自分ひとりの部屋を持たねばならない。 | ヴァージニア・ウルフ | en.wikipedia.org, gutenberg.net.au | 2026-07-14 |
+| literature-092 | 人は苦しみを通してこそ学ぶ（πάθει μάθος）。 | アイスキュロス | perseus.tufts.edu（Agamemnon, card 176／Smyth英訳） | 2026-07-23 |
+| literature-093 | 私は憎み、そして愛する（Odi et amo）。 | ガイウス・ウァレリウス・カトゥルス | perseus.tufts.edu（Carmen 85）, la.wikisource.org | 2026-07-23 |
+| literature-094 | 散り散りの詩の調べに乗せたあのため息を聞くあなたがたよ。 | フランチェスコ・ペトラルカ | it.wikisource.org（Canzoniere RVF 1） | 2026-07-23 |
+| literature-095 | 危機のあるところ、救うものもまた育つ。 | フリードリヒ・ヘルダーリン | textlog.de（Patmos 全文）, aphorismen.de | 2026-07-23 |
+| literature-096 | 知でロシアを理解することはできない。 | フョードル・チュッチェフ | ru.wikipedia.org, ruthenia.ru | 2026-07-23 |
+| literature-097 | 詩人とは偽る者。 | フェルナンド・ペソア | pt.wikisource.org（Autopsicografia）, arquivopessoa.net | 2026-07-23 |
+| literature-098 | あなたの子は、あなたの子ではない。 | ハリール・ジブラーン | poets.org, americanliterature.com | 2026-07-23 |
+| literature-099 | 尋ねまわり、探しまわっても、あたりは冷え冷えとして寂しい。 | 李清照 | gushiwen.cn, baike.baidu.com | 2026-07-23 |
+| literature-100 | つれづれなるままに、日暮らし、硯にむかひて。 | 兼好法師（卜部兼好） | ja.wikisource.org（徒然草）, 国立国会図書館デジタルコレクション | 2026-07-23 |
+| literature-101 | 柿くへば鐘が鳴るなり法隆寺 | 正岡子規 | ja.wikipedia.org, sectpoclit.com | 2026-07-23 |
